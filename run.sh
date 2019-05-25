@@ -10,7 +10,7 @@ java  -Djava.library.path=/usr/local/lib -cp bin/math_addsub.jar org.nlp.example
 java -Djava.library.path=/usr/local/lib -cp bin/math_addsub.jar org.nlp.example.FixMathAddSubMain  -lang en > fqt_as
 
 
-# Math23K_AS
+# AS_CN
 
 #QT
 java -Djava.library.path=/usr/local/lib -cp bin/math_addsub.jar org.nlp.example.VariantMathAddSubMain  -lang zh > qt_ma
