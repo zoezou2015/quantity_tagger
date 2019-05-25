@@ -1,0 +1,2098 @@
+Instance1.#NR
+15#CD 个#M 小朋友#NN 捉迷藏#VV ，#PU 已经#AD 捉住#VV 了#AS 4#CD 人#NN ，#PU 还有#CC 多少#CD 人#NN 没#VE 捉住#VV ．#PU
+Instance2.#NR
+1993#NT +#PU 1994#NT +#PU 1995#NT +#PU 1996#NT +#PU 1997#NT +#PU 1998#NT +#PU 1999#NT +#PU 2000#NT =#PU ．#PU
+Instance3.#NR
+妈妈#NN 在#P 水果#NN 店里#NN 买#VV 了#AS 18#CD 个#M 苹果#NN ，#PU 小#JJ 刚#AD 吃#VV 了#AS 3#CD 个#M ，#PU 妈妈#NN 吃#VV 了#AS 7#CD 个#M ，#PU 还#AD 剩#VV 多少#CD 个#M 苹果#NN ．#PU
+Instance4.#NR
+被减数#NN 比#P 减数#NN 多#VA 25#CD ，#PU 比#P 差#VV 多#AD 52#CD ，#PU 被减数#NN =#PU ．#PU
+Instance5.#NR
+1092#CD -#PU 389#CD 多少#CD ．#PU
+Instance6.#NR
+明明#AD 和#P 圆圆#VA 比赛#NN 跳绳#NN ，#PU 明明#AD 跳#VV 了#AS 45#CD 下#M ，#PU 圆圆#VA 比#P 明明#AD 少#AD 跳#VV 23#CD 下#M ，#PU 圆圆#VA 跳#VV 了#AS 多少#CD 下#M ？#PU
+Instance7.#NR
+果园#NN 里#LC 共有#VV 1542#CD 棵#M 果树#NN ，#PU 其中#NN 梨树#NN 有#VE 147#CD 棵#M ，#PU 桃树#NN 有#VE 684#CD 棵#M ，#PU 其余#DT 的#DEG 全部#AD 是#VC 苹果树#NN ．#PU 苹果树#NN 有#VE 多少#CD 棵#M ？#PU
+Instance8.#NR
+果园#NN 里#LC 有#VE 1268#CD 棵#M 果树#NN ，#PU 其中#NN 梨树#NN 475#CD 棵#M ，#PU 枣树#NN 325#CD 棵#M ，#PU 剩下#VV 的#DEC 是#VC 苹果树#NN ，#PU 苹果树#NN 有#VE 多少#CD 棵#M ？#PU
+Instance9.#NR
+两个#CD 数#NN 的#DEG 差#NN 是#VC 539#CD ，#PU 减数#NN 是#VC 761#CD ，#PU 被减数#NN =#PU ．#PU
+Instance10.#NR
+3#CD （#PU 4#CD ）#PU 班#NN 有#VE 学生#NN 55#CD 人#NN ，#PU 人人#NN 订阅#VV 报纸#NN ，#PU 订#VV 《#PU 少年报#NN 》#PU 的#DEC 有#VE 40#CD 人#NN ，#PU 订#VV 《#PU 小#JJ 主人#NN 报#NN 》#PU 的#DEC 有#VE 25#CD 人#NN ，#PU 那么#AD 多少#CD 人#NN 订阅#VV 两种#NN 报纸#NN ．#PU
+Instance11.#NR
+小熊猫#NN 体重#NN 125#CD 千克#M ，#PU 小老虎#NR 体重#NN 比#P 小熊猫#NN 多#VA 55#CD 千克#M ，#PU 小老虎#NR 体重#NN 多少#CD 千克#NN ．#PU
+Instance12.#NR
+计算#VV ：#PU 9998#NT +#PU 998#CD +#PU 99#CD +#PU 9#CD +#PU 6#CD =#PU ．#PU
+Instance13.#NR
+在#P 一次#AD 跳高#NN 比赛#NN 中#LC ，#PU 欢欢#NN 跳#VV 过#AS 了#AS 1.1#CD 米#M ，#PU 红红#JJ 比#P 欢欢#NN 跳#VV 的#DEC 低#JJ 0.1#CD 米#M ，#PU 强强#AD 比#P 欢欢#NN 跳#VV 的#DEC 高#JJ 0.2#CD 米#M ，#PU 强强#AD 跳#VV 过#AS 了#AS 多少#CD 米#M ？#PU
+Instance14.#NR
+甲班#NN 和#CC 乙班#NN 共#AD 96#CD 人#NN ，#PU 乙班#NN 和#CC 丙#NN 班#NN 89#CD 人#NN ，#PU 丙#NN 班#NN 和#CC 丁#NN 班#NN 共#AD 86#CD 人#NN ，#PU 问#VV 甲班#NN 和#CC 丁#NN 班#NN 共#AD 多少#CD 人#NN ．#PU
+Instance15.#NR
+被减数#NR 是#VC 789#CD ，#PU 减数#NN 是#VC 658#CD ，#PU 差#NN =#PU ．#PU
+Instance16.#NR
+东方#NN 水果店#NN 有#VE 水果#NN 670#CD 千克#M ．#PU 今天上午#AD 卖出#VV 120#CD 千克#M ，#PU 下午#NT 又#AD 卖出#VV 230#CD 千克#M ，#PU 这时#AD 商店#NN 还有#CC 水果#NN 多少#CD 千克#M ？#PU
+Instance17.#NR
+两只#NR 兔子#NN 比赛#NN 吃#VV 萝卜#NN ，#PU 一只#AD 吃#VV 了#AS 7#CD 个#M ，#PU 另一只#AD 吃#VV 了#AS 5#CD 个#M ．#PU 两只#NN 小兔#NN 一共#AD 吃#VV 了#AS 多少#CD 个#M 萝卜#NN ？#PU
+Instance18.#NR
+香皂#NN 厂#NN 要#VV 生产#VV 一批#NN 香皂#NN ，#PU 已经#AD 生产#VV 了#AS 653#CD 块#M ，#PU 再生产#NN 247#CD 块#M 就#AD 能#VV 完成#VV 任务#NN ，#PU 这#DT 批#M 香皂#NN 有#VE 多少#CD 块#M ．#PU
+Instance19.#NR
+在#P 一个#CD 除法#NN 算式#NN 里#LC ，#PU 商#NN 和#CC 除数#NN 相乘#VV 的#DEC 积#VV 是#VC 2400#CD ，#PU 余数#NN 是#VC 15#CD ，#PU 被除数#NN =#PU ．#PU
+Instance20.#NR
+一#CD 次#M 数学#NN 测验#NN ．#PU 全班#NN 36#CD 人#NN 中#LC ，#PU 做#VV 对#P 第一道#NN 聪明#NN 题#NN 的#DEC 有#VE 21#CD 人#NN ，#PU 做#VV 对#P 第#NN 二#CD 道#M 聪明#NN 题#NN 的#DEC 有#VE 18#CD 人#NN ，#PU 每人#PN 至少#AD 做#VV 对#P 一道#AD 题#NN ．#PU 问#VV 两道#NN 都#AD 做#VV 对#VA 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance21.#NR
+一#CD 个数#NN 除以#VV 56#CD ，#PU 余数#NN 是#VC 52#CD ，#PU 这个#DT 被除数#NN 最少#AD 再#AD 加上#VV 多少#CD 就#AD 没有#VE 余数#NN ．#PU
+Instance22.#NR
+比#P 0.7#CD 大#JJ 3.2#CD 的#DEG 数#NN =#PU ．#PU
+Instance23.#NR
+昆明#NR 植物园#NN 上午#NT 来#VV 了#AS 游客#NN 483#CD 人#NN ，#PU 中午#NT 走#VV 了#AS 107#CD 人#NN ，#PU 下午#NT 又#AD 来#VV 了#AS 310#CD 人#NN ，#PU 这时#AD 植物园#NN 里#LC 有#VE 多少#CD 人#NN ？#PU
+Instance24.#NR
+被减数#NN 是#VC 993#CD ，#PU 减数#NN 是#VC 126#CD ，#PU 差#NN =#PU ．#PU
+Instance25.#NR
+南#NN 莫#AD 缫丝厂#NN 前年#NT 用#P 煤#NN 23.02#CD 吨#M ，#PU 去年#NT 比#P 前年#NT 节约#VV 用#VV 煤#NN 0.78#CD 吨#M ，#PU 今年#NT 估计#VV 要#VV 比#P 前年#NT 节约#VV 用#VV 煤#NN 1.2#CD 吨#M ，#PU 今年#NT 估计#VV 用#P 煤#NN 多少#CD 吨#M ？#PU
+Instance26.#NR
+手帕#NN 厂#NN 原#AD 计划#VV 8#CD 月#NN 生产#VV 手帕#NN 780#CD 打#VV ，#PU 采用#VV 新#VA 的#DEC 生产#NN 流水线#NN 后#LC ，#PU 生产#VV 的#DEC 手帕#NN 运走#VV 了#AS 460#CD 打#VV ，#PU 还#AD 剩#VV 485#CD 打#VV ，#PU 比#P 原#JJ 计划#NN 增产#VV 多少#CD 打#VV ？#PU
+Instance27.#NR
+从#P 265#CD 里面#NN 减去#VV 一个#CD 数#VV 得#DER 80#CD ，#PU 减去#VV 的#DEC 数#NN =#PU ？#PU
+Instance28.#NR
+学校#NN 合唱队#NN 有#VE 男生#NN 18#CD 人#NN ，#PU 比#P 女生#NN 多#VA 6#CD 人#NN ，#PU 女生#NN 有#VE 多少#CD 人#NN ？#PU
+Instance29.#NR
+商店#NN 有#VE 苹果#NN 280#CD 千克#M ，#PU 上午#NT 卖出#VV 132#CD 千克#M ，#PU 下午#NT 购进#VV 145#CD 千克#M ．#PU 这时#AD 商店#NN 有#VE 苹果#NN 多少#CD 千克#M ？#PU
+Instance30.#NR
+乐乐#NN 买#VV 书#NN 用#P 去#VV 8.55#CD 元#M ，#PU 买#VV 钢笔#NN 用#P 去#VV 3.2#CD 元#M ，#PU 付给#VV 售货员#NN 15#CD 元#M ，#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance31.#NR
+花#VV 店里#NN 有#VE 335#CD 枝#M 玫瑰花#NN ，#PU 卖出#VV 了#AS 268#CD 枝#M ．#PU 今年#NT 又#AD 运来了#AD 289#CD 枝#M 玫瑰花#NN ．#PU 花#NN 店里#NN 现在#NT 有#VE 多少#CD 枝#M 玫瑰花#NN ？#PU
+Instance32.#NR
+妈妈#NN 上街#VV 买#VV 菜花#NN 了#AS 34.20#CD 元#M ，#PU 还#AD 剩下#VV 15.80#CD 元#M ．#PU 妈妈#NN 带#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance33.#NR
+小#JJ 红#NN 到#P 书店#NN 想#VV 买#VV 一本#AD 7.8#CD 元#M 的#DEC 童话#NN 书#NN ，#PU 可是#AD 差#VV 0.7#CD 元#M ，#PU 她#PN 只好#AD 买#VV 了#AS 5.1#CD 元#M 的#DEC 笔记本#NN 一本#AD ，#PU 剩下#VV 的#DEC 钱#NN 正好#AD 买#VV 了#AS 一枝#CD 钢笔#NN ，#PU 这#DT 枝#M 钢笔#NN 多少#CD 钱#NN ？#PU
+Instance34.#NR
+公共#JJ 车上#NN 有#VE 乘客#NN 45#CD 人#NN ，#PU 到#P 1#OD 号#NN 站#NN 下车#VV 12#CD 人#NN ，#PU 又#AD 上车#VV 19#CD 人#NN ，#PU 现在#NT 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance35.#NR
+三年级#JJ 男生#NN 有#VE 364#CD 人#NN ，#PU 女生#NN 有#VE 287#CD 人#NN ，#PU 已经#AD 量#VV 了#AS 身高#NN 的#DEG 有#VE 396#CD 人#NN ，#PU 还有#CC 多少#CD 人#NN 没有#VE 量#NN 身高#NN ？#PU
+Instance36.#NR
+猎豹#NN 最快#AD 时速#NN 是#VC 每#DT 小时#NN 113#CD 千米#M ，#PU 马#NN 最快#AD 时速#NN 是#VC 每#DT 小时#NN 75#CD 千米#M ，#PU 那么#AD ，#PU 猎豹#NN 最快#AD 时速#NN 比#P 马#NN 最快#AD 时速#NN 快#AD 多少#CD ？#PU
+Instance37.#NR
+在#P 一次#AD 跳高#NN 比赛#NN 中#LC ，#PU 苗苗#NR 跳#VV 过#AS 了#AS 1.2#CD 米#M ，#PU 笑笑#VV 比#P 苗苗#NR 跳#VV 的#DEC 高#JJ 0.05#CD 米#M ，#PU 明明#AD 比#P 笑笑#VV 跳#VV 的#DEC 低#JJ 0.15#CD 米#M ，#PU 明明#AD 跳#VV 过#AS 了#AS 多少#CD 米#M ？#PU
+Instance38.#NR
+爸爸#NN 买来#VV 181#CD 本#M 新书#NN 后#LC ，#PU 现在#NT 书架上#NN 有#VE 900#NN 本书#NN ，#PU 书架上#NN 原来#AD 有#VE 书#NN 多少#CD 本#M ？#PU
+Instance39.#NR
+三年级#NT 有#VE 男生#NN 267#CD 人#NN ，#PU 女生#NN 233#CD 人#NN ，#PU 已经#AD 参观#VV 过#AS 博物馆#NN 的#DEC 有#VE 398#CD 人#NN ，#PU 还#AD 没有#AD 参观#VV 过#AS 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance40.#NR
+3006#CD +#PU 300.6#CD +#PU 30.06#CD +#PU 3.006#NN =#PU ．#PU
+Instance41.#NR
+幸运#NN 号#NN 客轮#NN 从#P 起始#VV 港口#NN 出发#VV 时#LC 有#VE 游客#NN 305#CD 人#NN ，#PU 到#VV 中途#NN 一#CD 港口#NN 有#VE 89#CD 人#NN 下船#VV ，#PU 108#CD 人#NN 上船#VV ．#PU 此时#NT 客轮#NN 上#LC 有#VE 多少#CD 人#NN ？#PU
+Instance42.#NR
+一#CD 个#M 加数#NN 是#VC 354#CD ，#PU 另#AD 一个#CD 加数#NN 是#VC 629#CD ，#PU 和#CC =#PU ？#PU
+Instance43.#NR
+游乐场#NN 上午#NT 有#VE 游客#NN 542#CD 人#NN ，#PU 中午#NT 有#VE 215#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 458#CD 人#NN ，#PU 全天#AD 游乐场#NN 内#LC 来#VV 了#AS 多少#CD 人#NN ？#PU
+Instance44.#NR
+公园#NN 里#LC 新种#VV 359#CD 棵#M 树#NN ，#PU 其中#NN 杨树#NR 196#CD 棵#M ，#PU 剩下#VV 的#DEC 是#VC 柳树#NN ，#PU 柳树#NN 有#VE 多少#CD 棵#M ？#PU
+Instance45.#NR
+5#CD （#PU 1#CD ）#PU 班#NN 图书#NN 角#LC 原有#JJ 一些#CD 书#NN ，#PU 借出#VV 40#CD 本#M 后#LC ，#PU 还#AD 剩#VV 26#CD 本#M ．#PU 图书#NN 角#LC 原有#JJ 多少#CD 本书#NN ？#PU
+Instance46.#NR
+有#VE 一批#JJ 货物#NN 14.6#CD 吨#M ，#PU 运走#VV 一部分#CD ，#PU 还#AD 剩下#VV 7.8#CD 吨#M 没有#AD 运#VV ，#PU 已#AD 运#VV 了#AS 多少#CD 吨#M ？#PU
+Instance47.#NR
+两个#CD 数#NN 的#DEG 差#NN 是#VC 546#CD ，#PU 其中#NN 较#AD 小#VA 的#DEC 数#NN 是#VC 119#NN ，#PU 较大#JJ 的#DEG 数#NN =#PU ？#PU
+Instance48.#NR
+两个#CD 加数#NN 的#DEG 和#CC 是#VC 548#CD ，#PU 已知#VV 一个#CD 加数#NN 是#VC 286#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ？#PU
+Instance49.#NR
+慈溪市#NR 人民#NN 公园#NN 上午#NT 有#VE 游客#NN 410#CD 人#NN ，#PU 中午#NT 有#VE 152#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 174#CD 人#NN ，#PU 这时#AD 公园#NN 内#LC 有#VE 多少#CD 游客#NN ？#PU
+Instance50.#NR
+图书室#NN 借出#VV 456#CD 本#M 图书#NN ，#PU 还#AD 剩#VV 207#CD 本#M ，#PU 现在#NT 又#AD 还#AD 回#VV 285#CD 本#M ，#PU 图书室#NN 里#LC 现在#NT 有#VE 多少#CD 本#M ？#PU
+Instance51.#NR
+中山#NR 小学#NN 四年级#NN 有#VE 245#CD 人#NN 分别#AD 参加#VV 了#AS 3#CD 个#M 兴趣小组#NN ．#PU 其中#NN ，#PU 参加#VV 美术#NN 兴趣小组#NN 有#VE 175#CD 人#NN ，#PU 参加#VV 文艺#NN 兴趣小组#NN 有#VE 25#CD 人#NN ，#PU 参加#VV 体育#NN 兴趣小组#NN 有#VE 多少#CD 人#NN ．#PU
+Instance52.#NR
+上海市#NR 的#DEG 面积#NN 5800#CD 平方千米#M ，#PU 比#P 北京市#NR 小#JJ 12000#CD 平方千米#M ．#PU 北京市#NR 的#DEG 面积#NN =#PU 多少#CD 平方千米#M ？#PU
+Instance53.#NR
+妈妈#NN 今年#NT 35#CD 岁#M ，#PU 小#JJ 玲#NR 今年#NT 8#CD 岁#M ．#PU 小#JJ 玲#NR 20#CD 岁#M 时#LC ，#PU 妈妈#NN 比#P 小#JJ 玲#NN 大#JJ 多少岁#NN ．#PU
+Instance54.#NR
+哥哥#NN 给#VV 了#AS 弟弟#NN 2#CD 支#M 铅笔#NN 后#LC 还#AD 剩#VV 5#CD 支#M ，#PU 这时#NT 两#CD 人#NN 的#DEG 铅笔#NN 一样#VA 多#AD ，#PU 弟弟#NN 原来#AD 有#VE 铅笔#NN 多少#CD 支#M ．#PU
+Instance55.#NR
+一#CD 种#M 电视机#NN 原价#NN 是#VC 5800#CD 元#M ，#PU 第一次#AD 降价#VV 280#CD 元#M ，#PU 第#OD 二#OD 次#M 降价#VV 120#CD 元#M ，#PU 这种#AD 电视机#NN 现价#VV 多少#CD 元#M ？#PU
+Instance56.#NR
+妈妈#NN 用#P 一个#CD 煤气炉#NN 做#VV 家务#NN ，#PU 洗米#VV 需要#VV 1#CD 分钟#M ，#PU 煮饭#VV 需要#VV 15#CD 分钟#M ，#PU 洗菜#VV 需要#VV 5#CD 分钟#M ，#PU 炒菜#VV 需要#VV 10#CD 分钟#M ．#PU 做#VV 完#VV 这些#DT 家务活#NN ，#PU 妈妈#NN 至少#AD 需要#VV 多少#CD 分钟#M ？#PU
+Instance57.#NR
+一#CD 本#M 故事书#NN 有#VE 350#CD 页#M ，#PU 小#JJ 明#NN 已经#AD 看#VV 了#AS 100#CD 页#M ，#PU 还#AD 剩#VV 几页#AD 没#AD 看#VV 完#VV ？#PU
+Instance58.#NR
+四年级#NN 一般#AD 有#VE 48#CD 人#NN ，#PU 下午#NT 自习课#NN 后#LC ，#PU 做#VV 完#VV 语文#NN 作业#VV 的#DEC 37#CD 人#NN ，#PU 做#VV 完#VV 数学#NN 作业#VV 的#DEC 有#VE 42#CD 人#NN ，#PU 没有#VE 人#NN 两#CD 科#NN 作业#NN 都#AD 没#AD 做#VV 完#VV ．#PU 语文#NN 、#PU 数学#NN 作业#NN 都#AD 做#VV 完#VV 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance59.#NR
+一#CD 张#M 桌子#NN 150#CD 元#M ，#PU 比#P 一个#CD 凳子#NN 多#AD 60#CD 元#M ，#PU 一个#CD 凳子#NN 多少#CD 元#M ？#PU
+Instance60.#NR
+0.0625#CD +#PU 0.125#CD +#PU 0.1875#CD +#PU 0.25#CD +#PU 0.3125#CD +#PU 0.375#CD +#PU 0.4375#CD +#PU 0.5#CD +#PU 0.5625#CD +#PU 0.625#CD +#PU 0.1250#CD +#PU 0.1251#CD +#PU 0.1252#CD +#PU 0.1253#CD +#PU [#PU [#PU 0.1254#CD ]#PU ]#PU =#PU ．#PU
+Instance61.#NR
+37#CD +#PU 39#CD +#PU 53#CD +#PU 63#CD 的#DEG 简便#NN 算法#NN =#PU ．#PU
+Instance62.#NR
+1#CD +#PU 2#CD +#PU 3#CD +#PU 4#CD +#PU 5#CD +#PU 6#CD +#PU 7#CD +#PU 8#CD +#PU 9#CD =#PU ．#PU
+Instance63.#NR
+妈妈#NN 带#VV 100#CD 元#M 去#VV 商店#NN ，#PU 买#VV 了#AS 水壶#NN 后#LC 还#AD 剩#VV 57#CD 元#M ，#PU 买#VV 水壶#NN 花#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance64.#NR
+6#CD （#PU 1#CD ）#PU 班#NN 有#VE 28#CD 人#NN 参加#VV 了#AS 语文#NN 和#CC 数学#NN 竞赛#NN ．#PU 参加#VV 语文#NN 竞赛#NN 的#DEC 有#VE 15#CD 人#NN ，#PU 参加#VV 数学#NN 竞赛#NN 的#DEC 有#VE 18#CD 人#NN ，#PU 语#NN 数#NN 竞赛#NN 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance65.#NR
+小胖#NN 带#VV 了#AS 些#M 钱#NN 到#VV 超市#NN 购物#NN ，#PU 他#PN 买#VV 了#AS 48.2#CD 元#M 的#DEG 零食#NN 和#CC 18.43#CD 元#M 的#DEG 文具#NN ，#PU 还#AD 找回#VV 了#AS 13.37#CD 元#M ，#PU 请问#VV ：#PU 小胖#NR 一共#AD 带#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance66.#NR
+把#BA 小数#NN 40.470#CD 化简#NN 后#LC =#PU ．#PU
+Instance67.#NR
+甲#NN 数#NN 是#VC 3256#CD ，#PU 比#P 乙#NN 数多#CD 785#CD ，#PU 乙#NN 数#NN =#PU ？#PU
+Instance68.#NR
+一#CD 个#M 加数#NN 是#VC 196#NT ，#PU 另#AD 一个#CD 加数#NN 是#VC 397#CD ，#PU 和#CC =#PU ．#PU
+Instance69.#NR
+小强#NR 有#VE 12.5#CD 元#M ，#PU 乐乐#NN 有#VE 18.5#CD 元#M ，#PU 两#CD 人#NN 合#VV 买#VV 一套#NN 《#PU 格林童话#NR 》#PU ，#PU 还#AD 差#VV 8.2#CD 元#M ，#PU 这#DT 套书#NN 售价#NN 多少#CD 元#M ？#PU
+Instance70.#NR
+一#CD 根#M 绳子#NN 4#CD 米#M ，#PU 用#P 去#VV 1.6#CD 米#M ，#PU 还#AD 剩下#VV 多少#CD 米#M ．#PU
+Instance71.#NR
+1991#NT +#PU 8119#CD +#PU 8009#CD +#PU 1881#CD =#PU ．#PU
+Instance72.#NR
+杨#NR 阿姨#NN 打#VV 一份#AD 1000#CD 个#M 字#NN 的#DEG 文件#NN ，#PU 已经#AD 打#VV 了#AS 一些#CD ，#PU 还#AD 剩#VV 270#CD 个#M 字#NN 没#AD 打#VV ．#PU 杨#NR 阿姨#NN 已经#AD 打#VV 了#AS 多少#CD 个#M 字#NN ？#PU
+Instance73.#NR
+4#CD （#PU 1#CD ）#PU 班#NN 有#VE 46#CD 人#NN ，#PU 其中#NN 会#VV 弹钢琴#NN 的#DEC 有#VE 30#CD 人#NN ，#PU 会#VV 拉#VV 小提琴#NN 的#DEC 有#VE 28#CD 人#NN ，#PU 则#AD 这个#DT 班#NN 既#AD 会#VV 弹钢琴#NN 又#AD 会#VV 拉#VV 小提琴#NN 的#DEC 至少#AD 有#VE 多少#CD 人#NN ．#PU
+Instance74.#NR
+在#P 跳远#NN 比赛#NN 中#LC ，#PU 小#JJ 明#NN 跳#VV 了#AS 3.35#CD 米#M ，#PU 小#JJ 刚#AD 比#P 小#JJ 明#NN 多#AD 跳#VV 了#AS 0.21#CD 米#M ，#PU 小强#NN 比#P 小#JJ 刚#AD 少#AD 跳#VV 了#AS 0.18#CD 米#M ．#PU 小强#NR 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance75.#NR
+小林#NN 身高#NN 1.33#CD 米#M ，#PU 他#PN 站#VV 在#P 0.5#CD 米#M 高#VA 的#DEC 凳子#NN 上#LC 时#LC ，#PU 比#P 爸爸#NN 高#VA 0.07#CD 米#M ，#PU 爸爸#NN 身高#NN 多少#CD 米#M ？#PU
+Instance76.#NR
+48.83#CD +#PU 126.3#CD 再#AD 减去#VV 45#CD ，#PU 结果#NN =#PU ？#PU
+Instance77.#NR
+上海#NR 广播#NN 电视塔#NN 高#VA 468#CD 米#M ，#PU 中央#NN 广播#NN 电视塔#NN 高#VA 405#CD 米#M ，#PU 上海#NR 广播#NN 电视塔#NN 比#P 中央#NN 广播#NN 电视塔#NN 高#VA 多少#CD 米#M ？#PU
+Instance78.#NR
+若#CS 某次#AD 数学考试#NN 标准#NN 成绩#NN 定为#VV 85#CD 分#M ，#PU 规定#VV 高于#VV 标准#NN 记#VV 为#VC 正#AD ，#PU 某位#JJ 学生#NN 的#DEG 成绩#NN 记#VV 作#VV ：#PU -#PU 3#CD 分#M ，#PU 则#AD 这#DT 名#M 学生#NN 的#DEG 实际#JJ 得#NN 分为#VV 多少#CD ．#PU
+Instance79.#NR
+小#JJ 明#NN 做#VV 数学#NN 作业#NN 用#P 去#MSP 0.15#CD 小时#NN ，#PU 做#VV 语文#NN 作业#NN 用#VV 去#VV 了#AS 0.6#CD 小时#NN ，#PU 他#PN 完成#VV 这两项#AD 作业#VV 共用#JJ 了#AS 多少#CD 小时#NN ？#PU
+Instance80.#NR
+养鸡场#NN 上午#NT 收#VV 鸡蛋#NN 85#CD 千克#M ，#PU 卖出#VV 42#CD 千克#M ，#PU 下午#NT 收#VV 鸡蛋#NN 26#CD 千克#M ．#PU 现在#NT 共有#VV 鸡蛋#NN 多少#CD 千克#NN ．#PU
+Instance81.#NR
+8#CD +#PU 88#CD +#PU 888#CD +#PU 8888#CD +#PU 88888#CD =#PU ．#PU
+Instance82.#NR
+小#JJ 天才#NN 培训#NN 学校#NN 选出#VV 一批#AD 优秀#VA 的#DEC 学生#NN 参加#VV 全国#NN 作文#NN 比赛#NN 和#CC 数学#NN 比赛#NN ，#PU 结果#AD 7#CD 人#NN 两项#CD 比赛#NN 都#AD 获奖#VV 了#AS ，#PU 有#VE 13#CD 人#NN 两项#CD 比赛#NN 都#AD 没有#VE 获奖#VV ，#PU 已知#VV 作文#NN 比赛#NN 获奖#VV 的#DEC 有#VE 12#CD 人#NN ，#PU 数学#NN 比赛#NN 获奖#VV 的#DEC 有#VE 28#CD 人#NN ．#PU 那么#AD 这#DT 批#M 优秀#JJ 的#DEG 学生#NN 一共#AD 有#VE 多少#CD 人#NN ．#PU
+Instance83.#NR
+9#CD +#PU 9.99#CD +#PU 9.999#CD +#PU 9.9999#CD =#PU ．#PU
+Instance84.#NR
+两个#CD 数#NN 的#DEG 差#NN 是#VC 13.6#CD ，#PU 如果#CS 被减数#NN 增加#VV 2.5#CD ．#PU 减数#NN 减少#VV 1.5#CD ，#PU 差#NN =#PU ．#PU
+Instance85.#NR
+新#JJ 农民#NN 水果#NN 站#NN 运#NN 来#MSP 600#CD 千克#M 苹果#NN ，#PU 卖出#VV 350#CD 千克#M 后#LC ，#PU 又#AD 运进#VV 287#CD 千克#M ，#PU 现在#NT 水果店#NN 有#VE 水果#NN 多少#CD 千克#M ？#PU
+Instance86.#NR
+小#JJ 明#NN 去#VV 爬山#VV ，#PU 他#PN 上山#VV 行#VV 了#AS 629#CD 米#M ，#PU 下山#VV 比#P 上山#VV 少#AD 行#VV 了#AS 158#CD 米#M ，#PU 小#JJ 明#NN 下山#VV 行#VV 了#AS 多少#CD 米#M ？#PU
+Instance87.#NR
+商店#NN 有#VE 大米#NN 210.6#CD 千克#M ，#PU 卖出#VV 109.8#CD 千克#M ，#PU 又#AD 运进#VV 107.5#CD 千克#M ，#PU 这时#AD 商店#NN 有#VE 大米#NN 多少#CD 千克#M ？#PU
+Instance88.#NR
+李#NR 明#AD 在#P 书店#NN 买#VV 了#AS 两本书#NN ．#PU 一本#AD 19.5#CD 元#M ，#PU 另#AD 一本#VV 21.8#CD 元#M ．#PU 他#PN 付出#VV 50#CD 元#M ，#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance89.#NR
+第#OD 29#OD 届#M 北京#NR 奥运会#NR 的#DEG 主会场#NN -#PU 鸟巢#NN 建筑面积#VV 是#VC 25.8#CD 公顷#M ，#PU 比#P 天安门广场#NN 建筑面积#VV 小#JJ 18.2#CD 公顷#M ，#PU 天安门广场#NN 的#DEG 建筑面积#NN 有#VE 多#AD 大#VA ？#PU
+Instance90.#NR
+某#DT 船#NN 在#P 静#VV 水中#NN 的#DEC 速度#NN 是#VC 每#DT 小时#NN 13.5#CD 千米#M ，#PU 水流#NN 速度#NN 是#VC 每#DT 小时#NN 3.5#CD 千米#M ，#PU 逆水#NN 而#MSP 行#VV 的#DEC 速度#NN 是#VC 每#DT 小时#NN 多少#CD 千米#NN ．#PU
+Instance91.#NR
+棉花#NN 产量#NN 是#VC 487#CD 万吨#M ，#PU 茶叶#NN 产量比#NN 棉花#NN 产量#NN 少#VV 409#CD 万吨#M ，#PU 早稻#NN 产量比#NN 茶叶#NN 多#AD 3866#CD 万吨#NN ．#PU 早稻#NN 产量#NN =#PU 多少#CD 万吨#NN ？#PU
+Instance92.#NR
+比#P 932#CD 少#VV 192#CD 的#DEG 数#NN =#PU ．#PU
+Instance93.#NR
+3#CD 个#M 同学#NN 比赛#NN 跳高#NN ，#PU 王#NR 军#NN 跳#VV 了#AS 1.52#CD 米#M ，#PU 张#NR 华#NR 比#P 王#NR 军#NN 多#AD 跳#VV 了#AS 0.18#CD 米#M ，#PU 李#NR 林#NN 比#P 张#NR 华#NR 少#AD 跳#VV 了#AS 0.11#CD 米#M ，#PU 李#NR 林#NN 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance94.#NR
+妈妈#NN 买#VV 火腿#NN 用#P 去#VV 38.4#CD 元#M ，#PU 买#VV 巧克力#NN 用#P 去#VV 24.8#CD 元#M ，#PU 最后#AD 还#AD 剩#VV 25.3#CD 元#M ，#PU 妈妈#NN 一共#AD 带#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance95.#NR
+图书馆#NN 有#VE 565#CD 本#M 科技#NN 书#NN ，#PU 童话#NN 书#NN 比#P 科技#NN 书#NN 少#AD 65#CD 本#M ，#PU 小说书#NN 比#P 童话#NN 书#NN 少#AD 35#CD 本#M ，#PU 图书馆#NN 有#VE 小说书#NN 多少#CD 本#M ？#PU
+Instance96.#NR
+小#JJ 亚#NR 有#VE 150#CD 元#M 钱#NN ．#PU 买#VV 书#NN 用#P 掉#VV 80#CD 元#M ，#PU 买#VV 笔#M 用#P 掉#VV 12#CD 元#M ，#PU 还#AD 剩下#VV 多少#CD 钱#NN ？#PU
+Instance97.#NR
+超市#NN 运进#VV 大米#NN 425#CD 千克#M ，#PU 卖#VV 了#AS 300#CD 千克#M ，#PU 又#AD 运#VV 来#MSP 420#CD 千克#M ，#PU 现在#NT 超市#NN 有#VE 大米#NN 多少#CD 千克#M ？#PU
+Instance98.#NR
+一#CD 个#M 班#NN 有#VE 45#CD 个#M 小学生#NN ，#PU 统计#NN 借#VV 课外书#NN 的#DEC 情况#NN 是#VC ：#PU 全班学生#NN 都#AD 借#VV 有#VE 语文#NN 或#CC 数学#NN 课外书#NN ．#PU 借#VV 语文#NN 课外书#NN 的#DEC 有#VE 39#CD 人#NN ，#PU 借#VV 数学#NN 课外书#NN 的#DEC 有#VE 32#CD 人#NN ．#PU 语文#NN 、#PU 数学#NN 两种#NN 课外书#NN 都#AD 借#VV 的#AS 有#VE 多少#CD 人#NN ．#PU
+Instance99.#NR
+动物园#NN 有#VE 游客#NN 802#CD 人#NN ，#PU 中午#NT 离去#VV 186#CD 人#NN ，#PU 下午#NT 又#AD 来#VV 了#AS 349#CD 人#NN ，#PU 这时#AD 动物园#NN 里#LC 有#VE 游客#NN 多少#CD 人#NN ？#PU
+Instance100.#NR
+粮店#NN 运进#VV 930#CD 千克#M 大米#NN ，#PU 第一天#AD 卖#VV 了#AS 260#CD 千克#M ，#PU 第#OD 二#CD 天#M 卖#VV 了#AS 340#CD 千克#M ，#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance101.#NR
++6#NR 表示#VV 在#P 起点#NN 的#DEG 东边#NN 6#CD 米#M ，#PU 如果#CS 小林#NN 从#P 起点#NN 先#AD 向#P 西#NN 走#VV 15#CD 米#M 后#LC 再#AD 向东走#VV 20#CD 米#M ，#PU 那么#AD 小林#NN 这时#NT 的#DEG 位置#NN 可以#VV 表示#VV 为#VC 多少#CD ．#PU
+Instance102.#NR
+把#BA 两根#NR 木棍#NN 叠放#VV 在#VV 一起#AD ，#PU 从头到尾#AD 共#AD 长#VV 66#CD 厘米#M ，#PU 其中#NN 一根#VV 木棍#NN 长#JJ 48#CD 厘米#M ，#PU 中间#NN 重叠#VV 部分#CD 长#JJ 12#CD 厘米#M ，#PU 另#AD 一根#VV 木棍#NN 长#VV 多少#CD 厘米#M ？#PU
+Instance103.#NR
+6.73#NT +#PU 2.56#NT +#PU 1.44#NT +#PU 3.27#NT =#PU ．#PU
+Instance104.#NR
+学校#NN 图书室#NN 原有#JJ 藏书#NN 458#CD 册#M ，#PU 有#VE 209#CD 册#M 破损#VV 清除#VV 了#AS ，#PU 6#CD 一#CD 儿童节#NN 时#LC 同学#NN 们#NN 又#AD 补#VV 捐#VV 了#AS 149#OD 册#M ，#PU 学校#NN 现有#JJ 图书#NN 多少#CD 册#NN ？#PU
+Instance105.#NR
+水泥厂#NN 原#AD 计划#VV 全年#AD 生产#VV 水泥#NN 78.15#CD 万吨#NN ，#PU 结果#AD 上半年#NT 生产#VV 54.32#CD 万吨#M ，#PU 下半年#NT 生产#VV 47.86#NN 万吨#NN ，#PU 今年#NT 生产#VV 超过#AD 计划#VV 多少#CD 万吨#NN ？#PU
+Instance106.#NR
+一#CD 本书#NN 共有#VV 420#CD 页#M ，#PU 第一天#AD 看#VV 了#AS 115#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 89#CD 页#M ，#PU 还#AD 剩#VV 几页#AD 没有#AD 看#VV 完#VV ？#PU
+Instance107.#NR
+仓库#NN 里#LC 有#VE 180#CD 吨#M 货物#NN ，#PU 第一天#AD 运走#VV 46.8#CD 吨#M ，#PU 第#OD 二#CD 天#M 运走#VV 47.5#CD 吨#M ，#PU 仓库#NN 里#LC 货物#NN 减少#VV 了#AS 多少#CD 吨#M ？#PU
+Instance108.#NR
+爸爸#NN 用#P 两条#NN 长度#NN 分别#AD 是#VC 1.27#CD 米#M 、#PU 1.35#CD 米#M 的#DEG 绳子#NN 接#VV 起来#VV 捆扎#VV 报纸#NN ．#PU 接口处#NN 共用#JJ 去#NN 绳子#NN 0.25#CD 米#M ，#PU 接#VV 好#VA 后#LC 的#DEG 绳子#NN 有#VE 多长#NN ？#PU
+Instance109.#NR
+农场#NN 养#VV 了#AS 348#CD 只#M 公鸡#NN ，#PU 295#CD 只#M 母鸡#NN ．#PU 养鸭#VV 的#DEC 只#AD 数#CD 比#CC 鸡#NN 的#DEC 只#AD 数多#VV 68#CD 只#M ．#PU 农场#NN 养#VV 了#AS 多少#CD 只#M 鸭#NN ？#PU
+Instance110.#NR
+红日#NR 小学#NN 二年级#NT 有#VE 学生#NN 156#CD 人#NN ，#PU 比#P 三年级#NT 多#AD 39#CD 人#NN ，#PU 四年级#NN 比#P 三年级#NT 多#AD 78#CD 人#NN ，#PU 四年级#NN 有#VE 学生#NN 多少#CD 人#NN ？#PU
+Instance111.#NR
+甲班#NN 和#CC 乙班#NN 共#AD 83#CD 人#NN ，#PU 乙班#NN 和#CC 丙#NN 班#NN 共#AD 86#CD 人#NN ，#PU 丙#NN 班#NN 和#CC 丁#NN 班#NN 共#AD 88#CD 人#NN ，#PU 问#VV 甲班#NN 和#CC 丁#NN 班#NN 共#AD 多少#CD 人#NN ？#PU
+Instance112.#NR
+李老师#NR 买来#VV 故事书#NN 42#CD 本#M ，#PU 连环画#NN 28#CD 本#M ，#PU 分给#VV 同学#NN 54#CD 本#M ，#PU 李老师#NR 还有#CC 多少#CD 本书#NN ？#PU
+Instance113.#NR
+将#AD 一根#AD 3.5#CD 米#M 长#VA 的#DEC 竹竿#NN 插入#VV 游泳池#NN 池底#VV ，#PU 露出#VV 水面#NN 的#DEC 部分#CD 长#JJ 1.9#CD 米#M ，#PU 这儿#PN 的#DEG 水深#NN 多少#CD 米#M ？#PU
+Instance114.#NR
+3#CD （#PU 2#CD ）#PU 班#NN 有#VE 45#CD 人#NN ，#PU 其中#NN 有#VE 38#CD 人#NN 喜欢#VV 学习#VV 语文#NN ，#PU 有#VE 35#CD 人#NN 喜欢#VV 学习#VV 数学#NN ．#PU 请#VV 你#PN 算#VV 一#CD 算#VV ，#PU 既#CC 爱#VV 学习#VV 语文#NN 又#AD 爱#VV 学习#VV 数学#NN 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance115.#NR
+4#CD （#PU 1#CD ）#PU 班#NN 有#VE 42#CD 名#M 同学#NN ：#PU 订阅#VV 《#PU 少年报#NN 》#PU 的#DEC 有#VE 31#CD 名#M 同学#NN ，#PU 订阅#VV 《#PU 童话#NN 报#NN 》#PU 的#DEC 有#VE 27#CD 名#M 同学#NN ．#PU 每人#PN 至少#AD 订#VV 其中#NN 一份#AD 报纸#NN ，#PU 有#VE 多少#CD 名#M 同学#NN 既#AD 订#VV 《#PU 少年报#NN 》#PU 又#AD 订#VV 《#PU 童话#NN 报#NN 》#PU ．#PU
+Instance116.#NR
+开开#VV 商店#NN 举行#VV 促销#NN 活动#NN ，#PU 原价#NN 126#CD 元#M 一只#VV 的#DEC 书包#NN ，#PU 现价#NN 只要#AD 98#CD 元#M ，#PU 便宜#VA 了#AS 多少#CD ？#PU
+Instance117.#NR
+学校#NN 参加#VV 数学#NN 兴趣小组#NN 的#DEC 有#VE 45#CD 人#NN ，#PU 参加#VV 计算机#NN 兴趣小组#NN 的#DEC 有#VE 68#CD 人#NN ．#PU 既#AD 参加#VV 数学#NN 兴趣小组#NN 又#AD 参加#VV 计算机#NN 兴趣小组#NN 的#DEC 有#VE 15#CD 人#NN ，#PU 参加#VV 这#DT 两个#CD 兴趣小组#NN 的#DEG 同学#NN 共有#VV 多少#CD 人#NN ？#PU
+Instance118.#NR
+甲#CD 乙丙#NN 3#CD 人#NN 有#VE 一些#CD 书#NN ，#PU 其中#NN 200#CD 本#M 是#VC 甲#VV 的#SP ，#PU 750#CD 本#M 不是#CC 乙#NN 的#DEC ，#PU 则#AD 丙#NN 有#VE 多少#CD 本#M ？#PU
+Instance119.#NR
+将#BA 0.72#CD 不#AD 改变#VV 小数#NN 的#DEG 大小#NN 而#MSP 改成#VV 3#CD 位#M 小数#NN =#PU ，#PU 这#PN 是#VC 根据#P 小数#NN 的#DEG 多少#CD 改变#NN 的#SP ．#PU
+Instance120.#NR
+学校#NN 为#VC 同学#NN 们#NN 体检#NN ，#PU 测#VV 得#DER 张#M 强#VA 的#DEC 身高#NN 是#VC 1.2#CD 米#M ，#PU 刘#NR 松#VV 的#DEC 身高#NN 是#VC 1.1#CD 米#M ．#PU 张#NR 强#AD 比#P 刘#NR 松#VV 高#JJ 多少#CD 米#M ？#PU
+Instance121.#NR
+某#DT 超市#NN 今天#NT 购#VV （#PU ɡ#NN ò#NN u#NN ）#PU 进#VV 喜之郎#NR 果冻#NN 860#CD 千克#M ，#PU 上午#NT 售出#VV 256#CD 千克#M ，#PU 下午#NT 又#AD 售#VV （#PU sh#NR ò#NN u#NN ）#PU 出#VV 382#CD 千克#M ，#PU 超市#NN 还#AD 剩#VV 多少#CD 千克#M 果冻#NN ？#PU
+Instance122.#NR
+某#DT 公司#NN 购进#VV 300#CD 台#M 联想#NR 电脑#NN ，#PU 卖出#VV 一些#CD 后#LC 还#AD 剩下#VV 120#CD 台#M ，#PU 卖#VV 了#AS 多少#CD 台#M 联想#NR 电脑#NN ？#PU
+Instance123.#NR
+学校#NN 买来#VV 一些#CD 粉笔#NN ，#PU 用#P 去#VV 28#CD 盒#M ，#PU 还#AD 剩#VV 40#CD 盒#M ．#PU 学校#NN 买来#VV 多少#CD 盒#M 粉笔#NN ？#PU
+Instance124.#NR
+减数#NN 是#VC 8#CD 、#PU 被减数#NN 是#VC 10#CD ，#PU 差#NN =#PU ．#PU
+Instance125.#NR
+丽丽#VV 到#VV 书店#NN 买#VV 笔记本#NN ，#PU 买#VV 6.8#CD 元#M 一本#VV 的#DEC ，#PU 差#VV 0.7#CD 元#M ，#PU 她#PN 只好#AD 买#VV 4.5#CD 元#M 一本#VV 的#DEC ，#PU 剩下#VV 的#DEC 钱#NN 正好#AD 买#VV 了#AS 一枝#NR 圆珠笔#NN ．#PU 这#DT 枝#M 圆珠笔#NN 多少#CD 钱#NN ？#PU
+Instance126.#NR
+冬冬#NN 今年#NT 10#CD 岁#M ，#PU 爸爸#NN 今年#NT 40#CD 岁#M ，#PU 冬冬#NN 多少岁#VV 时#LC ，#PU 爸爸#NN 的#DEG 年龄#NN 正好#AD 是#VC 冬冬#NN 的#DEG 2#CD 倍#M ．#PU
+Instance127.#NR
+700#CD 比#CC 250#CD 多#AD 多少#CD ．#PU
+Instance128.#NR
+二年级#JJ 同学#NN 参加#VV 杭州#NR 乐园#NN 和#CC 千岛湖#NR 两个#CD 夏令营#NN 活动#NN ．#PU 参加#VV 杭州#NR 乐园#NN 的#DEG 有#VE 36#CD 人#NN ，#PU 参加#VV 千岛湖#NR 的#DEC 有#VE 28#CD 人#NN ，#PU 两个#CD 夏令营#NN 都#AD 参加#VV 的#DEC 有#VE 8#CD 人#NN ．#PU 二年级#NR 一共#AD 有#VE 多少#CD 人#NN 参加#VV 了#AS 夏令营#NN 活动#NN ．#PU
+Instance129.#NR
+一#CD 只#M 斑马#NN 重#AD 320#CD 千克#M ，#PU 比#P 一头#AD 牛#VA 轻#AD 98#CD 千克#M ，#PU 一头#AD 牛#NN 重#VV 多少#CD 千克#M ？#PU
+Instance130.#NR
+一#CD 个#M 班#NN 有#VE 48#CD 人#NN ．#PU 班主任#NN 问#VV ：#PU “#PU 谁#PN 做#VV 完#VV 了#AS 语文#NN 作业#NN ？#PU ”#PU 这时#AD 有#VE 37#CD 人#NN 举手#VV ．#PU 又#AD 问#VV ：#PU “#PU 谁#PN 做#VV 完#VV 了#AS 数学#NN 作业#NN ？#PU ”#PU 这时#AD 有#VE 42#CD 人#NN 举手#VV ．#PU 最后#AD 问#VV ：#PU “#PU 谁#PN 语文#NN 、#PU 数学#NN 作业#NN 都#AD 没#AD 做#VV 完#VV ？#PU ”#PU 没有#VE 人#NN 举手#VV ．#PU 请#VV 你#PN 算#VV 一#CD 算#VV ，#PU 这个#DT 班#NN 语#NN 、#PU 数#NN 作业#NN 都#AD 做#VV 完#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance131.#NR
+火车#NN 上#LC 原有#JJ 680#CD 人#NN ，#PU 到#VV 长沙#NR 后#LC 下去#VV 了#AS 258#CD 人#NN ，#PU 又#AD 上来#VV 了#AS 189#CD 人#NN ，#PU 火车#NN 上#LC 现在#NT 有#VE 多少#CD 人#NN ？#PU
+Instance132.#NR
+春天#NN 学校#NN 图书馆#NN 有#VE 658#CD 本#M 图书#NN ，#PU 小学部#NN 借#VV 走#VV 了#AS 263#CD 本#M ，#PU 中学部#NN 借#VV 走#VV 了#AS 137#CD 本#M ，#PU 问#VV 春天#NN 学校#NN 还有#CC 多少#CD 本#M 图书#NN 没有#AD 销售#VV 完#VV ？#PU
+Instance133.#NR
+某#DT 商场#NN 上半年#NT 销售额#NN 达#VV 1.2#CD 亿元#M ，#PU 下半年#NT 销售额#NN 达#VV 1.36#CD 亿元#M ，#PU 已#AD 超额#AD 0.14#CD 亿元#AD 完成#VV 了#AS 全年#NN 的#DEG 计划#NN 销售额#NN ．#PU 这个#DT 商场#NN 全年#JJ 的#DEG 计划#NN 销售额#NN =#PU 多少#CD 亿元#NN ？#PU
+Instance134.#NR
+350#CD 克#M 比#P 80#CD 克#M 多#AD 多少#CD 克#M ．#PU
+Instance135.#NR
+小#JJ 辉#NR 看#VV 一本#CD 133#CD 页#M 的#DEG 杂志#NN ，#PU 第一天#AD 看#VV 了#AS 27#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 33#CD 页#M ，#PU 还#AD 剩#VV 多少#CD 页#M 没有#AD 看#VV ？#PU
+Instance136.#NR
+河里#NN 有#VE 大#JJ 鸭#NN 和#CC 小鸭#NR 共#AD 84#CD 只#M ，#PU 有#VE 大#JJ 鸭#NN 56#CD 只#M ，#PU 有#VE 小鸭#NR 多少#CD 只#M ？#PU
+Instance137.#NR
+小#JJ 马虎#NN 在#P 计算#VV 一道#AD 减法#VV 题#NN 时#LC ，#PU 不#AD 小心#VV 把#BA 被减数#NN 500#CD 写成#VV 了#AS 560#CD ，#PU 减数#NN 没有#AD 写错#VV ，#PU 小#JJ 马虎#NN 算#VV 得#DER 的#DEG 答案#NN 和#CC 正确#JJ 答案#NN 相差#VV 多少#CD ？#PU
+Instance138.#NR
+计算#VV ：#PU 248#CD +#PU 249#CD +#PU 250#CD +#PU 251#CD +#PU 252#CD =#PU ．#PU
+Instance139.#NR
+20032003#CD +#PU 20320030#CD +#PU 23200300#CD +#PU 22003003#CD +#PU 20030032#CD +#PU 20300320#CD +#PU 23003200#CD =#PU ．#PU
+Instance140.#NR
+一#CD 艘#M 客轮#NN 原有#JJ 205#CD 人#NN ，#PU 中途#NN 有#VE 79#CD 人#NN 下船#VV ，#PU 后来#AD 又#AD 有#VE 128#CD 人#NN 上船#VV ．#PU 再#AD 开船#VV 时#LC 客轮#NN 上#LC 有#VE 多少#CD 人#NN ？#PU
+Instance141.#NR
+67#CD +#PU 54#CD +#PU 33#CD +#PU 46#CD =#PU ．#PU
+Instance142.#NR
+希望#VV 小学#NN 四年级#NN 有#VE 50#CD 名#M 学生#NN ，#PU 有#VE 26#CD 人#NN 参加#VV 乒乓#NN 比赛#NN ，#PU 21#CD 人#NN 参加#VV 篮球比赛#NN ，#PU 两项#NN 比赛#NN 都#AD 不#AD 参加#VV 的#DEC 有#VE 17#CD 人#NN ．#PU 两项#NN 比赛#NN 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance143.#NR
+一#CD 根#M 绳子#NN 10.4#CD 米#M ，#PU 第一次#AD 剪下#VV 0.54#CD 米#M ，#PU 第#OD 二#OD 次#M 剪下#VV 5.2#CD 米#M ，#PU 还#AD 剩#VV 多少#CD 米#M ？#PU
+Instance144.#NR
+一#CD 辆#M 公交车#NN 坐#VV 了#AS 27#CD 人#NN 、#PU 到#VV 前方#NN 车站#NN 下去#VV 9#CD 人#NN ，#PU 后来#AD 又#AD 上来#VV 18#CD 人#NN ，#PU 车上#NN 现在#NT 又#AD 有#VE 多少#CD 人#NN ？#PU
+Instance145.#NR
+6#CD （#PU 2#CD ）#PU 班#NN 女生#NN 的#DEG 平均#JJ 身高#NN 是#VC 150#CD cm#M ，#PU 如果#CS 以#P 平均#JJ 身高#NN 为#VC 标准#NN ，#PU 张#NR 丽#VA 的#DEC 身高#NN 记#VV 为#VC +#PU 8#CD cm#M ，#PU 那么#AD 张#NR 丽#NN 的#DEG 实际#JJ 身高#NN =#PU 多少#CD cm#M ．#PU
+Instance146.#NR
+把#BA 4.3#CD 米厂#NN 的#DEG 竹竿#NN 插入#VV 水中#NN ，#PU 测量#NN 水池#NN 的#DEG 深度#NN ，#PU 入#VV 泥#NN 部分#NN 是#VC 0.3#CD 米#M ，#PU 露出#VV 水面#NN 1.1#CD 米#M ，#PU 水池#NN 蓄水#VV 深度#NN =#PU 多少#CD 米#M ？#PU
+Instance147.#NR
+学校食堂#NN 有#VE 大米#NN 若干#CD 千克#NN ．#PU 第一天#AD 用#VV 去#VV 了#AS 29.8#CD 千克#M ，#PU 第#OD 二#CD 天#M 用#VV 去#VV 了#AS 30.2#CD 千克#M ，#PU 这时#AD 还#AD 剩下#VV 56.9#CD 千克#M ．#PU 学校食堂#NN 原来#AD 有#VE 大米#NN 多少#CD 千克#M ？#PU
+Instance148.#NR
+一#CD 群#M 鸭子#NN 共#AD 960#CD 只#M ，#PU 其中#NN 有#VE 580#CD 只#M 在#P 水中#NN ，#PU 其余#DT 的#DEG 在#P 岸上#NN ，#PU 岸上#NN 有#VE 多少#CD 只#M 鸭子#NN ？#PU
+Instance149.#NR
+77#CD +#PU 25#CD +#PU 23#CD +#PU 44#CD +#PU 75#CD +#PU 56#CD =#PU ．#PU
+Instance150.#NR
+赵#NR 敏#VV 的#DEC 妈妈#NN 是#VC 教师#NN ，#PU 1976#NT 年#NN 4#CD 月#NN 8#CD 日#M 出生#VV ，#PU 按#P 国家#NN 规定#VV 55#CD 岁#M 退休#NN ，#PU 她#PN 应#VV 在#P 哪一年#NN 退休#VV ？#PU
+Instance151.#NR
+3#CD 月#NN 春天#NN 来#VV 了#AS ，#PU 同学#NN 们#NN 集体#AD 去#VV 春游#NN ，#PU 带#VV 饼干#NN 的#DEC 有#VE 27#CD 人#NN ，#PU 带#VV 面包#NN 的#DEC 有#VE 21#CD 人#NN ，#PU 既#CC 带#VV 饼干#NN 又#AD 带#VV 面包#NN 的#DEC 有#VE 18#CD 人#NN ，#PU 每人#PN 至少#AD 带#VV 一种#NN ，#PU 参加#VV 春游#NN 的#DEC 一共#AD 有#VE 多少#CD 人#NN ．#PU
+Instance152.#NR
+小#JJ 明#NN 的#DEG 身高#NN 1.4#CD 米#M ，#PU 我#PN 比#P 他#PN 矮#VA 0.1#CD 米#M ．#PU 你#PN 知道#VV 我#PN 的#DEG 身高#NN =#PU ？#PU
+Instance153.#NR
+5#CD （#PU 1#CD ）#PU 班#NN 有#VE 25#CD 人#NN 参加#VV 了#AS 学校#NN 的#DEG 书法#NN 小组#NN 和#CC 舞蹈#NN 小组#NN ，#PU 其中#NN 15#CD 人#NN 参加#VV 了#AS 书法#NN 小组#NN ，#PU 有#VE 18#CD 人#NN 参加#VV 了#AS 舞蹈#NN 小组#NN ，#PU 有#VE 多少#CD 人#NN 这#DT 两个#CD 小组#NN 都#AD 参加#VV ．#PU
+Instance154.#NR
+“#PU 乐乐#NR ”#PU 水果#NN 店里#NN 运#NN 来#MSP 200#CD 千克#M 苹果#NN 和#CC 一些#CD 梨#NN ，#PU 先#AD 卖出#VV 25#CD 千克#M 的#DEG 苹果#NN ，#PU 又#AD 卖出#VV 20#CD 千克#M 的#DEG 梨#NN ，#PU 这时#AD 所剩#VV 的#DEC 苹果#NN 和#CC 梨#NN 同样#AD 多#VA ，#PU 水果店#NN 运#VV 来#VV 多少#CD 千克#M 梨#NN ？#PU
+Instance155.#NR
+两个#CD 加数#NN 的#DEG 和#CC 比#P 一个#CD 加数#NN 大#AD 12#CD ，#PU 比#P 另#AD 一个#CD 加数#AD 大#JJ 17#CD ，#PU 这#DT 两个#CD 加数#NN 的#DEG 和#CC =#PU ．#PU
+Instance156.#NR
+学校#NN 有#VE 篮球#NN 38#CD 个#M ，#PU 排球#NN 比#P 篮球#NN 多#VA 15#CD 个#M ，#PU 足球#NN 比#P 篮球#NN 少#VV 10#CD 个#M ，#PU 排球#NN 有#VE 多少#CD 个#M ？#PU
+Instance157.#NR
+明明#AD 家#NN 买#VV 了#AS 2.5#CD 千克#M 苹果#NN ，#PU 2.4#CD 千克#M 草莓#NN ．#PU 给#VV 奶奶#NN 拿#VV 去#VV 了#AS 2#CD 千克#M 草莓#NN ，#PU 这时#AD 明明#AD 家#NN 还有#CC 多少#CD 水果#NN ？#PU
+Instance158.#NR
+全班#NN 44#CD 人#NN 排成#VV 一行#NN ，#PU 从#P 左#NN 起#VV 第#OD 11#CD 名#M 是#VC 小#JJ 红#NN ，#PU 从#P 右#NN 起#VV 第#OD 13#CD 名#M 是#VC 小#JJ 芬#NN ，#PU 小#JJ 红#NN 和#CC 小#JJ 芬#NN 之间#LC 有#VE 多少#CD 个#M 同学#NN ．#PU
+Instance159.#NR
+天海#NR 游泳场#NN 第一天#AD 卖出#VV 游泳#NN 票#NN 554#CD 张#M ，#PU 第#OD 二#OD 天#M 上午#NT 卖出#VV 287#CD 张#M ，#PU 下午#NT 卖出#VV 313#CD 张#M ，#PU 这#PN 两天#NT 一共#AD 卖出#VV 多少#CD 张#M 票#NN ？#PU
+Instance160.#NR
+6.05#NT 加上#VV 一个#CD 数#VV 得#DER 10#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance161.#NR
+副食店#NN 运#NN 来#MSP 410#CD 千克#M 面粉#NN ，#PU 上午#NT 卖出#VV 154#CD 千克#M ，#PU 下午#NT 卖出#VV 172#CD 千克#M ，#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance162.#NR
+中心小学#NR 三年级#NR 一共#AD 有#VE 26#CD 人#NN ，#PU 参加#VV 语文#NN 兴趣小组#NN 的#DEC 有#VE 14#CD 人#NN ，#PU 参加#VV 数学#NN 兴趣小组#NN 的#DEC 有#VE 20#CD 人#NN ，#PU 那么#AD 既#AD 参加#VV 语文#NN 兴趣小组#NN 又#AD 参加#VV 数学#NN 兴趣小组#NN 的#DEC 多少#CD 人#NN ．#PU
+Instance163.#NR
+某校#NN 有#VE 80#CD 名#M 同学#NN 是#VC 音乐#NN 或#CC 体育#NN 爱好者#NN ，#PU 其中#NN 有#VE 36#CD 人#NN 爱好音乐#VV ，#PU 55#CD 人#NN 爱好体育#VV ，#PU 两项#NN 都#AD 爱好#VV 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance164.#NR
+跳远#NN 比赛#NN 中#LC ，#PU 小#JJ 英#NR 跳#VV 了#AS 3.46#CD 米#M ，#PU 强强#AD 比#P 小#JJ 英#NN 多#AD 跳#VV 了#AS 0.87#CD 米#M ，#PU 亮#VA 亮#VA 比#P 强强#AD 少#AD 跳#VV 了#AS 0.13#CD 米#M ．#PU 亮#VA 亮#VA 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance165.#NR
+希望#VV 小学#NN 图书馆#NN 有#VE 连环画#NN 546#CD 本#M ，#PU 比#P 科技#NN 书#NN 多#AD 168#CD 本#M ，#PU 科技#NN 书#NN 有#VE 多少#CD 本#M ？#PU
+Instance166.#NR
+奥#NR 奥#NR 家#NN 房屋#NN 总面积#NN 是#VC 127.8#CD 平方米#M ，#PU 3#CD 个#M 卧室#NN 的#DEG 面积#NN 和#CC 是#VC 48.9#CD 平方米#M ，#PU 卫生间#NN 、#PU 厨房#NN 、#PU 阳台#NN 等#ETC 的#DEG 面积#NN 和#CC 是#VC 30.6#CD 平方米#M ．#PU 其余#DT 的#DEG 是#VC 客厅#NN ，#PU 客厅#NN 的#DEG 面积#NN =#PU ？#PU
+Instance167.#NR
+按#P 一定#JJ 的#DEG 规律#NN 在#P 括号#NN 中#LC 填#VV 上#VV 适当#VA 的#DEC 数#NN ：#PU 2#CD ，#PU 1#CD ，#PU 3#CD ，#PU 4#CD ，#PU 7#CD ，#PU 多少#CD ，#PU 18#CD ，#PU 29#CD ，#PU 47#CD ．#PU
+Instance168.#NR
+某#DT 商店#NN 运进#VV 香皂#NN 857#CD 块#M ，#PU 卖出#VV 569#CD 块#M ，#PU 又#AD 运进#VV 300#CD 块#M ，#PU 这时#AD 商店#NN 里#LC 有#VE 香皂#NN 多少#CD 块#M ？#PU
+Instance169.#NR
+昆明#NR 植物园#NN 上午#NT 来#VV 了#AS 游客#NN 597#CD 人#NN ，#PU 中午#NT 走#VV 了#AS 209#CD 人#NN ，#PU 下午#NT 又#AD 来#VV 了#AS 420#CD 人#NN ，#PU 现在#NT 植物园#NN 有#VE 游客#NN 多少#CD 人#NN ？#PU
+Instance170.#NR
+李老师#NR 给#P 学校#NN 买#VV 图书#NN 用#VV 了#AS 239#CD 元#M ，#PU 买#VV 体育用品#NN 花#VV 民#NN 261#CD 元#M ．#PU 李老师#NR 带#VV 了#AS 700#CD 元#M ，#PU 还#AD 剩#VV 多少#CD 钱#NN ？#PU
+Instance171.#NR
+一#CD 根#M 绳子#NN 长#VA 25#CD 米#M ，#PU 第一次#AD 剪#VV 去#VV 9#CD 米#M ，#PU 第#OD 二#OD 次#M 剪#VV 去#VV 12#CD 米#M ，#PU 这根#VV 绳子#NN 短#VA 了#AS 多少#CD 米#M ？#PU
+Instance172.#NR
+有#VE 80#CD 个#M 青年#NN ，#PU 其中#NN 每个#DT 青年#NN 或者#CC 会#VV 骑#VV 自行车#NN 或者#CC 会#VV 游泳#VV ，#PU 或者#CC 两项#NN 都#AD 会#VV ，#PU 现在#NT 知道#VV 会#VV 骑#VV 自行车#NN 的#DEC 有#VE 65#CD 人#NN ，#PU 会#VV 骑#VV 自行车#NN 又#AD 会#VV 游泳#VV 的#DEC 有#VE 30#CD 人#NN ，#PU 会#VV 游泳#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance173.#NR
+36#CD +#PU 729#CD 再#AD 加上#VV 64#CD ，#PU 得#VV 多少#CD ？#PU
+Instance174.#NR
+把#BA 一根#NR 3#CD 米#M 长#VA 的#DEC 竹竿#NN 插入#VV 土#NN 中#LC ，#PU 露出#VV 地面#NN 的#DEC 部分#CD 长#JJ 2.4#CD 米#M ，#PU 插入#VV 土#NN 中#LC 的#DEG 部分#CD 长#JJ 多少#CD 米#M ？#PU
+Instance175.#NR
+钢琴#NN 的#DEG 黑#JJ 键#NN 有#VE 48#CD 个#M ，#PU 比#P 白#JJ 键#NN 少#AD 15#CD 个#M ，#PU 白#JJ 键#NN 有#VE 多少#CD 个#M ？#PU
+Instance176.#NR
+0.65#CD 改成#VV 3#CD 位#M 小数#NN =#PU ，#PU 这#PN 是#VC 根据#P 小数#NN 的#DEG 多少#CD ．#PU
+Instance177.#NR
+一#CD 本#M 《#PU 黑猫#NR 警长#NN 》#PU 比#P 一本#NN 《#PU 花仙子#NN 》#PU 便宜#JJ 0.5#CD 元#M 钱#NN ，#PU 一本#VV 《#PU 喜#NN 羊#NN 羊#NN 与#CC 灰#NN 太#AD 狼#NN 》#PU 比#P 一本#NN 《#PU 黑猫#NR 警长#NN 》#PU 贵#NN 3.8#CD 元#M 钱#NN ．#PU 已知#VV 一本#VV 《#PU 花仙子#NN 》#PU 的#DEG 售价#NN 是#VC 4.8#CD 元#M ，#PU 一本#AD 《#PU 喜#NN 羊#NN 羊#NN 与#CC 灰#NN 太#AD 狼#NN 》#PU 多少#CD 元#M ？#PU
+Instance178.#NR
+香香#NN 和#CC 可可#NN 背对背#NN 站立#VV ，#PU 香香#NR 向北走#AD 130#CD 米#M ，#PU 可可#AD 向南走#AD 180#CD 米#M ，#PU 两#CD 人#NN 相距#VV 多少#CD 米#M ？#PU
+Instance179.#NR
+学校#NN 体育#NN 室#NN 有#VE 80#CD 根#M 跳绳#NN ，#PU 借给#VV 二年级#NT （#PU 1#CD ）#PU 班#NN 23#CD 根#M ，#PU 二年级#NT （#PU 2#CD ）#PU 班#NN 30#CD 根#M ，#PU 学校#NN 体育#NN 室#NN 还#AD 剩#VV 多少#CD 根#M 跳绳#NN ？#PU
+Instance180.#NR
+有#VE 16#CD 位#M 小朋友#NN 在#P 玩游戏#NN ，#PU 后来#AD 有#VE 3#CD 位#M 小朋友#NN 加入#VV ，#PU 又#AD 有#VE 6#CD 位#M 小朋友#NN 回家#VV 去#VV 了#AS ，#PU 现在#NT 有#VE 多少#CD 位#M 小朋友#NN 在#AD 玩#VV ．#PU
+Instance181.#NR
+仓库#NN 有#VE 800#CD 包#M 粮食#NN ，#PU 上午#NT 运走#VV 了#AS 250#CD 包#M ，#PU 下午#NT 运走#VV 了#AS 375#CD 包#M ，#PU 还#AD 剩#VV 多少#CD 包#M ？#PU
+Instance182.#NR
+小民#NN 身高#NN 110#CD 厘米#M ，#PU 小#JJ 红#JJ 身高#NN 139#CD 厘米#M ，#PU 小民#NN 比#P 小#NN 红#VA 矮#VA 多少#CD 厘米#M ．#PU
+Instance183.#NR
+图书室#NN 里#LC 原有#JJ 故事书#NN 228#CD 本#M ，#PU 科技#NN 书#NN 165#CD 本#M ，#PU 后来#AD 又#AD 购进#VV 这#DT 两种#M 书#NN 各#DT 89#CD 本#M ，#PU 这时#AD 故事书#NN 比#P 科技#NN 书#NN 多#AD 几本#VV ？#PU
+Instance184.#NR
+食堂#NN 买来#VV 60#CD 棵#M 白菜#NN ，#PU 吃#VV 了#AS 56#CD 棵#M ，#PU 又#AD 买来#VV 30#CD 棵#M ，#PU 现在#NT 有#VE 多少#CD 棵#M ？#PU
+Instance185.#NR
+一#CD 个#M 文化#NN 用品店#NN 上午#NT 卖出#VV 练习本#NN 622#CD 本#M ，#PU 下午#NT 卖出#VV 279#CD 本#M ，#PU 这时#AD 一共#AD 卖出#VV 练习本#NN 多少#CD 本#M ？#PU
+Instance186.#NR
+比#P 4.92#CD 多#AD 1.07#CD 的#DEG 数#NN =#PU ．#PU
+Instance187.#NR
+我们#PN 班#NN 参加#VV 音乐#NN 兴趣小组#NN 的#DEC 26#CD 人#NN ，#PU 参加#VV 美术#NN 兴趣小组#NN 的#DEC 有#VE 28#CD 人#NN ，#PU 其中#NN 8#CD 人#NN 两组#NN 都#AD 参加#VV ，#PU 参加#VV 这#DT 两个#CD 兴趣小组#NN 的#DEC 一共#AD 有#VE 多少#CD 人#NN ？#PU
+Instance188.#NR
+商店#NN 里#LC 有#VE 水果#NN 50#CD 千克#M ，#PU 卖出#VV 30.5#CD 千克#M 后#LC ，#PU 又#AD 运进#VV 了#AS 20.5#CD 千克#M ，#PU 这时#AD 商店#NN 里#LC 有#VE 水果#NN 多少#CD 千克#M ？#PU
+Instance189.#NR
+胜利#NR 小学#NN 4#OD 、#PU 5#OD 、#PU 六年级#NR 共有#VV 学生#NN 1600#CD 人#NN ，#PU 六年级#NT 有#VE 学生#NN 740#CD 人#NN ，#PU 五年级#NT 有#VE 学生#NN 370#CD 人#NN ，#PU 求#VV 胜利#NN 小学#NN 四年级#NN 有#VE 学生#NN 多少#CD 人#NN ？#PU
+Instance190.#NR
+超市#NN 原有#JJ 4500#CD 千克#M 大米#NN ，#PU 买#VV 掉#VV 3000#CD 千克#M 后#LC ，#PU 又#AD 运#VV 来#MSP 1200#CD 千克#M ，#PU 现在#NT 有#VE 多少#CD 千克#M 大米#NN ？#PU
+Instance191.#NR
+五年级#JJ 同学#NN 参加#VV “#PU 大#JJ 健康#NN ，#PU 大#JJ 课间#NN ”#PU 活动#NN 有#VE 42#CD 人#NN ，#PU 其中#NN 参加#VV 跳绳#NN 队#NN 的#DEC 有#VE 30#CD 人#NN ，#PU 参加#VV 踢毽子#NR 队#NN 的#DEG 有#VE 25#CD 人#NN ，#PU 并且#CC 每人#PN 至少#AD 参加#VV 一#CD 项#M 活动#NN ，#PU 五年级#JJ 同学#NN 两项#NN 活动#NN 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance192.#NR
+光明#JJ 小学#NN 有#VE 男生#NN 368#CD 人#NN ，#PU 女生#NN 287#CD 人#NN ，#PU 已经#AD 检查#VV 身体#NN 的#DEC 有#VE 395#CD 人#NN ，#PU 还有#CC 多少#CD 人#NN 没有#VE 检查#NN 身体#NN ？#PU
+Instance193.#NR
+贝#NN 贝#NN 到#P 书店#NN 买#VV 笔记本#NN ，#PU 买#VV 5.9#CD 元#M 一本#VV 的#DEC ，#PU 差#VV 0.6#CD 元#M ，#PU 他#PN 只好#AD 买#VV 4.8#CD 元#M 一本#VV 的#DEC ，#PU 剩下#VV 的#DEC 钱#NN 正好#AD 买#VV 了#AS 一支#NR 圆珠笔#NN ．#PU 这#DT 支#M 圆珠笔#NN 多少#VV 钱#NN ？#PU
+Instance194.#NR
+一#CD 根#M 绳子#NN 长#VA 46#CD 米#M ，#PU 第一次#AD 用#P 去#VV 12.5#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 23.6#CD 米#M ，#PU 这时#AD 绳子#NN 比#P 原来#AD 短#VA 了#AS 多少#CD 米#M ？#PU
+Instance195.#NR
+被减数#NN 是#VC 308#CD ，#PU 减数#NN 是#VC 124#CD ，#PU 差#VV 大约#AD =#PU ．#PU
+Instance196.#NR
+张#NR 大伯#NN 的#DEG 一块#NN 农田#NN 去年#NT 种#VV 普通#JJ 水稻#NN ，#PU 产量#NN 是#VC 1200#CD 千克#M ．#PU 今年#NT 改#VV 播#VV 新品种#JJ 水稻#NN 后#LC 产量#NN 达到#VV 1440#CD 千克#M ，#PU 比#P 去年#NT 增产#VV 多少#CD 千克#M ？#PU
+Instance197.#NR
+一#CD 辆#M 本田#NR 轿车#NN 在#P 国内#NN 的#DEG 售价#NN 是#VC 25.48#CD 万元#M ，#PU 日本#NR 的#DEG 售价#NN 折合#VV 人民币#NN 是#VC 23.15#NT 万元#NR ．#PU 这种#NR 轿车#NN 在#P 国内#NN 购买#VV 要#VV 贵#VV 多少#CD 万元#JJ 钱#NN ．#PU
+Instance198.#NR
+芳#NR 芳#NN 有#VE 一些#CD 邮票#NN ，#PU 用#P 去#VV 18#CD 张#M ，#PU 还#AD 剩#VV 6#CD 张#M ，#PU 原来#AD 有#VE 多少#CD 张#M ．#PU
+Instance199.#NR
+直尺#NN 上#LC 的#DEG 刻度#NN 从#P 7#CD 到#CC 12#CD =#PU 多少#CD 厘米#M ．#PU
+Instance200.#NR
+一#CD 养#VV 兔#NR 专业户#NN 要#VV 出售#VV 兔子#NN 538#CD 只#M ．#PU 上个月#NN 出售#VV 168#CD 只#M ，#PU 本月#NT 出售#VV 228#CD 只#M ．#PU 养#VV 兔#NN 专业户#NN 还#AD 剩#VV 多少#CD 只#M 兔#NN ？#PU
+Instance201.#NR
+99#CD +#PU 198#CD +#PU 297#CD +#PU 396#CD +#PU 495#CD +#PU 594#CD +#PU 693#CD +#PU 792#CD +#PU 891#CD +#PU 990#CD =#PU ．#PU
+Instance202.#NR
+小#JJ 红#NN 带#VV 了#AS 980#CD 元#M 钱#NN ．#PU 买#VV 一辆#NN 自行车#NN 用#P 去#VV 276#CD 元#M ，#PU 买#VV 一台#NN 电风扇#NN 用#P 去#VV 189#CD 元#M ．#PU 小#JJ 红#NN 还#AD 剩#VV 多少#CD 元#M ？#PU
+Instance203.#NR
+公交车#NN 上#LC 有#VE 一些#CD 乘客#NN ，#PU 到#VV 了#AS 文峰#NR 大#JJ 世界#NN 下去#VV 了#AS 18#CD 人#NN 后#LC 车上#NN 还#AD 剩#VV 16#CD 人#NN ．#PU 公交车#NN 上#LC 原有#JJ 乘客#NN 多少#CD 人#NN ？#PU
+Instance204.#NR
+比#P 6.7#CD 少#VV 0.9#CD 的#DEG 数#NN =#PU ．#PU
+Instance205.#NR
+芳#NR 芳#NR 家#NN 4#CD 月份#NN 用水#NN 13.4#CD 吨#M ，#PU 比#P 上个月#NN 节约#VV 了#AS 1.6#CD 吨#M ，#PU 芳#NR 芳#NR 家#NN 上个月#NN 用水#VV 多少#CD 吨#M ？#PU
+Instance206.#NR
+在#P 计算#VV 82#CD +#PU 47#CD -#PU 11#CD 时#LC ，#PU 应#VV 先#AD 算#VV 多少#CD 法#NN ，#PU 再#AD 算#VV 多少#CD 法#NN ，#PU 结果#AD 得#VV 多少#CD ．#PU
+Instance207.#NR
+小马#NN 在#P 做#VV 一#CD 题#NN 数学题#NN 时#LC ，#PU 把#BA 第#OD 二#CD 个#M 加数#NN 135#CD 看成#VV 531#CD ，#PU 结果#AD 算#VV 出来#VV 的#DEC 和#CC 是#VC 716#CD ，#PU 你#PN 知道#VV 正确#JJ 的#DEG 结果#NN =#PU ？#PU
+Instance208.#NR
+某班#VV 有#VE 学生#NN 40#CD 人#NN ，#PU 对#P 数学#NN 有#VE 兴趣#NN 的#DEC 有#VE 17#CD 人#NN ，#PU 对#P 音乐#NN 有#VE 兴趣#NN 的#DEC 有#VE 13#CD 人#NN ，#PU 两样#VA 都#AD 有#VE 兴趣#NN 的#DEC 有#VE 8#CD 人#NN ．#PU 两样#VA 都#AD 没有#VE 兴趣#NN 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance209.#NR
+白猫#NN 上周#NT 钓#VV 了#AS 128#CD 条#M 鱼#NN ，#PU 白猫#VV 钓#VV 的#DEC 比#P 花猫#NN 多#VA 14#CD 条#M ．#PU 花猫#NN 在#P 上#DT 一周#NN 钓#VV 了#AS 多少#CD 条#M 鱼#NN ？#PU
+Instance210.#NR
+游乐园#NN 上午#NT 有#VE 游客#NN 752#CD 人#NN ，#PU 中午#NT 有#VE 386#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 122#CD 人#NN ，#PU 这时#AD 游乐园#NN 内#LC 有#VE 多少#CD 游客#NN ？#PU
+Instance211.#NR
+把#BA 5.8#CD 改写#VV 成#VV 用#P “#PU 千分之一#CD ”#PU 作#NN 单位#NN 的#DEG 数#NN =#PU ．#PU
+Instance212.#NR
+某校#NR 有#VE 学生#NN 1028#CD 人#NN ，#PU 六年级#NT 毕业#VV 189#CD 人#NN ，#PU 一年级#CD 新#JJ 招生#NN 208#CD 人#NN ，#PU 现在#NT 全校#NN 有#VE 多少#CD 人#NN ？#PU
+Instance213.#NR
+小#JJ 红#JJ 昨天#NT 和#P 今天#NT 共#AD 做#VV 了#AS 16#CD 道#M 题#NN ，#PU 昨天#NT 做#VV 了#AS 10#CD 道#M ，#PU 小#JJ 红#NN 今天#NT 做#VV 了#AS 几道#NN 题#NN ？#PU
+Instance214.#NR
+甲#NN 、#PU 乙#NN 、#PU 丙#NN 3#CD 只#M 蚂蚁#NN 爬行#VV 的#DEC 速度#NN 之#DEG 比#NN 是#VC 8#CD ：#PU 6#CD ：#PU 5#CD ，#PU 它们#PN 沿#P 一个#CD 圆圈#NN 从#P 同#P 一点#CD 同时#AD 同#AD 向#P 爬行#VV ，#PU 当#P 它们#PN 首次#AD 同时#AD 回到#VV 出发点#NN 时#LC ，#PU 就#AD 结束#VV 爬行#VV ．#PU 问#VV 蚂蚁#NN 甲#NN 追#VV 上#VV 蚂蚁#NN 乙#NN 一共#AD 多少#CD 次#M （#PU 包括#VV 结束#VV 时刻#NN ）#PU ？#PU
+Instance215.#NR
+红领巾#NR 小学#NN 买来#VV 皮球#NN 380#CD 个#M ，#PU 足球#NN 70#CD 个#M ，#PU 课外活动#VV 时#LC 借出去#VV 423#CD 个#M ，#PU 现在#NT 学校#NN 还#AD 剩#VV 多少#CD 个#M 球#NN ？#PU
+Instance216.#NR
+某#DT 食堂#NN 十#CD 月份#NN 买#VV 面粉#NN 用#P 去#VV 982.4#CD 元#M ，#PU 比#P 买#VV 大米#NN 多用#VV 去#VV 506.23#CD 元#M ．#PU 买#VV 大米#NN 用#P 去#VV 多少#CD 元#M ？#PU
+Instance217.#NR
+期中考试#NN 中#LC ，#PU 我们#PN 班#NN 语文#NN 优秀#VA 的#DEC 有#VE 28#CD 人#NN ，#PU 数学#NN 优秀#VA 的#DEC 有#VE 25#CD 人#NN ．#PU 全班#NN 共有#VV 的#DEC 35#CD 人#NN 中#LC 两门#NR 都#AD 优秀#VA 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance218.#NR
+小#JJ 敏#NN 和#CC 小#JJ 江#NN 背对背#NN 站立#VV ，#PU 小#JJ 敏#NN 向北走#NR 150#CD 米#M ，#PU 小#JJ 江#NN 向南走#NR 120#CD 米#M ，#PU 两#CD 人#NN 相距#VV 多少#CD 米#M ．#PU
+Instance219.#NR
+养鱼池#NN 里#LC 有#VE 140#CD 条#M 红#JJ 金鱼#NN ，#PU 比#P 黄金#NN 鱼#NN 少#AD 45#CD 条#M ，#PU 黄金#NN 鱼#NN 有#VE 多少#CD 条#M ？#PU
+Instance220.#NR
+学校#NN 买来#VV 一批#NN 新书#NN ，#PU 借给#VV 同学#NN 275#CD 本#M ，#PU 还#AD 剩#VV 225#CD 本#M ．#PU 这#DT 批#M 新书#NN 中#LC 有#VE 科普知识#NR 291#CD 本#M ，#PU 其余#DT 的#DEG 是#VC 故事书#NN ．#PU 故事书#NN 有#VE 多少#CD 本#M ？#PU
+Instance221.#NR
+2008#CD 年#M 小#JJ 明#NN 9#CD 岁#M 了#SP ，#PU 他#PN 的#DEG 出生#NN 年份#NN =#PU ．#PU
+Instance222.#NR
+在#P 植树#NN 活动#NN 中#LC ，#PU 一年级#AD 有#VE 372#CD 人#NN 参加#VV ，#PU 二年级#NT 参加#VV 的#DEC 人数#NN 比#P 一年级#NN 少#VA 83#CD 人#NN ，#PU 二年级#NT 有#VE 多少#CD 人#NN 参加#VV ？#PU
+Instance223.#NR
+计算#VV 15.38#CD -#PU 3.99#CD +#PU 6.72#CD -#PU 9.01#NT =#PU ．#PU
+Instance224.#NR
+今天#NT 妈妈#NN 买#VV 了#AS 两种#NN 水果#NN ，#PU 买#VV 梨花#NN 了#AS 3.50#CD 元#M ，#PU 买#VV 苹果花#NN 了#AS 4.80#CD 元#M ．#PU 妈妈#NN 今天#NT 买#VV 水果#NN 共#AD 花#VV 了#AS 多少#CD 元#M ？#PU
+Instance225.#NR
+三年级#NT （#PU 1#CD ）#PU 班#NN 有#VE 42#CD 名#M 同学#NN 订阅#VV 《#PU 少年报#NN 》#PU 的#DEC 有#VE 31#CD 名#M 同学#NN ，#PU 订阅#VV 《#PU 童话#NN 报#NN 》#PU 的#DEC 有#VE 27#CD 名#M 同学#NN ，#PU 每人#PN 至少#AD 订#VV 其中#NN 一份#AD 报纸#NN ，#PU 有#VE 多少#CD 名#M 同学#NN 既#AD 订#VV 《#PU 少年报#NN 》#PU 又#AD 订#VV 《#PU 童话#NN 报#NN 》#PU ？#PU
+Instance226.#NR
+小#JJ 明#NN 看#VV 一本#CD 430#CD 页#M 的#DEG 书#NN ，#PU 第一天#AD 看#VV 了#AS 147#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 108#CD 页#M ．#PU 这#DT 本书#NN 小#JJ 明#NN 还有#CC 多少#CD 页#M 没#AD 看#VV ？#PU
+Instance227.#NR
+69#CD +#PU 18#CD +#PU 23#CD +#PU 31#CD +#PU 82#CD =#PU ．#PU
+Instance228.#NR
+图书馆#NN 有#VE 故事书#NN 15.42#CD 万册#NN ．#PU 比#P 科技#NN 书#NN 少#AD 5.8#CD 万册#M ，#PU 科技#NN 书#NN 有#VE 多少#CD 万册#NN ？#PU
+Instance229.#NR
+车上#NN 原有#JJ 乘客#NN 45#CD 人#NN ，#PU 到#VV 中转站#NN 后#LC 下去#VV 了#AS 10#CD 人#NN ，#PU 上来#VV 了#AS 12#CD 人#NN ，#PU 现在#NT 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance230.#NR
+医院#NN 有#VE 男同志#NN 200#CD 人#NN ，#PU 女#JJ 同志#NN 168#CD 人#NN ，#PU 已经#AD 检查#VV 身体#NN 的#DEC 有#VE 316#CD 人#NN ，#PU 没有#VE 检查#NN 身体#NN 的#DEG 有#VE 多少#CD 人#NN ．#PU
+Instance231.#NR
+养鸡场#NN 运#NN 来#MSP 500#CD 袋#M 饲料#NN ，#PU 喂鸡#NN 用#VV 了#AS 128#CD 袋#M ，#PU 喂猪#VV 用#VV 了#AS 343#CD 袋#M ，#PU 还#AD 剩下#VV 多少#CD 袋#NN ？#PU
+Instance232.#NR
+校#NN 栽#VV 了#AS 45#CD 棵#M 杨树#NN ，#PU 柳树#NN 比#P 杨树#NN 少#VA 17#CD 棵#M ，#PU 水#NN 杉树#NN 比#P 柳树#NN 多#VA 31#CD 棵#M ．#PU 水#NN 杉树#NN 有#VE 多少#CD 棵#M ？#PU
+Instance233.#NR
+11#CD +#PU 88#CD +#PU 66#CD +#PU 33#CD +#PU 77#CD +#PU 55#CD =#PU ．#PU
+Instance234.#NR
+3#CD （#PU 1#CD ）#PU 班#NN 有#VE 36#CD 名#M 男生#NN ，#PU 有#VE 20#CD 名#M 男生#NN 爱#VV 打篮球#VV ，#PU 有#VE 26#CD 名#M 男生#NN 爱#VV 踢足球#NN ，#PU 没有#AD 不#AD 爱#VV 打球#VV 的#DEC 人#NN ．#PU 一共#AD 有#VE 几名#NN 男生#NN 既#CC 爱#VV 打篮球#NN 又#AD 爱#VV 踢足球#NN ？#PU
+Instance235.#NR
+计算#VV 1.135#CD +#PU 3.346#CD +#PU 5.557#CD +#PU 7.768#CD +#PU 9.979#CD =#PU ．#PU
+Instance236.#NR
+一#CD 瓶#M 饮料#NN 1.25#CD 升#VV ，#PU 喝#VV 了#AS 一些#CD 后#LC 还#AD 剩#VV 0.75#CD 升#VV ．#PU 喝#VV 了#AS 多少#CD 升#VV ？#PU
+Instance237.#NR
+修#VV 一条#NN 水渠#NN ，#PU 已经#AD 修#VV 了#AS 42#CD 千米#M ，#PU 剩下#VV 18#CD 千米#M ，#PU 这#DT 条#M 水渠#NN 有#VE 多长#NN ？#PU
+Instance238.#NR
+三年级#NT 有#VE 女生#NN 38#CD 人#NN ，#PU 男生#NN 44#CD 人#NN ．#PU 三年级#NT 共有#VV 多少#CD 人#NN ？#PU
+Instance239.#NR
+11#CD +#PU 22#CD +#PU 33#CD +#PU 44#CD +#PU 55#CD +#PU 66#CD +#PU 69#CD =#PU ．#PU
+Instance240.#NR
+569#CD +#PU 384#CD +#PU 147#CD -#PU 328#CD -#PU 167#CD -#PU 529#CD =#PU ．#PU
+Instance241.#NR
+某日#NT 傍晚#NT ，#PU 气温#NN 从#P 中午#NT 的#DEG 零#CD 上#LC 5#CD °#M C#NN 下降#VV 到#VV 零下#AD 1#CD °#M C#NN ，#PU 气温#NN 下降#VV 了#AS 多少#CD °#M C#FW ．#PU
+Instance242.#NR
+到#P 北京站#NR 之前#LC ，#PU 火车#NN 上#LC 有#VE 乘客#NN 915#CD 人#NN ，#PU 在#P 北京站#NR 下车#VV 的#DEC 乘客#NN 有#VE 307#CD 人#NN ．#PU 上层#NN 的#DEG 乘客#NN 有#VE 289#CD 人#NN ．#PU 火车#NN 从#P 北京站#NR 开出#VV 后#LC ，#PU 车上#NN 有#VE 乘客#NN 多少#CD 人#NN ？#PU
+Instance243.#NR
+30#CD 名#M 学生#NN 报名#VV 参加#VV 美术#NN 小组#NN ．#PU 其中#NN 有#VE 26#CD 人#NN 参加#VV 了#AS 美术组#NN ，#PU 17#CD 人#NN 参加#VV 了#AS 书法#NN 组#NN ．#PU 问#VV 两个#CD 组#M 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance244.#NR
+小#JJ 松鼠#NN 摘#VV 了#AS 159#CD 颗#M 松果#NN ，#PU 松鼠#NN 妈妈#NN 摘#VV 了#AS 258#CD 颗#M 松果#NN ．#PU 小#JJ 松鼠#NN 和#CC 松鼠#NN 妈妈#NN 一共#AD 摘#VV 了#AS 多少#CD 颗#M 松果#NN ？#PU
+Instance245.#NR
+王#NR 伯伯#NN 家养#NN 了#SP 18#CD 只#M 鸭#NN ，#PU 比#P 鸡#NN 多#VA 12#CD 只#M ，#PU 要#VV 使#VV 鸭#NN 的#DEG 只#AD 数#CD 比#CC 鸡#NN 多#VA 8#CD 只#M ，#PU 王#NR 伯伯#NN 家#NN 还要#AD 买#VV 多少#CD 只#M 鸡#NN ．#PU
+Instance246.#NR
+699999#CD +#PU 69999#CD +#PU 6999#CD +#PU 699#CD +#PU 69#CD =#PU ．#PU
+Instance247.#NR
+一#CD 个数#NN 加上#VV 250#CD 得#VV 420#CD ．#PU 这个#DT 数#NN =#PU ？#PU
+Instance248.#NR
+计算#VV ：#PU 1999.9#NT +#PU 199.9#NT +#PU 19.9#NT +#PU 1.9#CD =#PU ．#PU
+Instance249.#NR
+学校#NN 舞蹈队#NN 原有#JJ 28#CD 人#NN ，#PU 今年#NT 有#VE 12#CD 人#NN 离开#VV 舞蹈队#NN ，#PU 后来#AD 又#AD 新#AD 加入#VV 16#CD 人#NN ，#PU 现在#NT 舞蹈队#NN 有#VE 多少#CD 人#NN ？#PU
+Instance250.#NR
+在#P 一次#AD 跳远#NN 比赛#NN 中#LC ，#PU 小强#NR 跳#VV 了#AS 3.06#CD 米#M ，#PU 小#JJ 新#JJ 比#P 小强#NN 少#AD 跳#VV 了#AS 0.18#CD 米#M ，#PU 小#JJ 宇#NN 比#P 小#JJ 新#VA 多#AD 跳#VV 了#AS 0.32#CD 米#M ．#PU 小#JJ 宇#NR 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance251.#NR
+小#JJ 方#NN 看#VV 一本#NN 故事书#NN ，#PU 看#VV 了#AS 64#CD 页#M ，#PU 还有#CC 28#CD 页#M 没有#AD 看#VV ．#PU 这本#AD 故事书#NN 有#VE 多少#CD 页#M ？#PU
+Instance252.#NR
+百货商店#NN 微波炉#NN 505#CD 元#M ，#PU 电磁炉#NN 320#CD 元#M ，#PU 妈妈#NN 买来#VV 一个#CD 微波炉#NN 和#CC 电磁炉#NN ，#PU 一共#AD 要#VV 花#VV 多少#CD 元#M 钱#NN ？#PU
+Instance253.#NR
+计算#VV ：#PU 2004#NT +#PU 2005#NT +#PU 2006#NT +#PU 2007#NT +#PU 2008#NT +#PU 2009#NT +#PU 2010#NT =#PU ．#PU
+Instance254.#NR
+王#NR 芳#NR 身高#NN 1.30#CD 米#M ，#PU 爸爸#NN 比#P 她#PN 高#VA 0.54#CD 米#M ，#PU 爸爸#NN 的#DEG 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance255.#NR
++50#NR 表示#VV 在#P 起点#NN 的#DEG 东边#NN 50#CD 米处#NN ．#PU 如果#CS 小#JJ 佳#NN 从#P 起点#NN 先#AD 向东走#VV 280#CD 米#M 后#LC 再#AD 向#P 西#NN 走#VV 350#CD 米#M ，#PU 那么#AD 小#JJ 佳#NN 这时#NT 的#DEG 位置#NN 可以#VV 表示#VV 为#VC 多少#CD ．#PU
+Instance256.#NR
+总务处#NN 的#DEG 王老师#NN 买来#VV 白粉笔#NN 112#CD 盒#M ，#PU 红#JJ 粉笔#NN 89#CD 盒#M ，#PU 买来#VV 的#DEC 黄#JJ 粉笔#NN 比#P 白粉笔#NN 和#CC 红#JJ 粉笔#NN 的#DEC 总数#NN 少#AD 121#CD 盒#M ．#PU 黄#JJ 粉笔#NN 买#VV 了#AS 多少#CD 盒#M ？#PU
+Instance257.#NR
+二年级#NT 同学#NN 去#VV 看#VV 电影#NN ，#PU 买#VV 了#AS 82#CD 张#M 票#NN ，#PU 后来#AD 退#VV 了#AS 9#CD 张#M ．#PU 二年级#NT 有#VE 多少#CD 同学#NN 看#VV 了#AS 电影#NN ．#PU
+Instance258.#NR
+计算#VV ：#PU 59#CD +#PU 599#CD +#PU 5999#CD +#PU 59999#CD =#PU ．#PU
+Instance259.#NR
+学校#NN 图书室#NN 原有#JJ 故事书#NN 907#CD 本#M ，#PU 借出去#VV 416#CD 本#M ，#PU 后来#AD 又#AD 还#AD 回来#VV 245#CD 本#M ，#PU 图书室#NN 现在#NT 有#VE 故事书#NN 多少#CD 本#M ？#PU
+Instance260.#NR
+图书馆#NN 有#VE 图书#NN 1000#CD 本#M ．#PU 四年级#NN 借#VV 走#VV 126#CD 本#M ，#PU 五年级#NT 借#VV 走#VV 174#CD 本#M ．#PU 图书馆#NN 还#AD 剩#VV 图书#NN 多少#CD 本#M ？#PU
+Instance261.#NR
+3#CD +#PU 5#CD +#PU 6#CD -#PU 14#CD =#PU ．#PU
+Instance262.#NR
+少先队员#NN 参加#VV 植树#NN 活动#NN ，#PU 五年级#NT 植树#VV 123#CD 棵#M ，#PU 四年级#NN 比#P 五年级#NT 子#NN 多#AD 植树#VV 21#CD 棵#M ，#PU 四年级#NT 植树#VV 多少#CD 棵#M ？#PU
+Instance263.#NR
+我们#PN 班#NN 有#VE 68#CD 人#NN ，#PU 参加#VV 体育#NN 队#NN 的#DEC 有#VE 43#CD 人#NN ，#PU 参加#VV 舞蹈队#NN 的#DEC 有#VE 38#CD 人#NN ，#PU 每人#PN 至少#AD 参加#VV 一#CD 个#M 队#NN ，#PU 那么#AD 这个#DT 班#NN 两队#NN 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance264.#NR
+食堂#NN 购进#VV 大米#NN 320#CD 千克#M ，#PU 吃#VV 了#AS 296#CD 千克#M ，#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance265.#NR
+黑白#JJ 团队#NN 在#P 一个#CD 黑漆漆#NN 的#DEG 山#NN 庙里#NN 点#NN 上#LC 了#AS 24#CD 支#M 蜡烛#NN ．#PU 突然#AD 一阵风#AD 吹灭#VV 了#AS 5#CD 支#M 蜡烛#NN ；#PU 过#VV 了#AS 一会#AD ，#PU 又#AD 被#SB 吹灭#VV 了#AS 4#CD 支#M ；#PU 这时#NT 奥#NR 斑马#NN 把#BA 窗子#NN 都#AD 关上#VV ，#PU 之后#AD 就#AD 再也#AD 没有#VE 蜡烛#NN 被#SB 吹灭#VV ．#PU 那么#AD ，#PU 山#NN 庙里#NN 最后#AD 还#AD 剩下#VV 多少#CD 支#M 蜡烛#NN ．#PU
+Instance266.#NR
+一#CD 个#M 粮店#NN 原来#AD 有#VE 大米#NN 560#CD 千克#M ，#PU 卖出#VV 298#OD 千克#M 后#LC 又#AD 运#VV 来#MSP 239#CD 千克#M ，#PU 现在#NT 粮店#NN 有#VE 大米#NN 多少#CD 千克#M ？#PU
+Instance267.#NR
+甲#NN 、#PU 乙#NN 两班#NN 共有#VV 学生#NN 104#CD 人#NN ，#PU 乙#NN 、#PU 丙#NN 两班#NN 共有#VV 学生#NN 106#CD 人#NN ，#PU 丙#NN 、#PU 丁#NN 两班#NN 共有#VV 学生#NN 101#CD 人#NN ．#PU 甲#NN 、#PU 丁#NN 两班#NN 共有#VV 多少#CD 人#NN ？#PU
+Instance268.#NR
+小#JJ 吴#NR 是#VC 一个#CD 菜农#NN ，#PU 他#PN 星期一#NT 去#VV 蔬菜#NN 批发市场#VV 运#NN 来#MSP 46.5#VV 千克#M 白菜#NN ，#PU 星期#NN 二#CD 卖掉#VV 了#AS 33.9#CD 千克#M 白菜#NN ，#PU 星期#NN 3#CD 又#AD 从#P 批发市场#NN 运#NN 来#MSP 50.5#CD 千克#M 白菜#NN ，#PU 最后#AD 剩下#VV 多少#CD 千克#M 白菜#NN ？#PU
+Instance269.#NR
+商店#NN 里#LC 有#VE 760#CD 箱#M 矿泉水#NN ，#PU 上午#NT 卖出#VV 172#CD 箱#M ，#PU 下午#NT 卖出#VV 204#CD 箱#M ，#PU 还#AD 剩#VV 多少#CD 箱#NN ？#PU
+Instance270.#NR
+小#JJ 明#AD 买#VV 足球#NN 和#CC 篮球#NN 共用#JJ 了#AS 65.76#CD 元#M ，#PU 已知#VV 买#VV 足球#NN 用#VV 了#AS 42.86#CD 元#M ，#PU 买#VV 篮球#NN 用#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance271.#NR
+被减数#NR 是#VC 850#CD ，#PU 减数#NN 是#VC 354#CD ，#PU 差#NN =#PU ？#PU
+Instance272.#NR
+某班#VV 有#VE 30#CD 人#NN 参加#VV 长跑#NN 和#CC 乒乓#NN 比赛#NN ．#PU 其中#NN 参加#VV 乒乓#NN 比赛#NN 的#DEC 有#VE 16#CD 人#NN ，#PU 参加#VV 长跑#NN 的#DEC 有#VE 23#CD 人#NN ，#PU 两种#NN 比赛#NN 都#AD 参加#VV 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance273.#NR
+1057#CD 比#CC 846#CD 多#AD 多少#CD ？#PU
+Instance274.#NR
+一#CD 本书#NN ，#PU 这个#DT 星期#NN 的#DEG 前#JJ 3#CD 天#M 我#PN 看#VV 了#AS 78#CD 页#M ，#PU 后#DT 4#CD 天#M 我#PN 看#VV 了#AS 余下#JJ 的#DEG 125#CD 页#M ，#PU 这#DT 本书#NN 共有#VV 多少#CD 页#M ？#PU
+Instance275.#NR
+食堂#NN 买来#VV 78#CD 千克#M 洋白菜#NN ，#PU 吃#VV 去#VV 20#CD 千克#M ，#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance276.#NR
+小#JJ 光#AD 买#VV 了#AS 一个#CD 价格#NN 是#VC 2.3#CD 元#M 的#DEG 卷#NN 笔#NN 到#VV 刀#NN ，#PU 付#VV 了#AS 5#CD 元#M 钱#NN ，#PU 应#VV 找回#VV 多少#CD 元#M ．#PU
+Instance277.#NR
+小#JJ 方#NN 看#VV 一本#CD 548#CD 页#M 的#DEG 书#NN ．#PU 第一天#AD 看#VV 了#AS 146#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 207#CD 页#M ．#PU 这#DT 本书#NN 还有#CC 多少#CD 页#M 没#AD 看#VV ？#PU
+Instance278.#NR
+北京#NR 时间#NN 7#CD 月#NN 29#CD 日#M ，#PU 2012#CD 伦敦#NR 奥运会#NR 女子#NN 10#CD 米#M 气手枪#NN 决赛#NN ．#PU 中国#NR 选手#NN 郭#NR 文#NN 珺#NN 以#P 总成绩#NN 488.1#CD 环#M 夺冠#VV ，#PU 法国#NR 选手#NN 席#NN 琳#VV •#NN 格#NN 贝维勒#NR 以#P 总成绩#NN 486.6#CD 环#M 夺得#VV 银牌#NN ．#PU 郭#NR 文#NN 瑶#NR 比#P 法国#NR 选手#NN 席#NN 琳#VV •#NN 格#NN 贝维勒#NR 高出#VV 多少#CD 环#NN ？#PU
+Instance279.#NR
+小#JJ 方#NN 读#VV 一本#NN 故事书#NN ，#PU 已经#AD 读#VV 了#AS 42#CD 页#M ，#PU 比#P 剩下#VV 的#DEC 少#AD 9#CD 页#M ．#PU 这#DT 本书#NN 还#AD 剩下#VV 多少#CD 页#M ？#PU
+Instance280.#NR
+某#DT 水电#NN 运进#VV 苹果#NN 657#CD 千克#M ，#PU 卖出#VV 569#CD 千克#M 后#LC ，#PU 又#AD 运进#VV 了#AS 300#CD 千克#M ，#PU 这#PN 是#VC 水果店#NN 有#VE 苹果#NN 多少#CD 千克#M ？#PU
+Instance281.#NR
+我们#PN 学校#NN 共有#VV 男生#NN 262#CD 人#NN ，#PU 女生#NN 253#CD 人#NN ，#PU 全校#NN 共有#VV 学生#NN 多少#CD 人#NN ．#PU
+Instance282.#NR
+小#JJ 明#NN 买#VV 笔#NN 用#VV 了#AS 15.5#CD 元#M ，#PU 买#VV 书#NN 用#VV 了#AS 24.6#CD 元#M ，#PU 小#JJ 明#NN 一#CD 共用#JJ 了#AS 多少#CD 钱#NN ．#PU
+Instance283.#NR
+月#NN 月#NN 水果#NN 批发部#NN 共有#VV 600#CD 千克#M 水果#NN ，#PU 其中#NN 苹果#NN 267#CD 千克#M ，#PU 橘子#NN 124#CD 千克#M ，#PU 其余#DT 的#DEG 都#AD 是#VC 梨#NN ．#PU 梨#NN 有#VE 多少#CD 千克#M ？#PU
+Instance284.#NR
+两#CD 数#NN 相加#VV ，#PU 和#CC 是#VC 15.9#CD ，#PU 如果#CS 一个#CD 加数#NN 减少#VV 6.2#CD ，#PU 另#AD 一个#CD 加数#AD 增加#VV 2.4#CD ，#PU 和#P 应变#VV 为#VV 多少#CD ．#PU
+Instance285.#NR
+一#CD 辆#M 公共汽车#NN ，#PU 开车#VV 时#LC 车#NN 时#LC 上来#VV 31#CD 人#NN ，#PU 到#P 站#NN 时#LC ，#PU 下去#VV 19#CD 人#NN ，#PU 又#AD 上来#VV 26#CD 人#NN ，#PU 现在#NT 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance286.#NR
+育才#NR 学校#NN 有#VE 男生#NN 785#CD 人#NN ，#PU 女生#NN 576#CD 人#NN ，#PU 育才#NR 学校#NN 一共#AD 有#VE 学生#NN 多少#CD 人#NN ？#PU
+Instance287.#NR
+笑笑#VV 的#DEC 身高#NN 是#VC 1.25#CD 米#M ．#PU 淘气#VV 比#P 笑笑#VV 高#JJ 0.05#CD 米#M ，#PU 但#AD 比#P 小#JJ 立#NN 矮#JJ 0.3#CD 米#M ．#PU 小#JJ 立#NN 的#DEG 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance288.#NR
+甲#NN 、#PU 乙#NN 两#CD 数#NN 的#DEG 和#CC 是#VC 21#CD ，#PU 甲#CD 数#NN 是#VC 18.2#CD ，#PU 乙#NN 数#NN =#PU ．#PU
+Instance289.#NR
+有#VE 不同#VA 的#DEC 语文#NN 书#NN 5#CD 本#M ，#PU 数学#NN 书#NN 6#CD 本#M ，#PU 英语书#NN 3#CD 本#M ，#PU 自然#JJ 书#NN 2#CD 本#M ．#PU 从中#AD 任#VV 取#VV 一本#NN ，#PU 共有#VV 多少#CD 种#M 取法#NN ．#PU
+Instance290.#NR
+一#CD 本书#NN 有#VE 162#CD 页#M ，#PU 第一天#AD 小#JJ 明#NN 看#VV 了#AS 35#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 45#CD 页#M ，#PU 两天#NN 后#LC 剩下#VV 多少#CD 页#M ？#PU
+Instance291.#NR
+一#CD 根#M 3.7#CD 米#M 长#VA 的#DEC 竹竿#NN 垂直#JJ 插入#VV 水池#NN 中#LC ，#PU 竹竿#NN 的#DEG 入#VV 泥#NN 部分#NN 是#VC 0.4#CD 米#M ，#PU 池#NN 水深#NN 2.5#CD 米#M ，#PU 你#PN 知道#VV 露出#VV 水面#NN 的#DEC 部分#NN =#PU 多少#CD 米#M ？#PU
+Instance292.#NR
+学校#NN 图书馆#NN 有#VE 科技#NN 书#NN 358#CD 本#M ，#PU 比#P 故事书#NN 少#VA 274#CD 本#M ．#PU 故事书#NN 有#VE 多少#CD 本#M ？#PU
+Instance293.#NR
+一#CD 件#M 儿童#NN 上衣#NN 68#CD 元#M ，#PU 比#P 裤子#NN 便宜#VA 12#CD 元#M ，#PU 一双#AD 鞋#NN 又#AD 比#P 裤子#NN 贵#VV 18#CD 元#M ，#PU 这#DT 双#CD 鞋#NN 多少#CD 元#M ？#PU
+Instance294.#NR
+西岳华山#NR 高#JJ 2160#CD 米#M ，#PU 比#P 东岳泰山#NR 高#VA 628#CD 米#M ，#PU 东岳泰山#NR 高#JJ 多少#CD 米#M ？#PU
+Instance295.#NR
+张#NR 英#NR 、#PU 李强#NR 、#PU 肖#NR 红#NN 参加#VV 跳高#NN 比赛#NN ，#PU 张#NR 英#NR 跳#VV 的#DEC 高度#NN 是#VC 1.1#CD 米#M ，#PU 李强#NR 比#P 张#NR 英#NR 跳#VV 得#DER 高#VA 0.15#CD 米#M ，#PU 肖#NR 红#JJ 比#P 李强#NR 跳#VV 得#DER 低#VA 0.09#CD 米#M ，#PU 肖#NR 红#JJ 跳#NN 过#VV 了#AS 多少#CD 米#M ？#PU
+Instance296.#NR
+张#NR 伯伯#NN 有#VE 240#CD 千克#M 西瓜#NN ，#PU 上午#NT 卖#VV 了#AS 36#CD 千克#M ，#PU 下午#NT 卖#VV 了#AS 45#CD 千克#M ，#PU 一共#AD 卖#VV 了#AS 多少#CD 千克#M ？#PU
+Instance297.#NR
+计算#VV ：#PU 1997#NT +#PU 1996#NT +#PU 1004#CD +#PU 1006#CD +#PU 1994#NT +#PU 1003#CD =#PU ．#PU
+Instance298.#NR
+比#P 470#CD 多#AD 320#CD 的#DEG 数#NN =#PU ．#PU
+Instance299.#NR
+同学#NN 们#NN 做#VV 纸花#NN ．#PU 做#VV 红花#NN 371#CD 朵#M ，#PU 做#VV 黄花#NR 168#CD 朵#M ，#PU 做#VV 白花#NN 的#DEC 朵#M 数#NN 比#P 红花#NN 和#CC 黄花#NR 的#DEG 总#JJ 朵#M 数#NN 少#AD 35#CD 朵#M ，#PU 同学#NN 们#NN 做#VV 白花#VV 多少#CD 朵#M ？#PU
+Instance300.#NR
+三年级#NT 有#VE 107#CD 个#M 小朋友#NN 去#VV 春游#NN ，#PU 带#VV 矿泉水#NN 的#DEC 有#VE 78#CD 人#NN ，#PU 带#VV 水果#NN 的#DEC 有#VE 77#CD 人#NN ，#PU 每人#PN 至少#AD 带#VV 一样#VA ．#PU 三年级#NT 既#CC 带#VV 矿泉水#NN 又#AD 带#VV 水果#NN 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance301.#NR
+按#P 规律#NN 填#VV 数#CD ：#PU 1#CD ，#PU 3#CD ，#PU 4#CD ，#PU 7#CD ，#PU 11#CD ，#PU 多少#CD ，#PU 29#CD ．#PU
+Instance302.#NR
+一#CD 件#M 上衣#NN 200#CD 元#M ，#PU 一条#NN 裤子#NN 比#P 上衣#NN 便宜#VA 27#CD 元#M ，#PU 一条#NN 裤子#NN 多少#CD 钱#NN ．#PU
+Instance303.#NR
+仓库#NN 里#LC 原有#JJ 煤#NN 11.58#CD 吨#M ，#PU 又#AD 运#VV 来#VV 15#CD 吨#M ，#PU 用#P 去#VV 5.85#CD 吨#M ，#PU 还#AD 剩下#VV 多少#CD 吨#M ？#PU
+Instance304.#NR
+在#P 学校#NN 举行#VV 的#DEC 跳高#NN 比赛#NN 中#LC ，#PU 小#JJ 明#NN 跳#VV 了#AS 0.74#CD 米#M ，#PU 比#P 小#JJ 红#JJ 高#JJ 0.13#CD 米#M ，#PU 小#JJ 军#NN 又#AD 比#P 小#NN 红#VA 高#VA 0.36#CD 米#M ．#PU 小#JJ 军#NN 跳#VV 了#AS 多#AD 高#VA ？#PU
+Instance305.#NR
+计算#VV ：#PU 667#CD +#PU 458#CD +#PU 345#CD +#PU 542#CD +#PU 333#CD =#PU ．#PU
+Instance306.#NR
+商店#NN 运进#VV 10.5#CD 吨#M 大米#NN ，#PU 第一天#AD 卖出#VV 4.39#CD 吨#M ，#PU 第#OD 二#CD 天#M 卖出#VV 4.18#CD 吨#M ．#PU 哪#DT 天#M 卖出#VV 的#DEC 多#VA ？#PU 多#AD 多少#CD 吨#M ？#PU
+Instance307.#NR
+两个#CD 数#CD 的#DEG 和#CC 是#VC 870#CD ，#PU 其中#NN 一个#CD 加数#NN 是#VC 471#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ？#PU
+Instance308.#NR
+林场#NN 有#VE 2800#CD 棵#M 杨树#NN ，#PU 柳树#NN 比#P 杨树#NR 多#AD 1500#CD 棵#M ，#PU 松树#NN 比#P 柳树#NN 少#VA 120#CD 棵#M ．#PU 松树#NN 有#VE 多少#CD 棵#M ？#PU
+Instance309.#NR
+小#JJ 芳#NR 今年#NT 15#CD 岁#M ，#PU 她#PN 3#CD 年前#NN 的#DEC 年龄#NN 与#CC 小#JJ 云#NN 2#CD 年#M 后#LC 的#DEG 年龄#NN 相等#VV ．#PU 小#JJ 云#NN 今年#NT 多少岁#VV ．#PU
+Instance310.#NR
+果园#NN 里#LC 有#VE 桃树#NN 289#CD 棵#M ，#PU 梨树#NN 比#P 桃树#NN 多#VA 118#CD 棵#M ，#PU 果园#NN 里#LC 有#VE 梨树#NN 多少#CD 棵#M ？#PU
+Instance311.#NR
+实验#NN 小学#NN 三年级#NN 有#VE 86#CD 人#NN 被#SB 选中#VV 去#VV 参加#VV 跳绳#NN 比赛#NN ，#PU 还#AD 剩下#VV 179#CD 人#NN ，#PU 你#PN 知道#VV 三年级#NN 有#VE 多少#CD 人#NN ？#PU
+Instance312.#NR
+比#P 300#CD 少#VV 105#CD 的#DEG 数#NN =#PU ．#PU
+Instance313.#NR
+3#CD （#PU 一#CD ）#PU 班#NN 有#VE 学生#NN 55#CD 人#NN ，#PU 每人#PN 至少#AD 参加#VV 赛跑#NN 和#CC 跳绳#NN 比赛#NN 中#LC 的#DEG 一种#NN ．#PU 已知#VV 参加#VV 赛跑#NN 的#DEC 有#VE 36#CD 人#NN ，#PU 参加#VV 跳绳#NN 的#DEC 人#NN 有#VE 38#CD 人#NN ．#PU 问#VV 这两项#NR 比赛#NN 都#AD 参加#VV 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance314.#NR
+10#CD 个#M 小朋友#NN 按#P 1#CD ～#PU 3#CD 的#DEG 顺序#NN 循环#NN 报数#NN ，#PU 报#VV 双数#JJ 的#DEG 离队#NN ，#PU 队伍#NN 还#AD 剩#VV 多少#CD 人#NN ？#PU
+Instance315.#NR
+巴蒂尔#NR 的#DEG 体重#NN 是#VC 125#CD 千克#M ，#PU 比#P 奥尼尔#NR 的#DEG 体重#NN 少#AD 85#CD 千克#M ，#PU 奥尼尔#NR 的#DEG 体重#NN =#PU 多少#CD 千克#NR ．#PU
+Instance316.#NR
+双休日#NN ，#PU 亮#VV 亮#VA 在家#AD 帮#VV 妈妈#NN 做#VV 家务#NN ，#PU 烧#VV 开水#NN 22#CD 分钟#M ，#PU 整理#VV 书柜#NN 8#CD 分钟#M ，#PU 拖地#VV 10#CD 分钟#M ，#PU 洗#VV 茶杯#NN 4#CD 分钟#M ，#PU 倒#VV 开水#NN 3#CD 分钟#M ，#PU 亮#VA 亮#VA 做#VV 这些#DT 事#NN 至少#AD 要#VV 几分钟#VV ？#PU
+Instance317.#NR
+杨#NR 大伯#NN 去#VV 农机#NN 商场#NN 购买#VV 一辆#CD 农机#NN 车#NN ，#PU 原价#NN 6489#CD 元#M ，#PU 恰逢#VV “#PU 5#CD •#NN 一#CD ”#PU 劳动节#NN ，#PU 商场#NN 搞#VV 促销#NN 活动#NN ，#PU 每辆车#NN 降价#VV 650#CD 元#M ．#PU 他#PN 还#AD 可以#VV 拿到#VV 498#CD 元#M 的#DEC 农机#NN 补贴#NN ，#PU 你#PN 能#VV 算#VV 出#VV 杨#NR 大伯#NN 实际#AD 花#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance318.#NR
+鲁迅故居#NR 上午#NT 来#VV 了#AS 835#CD 个#M 游客#NN ，#PU 中午#NT 走#VV 了#AS 576#CD 个#M 游客#NN ，#PU 下午#NT 又#AD 来#VV 了#AS 349#CD 个#M 游客#NN ，#PU 这时#AD 鲁迅故居#VV 里#LC 一共#AD 还有#CC 多少#CD 游客#NN ？#PU
+Instance319.#NR
+比#P 800#CD 少#VV 265#CD 的#DEG 数#NN =#PU ．#PU
+Instance320.#NR
+小#JJ 东#NN 的#DEG 身高#NN 1.40#CD 米#M ，#PU 比#P 爸爸#NN 矮#VA 0.38#CD 米#M ，#PU 爸爸#NN 的#DEG 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance321.#NR
+13579#CD +#PU 35791#CD +#PU 57913#CD +#PU 79135#CD +#PU 91357#CD =#PU ．#PU
+Instance322.#NR
+两个#CD 加数#NN 的#DEG 和#CC 是#VC 10.3#CD ，#PU 其中#NN 的#DEG 一个#CD 加数#NN 是#VC 4.8#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ．#PU
+Instance323.#NR
+已知#VV 甲#NN 、#PU 乙#NN 两#CD 数#NN 的#DEG 和#CC 是#VC 20#CD ，#PU 甲#CD 数#NN 是#VC 9.05#NT ，#PU 乙#NN 数#NN =#PU ．#PU
+Instance324.#NR
+水果店#NN 运#NN 来#MSP 410#CD 千克#M 水果#NN ，#PU 上午#NT 卖出#VV 139#CD 千克#M ，#PU 下午#NT 卖出#VV 183#CD 千克#M ，#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance325.#NR
+一#CD 条#M 绳子#NN 长#VA 26.2#CD 米#M ，#PU 第一次#AD 用#P 去#VV 7.6#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 3.8#CD 米#M ，#PU 还#AD 剩#VV 多少#CD 米#M ？#PU
+Instance326.#NR
+甲#NN 数#NN 是#VC 305#CD ，#PU 比#P 乙#NN 数#NN 少#AD 84#CD ，#PU 乙#NN 数#NN =#PU ．#PU
+Instance327.#NR
+一#CD 段#M 木头#NN ，#PU 锯下#VV 4.8#CD 米#M ，#PU 还#AD 剩#VV 7.5#CD 米#M ．#PU 这#DT 段#M 木头#NN 原来#AD 长#VV 多少#CD 米#M ？#PU
+Instance328.#NR
+一#CD 只#M 蜗牛#NN 向前#AD 爬#VV 25#CD 厘米#M ，#PU 又#AD 朝#P 后退#VV 15#CD 厘米#M ，#PU 在#P 朝#NR 前#JJ 爬#VV 10#CD 厘米#M ，#PU 结果#AD 前进#VV 了#AS 多少#CD 厘米#M ．#PU
+Instance329.#NR
+一#CD 个#M 潜水员#NN 原来#AD 在#P 水下#NN 11#CD 米处#NN ，#PU 先#AD 浮#VV 上#VV 6#CD 米#M ，#PU 又#AD 下潜#VV 3#CD 米#M ，#PU 这时#AD 他#PN 在#P 水下#NN 多少#CD 米处#NN ？#PU
+Instance330.#NR
+一#CD 位#M 会计#NN 把#BA 一笔#CD 488#CD 元#M 的#DEC 收入#NN 账#NN 错误#VA 地#DEV 记#VV 成#VV 了#AS 48.8#CD 元#M ．#PU 他#PN 在#P 结账#VV 时#LC 将#AD 会#VV 发现#VV 多少#CD ．#PU
+Instance331.#NR
+某班#VV 有#VE 50#CD 人#NN ，#PU 会#VV 游泳#VV 的#DEC 有#VE 27#CD 人#NN ，#PU 会#VV 体操#NN 的#DEC 有#VE 18#CD 人#NN ，#PU 都#AD 不会#VV 的#DEC 有#VE 15#CD 人#NN ．#PU 那么#AD 既#AD 会#VV 游泳#VV 又#AD 会#VV 体操#NN 的#DEC 有#VE 几#CD 人#NN ．#PU
+Instance332.#NR
+京广中心#NR 大厦#NN 高#VA 209#CD 米#M ，#PU 比#P 中央#NN 电视塔#NN 矮#JJ 约#AD 196#CD 米#M ，#PU 中央#NN 电视塔#NN 高#VA 多少#CD 米#M ？#PU
+Instance333.#NR
+大西洋#NR 平均#JJ 深度#NN 约#AD 为#VC 3.62#CD 千米#M ，#PU 印度洋#NR 平均#JJ 深度#NN 比#P 大西洋#NR 深#AD 0.27#CD 千米#M ，#PU 印度洋#NR 比#P 北冰洋#NR 深#AD 2.59#CD 千米#M ．#PU 北冰洋#NR 的#DEG 平均#JJ 深度#NN 约#AD =#VV 多少#CD 千米#M ？#PU
+Instance334.#NR
+一#CD 个#M 标准#NN 油桶#NN ，#PU 桶#NN 连#AD 油#VV 共#AD 重#VV 7#CD 千克#M ．#PU 司机#NN 马#NN 叔叔#NN 已经#AD 用#P 去#VV 一半#CD 油#NN ，#PU 现在#NT 连#AD 桶#NN 还#AD 重#AD 4#CD 千克#M ．#PU 桶#NN 里#LC 还有#CC 多少#CD 油#NN ．#PU
+Instance335.#NR
+水果店#NN 卖出#VV 草莓#NN 82#CD 千克#M ，#PU 比#P 荔枝#NN 多#VA 28#CD 千克#M ，#PU 卖出#VV 荔枝#NN 多少#CD 千克#M ？#PU
+Instance336.#NR
+2008#CD 年#M 北京#NR 奥运会#NR ，#PU 中国#NR 夺得#VV 了#AS 51#CD 枚#M 金牌#NN ，#PU 比#P 美国#NR 多#CD 15#CD 枚#M ，#PU 美国#NR 得到#VV 多少#CD 枚#M 金牌#NN ．#PU
+Instance337.#NR
+一#CD 辆#M 公共汽车#NN 上#LC 原来#AD 有#VE 25#CD 位#M 乘客#NN ，#PU 到#VV 人民#NN 公园#NN 后#LC ，#PU 下去#VV 9#CD 人#NN ，#PU 又#AD 上#VV 了#AS 17#CD 人#NN ，#PU 现在#NT 公共汽车#NN 上#LC 有#VE 多少#CD 位#M 乘客#NN ？#PU
+Instance338.#NR
+北极熊#NN 是#VC 北极#NR 的#DEG 象征#NN ．#PU 北极熊#NR 也#AD 叫#VV 白熊#NN ，#PU 是#VC 熊类#NN 中#LC 个体#NN 最大#JJ 的#DEG 一种#NN ．#PU 北极熊#NR 身躯#NN 庞大#VA ，#PU 体长#NN 可#VV 达#VV 2.7#CD 米#M 以上#LC ，#PU 行走#VV 时#LC 肩#NN 高#VA 为#P 1.6#CD 米#M ，#PU 最大#JJ 的#DEG 北极熊#NN 体重#NN 可#VV 达#VV 900#NN 千克#NN ，#PU 比#P 棕熊#NN 重#VA 200#CD 千克#M ．#PU 奔跑#VV 时#LC 最快#AD 可以#VV 和#P 骏马#NN 媲美#VV ．#PU 棕熊#NN 体重#NN 可#VV 达#VV 多少#CD 千克#M ？#PU
+Instance339.#NR
+计算#VV ：#PU 599999#CD +#PU 59999#CD +#PU 5999#CD +#PU 599#CD +#PU 59#CD =#PU ．#PU
+Instance340.#NR
+1#CD +#PU 2#CD +#PU 3#CD +#PU 6#CD +#PU 12#CD +#PU 24#CD +#PU 48#CD +#PU 96#CD +#PU 192#CD +#PU 384#CD =#PU ．#PU
+Instance341.#NR
+水果店#NN 运#VV 来#VV 苹果#NN ，#PU 梨子#NN 和#CC 桔子#NN 共#AD 98#CD 千克#M ．#PU 苹果#NN 重#AD 45#CD 千克#M ，#PU 梨子#NN 重#VV 18#CD 千克#M ，#PU 桔子#NN 重#VV 多少#CD 千克#M ？#PU
+Instance342.#NR
+甲#NN 数#NN 是#VC 685#CD ，#PU 乙#NN 数#NN 是#VC 523#CD ，#PU 甲#CD 数#NN 减去#VV 多少#CD ，#PU 就#AD 和#P 乙#NN 数#NN 相等#VV ．#PU
+Instance343.#NR
+修路#VV 队#NN 要#VV 修#VV 一条#NN 路#NN ，#PU 第一天#AD 修#VV 了#AS 860#CD 米#M ，#PU 第#OD 二#CD 天#M 修#VV 了#AS 685#CD 米#M ，#PU 两天#NN 一共#AD 修#VV 了#AS 多少#CD 米#M ？#PU
+Instance344.#NR
+把#BA 一颗#NN 高#AD 5#CD 米#M 的#DEG 树种#NN 入土#VV 中#LC ，#PU 露出#VV 地面#NN 的#DEC 部分#CD 长#JJ 4.06#CD 米#M ，#PU 种#M 入土#VV 中#LC 的#DEG 部分#CD 长#JJ 多少#CD 米#M ？#PU
+Instance345.#NR
+两个#CD 数#CD 相加#VV 的#DEC 和#CC 是#VC 445#CD ，#PU 如果#CS 其中#NN 一个#CD 加数#NN 增加#VV 58#CD ，#PU 另#AD 一个#CD 加数#NN 减少#VV 76#CD ，#PU 这时#AD 和#CC =#PU ．#PU
+Instance346.#NR
+张#NR 平#VV 每天#AD 上学#VV 从#P 家#NN 到#P 学校#NN 要#VV 经过#VV 公园#NN ，#PU 从#P 家#NN 到#P 公园#NN 有#VE 653#CD 米#M ，#PU 从#P 公园#NN 到#P 学校#NN 有#VE 872#CD 米#M ．#PU 张#NR 平#VV 家#NN 到#VV 学校#NN 的#DEG 距离#NN =#PU 多少#CD 米#M ？#PU
+Instance347.#NR
+计算#VV 899998#CD +#PU 89998#CD +#PU 8998#CD +#PU 898#CD +#PU 88#CD =#PU ．#PU
+Instance348.#NR
+水果#NN 超市#NN 原有#JJ 西瓜#NN 3400#CD 千克#M ，#PU 卖出#VV 3000#CD 千克#M 后#LC ，#PU 又#AD 运#VV 来#MSP 5000#CD 千克#M ．#PU 现在#NT 有#VE 西瓜#NN 多少#CD 千克#M ？#PU
+Instance349.#NR
+减数#NN 是#VC 268#CD ，#PU 差#VV 是#VC 507#CD ，#PU 被减数#NN =#PU ？#PU
+Instance350.#NR
+书柜#NN 高#VA 1.75#CD 米#M ，#PU 小#JJ 明#NN 高#VA 1.38#CD 米#M ，#PU 他#PN 站#VV 在#P 凳子#NN 上#LC 比#P 书柜#NN 高#VA 0.08#CD 米#M ．#PU 凳子#NN 高#VA 多少#CD 米#M ？#PU
+Instance351.#NR
+计算#VV 1234#CD +#PU 2341#CD +#PU 3412#CD +#PU 4123#CD =#PU ．#PU
+Instance352.#NR
+3.2#CD +#PU 1.68#CD =#PU ．#PU
+Instance353.#NR
+饲养#VV 组#NN 买来#VV 35#CD 只#M 黑#JJ 兔#NN ，#PU 10#CD 只#M 白兔#NN ，#PU 一共#AD 买来#VV 多少#CD 只#M 兔子#NN ？#PU
+Instance354.#NR
+在#P 跳远#NN 比赛#NN 中#LC ，#PU 合格#VV 的#DEC 标准#NN 是#VC 3.00#CD 米#M ，#PU 李#NR 明#AD 跳出#VV 了#AS 3.12#CD 米#M 记#NN 作#VV +#PU 0.12#CD 米#M ，#PU 小#JJ 菲#NR 跳#VV 了#AS 2.95#CD 米#M ，#PU 应#VV 记#VV 作#VV 多少#CD 米#M ．#PU
+Instance355.#NR
+校园#NN 里#LC 有#VE 258#CD 棵#M 铁树#NN ，#PU 175#CD 棵#M 杨树#NN ，#PU 榕树#NN 的#DEG 棵#M 数#NN 比#P 铁树#NN 和#CC 杨树#NR 棵#CD 数#NN 的#DEG 总数#NN 少#AD 83#CD 棵#M ．#PU 榕树#NN 有#VE 多少#CD 棵#M ？#PU
+Instance356.#NR
+希望#VV 小学#NN 四年级#NN 原有#JJ 学生#NN 520#NT 人#NN ，#PU 这#DT 学期#NN 转#VV 走#VV 38#CD 人#NN ，#PU 又#AD 转#VV 来#VV 49#CD 人#NN ．#PU 现在#NT 希望#VV 小学#NN 四年级#NN 有#VE 多少#CD 人#NN ？#PU
+Instance357.#NR
+3#CD 个#M 小朋友#NN 一起#VV 跳远#NN ，#PU 小强#NR 跳#VV 了#AS 3.06#CD 米#M ，#PU 比#P 小#JJ 星#NN 少#AD 跳#VV 0.16#CD 米#M ，#PU 小#JJ 宇#NN 比#P 小#JJ 星#NN 多#AD 跳#VV 了#AS 0.24#CD 米#M ．#PU 小#JJ 宇#NR 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance358.#NR
+学校#NN 买来#VV -#PU 批#VV 图书#NN ，#PU 借给#VV 同学#NN 们#NN 348#CD 本#M 后#LC ，#PU 还#AD 剩下#VV 152#CD 本#M ，#PU 后来#AD 又#AD 买来#VV 560#CD 本#M ，#PU 学校#NN 两次#AD 共#AD 买来#VV 多少#CD 本#M 图书#NN ？#PU
+Instance359.#NR
+计算#VV ：#PU 3687#CD -#PU 222#CD -#PU 363#CD -#PU 478#CD -#PU 687#CD -#PU 1637#CD =#PU ．#PU
+Instance360.#NR
+小#JJ 冬#NN 带#VV 10#CD 元#M 钱#NN 去#VV 买#VV 文具#NN ，#PU 他#PN 买#VV 了#AS 一支#CD 钢笔#NN 和#CC 一瓶#NN 墨水#NN ，#PU 售货员#NN 找#VV 给#P 他#PN 2.6#CD 元#M 钱#NN ，#PU 小#JJ 冬#NN 买#VV 文具#NN 共#AD 花#VV 了#AS 多少#CD 元#M 钱#NN ？#PU
+Instance361.#NR
+李#NR 大爷#NN 家#NN 有#VE 黑#JJ 兔#NN 172#CD 只#M ，#PU 黑#JJ 兔#NN 的#DEC 只#AD 数#CD 比#CC 白兔#NN 多#VA 75#CD 只#M ，#PU 李#NR 大爷#NN 家#NN 有#VE 白兔#NN 多少#CD 只#M ？#PU
+Instance362.#NR
+一#CD 辆#M 公交车#NN 上#LC 有#VE 25#CD 名#M 乘客#NN ，#PU 到#VV 站点#NN 时#LC 下去#VV 了#AS 8#CD 名#M 乘客#NN ，#PU 又#AD 上来#VV 13#CD 名#M 乘客#NN ，#PU 这时#AD 车上#NN 共有#VV 多少#CD 名#M 乘客#NN ？#PU
+Instance363.#NR
+杨家#NR 小学#NN 上#LC 学期#NN 植树#VV 495#CD 棵#M ，#PU 这#DT 学期#NN 植树#VV 827#CD 棵#M ．#PU 两#CD 学期#NN 共#AD 植#VV 了#AS 多少#CD 棵#M 树#NN ？#PU
+Instance364.#NR
+琪琪#NR 今年#NT 12#CD 岁#M ，#PU 她#PN 妈妈#NN 今年#NT 36#CD 岁#M ，#PU 5#CD 年前#JJ 妈妈#NN 比#P 琪琪#NR 大#JJ 多少岁#NN ．#PU
+Instance365.#NR
+比#P 一个#CD 数多#CD 425#CD 的#DEG 数#NN 是#VC 1235#CD ，#PU 这个#DT 数#NN =#PU ．#PU
+Instance366.#NR
+小#JJ 明#NN 今年#NT 的#DEG 身高#NN 是#VC 1.53#CD 米#M ，#PU 比#P 去年#NT 长#AD 高#VA 了#AS 0.07#CD 米#M ．#PU 小#JJ 明#NN 去年#NT 多少#CD ．#PU
+Instance367.#NR
+两个#CD 数#CD 的#DEG 和#CC 是#VC 940#CD ，#PU 其中#NN 一个#CD 加数#NN 是#VC 362#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ．#PU
+Instance368.#NR
+爸爸#NN 今年#NT 37#CD 岁#M ，#PU 爸爸#NN 比#P 爷爷#NN 小#VA 23#CD 岁#M ，#PU 今年#NT 爷爷#NN 多#AD 大#VA ？#PU
+Instance369.#NR
+小#JJ 兰#NR 的#DEG 妈妈#NN 带#VV 100#CD 元#M 钱#NN 去#VV 买菜#VV ，#PU 买#VV 肉用#NN 去#VV 29.76#CD 元#M ，#PU 买菜#VV 用#P 去#VV 5.34#CD 元#M ，#PU 还#AD 剩#VV 多少#CD 元#M ？#PU
+Instance370.#NR
+小胖#NR 去#VV 文具店#NN 买#VV 文具#NN ，#PU 他#PN 所#MSP 带#VV 的#DEC 钱#NN ，#PU 如果#CS 买#VV 9.8#CD 元#M 的#DEG 钢笔#NN 后#LC ，#PU 还#AD 能#VV 剩下#VV 5.2#CD 元#M ．#PU 如果#CS 改#VV 买#VV 5.8#CD 元#M 的#DEG 水笔#NN ，#PU 他#PN 还#AD 能#VV 剩下#VV 多少#CD 钱#NN ？#PU
+Instance371.#NR
+一#CD 段#M 绳子#NN 175#CD 米#M ，#PU 第一次#AD 剪#VV 去#VV 22#CD 米#M ，#PU 第#OD 二#OD 次#M 再剪#AD 去#VV 15#CD 米#M ，#PU 这时#AD 这根#VV 绳子#NN 比#P 原来#AD 短#VA 了#AS 多少#CD 米#M ．#PU
+Instance372.#NR
+燃烧#VV 的#DEC 蜡烛#NN ．#PU 桌子#NN 上#LC 原来#AD 有#VE 12#CD 根#M 点燃#VV 的#DEC 蜡烛#NN ，#PU 先#AD 被#LB 风#NN 吹灭#VV 了#AS 3#CD 根#M ，#PU 不久#NT 又#AD 一阵风#AD 吹灭#VV 了#AS 2#CD 根#M ，#PU 最后#AD 桌子#NN 上#LC 还#AD 剩#VV 几根#VV 蜡烛#NN ？#PU
+Instance373.#NR
+小#JJ 红#NN 和#CC 小#JJ 明#NN 一起#AD 立定#VV 跳远#NN 比赛#NN ，#PU 小#JJ 红#NN 跳#VV 了#AS 2.18#CD 米#M ，#PU 比#P 小#JJ 明#NN 多#AD 跳#VV 了#AS 0.12#CD 米#M ，#PU 小#JJ 星#NN 比#P 小#JJ 明#NN 少#AD 跳#VV 了#AS 0.15#CD 米#M ，#PU 小#JJ 星#NN 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance374.#NR
+今年#NT 在#P 我国#NN 一个#CD 湖区#NN 越冬#NN 的#DEC 有#VE 16#CD 只#M 白鹤#NN ，#PU 176#CD 只#M 白天鹅#NN ，#PU 一共#AD 有#VE 多少#CD 只#M ？#PU
+Instance375.#NR
+粮油#NN 公司#NN 原有#JJ 金#NN 龙牌#NR 食用油#NN 804#OD 瓶#M ，#PU 售出#VV 176#CD 瓶#M 后#LC ，#PU 又#AD 赠送给#VV 特困户#NN 268#CD 瓶#NN ．#PU 现在#NT 还#AD 剩#VV 多少#CD 瓶#NN ？#PU
+Instance376.#NR
+水果店#NN 运#NN 来#MSP 750#CD 千克#M 苹果#NN 和#CC 一些#CD 橘子#NN ，#PU 共#AD 1260#CD 千克#M ，#PU 运#NN 来#VV 橘子#NN 多少#CD 千克#M ？#PU
+Instance377.#NR
+5#CD （#PU 1#CD ）#PU 班#NN 有#VE 42#CD 名#M 同学#NN ，#PU 会#VV 下象棋#VV 的#DEC 有#VE 21#CD 名#M 同学#NN ，#PU 会#VV 下围棋#VV 的#DEC 有#VE 17#CD 名#M 同学#NN ，#PU 两种#NN 棋#NN 都#AD 不会#VV 下#LC 的#DEG 有#VE 10#CD 名#M 同学#NN ．#PU 两种#NN 棋#NN 都#AD 会#VV 下#VV 的#DEC 有#VE 多少#CD 名#M 同学#NN ？#PU
+Instance378.#NR
+袋中#NN 有#VE 15#CD 个#M 红球#NN 和#CC 6#CD 个#M 黄#JJ 球#NN ，#PU 他们#PN 的#DEG 形状#NN 和#CC 大小#NN 一样#VA ，#PU 至少#AD 一次#AD 摸#VV 出#VV 多少#CD 个#M 球#NN 就#AD 能#VV 确保#VV 其中#NN 有#VE 10#CD 个#M 球#NN 是#VC 一样#VA 的#SP ．#PU
+Instance379.#NR
+减数#NN 是#VC 45#CD ，#PU 被减数#NN 是#VC 92#CD ，#PU 差#NN =#PU ？#PU
+Instance380.#NR
+从#P 仓库#NN 里#LC 运走#VV 水泥#NN 85.6#CD 吨#M ，#PU 还#AD 剩#VV 52.3#CD 吨#M ．#PU 仓库#NN 里#LC 原有#JJ 水泥#NN 多少#CD 吨#M ？#PU
+Instance381.#NR
+张#NR 亮#VV 想#VV 买#VV 一本#NN 价格#NN 为#VC 3.90#CD 元#M 的#DEG 小人书#NN ，#PU 他#PN 现有#JJ 的#DEG 钱#NN 再#AD 添#VV 上#VV 0.80#CD 元#M 正好#AD 买#VV 一本#NN ，#PU 但#AD 他#PN 只#AD 买#VV 了#AS 一本#AD 1.50#CD 元#M 的#DEG 书#NN ，#PU 他#PN 剩下#VV 多少#CD 钱#NN ？#PU
+Instance382.#NR
+一#CD 根#M 电线#NN 长#VA 1000#CD 米#M ，#PU 先#AD 用#P 去#VV 196#CD 米#M ，#PU 又#AD 用#P 去#VV 204#CD 米#M ，#PU 还#AD 剩#VV 多少#CD 米#M ？#PU
+Instance383.#NR
+74#CD +#PU 83#CD +#PU 95#CD -#PU 82#CD -#PU 73#CD -#PU 94#CD =#PU ．#PU
+Instance384.#NR
+王#NR 强#JJ 昨天#NT 去#VV 图书城#NN 买#VV 了#AS 一套#CD 124#CD 元#M 的#DEG 故事书#NN 和#CC 一套#NN 98#CD 元#M 的#DEC 科幻#JJ 书#NN ，#PU 他#PN 共#AD 要#VV 付给#VV 营业员#NN 多少#CD 元#M ？#PU
+Instance385.#NR
+五年级#NT （#PU 1#CD ）#PU 班#NN 有#VE 学生#NN 56#CD 人#NN ，#PU 其中#NN 每人#PN 至少#AD 做#VV 完#VV 一种#AD 作业#VV ，#PU 45#CD 人#NN 做#VV 完#VV 数学#NN 作业#VV ，#PU 42#CD 人#NN 做#VV 完#VV 语文#NN 作业#VV ，#PU 这个#DT 班#NN 两种#NN 作业#NN 都#AD 做#VV 完#VV 的#DEC 人#NN 有#VE 多少#CD 人#NN ．#PU
+Instance386.#NR
+两个#CD 小伙伴#NN 称#VV 体重#NN ，#PU 小强#NR 重#AD 25.7#CD 千克#M ，#PU 小#JJ 芳#NN 比#P 小强#NN 轻#AD 1.04#CD 千克#M ，#PU 小#JJ 芳#NN 的#DEG 体重#NN =#PU 多少#CD 千克#M ？#PU
+Instance387.#NR
+一#CD 位#M 会计#NN 把#BA 一笔#NN 57.5#CD 元#M 的#DEC 收入#NN 款#NN ，#PU 错误#VA 地#DEV 记#VV 成#VV 5.75#CD 元#M ．#PU 他#PN 结帐#VV 时#LC 将#AD 会#VV 发现#VV 怎样#JJ 的#DEG 错误#NN ？#PU
+Instance388.#NR
+9229#NT +#PU 8338#NT +#PU 7447#CD +#PU 6556#CD +#PU 5665#CD +#PU 4774#CD +#PU 3883#CD +#PU 2992#CD =#PU ．#PU
+Instance389.#NR
+小#JJ 亮#VA 的#DEC 身高#NN 是#VC 1.45#CD 米#M ，#PU 爸爸#NN 比#P 小#JJ 亮#VA 高#VA 0.42#CD 米#M ，#PU 爸爸#NN 的#DEG 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance390.#NR
+小轿车#NN 每#DT 时#LC 能#VV 行#VV 72.8#CD 千米#M ，#PU 比#P 货车#NN 快#VA 20.5#CD 千米#M ．#PU 货车#NN 每#DT 时#LC 能#VV 行#VV 多少#CD 千米#M ？#PU
+Instance391.#NR
+一#CD 段#M 绳子#NN 长#VA 176#CD 米#M ，#PU 第一次#AD 剪#VV 了#AS 46#CD 米#M ，#PU 第#OD 二#OD 次#M 剪#VV 了#AS 44#CD 米#M ，#PU 这时#AD 绳子#NN 比#P 原来#AD 短#VA 了#AS 多少#CD 米#M ．#PU
+Instance392.#NR
+图书室#NN 借出#VV 156#CD 本#M 卡通#NN 书#NN ，#PU 还#AD 剩#VV 78#CD 本#M ，#PU 现在#NT 又#AD 还#AD 回#VV 45#CD 本#M ．#PU 现在#NT 图书室#NN 有#VE 多少#CD 本#M 卡通#NN 书#NN ？#PU
+Instance393.#NR
+168.54#CD +#PU 368.54#CD +#PU 568.54#CD +#PU 768.54#CD +#PU 968.54#CD =#PU ．#PU
+Instance394.#NR
+34#CD 毫米#M 比#P 90#CD 毫米#M 少#VV 多少#CD 毫米#M ．#PU
+Instance395.#NR
+小#JJ 明#NN 有#VE 34#CD 个#M 红球#NN ，#PU 28#CD 个#M 黄#JJ 球#NN 和#CC 76#CD 个#M 白#JJ 球#NN ．#PU 小#JJ 明#NR 一共#AD 有#VE 多少#CD 个#M 球#NN ？#PU
+Instance396.#NR
+一#CD 本#M 数学#NN 读物#NN 6.25#CD 元#M ，#PU 一本#AD 语文#NN 读物#NN 5.86#CD 元#M ．#PU 两本书#NN 一共#AD 要#VV 多少#CD 钱#NN ？#PU
+Instance397.#NR
+商店#NN 运#NN 来#MSP 一批#VV 酸奶#NN ，#PU 卖出#VV 32#CD 件#M 还#AD 剩#VV 28#CD 件#M ．#PU 商店#NN 运#VV 来#VV 多少#CD 件#M 酸奶#NN ？#PU
+Instance398.#NR
+一#CD 列#M 火车#NN 上#LC 有#VE 旅客#NN 985#CD 名#M ，#PU 到#VV 了#AS 某#DT 站#NN 后#LC ，#PU 先#AD 有#VE 85#CD 名#M 旅客#NN 下车#VV ，#PU 后#AD 又#AD 有#VE 126#CD 名#M 旅客#NN 上车#VV ，#PU 现在#NT 火车#NN 上#LC 有#VE 多少#CD 名#M 旅客#NN ？#PU
+Instance399.#NR
+王#NR 大伯#NN 把#BA 一根#AD 长#JJ 3#CD 米#M 的#DEC 竹竿#NN 垂直#JJ 插入#VV 自家#NN 的#DEC 鱼塘#NN 中#LC ．#PU 竹竿#NN 的#DEG 入#VV 泥#NN 部分#NN 是#VC 0.5#CD 米#M ，#PU 露出#VV 水面#NN 的#DEC 部分#NN 是#VC 0.75#CD 米#M ．#PU 鱼塘#NN 水深#NN 多少#CD 米#M ？#PU
+Instance400.#NR
+10#CD 米#M 长#VA 的#DEC 一块#AD 白布#NN ，#PU 用#VV 去#VV 了#AS 3.3#CD 米#M ．#PU 从#P 剩下#VV 的#DEC 上面#NN 再剪#AD 去#VV 2.85#CD 米#M ．#PU 还#AD 剩下#VV 多少#CD 米#M ？#PU
+Instance401.#NR
+7#CD +#PU 11#CD +#PU 15#CD +#PU 19#CD +#PU 23#CD +#PU 27#CD +#PU 31#CD +#PU 35#CD +#PU 39#CD =#PU ．#PU
+Instance402.#NR
+一#CD 个#M 加数#NN 是#VC 11#CD ，#PU 另#AD 一个#CD 加数#NN 是#VC 5#CD ，#PU 和#CC =#PU ．#PU
+Instance403.#NR
+199999#CD +#PU 19999#CD +#PU 1999#CD +#PU 199#CD +#PU 19#CD =#PU ．#PU
+Instance404.#NR
+电视机厂#NN 上午#NT 生产#VV 电视机#NN 274#CD 台#M ，#PU 下午#NT 生产#VV 196#CD 台#M ，#PU 这#PN 一天#AD 生产#VV 多少#CD 台#M ？#PU
+Instance405.#NR
+李#NR 华#NR 买#VV 一顶#CD 草帽#NN 用#P 1.8#CD 元#M ，#PU 买#VV 一把#AD 茶壶#NN 用#P 2.5#CD 元#M ，#PU 又#AD 买#VV 了#AS 一个#CD 热水瓶#NN ，#PU 3#CD 样#M 东西#NN 正好#AD 用#VV 了#AS 9#CD 元#M ．#PU 买#VV 热水瓶#NN 用#VV 多少#CD 元#M ？#PU
+Instance406.#NR
+小#JJ 云#NN 、#PU 小#JJ 会#NN 和#P 小#NN 飞#VV 3#CD 个#M 小朋友#NN 一起#AD 立定#VV 跳远#NN 比赛#NN ，#PU 小#JJ 云#NN 跳#VV 了#AS 1.76#CD 米#M ，#PU 比#P 小#NN 会#VV 少#AD 跳#VV 0.15#CD 米#M ，#PU 小#JJ 飞#VV 比#P 小#NN 会#VV 少#AD 跳#VV 了#AS 0.22#CD 米#M ．#PU 小#JJ 飞#VV 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance407.#NR
+减数#NN 是#VC 4.67#NT ，#PU 差#VV 是#VC 2.45#CD ，#PU 被减数#NN =#PU ．#PU
+Instance408.#NR
+我#PN 父亲#NN 31#CD 岁#M 时#LC 我#PN 8#CD 岁#M ，#PU 今年#NT 父亲#NN 的#DEG 年级#NN 比#P 我#PN 大#JJ 一倍#NN ，#PU 我#PN 今年#NT 应该#VV 几岁#VV ？#PU
+Instance409.#NR
+从#P 安阳#NR 开往#VV 广州#NR 的#DEG 火车#NN 有#VE 乘客#NN 725#CD 人#NN ，#PU 到#P 郑州#NR 站#VV 有#VE 106#CD 人#NN 下车#VV ，#PU 348#CD 人#NN 上车#VV ．#PU 这时#AD 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance410.#NR
+3#CD +#PU 5#CD +#PU 7#CD +#PU 9#CD +#PU 11#CD +#PU 13#CD +#PU 15#CD +#PU 17#CD +#PU 19#CD +#PU 21#CD =#PU ．#PU
+Instance411.#NR
+体育#NN 队#NN 有#VE 17#CD 人#NN ，#PU 合唱队#NN 有#VE 45#CD 人#NN ．#PU 舞蹈队#NN 的#DEG 人数#NN 比#P 体育#NN 队#NN 和#CC 合唱队#NN 的#DEG 总#JJ 人数#NN 少#AD 4#CD 人#NN ．#PU 舞蹈队#NN 有#VE 多少#CD 人#NN ？#PU
+Instance412.#NR
+小强#NN 比#P 小#JJ 明#NN 矮#JJ 0.03#CD 米#M ，#PU 比#P 小林#NN 高#VA 0.05#CD 米#M ，#PU 已知#VV 小#JJ 明#NN 身高#NN 1.32#CD 米#M ，#PU 小林#NN 身高#NN 多少#CD 米#M ？#PU
+Instance413.#NR
+婷婷#NN 有#VE 30#CD 元#M 钱#NN ，#PU 买#VV 书#NN 用#P 去#VV 15.6#CD 元#M ，#PU 买#VV 笔#NN 用#P 去#VV 8.8#CD 元#M ．#PU 还#AD 剩#VV 多少#CD 元#M ？#PU
+Instance414.#NR
+买#VV 一个#CD 布娃娃#NN 要#VV 21.7#CD 元#M ，#PU 买#VV 一个#CD 玩具#NN 熊#NN 要#VV 8.5#CD 元#M ．#PU 布娃娃#NN 比#P 玩具#NN 熊#NN 贵#VV 多少#CD 元#M 钱#NN ？#PU
+Instance415.#NR
+三年级#NR 一班#AD 订#VV 《#PU 我#PN 爱#VV 科学#NN 》#PU 的#DEG 同学#NN 有#VE 16#CD 人#NN ，#PU 订#VV 《#PU 故事#NN 大王#NN 》#PU 的#DEG 同学#NN 有#VE 20#CD 人#NN ，#PU 其中#NN 有#VE 7#CD 人#NN 订#VV 了#AS 这#DT 两种#JJ 书#NN ．#PU 三年级#NR 一班#AD 订#VV 这#DT 两种#JJ 书#NN 的#DEC 一共#AD 有#VE 多少#CD 人#NN ？#PU
+Instance416.#NR
+计算#VV ：#PU 8.98#NT +#PU 98.98#NT +#PU 998.98#NT +#PU 9998.98#NT =#PU ．#PU
+Instance417.#NR
+一#CD 个数#NN 减去#VV 48#CD 的#DEG 差#NN 是#VC 256#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance418.#NR
+不#AD 改变#VV 0.37#CD 的#DEG 大小#NN ，#PU 把#BA 它#PN 改写#VV 成#VV 计数#VV 单位#NN 是#VC 0.001#CD 的#DEG 小数#NN =#PU ．#PU
+Instance419.#NR
+尤佳#JJ 同学#NN 有#VE 一根#CD 彩色#JJ 皮筋#NN ，#PU 剪下#VV 3.53#CD 米#M 给#P 小#JJ 红#NN ，#PU 自己#PN 还#AD 剩下#VV 7.9#CD 米#M ，#PU 这#PN 跟#P 皮筋#NN 原先#AD 有#VE 多少#CD 米#M 长#VA ？#PU
+Instance420.#NR
+1966#NT +#PU 1976#NT +#PU 1986#NT +#PU 1996#NT +#PU 2006#NT =#PU ．#PU
+Instance421.#NR
+妈妈#NN 带#VV 了#AS 800#CD 元#M 钱#NN ，#PU 买手机#NN 用#P 去#VV 450#CD 元#M ，#PU 买#VV 书#NN 用#VV 去#VV 了#AS 185#CD 元#M ，#PU 还#AD 剩#VV 多少#CD 元#M ？#PU
+Instance422.#NR
+火车#NN 上#LC 原有#JJ 305#CD 人#NN ，#PU 到#P 站#NN 后#LC 有#VE 89#CD 人#NN 下车#VV ，#PU 有#VE 156#CD 人#NN 上车#VV ．#PU 再#AD 开车#VV 时#LC 火车#NN 上#LC 有#VE 多少#CD 人#NN ？#PU
+Instance423.#NR
+同学#NN 们#NN 进行#VV 跳远#NN 比赛#NN ．#PU 冬冬#NN 跳#VV 了#AS 3.16#CD 米#M ，#PU 亮#VA 亮#VA 比#P 冬冬#NN 多#AD 跳#VV 0.23#CD 米#M ，#PU 强强#AD 比#P 亮#VA 亮#VA 少#AD 跳#VV 0.18#CD 米#M ，#PU 强强#AD 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance424.#NR
+小#JJ 芳#NR 家#NN 土#JJ 个#M 月#NN 买#VV 了#AS 一台#NR 电脑#NN 用#P 去#VV 了#AS 4660#CD 元#M ，#PU 又#AD 花#VV 了#AS 1840#CD 元#M 配置#VV 了#AS 一套#JJ 软件#NN ．#PU 这两项#NR 开支#NN 共用#JJ 去#VV 多少#CD 元#M ？#PU
+Instance425.#NR
+一#CD 本书#NN 有#VE 680#CD 页#M ，#PU 小洋#NN 第一天#AD 看#VV 了#AS 328#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 285#CD 页#M ．#PU 这#DT 本书#NN 还有#CC 多少#CD 页#M 没#AD 看#VV ？#PU
+Instance426.#NR
+一#CD 根#M 木棍#NN 长#VA 6.5#CD 米#M ，#PU 第一次#AD 截去#VV 3.65#CD 米#M ，#PU 第#OD 二#OD 次#M 截去#VV 1.95#CD 米#M ．#PU 这根#NR 木棍#NN 比#P 原来#AD 短#VA 了#AS 几米#NN ？#PU
+Instance427.#NR
+找#VV 规律#NN 填#VV 数#CD ：#PU 1#CD ，#PU 3#CD ，#PU 6#CD ，#PU 9#CD ，#PU 多少#CD ．#PU
+Instance428.#NR
+粮店#NN 原有#JJ 大米#NN 248#OD 包#M ，#PU 卖出#VV 179#CD 包#M 后#LC 又#AD 运进#VV 132#CD 包#M ．#PU 这个#DT 粮店#NN 现有#JJ 大米#NN 多少#CD 包#NN ？#PU
+Instance429.#NR
+王老师#NR 带#VV 了#AS 8000#CD 元#M 钱#NN ，#PU 买#VV 一台#NN 电脑#NN 用#VV 去#VV 了#AS 6387#CD 元#M ，#PU 买#VV 一台#NN 打印机#NN 用#P 去#VV 986#CD 元#M ，#PU 还#AD 剩#VV 多少#CD 元#M ？#PU
+Instance430.#NR
+王#NR 琳#AD 想#VV 买#VV 一本#NN 价格#NN 为#VC 3.85#CD 元#M 的#DEG 书#NN ，#PU 但是#AD 还#AD 差#VV 1.27#CD 元#M ，#PU 结果#AD 她#PN 买#VV 了#AS 一本#AD 1.78#CD 元#M 的#DEG 书#NN ，#PU 她#PN 还#AD 剩#VV 多少#CD 钱#NN ？#PU
+Instance431.#NR
+一#CD 套#M 《#PU 新#JJ 分类#NN 作文#NN 》#PU 读物#NN 125#CD 元#M ，#PU 一套#NN 《#PU 新#JJ 看#VV 图#NN 作文#NN 》#PU 读物#NN 213#CD 元#M ，#PU 明明#AD 买#VV 了#AS 这#DT 两套#JJ 读物#NN ，#PU 一共#AD 需要#VV 多少#CD 元#M 钱#NN ．#PU
+Instance432.#NR
+减数#NN 是#VC 280#CD ，#PU 被减数#NN 是#VC 440#CD ，#PU 它们#PN 的#DEG 差#NN =#PU ？#PU
+Instance433.#NR
+两个#CD 加数#NN 的#DEG 和#CC 比#P 第一个#CD 加数#NN 大#JJ 4.75#NN ，#PU 比#P 第#OD 二#CD 个#M 加数#NN 大#JJ 9.65#NN ，#PU 这#DT 两个#CD 加数#NN 的#DEG 和#CC =#PU ．#PU
+Instance434.#NR
+一#CD 个#M 书柜#NN 708#CD 元#M ，#PU 一张#AD 办公桌#NN 比#P 书柜#NN 贵#VV 96#CD 元#M ，#PU 买#VV 一张#JJ 办公桌#NN 要#VV 多少#CD 钱#NN ？#PU
+Instance435.#NR
+比#P 13#NT 少#VV 3#CD 的#DEG 数#NN =#PU ．#PU
+Instance436.#NR
+芦山#NR 乡#NN 约#AD 有#VE 30000#CD 人#NN ，#PU 东江#NR 乡#NN 比#P 芦山#NR 乡#NN 约#AD 少#AD 10000#CD 人#NN 东江#NR 乡#NN 约#AD 有#VE 多少#CD 人#NN ？#PU
+Instance437.#NR
+原#JJ 计划#NN 21#CD 天#M 完成#VV ，#PU 实际#AD 提前#VV 了#AS 5#CD 天#M ，#PU 实际#AD 多少#CD 天#M 完成#VV 任务#NN ．#PU
+Instance438.#NR
+一#CD 个数#NN 比#P 367#CD 多#AD 233#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance439.#NR
+有#VE 科技#NN 书#NN 的#DEC 有#VE 28#CD 人#NN ，#PU 有#VE 故事书#NN 的#DEC 有#VE 26#CD 人#NN ，#PU 两种#NN 都#AD 有#VE 的#DEC 有#VE 10#CD 人#NN ，#PU 两种#NN 都#AD 没有#VE 的#DEC 有#VE 2#CD 人#NN ，#PU 这个#DT 班#NN 共有#VV 学生#NN 多少#CD 人#NN ．#PU
+Instance440.#NR
+871#CD -#PU 299#CD =#PU
+Instance441.#NR
+一#CD 种#M 叫#VV 水浮莲#NR 的#DEC 水草#NN 生长#VV 很快#AD ，#PU 每天#AD 增加#VV 1#CD 倍#M ，#PU 2012#CD 天#M 刚好#AD 长满#VV 池塘#NN ，#PU 到#VV 多少#CD 天#M 刚好#AD 长满#VV 池塘#NN 面积#NN 的#DEG 一半#CD ．#PU
+Instance442.#NR
+淘气#VV 有#VE 300#CD 元#M 钱#NN ，#PU 买#VV 书#NN 用#P 去#VV 56#CD 元#M ，#PU 买#VV 文具#NN 用#P 去#VV 128#CD 元#M ，#PU 淘气#VV 剩下#VV 的#DEC 钱#NN 比#P 原来#AD 少#VV 多少#CD 元#M ？#PU
+Instance443.#NR
+小#JJ 云#NN 有#VE 邮票#NN 138#CD 张#M ，#PU 小#JJ 军#NN 有#VE 邮票#NN 175#CD 张#M ．#PU 小#JJ 明#NN 的#DEG 邮票#NN 的#DEG 张#NN 数#NN 比#P 小#JJ 云#NN 和#CC 小#JJ 军#NN 的#DEG 总数#NN 多#AD 37#CD 张#M ．#PU 小#JJ 明#NN 有#VE 多少#CD 张#M 邮票#NN ？#PU
+Instance444.#NR
+爸爸#NN 为#P 小#JJ 明#NN 买#VV 了#AS 一台#NN 学习机#NN 188#CD 元#M ，#PU 爸爸#NN 付#VV 了#AS 200#CD 元#M ．#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance445.#NR
+有#VE 两根#CD 棒#M ．#PU 一根#AD 长#JJ 25#CD 厘米#M ，#PU 另#AD 一根#AD 长#JJ 93#CD 厘米#M ，#PU 用#P 绳子#NN 将#BA 这#DT 两根#M 棒#NN 接#VV 起来#VV ，#PU 接头处#NN 长#VV 5#CD 厘米#M ，#PU 接#VV 成#VV 后#LC 的#DEG 棒子#NN 长#VV 多少#CD 厘米#M ？#PU
+Instance446.#NR
+科技园#NN 上午#NT 接待#VV 游客#NN 753#CD 人#NN ，#PU 比#P 下午#NT 多#AD 169#CD 人#NN ，#PU 科技园#NN 下午#NT 接待#VV 游客#NN 多少#CD 人#NN ？#PU
+Instance447.#NR
+学校#NN 图书馆#NN 共有#VV 850#CD 本#M 图书#NN ，#PU 借出去#VV 了#AS 283#CD 本#M ，#PU 又#AD 还#AD 回来#VV 了#AS 158#CD 本#M ，#PU 现在#NT 图书馆#NN 里#LC 有#VE 多少#CD 本#M 图书#NN ？#PU
+Instance448.#NR
+从#P 甲地#NN 到#P 乙地#NN ，#PU 货车#NN 要#VV 行#VV 2.25#CD 时#LC ，#PU 比#P 客车#NN 多用#VV 0.2#CD 时#LC ，#PU 小轿车#NN 需要#VV 的#DEC 时间#NN 比#P 客车#NN 还#AD 少#VV 0.65#CD 时#LC ．#PU 小轿车#NN 从#P 甲地#NN 到#P 乙地#NN 需要#VV 多少#CD 时间#NN ？#PU
+Instance449.#NR
+376#CD +#PU 385#CD +#PU 391#CD +#PU 380#CD +#PU 377#CD +#PU 389#CD +#PU 383#CD +#PU 374#CD +#PU 366#CD +#PU 378#CD =#PU ．#PU
+Instance450.#NR
+按#P 规律#NN 填#VV 数#CD ：#PU 1#CD ，#PU 3#CD ，#PU 6#CD ，#PU 10#CD ，#PU 15#CD ，#PU 多少#CD ．#PU
+Instance451.#NR
+水果店#NN 有#VE 625#CD 千克#M 水果#NN ，#PU 上午#NT 卖出#VV 176#CD 千克#M ，#PU 下午#NT 卖出#VV 235#CD 千克#M ．#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance452.#NR
+9899#CD 再#AD 添#VV 上#VV 1#CD =#PU ．#PU
+Instance453.#NR
+比#P 5100#CD 少#VV 2895#CD 的#DEG 数#NN =#PU ？#PU
+Instance454.#NR
+小#JJ 明#NN 、#PU 小#JJ 亮#VA 想#VV 买#VV 同一#DT 本书#NN ，#PU 小#JJ 明#NN 带#VV 的#DEC 钱#NN 少#AD 1.8#CD 元#M ，#PU 小#JJ 亮#VA 带#VV 的#DEC 钱#NN 少#AD 1.5#CD 元#M ．#PU 若#CS 两#CD 人#NN 合#VV 买#VV 这#DT 本书#NN ，#PU 钱#NN 刚好#AD 够#VA ，#PU 这#DT 本书#NN 的#DEG 价钱#NN =#PU ．#PU
+Instance455.#NR
+97#NT +#PU 198#NT +#PU 199#NT +#PU 200#CD +#PU 201#CD +#PU 202#CD +#PU 203#CD +#PU 204#CD =#PU ．#PU
+Instance456.#NR
+小#JJ 红#JJ 今年#NT （#PU 2000#CD 年#M ）#PU 是#VC 12#CD 岁#M ，#PU 那么#AD 她#PN =#PU 多少#CD 年#M 出生#VV ．#PU
+Instance457.#NR
+小#JJ 明#NN 带#VV 了#AS 20#CD 元#M 钱#NN 去#VV 超市#NN 买#VV 文具#NN ，#PU 用#VV 去#VV 了#AS 13.5#CD 元#M ，#PU 小#JJ 明#NR 还有#CC 多少#CD 钱#NN ？#PU
+Instance458.#NR
+207.2#NT +#PU 389.7#NT -#PU 157.6#NT -#PU 109.1#NT =#PU ．#PU
+Instance459.#NR
+学校#NN 图书室#NN 原有#JJ 故事书#NN 975#CD 本#M ，#PU 现在#NT 又#AD 买来#VV 了#AS 280#CD 本#M ，#PU 并#CC 借出#VV 了#AS 348#CD 本#M ．#PU 现在#NT 图书室#NN 有#VE 故事书#NN 多少#CD 本#M ？#PU
+Instance460.#NR
+妈妈#NN 到#P 商场#NN 买#VV 了#AS 一条#NN 裤子#NN 95#CD 元#M ，#PU 一件#NN 衬衣#NN 48#CD 元#M ．#PU 她#PN 付给#VV 收银员#NN 150#CD 元#M ，#PU 请#VV 你#PN 快速#AD 心算#VV 一下#AD 应#VV 找回#VV 多少#CD 元#M ．#PU
+Instance461.#NR
+某班#VV 同学#NN 中#LC 有#VE 39#CD 人#NN 打篮球#VV ，#PU 37#CD 人#NN 跑步#VV ，#PU 25#CD 人#NN 既#CC 打篮球#NN 又#AD 跑步#VV ，#PU 问#VV 全班#NN 参加#VV 篮球#NN 、#PU 跑步#VV 这两项#NN 体育#NN 活动#NN 的#DEC 总#JJ 人数#NN =#PU ？#PU
+Instance462.#NR
+我#PN 的#DEG 身高#NN 是#VC 1.21#CD 米#M ，#PU 比#P 表妹#NN 高#VA 0.49#CD 米#M ，#PU 而#AD 舅舅#NN 身高#NN 又#AD 比#P 表妹#NN 高#VA 1.08#CD 米#M ，#PU 舅舅#NN 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance463.#NR
+一年级#AD 有#VE 43#CD 人#NN ，#PU 二年级#NT 的#DEG 人数#NN 比#P 一年级#NN 少#VV 18#CD 人#NN ，#PU 二年级#NT 有#VE 多少#CD 人#NN ？#PU
+Instance464.#NR
+一#CD 辆#M 汽车#NN 到#P 某#DT 一站#NN 时#LC ，#PU 有#VE 7#CD 名#M 乘客#NN 下车#VV ，#PU 13#CD 名#M 上车#VV ，#PU 这时#AD 车上#NN 有#VE 42#CD 名#M 乘客#NN ．#PU 到#P 此#PN 站#VV 前#LC 车上#NN 有#VE 多少#CD 名#M 乘客#NN ？#PU
+Instance465.#NR
+一#CD 条#M 水渠#NN 长#VA 268.55#CD 米#M ，#PU 另#AD 一条#AD 水渠#NN 比#P 它#PN 长#VV 25.48#CD 米#M ，#PU 另#AD 一条#AD 水渠#NN 长#VV 多少#CD 米#M ？#PU
+Instance466.#NR
+小#JJ 明#NN 和#CC 小#JJ 新#JJ 在#P 同一#NN 街道#NN ，#PU 小#JJ 明#NR 家#NN 在#P 学校#NN 东#NN 600#CD 米处#NN ，#PU 小#JJ 新#JJ 家#NN 在#VV 学校#NN 西#NN 200#CD 米处#NN ，#PU 那么#AD 小#JJ 新#JJ 家#NN 距离#NN 小#JJ 明#NR 家#NN 多少#CD 米#M ．#PU
+Instance467.#NR
+一#CD 个#M 面包#NN 要#VV 2.5#CD 元#M ，#PU 一瓶#AD 饮料#NN 要#VV 3.4#CD 元#M ．#PU 买#VV 一瓶#NN 饮料#NN 比#P 买#VV 一个#CD 面包#NN 要#VV 多付#VV 多少#CD 元#M ？#PU
+Instance468.#NR
+一#CD 列#M 火车#NN 到达#VV 安溪#NR 站#NN 时#LC 有#VE 983#CD 人#NN ，#PU 在#P 安溪#NR 站#VV 下车#VV 的#DEC 有#VE 94#CD 人#NN ，#PU 上车#VV 的#DEC 68#CD 人#NN ．#PU 开出#VV 安溪#NR 站#NN 时#LC 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance469.#NR
+红星村#NR 去年#NT 栽树#VV 35#CD 棵#M ，#PU 今年#NT 又#AD 栽#VV 了#AS 20#CD 棵#M 杨树#NR 和#CC 17#CD 棵#M 柳树#NN ，#PU 今年#NT 栽#VV 的#DEC 树#NN 比#P 去年#NT 栽#VV 的#DEC 树#NN 多#AD 多少#CD 棵#M ？#PU
+Instance470.#NR
+比#P 19#CD 小#JJ 8#CD 的#DEG 数#NN =#PU ．#PU
+Instance471.#NR
+动物园#NN 上午#NT 有#VE 游客#NN 587#CD 人#NN ，#PU 中午#NT 有#VE 239#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 125#CD 位#M 游客#NN ．#PU 这时#AD 园内#NN 有#VE 多少#CD 位#M 游客#NN ？#PU
+Instance472.#NR
+公共汽车#NN 上#LC 原有#JJ 一些#CD 人#NN ，#PU 又#AD 上来#VV 25#CD 人#NN ，#PU 然后#AD 再#AD 下去#VV 了#AS 8#CD 人#NN ，#PU 这时#AD 还#AD 剩#VV 34#CD 人#NN ．#PU 公共汽车#NN 上#LC 原来#AD 有#VE 多少#CD 人#NN ？#PU
+Instance473.#NR
+王#NR 芳#NR 身高#NN 116#CD 厘米#M ，#PU 小#JJ 红#NN 比#P 她#PN 矮#VA 18#CD 厘米#M ，#PU 小#JJ 红#NN 身高#NN =#PU 多少#CD 厘米#M ？#PU
+Instance474.#NR
+百货商店#NN 第一天#AD 上午#NT 卖出#VV 衣服#NN 372#CD 件#M ，#PU 比#P 下午#NT 多#AD 卖出#VV 39#CD 件#M ，#PU 下午#NT 卖出#VV 多少#CD 件#M ？#PU
+Instance475.#NR
+小#JJ 红#NN 买#VV 一个#CD 文具盒#NN ，#PU 付给#VV 营业员#NN 20#CD 元#M ，#PU 找回#VV 13.8#CD 元#M ，#PU 这个#DT 文具盒#NN 多少#CD 元#M ？#PU
+Instance476.#NR
+甲#NN 筐#NN 里#LC 有#VE 苹果#NN 30#CD 千克#M ，#PU 乙#NN 筐#NN 里#LC 有#VE 桔子#NN 若干#CD 千克#M ，#PU 如果#CS 从#P 乙#NN 筐#NN 里#LC 取出#VV 12#CD 千克#M 桔子#NN ，#PU 苹果#NN 就#AD 比#P 桔子#NN 多#VA 10#CD 千克#M ，#PU 乙#NN 筐#NN 原有#JJ 桔子#NN 多少#CD 千克#NN ．#PU
+Instance477.#NR
+兰兰#NR 身高#NN 134#CD 厘米#M ，#PU 东东#NN 比#P 兰兰#NR 高#JJ 5#CD 厘米#M ．#PU 东东#NN 身高#NN =#PU 多少#CD 厘米#M ？#PU
+Instance478.#NR
+3.86#NT -#PU 0.875#CD -#PU 1.125#CD =#PU ．#PU
+Instance479.#NR
+小#JJ 红#JJ 的#DEG 妈妈#NN 比#P 她#PN 高#VA 30#CD 厘米#M ，#PU 小#JJ 红#NN 是#VC 130#CD 厘米#M ．#PU 她#PN 妈妈#NN 的#DEG 身高#NN =#PU ？#PU
+Instance480.#NR
+在#P 一次#AD 跳高#NN 比赛#NN 中小#JJ 明#NN 跳#VV 过#AS 了#AS 1.17#CD 米#M ，#PU 小#JJ 英#NN 比#P 小#JJ 明#NN 少#AD 跳#VV 了#AS 0.05#CD 米#M ，#PU 小#JJ 亮#VA 比#P 小#VA 英#NR 多#AD 跳#VV 了#AS 0.19#CD 米#M ，#PU 小#JJ 亮#VA 跳#VV 过#AS 了#AS 多少#CD 米#M ？#PU
+Instance481.#NR
+一#CD 根#M 绳子#NN 长#VV 20#CD 米#M ，#PU 第一次#AD 用#P 去#VV 7.6#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 5.7#CD 米#M ，#PU 两次#AD 共用#JJ 去#VV 多少#CD 米#M ？#PU
+Instance482.#NR
+图书室#NN 有#VE 故事书#NN 95#CD 本#M ，#PU 今天#NT 借出#VV 58#CD 本#M ，#PU 还#AD 回#VV 35#CD 本#M ．#PU 现在#NT 图书室#NN 有#VE 故事书#NN 多少#CD 本#M ．#PU
+Instance483.#NR
+修路#VV 队#NN 要#VV 修#VV 一条#NN 公路#NN ，#PU 已经#AD 修#VV 了#AS 74#CD 米#M ，#PU 还#AD 剩#VV 18#CD 米#M ，#PU 这#DT 条#M 公路#NN 长#VV 多少#CD 米#M ？#PU
+Instance484.#NR
+红红#AD 买#VV 了#AS 一个#CD 闹钟#NN 花#VV 了#AS 11.5#CD 元#M ，#PU 买#VV 了#AS 一个#CD 订书#NN 器#NN 花#VV 了#AS 9.85#CD 元#M ，#PU 买#VV 闹钟#NN 比#P 买#VV 订书#NN 器#NN 多#AD 花#VV 多少#CD 元#M ？#PU
+Instance485.#NR
+不#AD 改变#VV 3.9#CD 的#DEG 大小#NN ，#PU 把#BA 它#PN 改写#VV 成#VV 3#CD 位#M 小数#NN =#PU ．#PU
+Instance486.#NR
+计算#VV ：#PU 123#CD +#PU 456#CD +#PU 789#CD +#PU 987#CD +#PU 654#CD +#PU 321#CD =#PU ．#PU
+Instance487.#NR
+我#PN 又#AD 长胖#VV 了#AS ，#PU 现在#NT 有#VE 44.2#CD 千克#M ，#PU 比#P 上个月#NN 增加#VV 了#AS 0.9#CD 千克#M ．#PU 丁丁#NR 上个月#NN 重#VV 多少#CD 千克#M ？#PU
+Instance488.#NR
+一#CD 辆#M 公共汽车#NN 出发#VV 时#LC ，#PU 车上#NN 有#VE 12#CD 个#M 乘客#NN ，#PU 到#VV 了#AS 第一站#NN ，#PU 下去#VV 了#AS 2#CD 个#M 乘客#NN ，#PU 上来#VV 了#AS 6#CD 个#M 乘客#NN ；#PU 到#VV 了#AS 第#OD 二#CD 站#NN ，#PU 下去#VV 了#AS 3#CD 个#M 乘客#NN ，#PU 上来#VV 了#AS 4#CD 个#M 乘客#NN ，#PU 这时#AD 车上#NN 共有#VV 多少#CD 个#M 乘客#NN ？#PU
+Instance489.#NR
+某#DT 店#NN 举行#VV 节日#NN 大#JJ 酬宾#NN 冰箱#NN 降价#VV 380#CD 元#M ，#PU 样品#NN 再#AD 降价#VV 320#CD 元#M ，#PU 样品#NN ：#PU 3300#CD 元#M ．#PU 这#DT 台#M 冰箱#NN 原价#NN =#PU 多少#CD 元#M ？#PU
+Instance490.#NR
+东方#NR 小学#NN 二年级#NT 有#VE 男生#NN 128#CD 人#NN ，#PU 有#VE 女生#NN 134#CD 人#NN ，#PU 二年级#JJ 学生#NN 比#P 一年级#CD 多#AD 17#CD 人#NN ，#PU 一年级#AD 有#VE 学生#NN 多少#CD 人#NN ？#PU
+Instance491.#NR
+新华#NR 校办#NN 厂#NN 生产#VV 玩具#NN ，#PU 张师傅#NR 做#VV 了#AS 135#CD 个#M ，#PU 李师傅#NR 比#P 张师傅#NR 多#AD 做#VV 26#CD 个#M ，#PU 王师傅#NR 比#P 李师傅#NR 少#AD 做#VV 12#CD 个#M ，#PU 王师傅#NR 做#VV 玩具#NN 多少#CD 个#M ？#PU
+Instance492.#NR
+对#P 120#CD 种#M 食物#NN 是否#AD 含有#VV 维生素甲#VV 、#PU 乙#NN 、#PU 丙#NN 进行#VV 调查#NN ，#PU 结果#AD 是#VC ：#PU 含#VV 甲#NN 的#DEC 62#CD 种#M ，#PU 含#VV 乙#NN 的#DEC 90#CD 种#M ，#PU 含#VV 丙#NN 的#DEC 68#CD 种#M ；#PU 含#VV 甲#NN 、#PU 乙#NN 的#DEG 48#CD 种#M ，#PU 含#VV 甲#NN 、#PU 丙#NN 的#DEG 36#CD 种#M ，#PU 含#VV 乙#NN 、#PU 丙#NN 的#DEG 50#CD 种#M ；#PU 含#VV 甲#NN 、#PU 乙#NN 、#PU 丙#NN 的#DEG 25#CD 种#M ．#PU 问#VV 仅#AD 含#VV 维生素甲#VV 的#DEC 有#VE -#PU -#PU -#PU -#PU -#PU 种#VV ．#PU
+Instance493.#NR
+王#NR 叔叔#NN 计划#NN 用#VV 7500#CD 元#M 买#VV 家用电器#NN ，#PU 买#VV 冰箱#NN 用#VV 了#AS 2680#CD 元#M ，#PU 买#VV 电视机#NN 用#VV 了#AS 3320#CD 元#M ，#PU 王#NR 叔叔#NN 还#AD 剩#VV 多少#CD 元#M 钱#NN ？#PU
+Instance494.#NR
+大#JJ 猴#NN 有#VE 9#CD 只#M ，#PU 小#JJ 猴#NN 比#P 大#JJ 猴#NN 多#AD 4#CD 只#M ，#PU 小#JJ 猴#NN 有#VE 多少#CD 只#M ．#PU
+Instance495.#NR
+两个#CD 数#NN 的#DEG 差#NN 是#VC 4.1#CD ，#PU 如果#CS 被减数#NN 增加#VV 0.2#CD ，#PU 减数#NN 减少#VV 0.7#CD ．#PU 差#NN =#PU ．#PU
+Instance496.#NR
+青海#NR 地震#NN 后#LC ，#PU 某#DT 集团公司#NN 捐赠#VV 了#AS 1000#CD 顶#M 帐篷#NN ，#PU 第一次#AD 运#VV 去#VV 384#CD 顶#M ，#PU 第#OD 二#CD 次#M 运#NN 去#VV 366#CD 顶#M ，#PU 还有#CC 多少#CD 顶#M 没#AD 运#VV 去#VV ？#PU
+Instance497.#NR
+根据#P “#PU 松树#NN 有#VE 36#CD 棵#M ，#PU 柳树#NN 有#VE 85#CD 棵#M ”#PU ，#PU 可以#VV 求#VV 出#VV 多少#CD ．#PU
+Instance498.#NR
+妈妈#NN 用#P 200#CD 元#M 买#VV 了#AS 一只#CD 高压锅#NN ，#PU 找回#VV 12.4#CD 元#M ，#PU 这#PN 只#AD 高压锅#VV 多少#CD 元#M ？#PU
+Instance499.#NR
+甲#NN 、#PU 乙#NN 两#CD 数#NN 的#DEG 和#CC 是#VC 7.16#CD ，#PU 甲#CD 数#NN 是#VC 3.28#NT ，#PU 乙#NN 数#NN =#PU ？#PU
+Instance500.#NR
+大#JJ 卖场#NN 运#NN 来#MSP 215#CD 盒#M 薯片#NN ，#PU 比#P 运#NN 来#VV 的#DEC 巧克力#NN 少#AD 15#CD 盒#M ，#PU 大#JJ 卖场#NN 运#VV 来#VV 的#DEC 巧克力#NN 多少#CD 盒#NN ？#PU
+Instance501.#NR
+一#CD 个#M 加数#NN 是#VC 3.89#NT ，#PU 和#CC 是#VC 5.21#NT ，#PU 另#AD 一个#CD 加数#NN =#PU ？#PU
+Instance502.#NR
+40#CD 米#M +#PU 5#CD 米#M =#PU 多少#CD 米#M ．#PU
+Instance503.#NR
+比#P 3.6#CD 少#VV 多少#CD 的#DEG 数#NN 是#VC 2.87#CD ．#PU
+Instance504.#NR
+21#CD +#PU 201#CD +#PU 2001#CD +#PU 20001#CD =#PU ．#PU
+Instance505.#NR
+甲#NN 城#NN 到#P 乙#NN 城#NN 的#DEG 铁路#NN 长#JJ 1157#NN 千米#NN ，#PU 比#P 甲#NN 城#NN 到#P 丙#OD 城#NN 的#DEG 距离#NN 少#AD 72#CD 千米#M ，#PU 甲#NN 城#NN 到#P 丙#OD 城#NN 的#DEG 铁路#NN 长#VV 多少#CD 千米#NN ．#PU
+Instance506.#NR
+甲#NN 、#PU 乙#NN 两#CD 人#NN 去#VV 商店#NN ，#PU 他们#PN 看中#VV 了#AS 同#P 一款#NN 的#DEG 小型#JJ 计算器#NN ．#PU 但#AD 甲#CD 带#VV 的#DEC 钱#NN 差#VV 30#CD 元#M ，#PU 乙#NN 带#VV 的#DEC 钱#NN 差#VV 25#CD 元#M ，#PU 于是#AD 他们#PN 合#VV 买#VV 了#AS 一台#NN ，#PU 结果#AD 还#AD 剩下#VV 10#CD 元#M ．#PU 这#DT 台#M 计算器#NN 的#DEG 定价#NN =#PU 多少#CD 元#M ．#PU
+Instance507.#NR
+一#CD 本#M 320#CD 页#M 的#DEG 故事书#NN ，#PU 小#JJ 丽#NN 上周#NT 读#VV 了#AS 98#CD 页#M ，#PU 这#DT 周#M 读#VV 了#AS 102#CD 页#M ，#PU 再#AD 读#VV 多少#CD 页#M 才能#NN 读完#VV ？#PU
+Instance508.#NR
+一#CD 列#M 火车#NN 上#LC 原来#AD 有#VE 311#CD 人#NN ，#PU 到#P 1#OD 号#M 站#VV 时#LC 下去#VV 91#CD 人#NN ，#PU 上#VV 了#AS 70#CD 人#NN ，#PU 现在#NT 火车#NN 上#LC 有#VE 多少#CD 人#NN ？#PU
+Instance509.#NR
+一#CD 根#M 竹杆#NN 长#VA 8.6#CD 米#M ，#PU 竖直#AD 插入#VV 河里#NN 后#LC ，#PU 插入#VV 淤泥#NN 里#LC 的#DEG 部分#CD 长#JJ 1.2#CD 米#M ，#PU 河#NN 水深#NN 2.8#CD 米#M ，#PU 露出#VV 河面#NN 的#DEC 部分#NN 长#VV 多少#CD 米#M ？#PU
+Instance510.#NR
+大西洋#NR 平均#JJ 深度#NN 为#VC 3.62#CD 千米#M ，#PU 印度洋#NR 平均#JJ 深度#NN 比#P 它#PN 深#AD 0.27#CD 千米#M ，#PU 太平洋#NR 平均#JJ 深度#NN 比#P 印度洋#NR 深#AD 0.13#CD 千米#M ，#PU 太平洋#NR 平均#JJ 深度#NN 是#VC （#PU 多少#CD ）#PU 千米#NN ．#PU
+Instance511.#NR
+计算#VV ：#PU 8#CD -#PU 9#CD +#PU 10#CD -#PU 11#CD +#PU 26#CD -#PU 41#CD +#PU 42#CD =#PU ．#PU
+Instance512.#NR
+红领巾#NR 小学#NN 三年级#NT 有#VE 男生#NN 257#CD 人#NN ，#PU 女生#NN 235#CD 人#NN ，#PU 已经#AD 体检#VV 身体#NN 的#DEC 有#VE 387#CD 人#NN ，#PU 没有#VE 体检#NN 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance513.#NR
+班级#NN 进行#VV 跳高#NN 测验#NN ，#PU 小#JJ 明#NN 跳#VV 了#AS 1.24#CD 米#M ，#PU 小#JJ 伟#NR 跳#VV 的#DEC 比#P 小#JJ 明#NN 高#VA 0.13#CD 米#M ．#PU 小#JJ 华#NR 跳#VV 的#DEC 比#P 小#JJ 伟#NR 矮#VA 0.02#CD 米#M ，#PU 小#JJ 华#NR 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance514.#NR
+一#CD 艘#M 轮船#NN 从#P 重庆#NR 开往#VV 上海#NR 有#VE 960#CD 位#M 客人#NN ，#PU 到#P 武汉#NR 港#NR 有#VE 179#CD 人#NN 下船#VV ，#PU 又#AD 有#VE 213#CD 人#NN 上船#VV ，#PU 这时#AD 轮船#NN 上#LC 还有#CC 多少#CD 客人#NN ？#PU
+Instance515.#NR
+一#CD 根#M 绳#NN 长#VA 12#CD 米#M ，#PU 第一次#AD 用#P 去#VV 5#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 4#CD 米#M ，#PU 这时#AD 绳子#NN 比#P 原来#JJ 短#JJ 多少#CD 米#M ？#PU
+Instance516.#NR
+妈妈#NN 买#VV 菜花#NN 了#AS 15.8#CD 元#M ，#PU 还#AD 剩下#VV 34.2#CD 元#M ，#PU 妈妈#NN 带#VV 了#AS 多少#CD 元#M 钱#NN ？#PU
+Instance517.#NR
+一#CD 件#M 儿童#NN 上衣#NN 180#CD 元#M ，#PU 一条#NN 裤子#NN 比#P 上衣#NN 便宜#VA 33#CD 元#M ，#PU 一条#AD 裙子#NN 又#AD 比#P 一条#NN 裤子#NN 贵#VV 21#CD 元#M ．#PU 这#DT 条#M 裙子#NN 多少#CD 钱#NN ？#PU
+Instance518.#NR
+木工#NN 组#NN 修#VV 课桌#NN ，#PU 已经#AD 修好#VV 了#AS 35#CD 张#M ，#PU 还要#AD 再#AD 修#VV 16#CD 张#M ，#PU 他们#PN 一共#AD 要#VV 修#VV 多少#CD 张#M 课桌#NN ？#PU
+Instance519.#NR
+计算#VV 264#OD +#PU 451#OD -#PU 216#OD +#PU 136#OD -#PU 184#OD +#PU 149#OD =#PU ．#PU
+Instance520.#NR
+学校#NN 规定#VV 每个#DT 学生#NN 至少#AD 参加#VV 语文#NN 兴趣小组#NN 和#CC 数学#NN 兴趣小组#NN 中#LC 的#DEG 一个#CD ，#PU 204#CD 班#M 有#VE 45#CD 人#NN ，#PU 参加#VV 语文#NN 兴趣小组#NN 的#DEC 有#VE 30#CD 人#NN ，#PU 参加#VV 数学#NN 兴趣小组#NN 的#DEC 有#VE 22#CD 人#NN ，#PU 语文#NN 和#CC 数学#NN 兴趣小组#NN 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance521.#NR
+爸爸#NN 买#VV 回#VV 了#AS 一些#CD 桔子#NN ，#PU 吃#VV 了#AS 26#CD 个#M 后#LC 还#AD 剩#VV 9#CD 个#M ，#PU 爸爸#NN 买#VV 回#VV 了#AS 多少#CD 个#M 桔子#NN ？#PU
+Instance522.#NR
+商店#NN 进#VV 了#AS 360#CD 套#M 童装#NN ，#PU 第一周#AD 卖#VV 了#AS 95#CD 套#M ，#PU 第#OD 二#CD 周#M 卖#VV 了#AS 108#CD 套#M ，#PU 现在#NT 比#P 原来#AD 少#VA 了#AS 多少#CD 套#M ？#PU
+Instance523.#NR
+工人#NN 师傅#NN 要#VV 修#VV 一条#CD 800#CD 米#M 长#VA 的#DEC 马路#NN ，#PU 第一天#AD 修#VV 了#AS 274#CD 米#M ，#PU 第#OD 二#CD 天#M 修#VV 了#AS 398#CD 米#M ．#PU 两天#NR 一共#AD 修#VV 了#AS 多少#CD 米#M ？#PU
+Instance524.#NR
+镇海#NR 雅乐#NR 学校#NN 一年级#CD 和#CC 二年级#CD 共#AD 200#CD 人#NN ，#PU 三年级#NN 和#CC 四年级#NN 共#AD 250#CD 人#NN ，#PU 二年级#NT 和#CC 三年级#NT 共#AD 220#CD 人#NN ，#PU 一年级#CD 和#CC 四年级#CD 共#AD 多少#CD 人#NN ．#PU
+Instance525.#NR
+25#CD +#PU 26#CD -#PU 12#CD -#PU 13#CD +#PU 27#CD +#PU 28#CD -#PU 14#CD -#PU 15#CD +#PU 29#CD +#PU 30#CD -#PU 260#CD -#PU 261#CD =#PU ．#PU
+Instance526.#NR
+学校#NN 课桌#NN 有#VE 605#OD 张#M ，#PU 损坏#VV 138#CD 张#M ，#PU 又#AD 买#VV 加#CC 250#CD 张#M ，#PU 学校#NN 现在#NT 有#VE 课桌#NN 多少#CD 张#M ？#PU
+Instance527.#NR
+91.5#CD +#PU 88.8#CD +#PU 90.2#CD +#PU 270.4#CD +#PU 89.6#CD +#PU 186.7#CD +#PU 91.8#CD =#PU ．#PU
+Instance528.#NR
+有#VE 若干名#NN 小学生#NN 围成#VV 一个#CD 圆圈#NN ，#PU 从#P 某#DT 一个#CD 学生#NN 按#P 1#CD 、#PU 2#CD 、#PU 3#CD …#PU 开始#VV 报数#VV ，#PU 若#CS 按#P 顺时针#NN 方向#NN ，#PU 那么#AD 报#VV 到#VV 小#JJ 美#NR 时#LC ，#PU 她#PN 应该#VV 报#VV “#PU 15#CD ”#PU ；#PU 若#CS 按#P 逆时针#NN 方向#NN ，#PU 小#JJ 美#NR 应#VV 报#VV “#PU 7#CD ”#PU ．#PU 那么#AD ，#PU 这#DT 群#M 小学生#NN 一共#AD 有#VE 多少#CD 名#M ．#PU
+Instance529.#NR
+80#CD -#PU 57#CD =#PU ．#PU
+Instance530.#NR
+计算#VV ：#PU 3.71#NT -#PU 2.74#NT +#PU 4.7#CD +#PU 5.29#CD -#PU 0.26#CD +#PU 6.3#CD =#PU ．#PU
+Instance531.#NR
+两个#CD 加数#NN 的#DEG 和#CC 是#VC 420#CD ，#PU 其中#NN 一个#CD 加数#NN 是#VC 162#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ？#PU
+Instance532.#NR
+赤壁#NR 公园#NN 上午#NT 有#VE 游客#NN 762#CD 人#NN ，#PU 中午#NT 有#VE 275#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 408#CD 位#M 游客#NN ，#PU 这时#AD 公园#NN 内#LC 有#VE 多少#CD 位#M 游客#NN ？#PU
+Instance533.#NR
+桌上#NN 有#VE 10#CD 根#M 蜡烛#NN ，#PU 第一次#AD 被#LB 风#NN 吹灭#VV 4#CD 根#M ，#PU 第#OD 二#OD 次#M 被#SB 吹灭#VV 3#CD 根#M ，#PU 把#BA 窗户#NN 关#VV 好#VA 后#LC 再也#AD 没有#VE 蜡烛#NN 被#SB 吹灭#VV ．#PU 桌上#NN 最后#AD 有#VE 多少#CD 根#M 蜡烛#NN ．#PU
+Instance534.#NR
+找#VV 规律#NN ：#PU 1#CD 、#PU 3#CD 、#PU 4#CD 、#PU 7#CD 、#PU 11#CD 、#PU 多少#CD ．#PU
+Instance535.#NR
+一#CD 个数#NN 减去#VV 67#CD ，#PU 得#VV 54#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance536.#NR
+动物园#NN 有#VE 13#CD 只#M 大熊猫#NN ，#PU 有#VE 31#CD 只#M 老虎#NN ，#PU 16#CD 只#M 孔雀#NN ，#PU 老虎#NN 比#P 孔雀#NN 多#VA 多少#CD 只#M ？#PU
+Instance537.#NR
+小#JJ 明#NN 在#P 做#VV 减法#NN 时#LC ，#PU 错#NN 把#BA 减数#NN 117#CD 写成#VV 了#AS 171#CD ，#PU 结果#AD 为#P 80#CD ，#PU 正确#VA 的#DEC 结果#NN =#PU ．#PU
+Instance538.#NR
+计算#VV 1#CD -#CC 0.6#CD -#PU 0.06#CD -#PU 0.006#CD -#PU 0.0006#CD =#PU ．#PU
+Instance539.#NR
+同学#NN 们#NN 去#VV 植树#VV ，#PU 一年级#AD 栽#VV 了#AS 47#CD 棵#M ，#PU 二年级#NT 栽#VV 了#AS 54#CD 棵#M ，#PU 三年级#NT 栽#VV 的#DEC 比#P 一#CD 、#PU 二年级#NN 栽#VV 的#DEC 总#JJ 棵#M 数#NN 少#AD 17#CD 棵#M ．#PU 三年级#NN 栽#VV 了#AS 多少#CD 棵#M 树#NN ？#PU
+Instance540.#NR
+在#P 直尺#NN 上#LC 从#P 3#CD 厘米#M 到#CC 12#CD 厘米#M =#PU 多少#CD 厘米#M ．#PU
+Instance541.#NR
+两个#CD 加数#NN 的#DEG 和#CC 比#P 其中#NN 的#DEG 一个#CD 加数#NN 多#AD 142#CD ，#PU 比#P 另#DT 一个#CD 加数#NN 多#AD 283#CD ，#PU 和#CC =#PU ．#PU
+Instance542.#NR
+小#JJ 红#NN 有#VE 64#CD 张#M 纸#NN ．#PU 做#VV 纸花#NN 用#P 去#VV 27#CD 张#M ，#PU 做#VV 纸船#NN 用#P 去#VV 19#CD 张#M ．#PU 小#JJ 红#NN 还#AD 剩#VV 多少#CD 张#M 纸#NN ？#PU
+Instance543.#NR
+从#P 北京#NR 到#P 上海#NR 的#DEG 列车#NN 上#LC 有#VE 乘客#NN 1563#CD 人#NN ，#PU 到#P 济南#NR 站#VV 下车#VV 259#CD 人#NN ，#PU 上车#VV 284#CD 人#NN ，#PU 这时#AD 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance544.#NR
+小巧#JJ 家#NN 买#VV 了#AS 一捆#NN 电线#NN ，#PU 长#AD 30#CD 米#M ，#PU 用#P 掉#VV 一些#CD 后#LC ，#PU 又#AD 送给#VV 邻居#NN 10.26#CD 米#M ，#PU 结果#AD 还#AD 剩下#VV 9.32#CD 米#M ，#PU 问#VV 用#VV 掉#VV 了#AS 多少#CD 米#M ？#PU
+Instance545.#NR
+一#CD 个数#NN 比#P 495#CD 多#AD 28#CD ，#PU 这个#DT 数#NN =#PU ．#PU
+Instance546.#NR
+小#JJ 明#NN 买#VV 书#NN 用#P 去#VV 7.2#CD 元#M ，#PU 买#VV 钢笔#NN 用#P 去#VV 2.6#CD 元#M ，#PU 付给#VV 售货员#NN 10#CD 元#M ，#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance547.#NR
+2#CD ，#PU 1#CD ，#PU 3#CD ，#PU 4#CD ，#PU 7#CD ，#PU 多少#CD ，#PU 18#CD ，#PU 29#CD ，#PU 47#CD ．#PU
+Instance548.#NR
+公交车#NN ，#PU 下车#VV 9#CD 天#M ，#PU 上车#VV 3#CD 天#M ，#PU 这时#AD 车上#NN 还有#CC 19#CD 人#NN ，#PU 到#P 站#NN 前#LC 车上#NN 有#VE 几#CD 人#NN ？#PU
+Instance549.#NR
+希望#VV 小学#NN 的#DEG 同学#NN 们#NN 修理#NN 桌椅#NN 花#VV 了#AS 40.25#CD 元#M ，#PU 比#P 装订#VV 图书#NN 多#AD 花#VV 了#AS 3.7#CD 元#M ．#PU 装订#NN 图书#NN 花#VV 了#AS 多少#CD 元#M ？#PU
+Instance550.#NR
+9.9#CD +#PU 9.99#CD +#PU 9.999#CD +#PU 9.9999#CD =#PU ．#PU
+Instance551.#NR
+计算#VV ：#PU 4.75#CD -#PU 9.64#CD +#PU 8.25#CD -#PU 1.36#CD =#PU ．#PU
+Instance552.#NR
+今天#NT 红红#VV 8#CD 岁#M ，#PU 姐姐#NN 13#CD 岁#M ，#PU 10#CD 年#M 后#LC ，#PU 姐姐#NN 比#P 红红#JJ 大#JJ 多少岁#NN ．#PU
+Instance553.#NR
+小#JJ 红#JJ 妈妈#NN 削#VV 了#AS 一支#JJ 甘蔗#NN ，#PU 小#JJ 红#JJ 发现#NN 削#VV 好#VA 的#DEC 甘蔗#NN 比#P 原来#JJ 的#DEG 短#JJ 了#AS 不少#CD ，#PU 就#AD 问#VV 妈妈#NN 是#VC 怎么回事#VV ，#PU 妈妈#NN 告诉#VV 小#JJ 红#NN ，#PU 甘蔗#NN 顶部#NN 的#DEG 0.3#CD 米#M 和#CC 底部#NN 的#DEG 0.2#CD 米#M 去掉#VV 了#AS ，#PU 只#AD 剩下#VV 中间#NN 的#DEG 1.6#CD 米#M 了#SP ，#PU 你#PN 知道#VV 甘蔗#NN 原来#JJ 的#DEG 长度#NN =#PU ？#PU
+Instance554.#NR
+某种#JJ 品牌#NN 的#DEG 电脑#NN 每#DT 台#M 售价#NN 5400#CD 元#M ，#PU 若#CS 降价#VV 205#CD 后#LC 销售#NN ，#PU 仍#AD 可#VV 获利#VV 120#CD 元#M ，#PU 则#AD 该#VV 品牌#NN 电脑#NN 的#DEG 进价#NN 为#VC 每#DT 台#M 多少#CD 元#M ．#PU
+Instance555.#NR
+已知#VV 减数#NN 是#VC 3200#CD ，#PU 差#VV 是#VC 360#CD ，#PU 被减数#NN =#PU ．#PU
+Instance556.#NR
+一#CD 块#M 三角形#NN 菜地#NN ，#PU 它#PN 的#DEG 3#CD 条#M 边#LC 分别#AD 长#VA 15#CD 米#M 、#PU 12#CD 米#M 和#CC 7#CD 米#M ，#PU 这个#DT 三角形#NN 菜地#NN 的#DEG 周长#NN =#PU ．#PU
+Instance557.#NR
+一#CD 个#M 加数#NN 是#VC 256#CD ，#PU 另#AD 一个#CD 加数#NN 是#VC 308#CD ，#PU 和#CC =#PU ．#PU
+Instance558.#NR
+四年级#NN 有#VE 男生#NN 286#CD 人#NN ，#PU 女生#NN 265#CD 人#NN ．#PU 其中#NN 有#VE 176#CD 名#M 同学#NN 报名#VV 参加#VV 了#AS 长跑#NN ，#PU 有#VE 多少#CD 名#M 同学#NN 没有#VV 报名#VV ？#PU
+Instance559.#NR
+同学#NN 们#NN 拍球#NN ．#PU 小#JJ 军#NN 拍#VV 了#AS 108#CD 下#M ，#PU 小#JJ 红#NN 比#P 小#JJ 军#NN 多#AD 拍#VV 了#AS 47#CD 下#M ，#PU 小#JJ 方#NN 比#P 小#NN 红#VA 少#AD 拍#VV 13#CD 下#M ．#PU 小#JJ 方#NN 拍#VV 了#AS 多少#CD 下#M ？#PU
+Instance560.#NR
+8642#CD -#PU 7531#CD +#PU 6420#CD -#PU 5317#CD +#PU 4280#CD -#PU 3157#CD +#PU 2084#CD -#PU 1753#CD =#PU ．#PU
+Instance561.#NR
+400000000#CD +#PU 30000#CD +#PU 5#CD =#PU ．#PU
+Instance562.#NR
+晚自习#NN 时#LC 同学#NN 们#NN 写#VV 作业#NN ，#PU 写#VV 完#VV 语文#NN 作业#VV 的#DEC 有#VE 32#CD 人#NN ，#PU 写#VV 完#VV 数学#NN 作业#VV 的#DEC 有#VE 25#CD 人#NN ，#PU 两种#NN 作业#NN 都#AD 写#VV 完#VV 的#DEC 有#VE 8#CD 人#NN ，#PU 都#AD 没有#VE 写#VV 完#VV 的#DEC 有#VE 2#CD 人#NN ．#PU 这个#DT 班#NN 一共#AD 有#VE 多少#CD 人#NN ？#PU
+Instance563.#NR
+一#CD 个数#NN 加上#VV 210#CD 再#AD 减去#VV 70#CD ，#PU 结果#AD 是#VC 320#CD ，#PU 这个#DT 数#NN =#PU ．#PU
+Instance564.#NR
+2008#CD 年#M 伦敦#NR 奥运会#NR 中国#NR 共#AD 获得#VV 奖牌#NN 总数#NN 是#VC 100#CD 枚#M ，#PU 其中#NN 金牌#NN 51#CD 枚#M ，#PU 银牌#NN 21#CD 枚#M ，#PU 铜牌#NN =#PU 多少#CD 枚#M ？#PU
+Instance565.#NR
+甲#NN 数#NN 是#VC 34507#CD ，#PU 比#P 乙#NN 数#NN 少#AD 10895#CD ，#PU 乙#NN 数#NN =#PU ？#PU
+Instance566.#NR
+玲玲#NR 的#DEG 身高#NN 是#VC 1.42#CD 米#M ，#PU 她#PN 站#VV 在#P 0.4#CD 米#M 高#VA 的#DEC 凳子#NN 上#LC 比#P 妈妈#NN 高#VA 0.15#CD 米#M ，#PU 妈妈#NN 的#DEG 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance567.#NR
+丽丽#NN 存#VV 了#AS 50.3#CD 元#M 钱#NN ，#PU 买#VV 文具#NN 花#VV 了#AS 37.4#CD 元#M ，#PU 丽丽#NN 还#AD 剩#VV 多少#CD 钱#NN ？#PU
+Instance568.#NR
+买#VV 一双#NN 运动鞋#NN 要#VV 112#CD 元#M ，#PU 小#JJ 明#NN 付给#VV 营业员#NN 一张#VV 100#CD 元#M 和#CC 一张#AD 50#CD 元#M ，#PU 营业员#NN 应该#VV 找#VV 给#P 他#PN 多少#CD 元#M ．#PU
+Instance569.#NR
+往#P 一只#NN 空#JJ 篮子#NN 里#LC 放#VV 鸡蛋#NN ，#PU 篮子#NN 里#LC 的#DEG 鸡蛋#NN 数#NN 每分钟#AD 增加#VV 1#CD 倍#M ，#PU 放#VV 了#AS 12#CD 分钟#M ，#PU 篮子#NN 里#LC 刚好#AD 放满#VV 鸡蛋#NN ．#PU 什么#DT 时候#NN 鸡蛋#NN 刚好#AD 放到#VV 半#CD 篮#NN ？#PU
+Instance570.#NR
+贝#NN 贝#NN 的#DEG 钱#NN 买#VV 一本#NN 5.9#CD 元#M 笔记本#NN 差#VV 0.6#CD 元#M ，#PU 他#PN 买#VV 一本#AD 4.8#CD 元#M 的#DEC ，#PU 剩下#VV 的#DEC 钱#NN 正好#AD 买#VV 一只#JJ 圆珠笔#NN ，#PU 这#PN 只#AD 圆珠笔#NN 多少#CD 钱#NN ？#PU
+Instance571.#NR
+我们#PN 班#NN 有#VE 35#CD 人#NN 订#VV 了#AS 《#PU 数学#NN 一#CD 国#NN 》#PU ，#PU 有#VE 18#CD 人#NN 订#VV 了#AS 《#PU 作文#NN 天地#NN 》#PU ，#PU 其中#NN 有#VE 9#CD 人#NN 两种#CD 杂志#NN 都#AD 订#VV 了#AS ，#PU 我们#PN 班#NN 一共#AD 有#VE 多少#CD 人#NN ？#PU
+Instance572.#NR
+妈妈#NN 今年#NT 35#CD 岁#M ，#PU 小#JJ 明#NN 今年#NT 8#CD 岁#M ，#PU 5#CD 年#M 以后#LC ，#PU 妈妈#NN 比#P 小#JJ 明#NN 大#JJ 多少岁#NN ．#PU
+Instance573.#NR
+某#DT 课外活动#NN 小组#NN 有#VE 8#CD 个人#NN ．#PU 喜欢#VV 唱歌#VV 的#DEC 有#VE 6#CD 人#NN ，#PU 喜欢#VV 跳舞#VV 的#DEC 有#VE 4#CD 人#NN ，#PU 既#AD 喜欢#VV 唱歌#VV 又#AD 喜欢#VV 跳舞#VV 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance574.#NR
+小#JJ 萍#NR 高考#NN 成绩#NN 中#LC ，#PU 数学#NN 考#VV 了#AS 125#CD 分#M ，#PU 语文#NN 考#VV 了#AS 119#CD 分#M ，#PU 文科#NN 综合#AD 考#VV 了#AS 256#CD 分#M ，#PU 若#CS 要#VV 使#VV 数学#NN 、#PU 语文#NN 、#PU 文科#NN 综合#JJ 及#CC 英语#NN 的#DEG 总分#NN 达到#VV 南开大学#NR 的#DEG 文科#NN 分数线#NN 584#CD 分#M ，#PU 那么#AD 英语#NN 至少#AD 要#VV 考#VV 多少#CD 分#NN ？#PU
+Instance575.#NR
+一#CD 艘#M 货船#NN 载有#VV 3200#CD 吨#M 货物#NN ，#PU 在#P 港口#NN 卸下#VV 1850#CD 吨#M ，#PU 又#AD 装#VV 上#VV 1000#CD 吨#M 其他#DT 货物#NN ．#PU 船上#NN 现在#NT 有#VE 多少#CD 吨#M 货物#NN ？#PU
+Instance576.#NR
+学校#NN 春季#NT 田径运动#VV 会#VV 跳高#NN 比赛#NN 中#LC ，#PU 亮#VA 亮#VA 跳#VV 了#AS 1.2#CD 米#M ，#PU 兰兰#NR 比#P 亮#VA 亮#VA 跳#VV 的#DEC 高#VA 了#AS 0.05#CD 米#M ，#PU 张#NR 奇#NN 比#P 兰兰#NR 跳#VV 的#DEC 低#VA 了#AS 0.35#CD 米#M ，#PU 张#NR 奇#JJ 跳#NN 过#VV 了#AS 多少#CD 米#M ？#PU
+Instance577.#NR
+比#P 3.96#CD 多#AD 1.07#CD 的#DEG 数#NN =#PU ．#PU
+Instance578.#NR
+某班#VV 有#VE 40#CD 名#M 学生#NN ，#PU 其中#NN 参加#VV 数学#NN 兴趣小组#NN 的#DEC 学生#NN 有#VE 25#CD 名#M ，#PU 参加#VV 语文#NN 兴趣小组#NN 的#DEC 学生#NN 有#VE 27#CD 名#M ，#PU 两个#CD 小组#NN 都#AD 参加#VV 的#DEC 学生#NN 至少#AD 有#VE 多少#CD 名#M ．#PU
+Instance579.#NR
+停车场#NN 上#LC 停#VV 有#VE 84#CD 辆车#NN ．#PU 早晨#NT 开走#VV 了#AS 30#CD 辆#M ，#PU 又#AD 开#VV 进来#VV 了#AS 8#CD 辆#M ，#PU 这时#AD 停车场#NN 上#LC 还有#CC 多少#CD 辆车#NN ？#PU
+Instance580.#NR
+计算#VV ：#PU 1998#NT +#PU 199.8#NT +#PU 19.98#NT +#PU 1.998#CD ．#PU
+Instance581.#NR
+某校#NR 举行#VV 数学#NN 、#PU 作文#NN 、#PU 智力竞赛#NN ，#PU 参加#VV 数学#NN 竞赛#NN 的#DEC 有#VE 208#CD 人#NN ，#PU 参加#VV 作文#NN 竞赛#NN 的#DEC 有#VE 195#CD 人#NN ，#PU 参加#VV 智力竞赛#NN 的#DEC 有#VE 154#CD 人#NN 册#NN 时#LC 参加#VV 数学#NN 、#PU 作文#NN 竞赛#NN 的#DEC 有#VE 103#CD 人#NN ，#PU 同时#AD 参加#VV 数学#NN 、#PU 智力竞赛#NN 的#DEG 74#CD 人#NN ，#PU 同时#AD 参加#VV 作文#NN 、#PU 智力竞赛#NN 的#DEC 有#VE 68#CD 人#NN ，#PU 3#CD 项#M 同时#AD 都#AD 参加#VV 的#DEC 有#VE 47#CD 人#NN ，#PU 这个#DT 学校#NN 参加#VV 竞赛#NN 的#DEC 共有#VV 多少#CD 人#NN ．#PU
+Instance582.#NR
+同学#NN 们#NN 参加#VV 大扫除#VV ．#PU 男同学#NN 有#VE 30#CD 人#NN ，#PU 比#P 女同学#NN 多#VA 6#CD 人#NN ．#PU 女同学#NN 有#VE 多少#CD 人#NN ？#PU
+Instance583.#NR
+比#P 15#CD 多#AD 3#CD 的#DEG 数#NN =#PU ．#PU
+Instance584.#NR
+小#JJ 真#JJ 身高#NN 1.23#CD 米#M ，#PU 小海#NN 比#P 小#JJ 真#AD 高#JJ 0.02#CD 米#M ，#PU 小#JJ 军#NN 比#P 小海#NN 矮#VA 0.01#CD 米#M ．#PU 小#JJ 军#NN 身高#NN 多少#CD 米#M ？#PU
+Instance585.#NR
+560#CD 比#CC 80#CD 多#AD 多少#CD ．#PU
+Instance586.#NR
+一#CD 个数#NN 减去#VV 30#CD ，#PU 差#NN 是#VC 40#CD 这个#DT 数#NN =#PU ．#PU
+Instance587.#NR
+三年级#JJ 一班#NN 有#VE 45#CD 人#NN ，#PU 每人#PN 至少#AD 参加#VV 了#AS 跳绳#NN 、#PU 长跑#NN 两项#NN 体育#NN 活动#NN 中#LC 的#DEG 一项#NN ．#PU 参加#VV 跳绳#NN 活动#NN 的#DEC 有#VE 28#CD 人#NN ，#PU 参加#VV 长跑#NN 活动#NN 的#DEC 有#VE 30#CD 人#NN ，#PU 两项#NN 活动#NN 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance588.#NR
+公交车#NN 上#LC 原有#JJ 乘客#NN 18#CD 人#NN ，#PU 到#P 区#NN 府#NN 站#VV 下车#VV 5#CD 人#NN ，#PU 上车#VV 7#CD 人#NN ，#PU 车上#NN 现有#JJ 乘客#NN 多少#CD 人#NN ．#PU
+Instance589.#NR
+小#JJ 明#NN 和#CC 妈妈#NN 逛商店#NN ，#PU 买#VV 了#AS 一件#NN 衣服#NN 用#VV 了#AS 134#CD 元#M ，#PU 又#AD 买#VV 了#AS 一个#CD 书包#NN 用#VV 了#AS 108#CD 元#M ，#PU 共用#JJ 了#AS 多少#CD 钱#NN ？#PU
+Instance590.#NR
+2222#CD +#PU 3333#CD +#PU 4444#CD +#PU 5555#CD +#PU 6666#CD =#PU ．#PU
+Instance591.#NR
+小#JJ 芳#NR 今年#NT 5#CD 岁#M ，#PU 3#CD 年#M 后#LC ，#PU 小#JJ 芳#NR 幼儿园#NN 的#DEG 李老师#NR 比#P 小#JJ 芳#NN 大#JJ 20#CD 岁#M ，#PU 李老师#NR 今年#NT 多少岁#VV ？#PU
+Instance592.#NR
+爸爸#NN 买#VV 500#CD 克#M 西红柿#NN 用#VV 了#AS 0.8#CD 元#M ，#PU 买#VV 一棵#CD 白菜#NN 用#VV 了#AS 2.6#CD 元#M ．#PU 一#CD 共用#JJ 去#VV 多少#CD 元#M ？#PU
+Instance593.#NR
+“#PU 6#CD •#NN 一#CD ”#PU 儿童节#NN 老师#NN 买#VV 奖品#NN 花#VV 了#AS 15.8#CD 元#M ，#PU 还#AD 剩#VV 44.2#CD 元#M ，#PU 老师#NN 带#VV 了#AS 多少#CD 元#M ．#PU
+Instance594.#NR
+同学#NN 们#NN 去#VV 春游#NN ，#PU 带#VV 水壶#NN 的#DEC 有#VE 78#CD 人#NN ，#PU 带#VV 水果#NN 的#DEC 有#VE 77#CD 人#NN ，#PU 既#CC 带#VV 水壶#NN 又#AD 带#VV 水果#NN 的#DEC 有#VE 48#CD 人#NN ，#PU 每人#PN 至少#AD 带#VV 一种#NN ．#PU 参加#VV 春游#NN 的#DEC 同学#NN 一共#AD 有#VE 多少#CD 人#NN ？#PU
+Instance595.#NR
+李老师#NR 买#VV 2#CD 千克#M 苹果#NN ，#PU 付出#VV 15#CD 元#M ，#PU 找回#VV 1.8#CD 元#M ，#PU 买#VV 苹果花#NN 了#AS 多少#CD 钱#NN ？#PU
+Instance596.#NR
+公共汽车#NN 从#P 起点#NN 开出#VV ，#PU 停靠#VV 第一站#OD 有#VE 10#CD 人#NN 下车#VV ，#PU 5#CD 人#NN 上车#VV ，#PU 停靠#VV 第#OD 二#OD 站#NN 时#LC 只有#AD 8#CD 人#NN 上车#VV ，#PU 停靠#VV 第#OD 3#CD 站#NN 时#LC ，#PU 只有#AD 7#CD 人#NN 下车#VV ，#PU 这时#AD 车上#NN 还有#CC 28#CD 人#NN ，#PU 车#NN 在#P 起点站#NN 开出#VV 时#LC 有#VE 乘客#NN 多少#CD 人#NN ？#PU
+Instance597.#NR
+李#NR 大爷#NN 把#BA 一根#NR 6#CD 米#M 长#VA 的#DEC 竹竿#NN 垂直#JJ 插入#VV 鱼塘#NN 中#LC ，#PU 竹竿#NN 的#DEG 入#VV 泥#NN 部分#NN 是#VC 1.5#CD 米#M ，#PU 露出#VV 水面#NN 的#DEC 部分#NN 是#VC 1.24#CD 米#M ，#PU 这个#DT 鱼塘#NN 水深#NN 多少#CD 米#M ？#PU
+Instance598.#NR
+小#JJ 玲#NR 在#P 其中#NN 考试#NN 中#LC ，#PU 数学#NN 得#VV 96#CD 分#M ，#PU 英语#NN 比#P 数学#NN 少#VA 4#CD 分#M ，#PU 语文#NN 比#P 英语#NN 多#VA 3#CD 分#M ，#PU 语文#NN 考#VV 了#AS 多少#CD 分#M ？#PU
+Instance599.#NR
+王#NR 云#NR 家#NN 、#PU 赵#NR 红#JJ 家#NN 和#CC 学校#NN 在#P 同#P 一条#NN 路上#NN ．#PU 王#NR 云#NR 到#VV 学校#NN 有#VE 316#CD 米#M ，#PU 赵#NR 红#VA 到#P 学校#NN 有#VE 128#CD 米#M ．#PU 王#NR 云#NR 家#NN 到#P 赵#NR 红#JJ 家#NN 至少#AD 有#VE 多少#CD 米#M ．#PU
+Instance600.#NR
+学校食堂#NN 买来#VV 西红柿#NN 38.25#CD 千克#M ，#PU 黄瓜#NN 21.08#CD 千克#M ，#PU 买来#VV 的#DEC 芹菜#NN 比#P 西红柿#NN 和#CC 黄瓜#NN 的#DEG 总和#NN 少#AD 4.35#CD 千克#M ，#PU 买来#VV 芹菜#NN 多少#CD 千克#M ？#PU
+Instance601.#NR
+在#P 一次#AD 跳远#NN 比赛#NN 中#LC ，#PU 小#JJ 李#NR 跳#VV 的#DEC 比#P 小张#NN 多#VA 0.11#CD 米#M ，#PU 小张#NN 跳#VV 的#DEC 比#P 小#JJ 赵#NR 少#AD 0.06#CD 米#M ，#PU 已知#VV 小#JJ 赵#NR 跳#VV 了#AS 1.5#CD 米#M ，#PU 求#VV 小#JJ 李#NR 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance602.#NR
+图书室#NN 原来#AD 有#VE 802#CD 本#M 故事书#NN ，#PU 中午#NT 借出#VV 了#AS 387#CD 本#M ，#PU 下午#NT 放学#VV 前#LC 还#AD 回#VV 295#CD 本#M ，#PU 现在#NT 图书室#NN 里#LC 有#VE 故事书#NN 多少#CD 本#M ？#PU
+Instance603.#NR
+被减数#NN 是#VC 15#CD ，#PU 减数#NN 是#VC 10#CD ，#PU 差#NN =#PU ．#PU
+Instance604.#NR
+书架上#NN 有#VE 95#CD 本书#NN ，#PU 小林#NN 拿走#VV 一些#CD 后#LC ，#PU 书架上#NN 还有#CC 68#CD 本#M ．#PU 拿走#VV 了#AS 多少#CD 本#M ？#PU
+Instance605.#NR
+王#NR 林#NN 原来#AD 有#VE 10#CD 元#M ，#PU 给#P 妹妹#NN 3.4#CD 元#M 后#LC ，#PU 妹妹#NN 还#AD 比#P 他#PN 少#VV 0.34#CD 元#M ，#PU 现在#NT 妹妹#NN 有#VE 多少#CD 元#M ？#PU
+Instance606.#NR
+希望#VV 小学#NN 三年级#NN 有#VE 男#JJ 学生#NN 218#CD 人#NN ，#PU 女#JJ 学生#NN 189#CD 人#NN ．#PU 希望#VV 小学#NN 三年级#NR 一共#AD 有#VE 学生#NN 多少#CD 人#NN ？#PU
+Instance607.#NR
+计算#VV ：#PU 24#CD +#PU 63#CD +#PU 52#CD +#PU 17#CD +#PU 49#CD +#PU 81#CD +#PU 74#CD +#PU 38#CD +#PU 95#CD =#PU ．#PU
+Instance608.#NR
+小#JJ 东#NN 的#DEG 身高#NN 116#CD 厘米#M ，#PU 爸爸#NN 的#DEG 身高#NN 176#CD 厘米#M ，#PU 小#JJ 东#NN 再#AD 长#VV 多少#CD 厘米#M 才#AD 和#P 爸爸#NN 一样#AD 高#VA ？#PU
+Instance609.#NR
+芳#NN 芳#NN 带#VV 了#AS 1.55#CD 元#M 去#VV 买#VV 一#CD 本书#NN ，#PU 可#VV 她#PN 的#DEG 钱#NN 买#VV 这#DT 本书#NN 还#AD 缺#VV 0.36#CD 元#M ．#PU 这#DT 本书#NN 的#DEG 价钱#NN =#PU 多少#CD 元#M ．#PU
+Instance610.#NR
+一#CD 个#M 减法#NN 算式#NN 里#LC ，#PU 减数#NN 是#VC 78#CD ，#PU 被减数#NN 是#VC 326#CD ，#PU 差#NN =#PU ．#PU
+Instance611.#NR
+新兴#JJ 学校食堂#NN 原来#AD 有#VE 大米#NN 427#CD 千克#M ，#PU 上周#NT 吃#VV 了#AS 300#CD 千克#M 后#LC ，#PU 又#AD 运#VV 来#VV 大米#NN 325#CD 千克#M ，#PU 食堂#NN 现在#NT 有#VE 多少#CD 千克#M 大米#NN ？#PU
+Instance612.#NR
+一#CD 本#M 故事书#NN 有#VE 72#CD 页#M ，#PU 小#JJ 红#NN 看#VV 了#AS 2#CD 天#M ，#PU 还#AD 剩下#VV 8#CD 页#M ，#PU 小#JJ 红#NN 看#VV 了#AS 多少#CD 页#M ．#PU
+Instance613.#NR
+甲#NN 数#NN 是#VC 8.9#CD ，#PU 比#P 乙#NN 数多#VV 1.6#CD ，#PU 乙#NN 数#NN =#PU ．#PU
+Instance614.#NR
+2001#NT +#PU 2002#CD +#PU 2003#CD +#PU 2004#CD +#PU 2005#CD +#PU 2006#NT +#PU 2007#NT -#PU 2008#NT =#PU ．#PU
+Instance615.#NR
+一#CD 幢#M 大楼#NN 地面#NN 以上#LC 最高层#NN 记录#NN 为#VC +#PU 18#CD 层#M ，#PU 地面#NN 以下#LC 最底层#NN 记#VV 为#VC -#PU 5#CD 层#M ，#PU 这幢#AD 大楼#NN 共有#VV 多少#CD 层#M ．#PU
+Instance616.#NR
+食堂#NN 买来#VV 240#CD 千克#M 的#DEG 菜#NN ，#PU 吃#VV 了#AS 一些#CD 还#AD 剩下#VV 160#CD 千克#M ，#PU 吃#VV 了#AS 多少#CD 千克#M ？#PU
+Instance617.#NR
+老师#NN 家#NN 、#PU 小雪#NN 家#NN 和#CC 学校#NN 在#P 同#P 一条#NN 路上#NN ，#PU 老师#NN 说#VV ：#PU “#PU 我家#VV 到#VV 学校#NN 有#VE 315#CD 米#M ．#PU ”#PU 小雪#NN 说#VV ：#PU “#PU 我家#VV 到#VV 学校#NN 有#VE 150#CD 米#M ．#PU ”#PU 老师#NN 家#NN 与#CC 小雪#NN 家#NN 最远#AD 相距#VV 多少#CD 米#M ．#PU
+Instance618.#NR
+车上#NN 原有#JJ 40#CD 人#NN ，#PU 下车#VV 15#CD 人#NN 后#LC ，#PU 又#AD 上来#VV 14#CD 人#NN ，#PU 现在#NT 车上#NN 有#VE 多少#CD 人#NN ．#PU
+Instance619.#NR
+三年级#NT 二#CD 班#M 图书#NN 角#LC 有#VE 图书#NN 674#CD 本#M ，#PU 借出#VV 了#AS 253#CD 本#M ，#PU 还#AD 回#VV 了#AS 137#CD 本#M ，#PU 现#AD 图书#NN 角#LC 有#VE 多少#CD 本#M 图书#NN ？#PU
+Instance620.#NR
+3.4#CD 与#CC 7.15#CD 的#DEG 和#CC =#PU ．#PU
+Instance621.#NR
+一#CD 个#M 三角形#NN ，#PU 3#CD 条#M 边#LC 的#DEG 长度#NN 分别#AD 是#VC 16#CD 厘米#M ，#PU 25#CD 厘米#M 和#CC 24#CD 厘米#M ，#PU 这个#DT 三角形#NN 的#DEG 周长#NN =#PU 多少#CD 厘米#M ．#PU
+Instance622.#NR
+小#JJ 新#JJ 身高#NN 1.32#CD 米#M ，#PU 比#P 张#NR 明#VV 矮#JJ 0.08#CD 米#M ，#PU 李#NR 红#JJ 比#P 张#NR 明#AD 高#AD 0.15#CD 米#M ．#PU 李#NR 红#JJ 身高#NN 多少#CD 米#M ？#PU
+Instance623.#NR
+李老师#NR 对#P 一些#CD 同学#NN 进行#VV 才艺#NN 小#JJ 调查#NN ，#PU 调查#VV 的#DEC 结果#NN 是#VC ：#PU 会#VV 吹#VV 竖笛#NN 的#DEC 有#VE 22#CD 人#NN ，#PU 会#VV 拉#VV 小提琴#NN 的#DEC 有#VE 8#CD 人#NN ，#PU 其中#NN 既#AD 会#VV 吹#VV 竖笛#NN 又#AD 会#VV 拉#VV 小提琴#NN 的#DEC 有#VE 4#CD 人#NN ．#PU 被#SB 调查#VV 的#DEC 同学#NN 至少#AD 会#VV 其中#NN 一种#NN 乐器#NN ．#PU 李老师#NR 调查#VV 了#AS 多少#CD 名#M 同学#NN ？#PU
+Instance624.#NR
+做#VV 早操#NN 时#LC ，#PU 小朋友#NN 排成一列#VV ，#PU 从前#NT 数#CD 小#JJ 王#NR 排#VV 第#NN 4#CD ，#PU 从#P 后#LC 数#CD 小#JJ 青#NR 排#VV 第#NN 5#CD ，#PU 已知#VV 小#JJ 王#NN 排#VV 在#P 小#JJ 青#NR 的#DEG 前面#NN ，#PU 这#DT 一列#JJ 同学#NN 共有#VV 多少#CD 人#NN ．#PU
+Instance625.#NR
+饲养场#NN 养鸡#VV 450#CD 只#M ，#PU 鸡#NN 的#DEG 只#AD 数#CD 比#CC 鸭#NN 的#DEC 只#AD 数#VV 少#AD 150#CD 只#M ．#PU 鸭#NN 的#DEC 只#AD 数#VV =#PU ？#PU
+Instance626.#NR
+晓#NT 峰#NN 有#VE 邮票#NN 48#CD 张#M 比#P 小#JJ 华#NR 少#AD 5#CD 张#M ，#PU 小#JJ 华#NR 有#VE 邮票#NN 多少#CD 张#M ．#PU
+Instance627.#NR
+不#AD 改变#VV 4.8#CD 的#DEG 大小#NN ，#PU 使#VV 它#PN 成为#VV 3#CD 位#M 小数#NN ，#PU =#PU ．#PU
+Instance628.#NR
+从#P 甲地#NN 到#P 乙地#NN ，#PU 可以#VV 乘火车#VV ，#PU 也#AD 可#VV 乘#VV 轮船#NN ，#PU 还#AD 可以#VV 乘飞机#NN ．#PU 在#P 一天#AD 中#LC ，#PU 从#P 甲地#NN 到#P 乙#NN 有#VE 4#CD 班#M 火车#NN ，#PU 2#CD 班#M 轮船#NN ，#PU 1#CD 班#M 飞机#NN ．#PU 那么#AD 在#P 一天#NT 中#LC 乘坐#VV 这些#DT 交通工具#NN 从#P 甲地#NN 到#P 乙地#NN ，#PU 共有#VV 多少#CD 种#M 不同#JJ 的#DEG 走法#NN ．#PU
+Instance629.#NR
+海洋馆#NN 第一天#AD 卖出#VV 456#CD 张#M 门票#NN ，#PU 第#OD 二#OD 天#M 上午#NT 卖出#VV 187#CD 张#M ，#PU 下午#NT 卖出#VV 313#CD 张#M ．#PU 这#DT 两天#NN 一共#AD 卖出#VV 多少#CD 张#M 门票#NN ？#PU
+Instance630.#NR
+小#JJ 红#NN 和#CC 小#JJ 丽#NN 一起#AD 去#VV 公园#NN 玩#VV ，#PU 两#CD 人#NN 身上#NN 所#MSP 带#VV 钱#NN 的#DEC 和#CC 比#P 小#NN 红#VA 多#AD 12#CD 元#M ，#PU 比#P 小#JJ 丽#NN 的#DEG 钱#NN 多#AD 27#CD 元#M ，#PU 两#CD 人#NN 共#AD 带#VV 多少#CD 元#M 钱#NN ．#PU
+Instance631.#NR
+法国巴黎#NN 战神#NN 广场#NN 上#LC 的#DEG 埃菲尔铁塔#NR 总#AD 高#VA 约#AD 324#CD 米#M ，#PU 上海#NR 的#DEG 东方明珠#NR 电视塔#NN 高#VA 约#AD 468#CD 米#M ，#PU 东方明珠#NR 电视塔#NN 比#P 埃菲尔铁塔#NR 高#VA 多少#CD 米#M ？#PU
+Instance632.#NR
+一#CD 个数#NN 减去#VV 848#CD 等于#VV 1576#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance633.#NR
+学校#NN 举行#VV 100#CD 米#M 跑#VV 比赛#NN ，#PU 小兵#NN 用#VV 了#AS 17#CD 秒#M ，#PU 小强#NN 比#P 小兵#NN 快#VA 2#CD 秒#M ，#PU 小强#NN 用#VV 了#AS 多少#CD 秒#M ？#PU
+Instance634.#NR
+在#P 一次#AD 跳远#NN 比赛#NN 中#LC ，#PU 尹#NR 星#NN 跳#VV 了#AS 3.5#CD 米#M ，#PU 刘#NR 强#AD 比#P 尹#NR 星#NN 少#AD 跳#VV 0.46#CD 米#M ，#PU 肖#NR 平#NN 比#P 刘#NR 强#VA 多#AD 跳#VV 0.35#CD 米#M ，#PU 肖#NR 平#VV 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance635.#NR
+刚刚#AD 有#VE 9#CD 本书#NN ，#PU 爸爸#NN 又#AD 给#P 他#PN 买#VV 了#AS 5#CD 本#M ，#PU 小#JJ 明#NN 借#VV 去#VV 2#CD 本#M ，#PU 刚刚#AD 还有#CC 几本书#NN ？#PU
+Instance636.#NR
+1456#NT -#PU 299#CD =#PU ．#PU
+Instance637.#NR
+某#DT 一#CD 学校#NN 有#VE 500#CD 人#NN ，#PU 其中#NN 选修#VV 数学#NN 的#DEC 有#VE 359#CD 人#NN ，#PU 选修#VV 文学#NN 的#DEC 有#VE 408#CD 人#NN ，#PU 那么#AD 两种#NN 课程#NN 都#AD 选#VV 的#DEC 学生#NN 至少#AD 有#VE 多少#CD ？#PU
+Instance638.#NR
+超市#NN 运#NN 来#MSP 300#CD 袋#M 大米#NN ，#PU 每#DT 袋#M 25#CD 千克#M ，#PU 卖#VV 了#AS 96#CD 袋#M 后#LC ，#PU 还#AD 剩下#VV 多少#CD 袋#NN ？#PU
+Instance639.#NR
+一#CD 根#M 长#JJ 2.45#CD 米#M 的#DEG 木桩#NN 打入#VV 河底#NN ，#PU 现在#NT 测#VV 得#DER 木桩#NN 水上#NN 部分#NN 长#VA 0.75#CD 米#M ，#PU 水中#NN 长#VA 1.05#CD 米#M ，#PU 求#VV 这根#VV 桩#M 打#VV 在#P 泥#NN 中#LC 的#DEG 长度#NN =#PU 多少#CD 米#M ？#PU
+Instance640.#NR
+商店#NN 有#VE 黄#JJ 气球#NN 38#CD 个#M ，#PU 红#JJ 气球#NN 25#CD 个#M ，#PU 花#NN 气球#NN 比#P 黄#JJ 气球#NN 与#CC 红#JJ 气球#NN 的#DEC 总数#NN 少#AD 19#CD 个#M ，#PU 花#NN 气球#NN 有#VE 多少#CD 个#M ？#PU
+Instance641.#NR
+童装#NN 厂#NN 9#CD 月份#NN 计划#NN 生产#VV 童装#NN 2060#CD 套#M ，#PU 结果#NN 上#LC 半月#AD 生产#VV 1208#CD 套#M ，#PU 下半月#NN 生产#NN 1395#CD 套#M ，#PU 超过#AD 计划#VV 多少#CD 套#M ？#PU
+Instance642.#NR
+计算#VV ：#PU 1995#NT +#PU 199.5#NT +#PU 19.95#NT +#PU 1.995#NN =#PU ．#PU
+Instance643.#NR
+小#JJ 东家#NN 离#P 学校#NN 3#CD 千米#M ，#PU 小#JJ 芹#NR 家#NN 离#P 学校#NN 2#CD 千米#M ，#PU 他们#PN 的#DEG 家#NN 相距#VV 最近#NT =#PU 多少#CD 千米#NN ．#PU
+Instance644.#NR
+饲养场#NN 有#VE 鸡#NN 、#PU 鸭#NN 、#PU 鹅#NN 共#AD 2650#CD 只#M ，#PU 其中#NN 鸡#NN 有#VE 628#CD 只#M ，#PU 鸭#NN 有#VE 1020#CD 只#M ，#PU 鹅#NN 有#VE 多少#CD 只#M ？#PU
+Instance645.#NR
+王#NR 叔叔#NN 用#P 两条#NN 长度#NN 分别#AD 是#VC 2.83#CD 米#M 、#PU 1.37#CD 米#M 的#DEG 绳子#NN 接#VV 起来#VV 捆扎#VV 报纸#NN ．#PU 接口处#NN 共用#JJ 去#NN 绳子#NN 0.25#CD 米#M ，#PU 接#VV 好#VA 后#LC 的#DEG 绳子#NN 有#VE 多长#NN ？#PU
+Instance646.#NR
+某班#VV 参加#VV 体育#NN 活动#NN 的#DEC 学生#NN 有#VE 25#CD 人#NN ，#PU 参加#VV 音乐#NN 活动#NN 的#DEC 有#VE 26#CD 人#NN ，#PU 参加#VV 美术#NN 活动#NN 的#DEC 有#VE 24#CD 人#NN ，#PU 同时#AD 参加#VV 体#NN 、#PU 音#NN 活动#NN 的#DEC 有#VE 16#CD 人#NN ，#PU 同时#AD 参加#VV 音#NN 、#PU 美#NR 活动#NN 的#DEC 有#VE 15#CD 人#NN 同时#AD 参加#VV 体#NN 、#PU 美#NR 活动#NN 的#DEC 有#VE 14#CD 人#NN ，#PU 3#CD 个#M 组#NN 同时#AD 都#AD 参加#VV 的#DEC 有#VE 5#CD 人#NN ．#PU 这个#DT 班#NN 共有#VV 多少#CD 名#M 学生#NN 参加#VV 活动#NN ？#PU
+Instance647.#NR
+被减数#NN 比#P 差#VV 多#AD 136#CD ，#PU 比#P 减数#NN 多#VA 265#CD ，#PU 被减数#NN =#PU ．#PU
+Instance648.#NR
+三年级#JJ 一班#NN 有#VE 25#CD 人#NN 订阅#VV 了#AS 《#PU 趣味#NN 数学#NN 》#PU ，#PU 22#CD 人#NN 订阅#VV 了#AS 《#PU 少年#NN 科技报#NN 》#PU ，#PU 有#VE 9#CD 人#NN 两种#CD 刊物#NN 都#AD 订阅#VV 了#AS ，#PU 还有#CC 10#CD 人#NN 两种#CD 刊物#NN 都#AD 没#AD 订阅#VV ．#PU 你#PN 知道#VV 他们#PN 有#VE 多少#CD 人#NN ？#PU
+Instance649.#NR
+钢琴#NN 的#DEG 黑#JJ 键#NN 有#VE 36#CD 个#M ，#PU 比#P 白#JJ 键#NN 少#AD 16#CD 个#M ，#PU 白#JJ 键#NN 有#VE 多少#CD 个#M ？#PU
+Instance650.#NR
+多少#CD -#PU 278#CD =#PU 192#CD ．#PU
+Instance651.#NR
+计算#VV ：#PU 998877#CD +#PU 988776#CD +#PU 887766#CD +#PU 877665#CD +#PU 776655#CD +#PU 766554#CD +#PU 665544#CD +#PU 655443#CD =#PU ．#PU
+Instance652.#NR
+某校#NR 三年级#JJ 学生#NN 数#NN 如下#VV ：#PU 甲班#NN 和#CC 乙班#NN 共#AD 83#CD 人#NN ，#PU 乙班#NN 和#CC 丙#NN 班#NN 共#AD 86#CD 人#NN ，#PU 丙#NN 班#NN 和#CC 丁#NN 班#NN 共#AD 88#CD 人#NN ．#PU 甲班#NN 和#CC 丁#NN 班#NN 共#AD 几#CD 人#NN ？#PU
+Instance653.#NR
+3#CD （#PU 1#CD ）#PU 班#NN 有#VE 共有#VV 48#CD 人#NN ，#PU 32#CD 人#NN 订阅#VV 了#AS 《#PU 小学生#NN 作文#NN 》#PU ，#PU 有#VE 24#CD 人#NN 订阅#VV 《#PU 少年#NN 科技#NN 》#PU ，#PU 每人#PN 至少#AD 订阅#VV 其中#NN 的#DEG 一种#NN ，#PU 两种#NR 杂志#NN 都#AD 订阅#VV 的#DEC 有#VE 几#CD 人#NN ？#PU
+Instance654.#NR
+图书室#NN 有#VE 故事书#NN 356#CD 本#M ，#PU 今天#NT 借出#VV 78#CD 本#M ，#PU 还#AD 回#VV 44#CD 本#M ．#PU 现在#NT 图书室#NN 有#VE 故事书#NN 多少#CD 本#M ．#PU
+Instance655.#NR
+一#CD 列#M 火车#NN 的#DEC 第#OD 10#CD 号#M 车厢#NN 原有#JJ 116#CD 人#NN ，#PU 到#P 某#DT 站#NN 后#LC ，#PU 有#VE 58#CD 人#NN 下车#VV ，#PU 有#VE 45#CD 人#NN 上#LC 本#DT ．#PU 再#AD 开车#VV 时#LC ，#PU 这#DT 节车厢#NN 有#VE 多少#CD 人#NN ？#PU
+Instance656.#NR
+计算#VV ：#PU 89999#CD +#PU 7999#CD +#PU 699#CD +#PU 59#CD +#PU 9#CD =#PU ．#PU
+Instance657.#NR
+食堂#NN 原有#JJ 煤#NN 5.25#CD 吨#M ，#PU 用#P 去#VV 3.92#CD 吨#M 后#LC ，#PU 又#AD 运#VV 来#MSP 4.6#CD 吨#M ，#PU 食堂#NN 现在#NT 有#VE 煤#NN 多少#CD 吨#M ？#PU
+Instance658.#NR
+计算#VV ：#PU 1#CD +#PU 3#CD +#PU 5#CD +#PU 7#CD +#PU 9#CD +#PU 11#CD +#PU 13#CD +#PU 15#CD +#PU 17#CD +#PU 19#CD +#PU 30#CD +#PU 31#CD =#PU ．#PU
+Instance659.#NR
+小张#NN 的#DEG 身高#NN 是#VC 1.81#CD 米#M ，#PU 小#JJ 王#NN 比#P 小张#NN 矮#VA 0.08#CD 米#M ．#PU 小#JJ 王#NN 的#DEG 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance660.#NR
+甲#NN 数#NN 比#P 乙#NN 数#NN 少#AD 208#CD ，#PU 乙#NN 数#NN 是#VC 1999#NT ，#PU 甲#VV 数#NN =#PU ？#PU
+Instance661.#NR
+3#CD 年#M 一班#NN 有#VE 学生#NN 55#CD 人#NN ，#PU 参加#VV 学校#NN 绘画#NN 比赛#NN 的#DEC 有#VE 20#CD 人#NN ，#PU 既#AD 参加#VV 绘画#NN 比赛#NN 又#AD 参加#VV 书法#NN 比赛#NN 的#DEC 有#VE 12#CD 人#NN ，#PU 两项#NN 比赛#NN 都#AD 没#AD 参加#VV 的#DEC 有#VE 14#CD 人#NN ，#PU 参加#VV 书法#NN 比赛#NN 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance662.#NR
+希望#VV 小学#NN 修#VV 一条#CD 200#CD 米#M 的#DEG 跑道#NN ，#PU 已经#AD 修#VV 了#AS 160#CD 米#M ，#PU 还#AD 剩#VV 多少#CD 米#M 没有#AD 修#VV ．#PU
+Instance663.#NR
+再#AD 一次#AD 献爱心#NN 活动#NN 中#LC ，#PU 一年级#CD 同学#NN 共#AD 捐#VV 了#AS 350#CD 本书#NN ，#PU 二年级#NT 比#P 一年级#CD 多#AD 捐#VV 了#AS 270#CD 本书#NN ，#PU 二年级#JJ 同学#NN 捐#VV 了#AS 多少#CD 本书#NN ？#PU
+Instance664.#NR
+被减数#NN 比#P 差#VV 大#JJ 5.8#CD ，#PU 减数#NN 比#P 被减数#NN 小#JJ 4.3#CD ，#PU 被减数#NN =#PU ．#PU
+Instance665.#NR
+小#JJ 明#NN 到#VV 商店#NN 去#VV 买#VV 了#AS 一个#CD 9#CD 元#M 钱#NN 的#DEC 文具盒#NN ，#PU 给#P 营业员#NN 阿姨#NN 13#CD 元#M 钱#NN ，#PU 应#VV 找回#VV 多少#CD 钱#NN ？#PU
+Instance666.#NR
+2003#CD 年#M 有人#PN 在#P 亚洲#NR 的#DEG 印尼#NR 热带#NN 森林#NN 中#LC 捕获#VV 了#AS 一条#NN 重#AD 447#CD 千克#M 的#DEG 巨蟒#NN ，#PU 这#DT 条#M 巨蟒#NN 堪称#VV “#PU 蛇#NN 王之王#NR ”#PU ．#PU 我国#NN 最重#VV 的#DEC 东北虎#NN 有#VE 350#CD 千克#M ，#PU 这#DT 条#M 巨蟒#NN 比#P 我国#NN 最重#VV 的#DEC 东北虎#NN 重#VV 多少#CD 千克#M ？#PU
+Instance667.#NR
+10#CD 月#NN 1#CD 日#M 上午#NT 华南#NR 摩#NR 有#VE 游客#NN 985#CD 人#NN ，#PU 中午#NT 有#VE 541#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 235#CD 人#NN ，#PU 这时#AD 华南#NR 摩#NR 里#LC 有#VE 多少#CD 游客#NN ？#PU
+Instance668.#NR
+在#P 神舟#NR 7#CD 号#M 飞船#NN 的#DEG 697#CD 台#M 合#VV 装船#VV 设备#NN 中#LC ，#PU 沿用#VV 设备#NN 346#CD 台#M ，#PU 更改#VV 设备#NN 237#CD 台#M ，#PU 其余#PN 是#VC 新#JJ 研制#NN 设备#NN ．#PU 新#JJ 研制#NN 设备#NN 有#VE 多少#CD 台#M ？#PU
+Instance669.#NR
+6#CD +#PU 8#CD +#PU 10#CD +#PU 12#CD +#PU 14#CD +#PU 16#CD +#PU 18#CD +#PU 20#CD +#PU 22#CD +#PU 24#CD =#PU ．#PU
+Instance670.#NR
+学校#NN 运动会#NN 跳高#NN 比赛#NN 中#LC ，#PU 小#JJ 华#NR 跳#VV 了#AS 1.3#CD 米#M ，#PU 小#JJ 刚#AD 比#P 小#JJ 华#NR 多#AD 跳#VV 了#AS 0.15#CD 米#M ，#PU 小强#AD 跳#VV 的#DEC 高度#NN 比#P 小#JJ 刚#AD 低#JJ 0.05#CD 米#M ，#PU 小强#NN 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance671.#NR
+不#AD 改变#VV 数#CD 的#DEG 大小#NN ，#PU 把#BA 4.5#CD 改写#VV 成#VV 3#CD 位#M 小数#NN =#PU ．#PU
+Instance672.#NR
+学校#NN 买来#VV 89#CD 个#M 球#NN ，#PU 其中#NN 25#CD 个#M 是#VC 篮球#NN ，#PU 37#CD 个#M 是#VC 排球#NN ，#PU 剩下#VV 的#DEC 是#VC 皮球#NN ．#PU 皮球#NN 有#VE 多少#CD 个#M ？#PU
+Instance673.#NR
+学校#NN 买来#VV 810#CD 本#M 练习册#NN ，#PU 一年级#AD 领走#VV 168#CD 本#M ，#PU 二年级#NT 领走#VV 165#CD 本#M ，#PU 还#AD 剩#VV 多少#CD 本#M ？#PU
+Instance674.#NR
+比#P 4.35#NN 少#VA 1.8#CD 的#DEG 数#NN =#PU ．#PU
+Instance675.#NR
+树上#NN 一共#AD 有#VE 8#CD 只#M 小鸟#NN ，#PU 第一次#AD 飞#VV 走#VV 了#AS 1#CD 只#M ，#PU 第#OD 二#OD 次#M 又#CC 飞#VV 走#VV 了#AS 2#CD 只#M ，#PU 一共#AD 飞#VV 走#VV 了#AS 多少#CD 只#M ．#PU
+Instance676.#NR
+1300#CD -#PU 900#NN =#PU ．#PU
+Instance677.#NR
+把#BA 3.5#CD 改写#VV 成#VV 以#P 千分之一#CD 为#VC 单位#NN 的#DEC 小数#NN =#PU ．#PU
+Instance678.#NR
+汽车#NN 原来#AD 有#VE 37#CD 人#NN ，#PU 到#P 小#JJ 庄#NR 站#VV 下去#VV 19#CD 人#NN ，#PU 到#P 新村#NN 站#VV 又#AD 上来#VV 8#CD 人#NN ．#PU 现在#NT 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance679.#NR
+妈妈#NN 带#VV 100#CD 元#M 钱#NN 去#VV 超市#NN ，#PU 买#VV 了#AS 一袋#NN 14.8#CD 元#M 的#DEG 奶粉#NN ，#PU 还#AD 买#VV 了#AS 15.2#CD 元#M 的#DEG 猪肉#NN ，#PU 最后#AD 还#AD 剩#VV 多少#CD 元#M 钱#NN ？#PU
+Instance680.#NR
+商店#NN 里#LC 有#VE 红#JJ 气球#NN 206#CD 个#M ，#PU 黄#JJ 气球#NN 比#P 红#JJ 气球#NN 多#AD 95#CD 个#M ，#PU 蓝#JJ 气球#NN 比#P 黄#NN 气球#NN 多#VV 89#CD 个#M ．#PU 商店#NN 里#LC 有#VE 蓝#JJ 气球#NN 多少#CD 个#M ？#PU
+Instance681.#NR
+小#JJ 红#JJ 家#NN 新#AD 购置#VV 了#AS 3#CD 件#M 家用电器#NN ，#PU 共#AD 花掉#VV 3650#CD 元#M ，#PU 其中#NN 买#VV 电视机#NN 用#P 去#VV 2355#CD 元#M ，#PU 买#VV DVD#NN 机#NN 用#VV 去#VV 了#AS 880#CD 元#M ，#PU 买#VV 饮水机#NN 用#P 去#VV 多少#CD 元#M ？#PU
+Instance682.#NR
+水果#NN 批发#NN 站#VV 运来了#NN 650#CD 千克#M 的#DEG 砂糖#NN 橘#NN ，#PU 第一天#OD 批发#NN 出#VV 223#CD 千克#M ，#PU 第#OD 二#CD 天#M 批发#NN 出#VV 198#CD 千克#M ，#PU 两天#NN 一共#AD 批发#NN 出#VV 多少#CD 千克#M 的#DEG 砂糖#NN 橘#NN ？#PU
+Instance683.#NR
+房间#NN 里#LC 有#VE 10#CD 支#M 点燃#VV 的#DEC 蜡烛#NN ，#PU 风#NN 从#P 窗外#NN 吹#VV 来#VV ，#PU 吹灭#VV 了#AS 2#CD 支#M ，#PU 接着#AD 又#AD 吹灭#VV 了#AS 1#CD 支#M ，#PU 后来#AD 主人#NN 关#VV 好#VA 了#AS 窗户#NN ．#PU 第#OD 二#CD 天#M 打开#VV 房间#NN ，#PU 房#NN 内#LC 还有#CC 几支#NN 蜡烛#NN ？#PU
+Instance684.#NR
+体育课#NN 上#LC ，#PU 同学#NN 们#NN 进行#VV 跳远#NN 练习#NN ．#PU 聪聪#NN 跳#VV 了#AS 1.7#CD 米#M ，#PU 明明#AD 比#P 聪聪#NN 少#AD 跳#VV 了#AS 0.3#CD 米#M ，#PU 扬扬#VV 比#P 明明#AD 多#AD 跳#VV 了#AS 0.15#CD 米#M ．#PU 扬扬#VV 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance685.#NR
+减数#NN 是#VC 120#CD ，#PU 差#VV 是#VC 180#CD ，#PU 被减数#NN =#PU ．#PU
+Instance686.#NR
+计算#VV 9999#CD +#PU 999#CD +#PU 99#CD +#PU 9#CD +#PU 8#CD =#PU ．#PU
+Instance687.#NR
+图书馆#NN 有#VE 985#CD 本#M 故事书#NN ，#PU 四年级#JJ 同学#NN 借#VV 走#VV 了#AS 509#CD 本#M ，#PU 三年级#NT 的#DEG 同学#NN 还#AD 来#VV 452#CD 本#M ，#PU 现在#NT 图书馆#NN 有#VE 故事书#NN 多少#CD 本#M ？#PU
+Instance688.#NR
+2004#CD 年#M 雅典#NR 夏季#NN 奥运会#NR ，#PU 中国#NR 代表团#NN 共#AD 派出#VV 407#CD 名#M 运动员#NN 参赛#VV ，#PU 2008#CD 年#M 北京#NR 夏季#NN 奥运会#NR ，#PU 中国#NR 代表团#NN 共#AD 派出#VV 639#CD 名#M 运动员#NN 参赛#VV ，#PU 中国#NR 代表团#NN 在#P 北京#NR 奥运会#NR 比#P 雅典#NR 奥运会#NR 多派#VV 多少#CD 名#M 运动员#NN ？#PU
+Instance689.#NR
+爸爸#NN 今年#NT 35#CD 岁#M ，#PU 小#JJ 红#JJ 今年#NT 10#CD 岁#M ．#PU 4#CD 年#M 后#LC ，#PU 爸爸#NN 比#P 小#JJ 红#JJ 大#JJ 多少岁#NN ．#PU
+Instance690.#NR
+图书馆#NN 有#VE 故事书#NN 78#CD 本#M ，#PU 上午#NT 借#VV 走#VV 37#CD 本#M ，#PU 下午#NT 又#AD 还#AD 回#VV 28#CD 本#M ，#PU 现在#NT 图书馆#NN 有#VE 故事书#NN 多少#CD 本#M ？#PU
+Instance691.#NR
+小#JJ 红#JJ 原有#JJ 19.04#CD 元#M 钱#NN ，#PU 买#VV 本子#NN 用#VV 去#VV 了#AS 7.8#CD 元#M ，#PU 妈妈#NN 又#AD 给#VV 了#AS 他#PN 4.5#CD 元#M ．#PU 小#JJ 红#NN 现在#NT 有#VE 多少#CD 元#M ？#PU
+Instance692.#NR
+鱼缸#NN 里#LC 有#VE 10#CD 条#M 金鱼#NN ，#PU 其中#NN 4#CD 条#M 是#VC 红#JJ 金鱼#NN ，#PU 其余#DT 的#DEG 是#VC 黑#JJ 金鱼#NN ，#PU 黑#JJ 金鱼#NN 有#VE 多少#CD 条#M ．#PU
+Instance693.#NR
+一#CD 卷#M 绳子#NN 长#VA 60#CD 米#M ，#PU 第一次#AD 用#VV 去#VV 了#AS 12.5#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 了#AS 6.95#CD 米#M ，#PU 用#VV 了#AS 两次#NN 以后#LC ，#PU 这#DT 卷#M 绳子#NN 比#P 原来#AD 短#VA 了#AS 多少#CD 米#M ？#PU
+Instance694.#NR
+3.8#CD -#PU 2.54#CD +#PU 1.46#CD =#PU ．#PU
+Instance695.#NR
+某#DT 毛巾厂#NN 十#CD 月份#NN 实际#AD 生产#VV 彩色#JJ 方格#NN 毛巾#NN 710#CD 条#M ，#PU 比#P 计划#NN 多#AD 生产#VV 105#CD 条#M ，#PU 原#JJ 计划#NN 生产#VV 多少#CD 条#M ？#PU
+Instance696.#NR
+在#P 一次#AD 跳高#NN 比赛#NN 中#LC ，#PU 小#JJ 明#NN 跳#VV 了#AS 1.16#CD 米#M ，#PU 小#JJ 刚#AD 比#P 小#JJ 明#NN 多#AD 跳#VV 了#AS 0.24#CD 米#M ，#PU 小#JJ 星#NN 比#P 小#JJ 刚#AD 少#AD 跳#VV 了#AS 0.18#CD 米#M ．#PU 小#JJ 星#NN 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance697.#NR
+某校#VV 四年级#JJ 一个班#NN 有#VE 42#CD 人#NN ，#PU 全班#NN 都#AD 订#VV 了#AS 杂志#NN ，#PU 订#VV 《#PU 小学生#NN 世界#NN 》#PU 的#DEG 有#VE 38#CD 人#NN ，#PU 订#VV 《#PU 中华#NR 好#JJ 少年#NN 》#PU 的#DEC 有#VE 24#CD 人#NN ．#PU 两种#NR 杂志#NN 都#AD 订#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance698.#NR
+芳#NR 芳#VV 和婷婷#NR 去#VV 买#VV 同一#NN 本书#NN ，#PU 芳#NN 芳#NN 少#AD 35#CD 元#M ，#PU 婷婷#NN 少#AD 28#CD 元#M ，#PU 如果#CS 两#CD 人#NN 的#DEG 钱#NN 合#VV 起来#VV 正好#AD 买#VV 这#DT 本书#NN ，#PU 这#DT 本书#NN 的#DEG 单价#NN =#PU 多少#CD 元#M ．#PU
+Instance699.#NR
+不#AD 改变#VV 数#CD 的#DEG 大小#NN ，#PU 把#BA 14.8#CD 改写#VV 成#VV 3#CD 位#M 小数#NN =#PU ．#PU
+Instance700.#NR
+妈妈#NN 去#VV 超市#NN 买#VV 东西#NN 花#VV 了#AS 76.8#CD 元#M ，#PU 还#AD 剩下#VV 29.8#CD 元#M ，#PU 妈妈#NN 买#VV 东西#NN 共#AD 带#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance701.#NR
+要#VV 修#VV 一条#NR 铁路#NN ，#PU 已经#AD 修好#VV 了#AS 95.8#CD 千米#M ，#PU 还#AD 剩下#VV 65.18#CD 米#M ．#PU 这#DT 条#M 铁路#NN 长#VV 多少#CD 千米#M ？#PU
+Instance702.#NR
+博物馆#NN 上午#NT 有#VE 320#CD 人#NN 参观#VV ，#PU 中午#NT 离去#VV 85#CD 人#NN ，#PU 下午#NT 又#AD 来#VV 了#AS 128#CD 人#NN ，#PU 现在#NT 有#VE 多少#CD 人#NN ．#PU
+Instance703.#NR
+2009#CD 年#M 芳#NN 芳#VV 9#CD 岁#M 了#SP ，#PU 她#PN 的#DEG 出生#NN 年份#NN =#PU ．#PU
+Instance704.#NR
+有#VE 一批#CD 同学#NN 参加#VV 游泳#NN 、#PU 跑步#VV 比赛#NN ，#PU 其中#NN 参加#VV 游泳#NN 的#DEC 同学#NN 42#CD 人#NN ，#PU 参加#VV 跑步#VV 的#DEC 有#VE 38#CD 个#M 同学#NN ，#PU 两项#NN 都#AD 参加#VV 的#DEC 有#VE 18#CD 人#NN ．#PU 共有#VV 多少#CD 名#M 同学#NN 参加#VV 了#AS 比赛#NN ．#PU
+Instance705.#NR
+商店#NN 运#NN 来#MSP 92#CD 辆#M 摩托车#NN ，#PU 上午#NT 卖出#VV 46#CD 辆#M ，#PU 下午#NT 卖出#VV 30#CD 辆#M ，#PU 还#AD 剩#VV 多少#CD 辆#M ？#PU
+Instance706.#NR
+计算#VV ：#PU 13#CD +#PU 73#CD +#PU 132#CD +#PU 145#CD +#PU 255#CD +#PU 274#CD +#PU 326#CD +#PU 368#CD +#PU 427#CD =#PU ．#PU
+Instance707.#NR
+一#CD 个#M 练习本#NN 1.50#CD 元#M ，#PU 一枝#AD 钢笔#NN 7.60#CD 元#M ．#PU 买#VV 一个#CD 练习本#NN 和#CC 一枝#NN 钢笔#NN 一共#AD 要#VV 付#VV 多少#CD 元#M ？#PU
+Instance708.#NR
+同学#NN 们#NN 订#VV 《#PU 小学生#NN 数学#NN 报#NN 》#PU 和#CC 《#PU 小学生#NN 语文报#NN 》#PU ．#PU 3#CD （#PU 1#CD ）#PU 班#NN 有#VE 40#CD 人#NN ，#PU 全班#NN 都#AD 订#VV 了#AS 报#NN ．#PU 订#VV 《#PU 小学生#NN 数学#NN 报#NN 》#PU 的#DEC 有#VE 38#CD 人#NN ，#PU 订#VV 《#PU 小学生#NN 语文报#NN 》#PU 的#DEC 有#VE 26#CD 人#NN ．#PU 订#VV 《#PU 小学生#NN 语文报#NN 》#PU 和#CC 《#PU 小学生#NN 数学#NN 报#NN 》#PU 共有#VV 多少#CD 人#NN ．#PU
+Instance709.#NR
+7456789#CD -#PU 7456788#CD +#PU 7456787#CD -#PU 7456786#CD +#PU 7456785#CD -#PU 7456784#CD =#PU ．#PU
+Instance710.#NR
+家具厂#NN 上个月#NN 生产#NN 单人#NN 木床#NN 1500#CD 张#M ，#PU 双人#NN 木床#NN 1850#CD 张#M ，#PU 铁床#NN 2500#CD 张#M ，#PU 铁床#NN 比#P 木床#NN 少#AD 生产#VV 多少#CD 张#M ？#PU
+Instance711.#NR
+光明#JJ 小学#NN 303#OD 班#NN 共有#VV 35#CD 名#M 同学#NN ，#PU 在#P 选择#VV 兴趣#NN 课时#NN ，#PU 有#VE 18#CD 人#NN 报#VV 了#AS 美术班#NN ，#PU 22#CD 人#NN 报#VV 了#AS 音乐#NN 班#NN ，#PU 既#CC 报#VV 美术班#NN 又#AD 报#VV 音乐#NN 班#NN 有#VE 多少#CD 人#NN ．#PU
+Instance712.#NR
+张#NR 爷爷#NN 用#VV 5#CD 米#M 长#VA 的#DEC 竹竿#NN 插入#VV 水中#NN 后#LC ，#PU 进入#VV 泥土#NN 部分#NN 是#VC 0.8#CD 米#M ，#PU 露出#VV 水面#NN 是#VC 1.36#CD 米#M ，#PU 鱼塘#NN 水深#NN 多少#CD ？#PU
+Instance713.#NR
+民间故事#VV 书#NN 有#VE 185#CD 本#M 、#PU 童话#NN 书#NN 有#VE 210#CD 本#M 、#PU 儿童#NN 小说#NN 有#VE 335#CD 本#M ．#PU 儿童#NN 小说#NN 比#P 童话#NN 书#NN 多#AD 多少#CD 本#M ．#PU
+Instance714.#NR
+小#JJ 明#NN 买#VV 了#AS 两本书#NN ，#PU 《#PU 格林童话#NR 》#PU 18.5#CD 元#M ，#PU 《#PU 新华字典#NR 》#PU 11.3#CD 元#M ，#PU 小#JJ 明#NN 付出#VV 50#CD 元#M ，#PU 应#VV 找回#VV 多少#CD 钱#NN ？#PU
+Instance715.#NR
+在#P 跳远#NN 比赛#NN 中#LC ，#PU 田#NN 田#NN 跳#VV 了#AS 3.02#CD 米#M 、#PU 乐乐#NN 比#P 田#NN 田#NN 少#AD 跳#VV 了#AS 0.15#CD 米#M ，#PU 方方#M 比#P 乐乐#NN 多#AD 跳#VV 了#AS 0.18#CD 米#M ，#PU 方方#M 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance716.#NR
+某班#NR 举行#VV 棋类#NN 比赛#NN ，#PU 参加#VV 象棋#NN 比赛#NN 的#DEC 有#VE 12#CD 人#NN ，#PU 参加#VV 围棋比赛#NN 的#DEC 有#VE 7#CD 人#NN ，#PU 既#AD 参加#VV 象棋#NN 比赛#NN 又#AD 参加#VV 围棋比赛#NN 的#DEC 有#VE 3#CD 人#NN ，#PU 参加#VV 棋类#NN 比赛#NN 的#DEG 共有#VE 多少#CD 人#NN ．#PU
+Instance717.#NR
+同学#NN 们#NN 植树#NN ，#PU 上午#NT 植#VV 了#AS 132#CD 棵#M ，#PU 下午#NT 植#VV 了#AS 96#CD 棵#M ，#PU 还有#CC 85#CD 棵#M 没#AD 植#VV ．#PU 一共#AD 要#VV 植树#VV 多少#CD 棵#M ？#PU
+Instance718.#NR
+计算#VV ：#PU 99999#CD +#PU 9999#CD +#PU 999#CD +#PU 99#CD +#PU 9#CD =#PU ．#PU
+Instance719.#NR
+计算#VV ：#PU 12#CD +#PU 102#CD +#PU 21#CD +#PU 201#CD +#PU 202#CD +#PU 2012#CD =#PU ．#PU
+Instance720.#NR
+车上#NN 原有#JJ 45#CD 位#M 乘客#NN ，#PU 到#P 站#NN 后#LC 下去#VV 10#CD 位#M ，#PU 上来#VV 12#CD 位#M ，#PU 现在#NT 车上#NN 有#VE 多少#CD 位#M 乘客#NN ？#PU
+Instance721.#NR
+钟#NN 的#DEG 单价#NN 是#VC 18#CD 元#M ，#PU 台灯#NN 的#DEG 单价#NN 是#VC 25#CD 元#M ，#PU 小#JJ 华#NR 付出#VV 50#CD 元#M ，#PU 买#VV 了#AS 一个#CD 钟#NN 和#CC 一盏#NN 台灯#NN ，#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance722.#NR
+姐姐#NN 用#P 两条#NN 长度#NN 分别#AD 是#VC 1.26#NT 和#CC 0.95#CD 米#M 的#DEG 彩#NN 带来#VV 包装#NN 礼物#NN ，#PU 接口处#NN 共用#JJ 去#NN 绳子#NN 0.11#CD 米#M ，#PU 接#VV 好#VA 后#LC 的#DEG 绳子#NN 有#VE 多长#NN ？#PU
+Instance723.#NR
+幸福#NN 小学#NN 暑假#NN 毕业#VV 学生#NN 86#CD 人#NN ，#PU 开学#VV 招进#VV 新生#NN 148#CD 人#NN ，#PU 同时#AD 又#AD 转入#VV 学生#NN 7#CD 人#NN ，#PU 转#VV 出#VV 3#CD 人#NN ，#PU 这时#AD 全校#NN 共有#VV 学生#NN 654#CD 人#NN ，#PU 问#VV 暑假#NN 前#LC 幸福#NN 小学#NN 有#VE 多少#CD 学生#NN ？#PU
+Instance724.#NR
+明明#AD 将#BA 一根#AD 5.4#CD 米#M 的#DEG 竹竿#NN 插入#VV 池水#NN 中#LC ，#PU 来#VV 测#VV 池水#NN 的#DEC 深度#NN ，#PU 已知#VV 插入#VV 泥#NN 的#DEC 部分#CD 长#JJ 0.6#CD 米#M ，#PU 露出#VV 水面#NN 的#DEC 部分#CD 长#JJ 1.23#CD 米#M ，#PU 水深#NN 多少#CD 米#M ？#PU
+Instance725.#NR
+一#CD 个数#NN 减去#VV 13#CD 以后#LC ，#PU 比#P 56#CD 与#CC 38#CD 的#DEG 差#NN 多#AD 512#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance726.#NR
+四年级#NN 一般#AD 全体学生#VV 参加#VV 智能#NN 测试#NN 共#AD 做#VV 两道#NN 题#NN ，#PU 其中#NN ，#PU 答对#VV 第一#OD 题#NN 的#DEG 有#VE 35#CD 人#NN ，#PU 答对#VV 第#OD 2#CD 题#NN 的#DEC 有#VE 23#CD 人#NN ，#PU 两道#NN 题#NN 都#AD 答对#VV 的#DEC 有#VE 18#CD 人#NN 两道#CD 题#NN 都#AD 做#VV 错#VA 的#DEC 有#VE 10#CD 人#NN ，#PU 这个#DT 班#NN 一共#AD 有#VE 多少#CD 人#NN ？#PU
+Instance727.#NR
+在#P 一个#CD 减法#NN 算式#NN 中#LC ，#PU 如果#CS 被减数#NN 增加#VV 70#CD ，#PU 差#VV 减少#VV 20#CD ，#PU 那么#AD 减数#NN 增加#VV 多少#CD ．#PU
+Instance728.#NR
+饲养场#NN 养鸭#VV 12#CD 万#CD 只#M ，#PU 养#VV 鹅#NN 8#CD 万#CD 只#M ，#PU 养鸡#NN 只#AD 数#VV 比#P 鸭#NN 和#CC 鹅#NN 总#JJ 只#AD 数#VV 还#AD 多#CD 2#CD 万#CD 只#M ，#PU 养鸡#VV 多少#CD 万#CD 只#M ？#PU
+Instance729.#NR
+把#BA 0.8#CD 改成#VV 以#MSP 0#CD ．#PU O1#NN 为#VC 单位#NN 的#DEC 数#NN =#PU ．#PU
+Instance730.#NR
+一#CD 件#M 衣服#NN 现价#NN 178#CD 元#M 钱#NN ，#PU 比#P 原来#AD 降低#VV 了#AS 121#CD 元#M ，#PU 这件#AD 衣服#NN 原价#NN 多少#CD 钱#NN ？#PU
+Instance731.#NR
+往#P 一个#CD 篮子#NN 里#LC 放#VV 鸡蛋#NN ，#PU 假定#VV 篮子#NN 里#LC 的#DEG 鸡蛋#NN 数目#NN 每分钟#NN 增加#VV 1#CD 倍#M ，#PU 这样#AD 放下去#VV ，#PU 10#CD 分钟#M 时#LC ，#PU 篮子#NN 放满#VV 了#AS ．#PU 那么#AD ，#PU 多少#CD 分钟#M 时#LC 恰好#AD 放入#VV 半#AD 篮子#NN 鸡蛋#NN ．#PU
+Instance732.#NR
+妈妈#NN 买#VV 苹果#NN 用#P 去#VV 14.6#CD 元#M ，#PU 买#VV 橘子#NN 用#P 去#VV 27.56#CD 元#M ，#PU 付给#VV 售货员#NN 50#CD 元#M ，#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance733.#NR
+1997#NT +#PU 199.7#NT +#PU 19.97#NT +#PU 1.997#NT =#PU ．#PU
+Instance734.#NR
+小莲庄#NR 上午#NT 来#VV 了#AS 787#CD 位#M 游客#NN ，#PU 中午#NT 有#VE 460#CD 位#M 游客#NN 离开#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 260#CD 位#M 游客#NN ．#PU 这时#AD 小莲庄#NR 一共#AD 有#VE 多少#CD 游客#NN ？#PU
+Instance735.#NR
+小春#NN 在#P 计算#VV 减法#NN 时#LC ，#PU 把#BA 减数#NN 72#CD 写成#VV 27#CD ，#PU 得到#VV 的#DEC 差#NN 是#VC 176#CD ，#PU 正确#VA 的#DEC 差#NN 应该#VV =#PU ．#PU
+Instance736.#NR
+在#P 一次#AD 跳高#NN 比赛#NN 中#LC ，#PU 张#NR 敏#NN 跳#VV 过#AS 了#AS 0.9#CD 米#M ，#PU 肖#NR 红#JJ 比#P 张#NR 敏#NN 跳#VV 得#DER 低#VA 0.05#CD 米#M ，#PU 李#NR 海#NN 比#P 肖#NR 红#VA 跳#VV 得#DER 高#VA 0.15#CD 米#M ．#PU 李#NR 海#NN 跳#VV 过#AS 了#AS 多少#CD 米#M ？#PU
+Instance737.#NR
+英国#NR 数学家#NN 、#PU 物理学家#NN 、#PU 万有引力#NN 定律#NN 的#DEG 发现者#NN 牛顿#NN 于#P 1642#CD 年#M 出#VV 生于#VV 英国#NR 林肯郡#NR ．#PU 同一#DT 年#M ，#PU 意大利#NR 科学家#NN 伽利略#NR 逝世#VV ．#PU 今年#NT 是#VC 2013#CD 年#M ，#PU 那么#AD 这#DT =#PU 多少#CD 年前#JJ 的#DEG 事情#NN ．#PU
+Instance738.#NR
+停车场#NN 有#VE 32#CD 辆#M 大#JJ 汽车#NN ，#PU 小汽车#NN 比#P 大#JJ 汽车#NN 多#AD 18#CD 辆#M ，#PU 小汽车#NN 有#VE 多少#CD 辆#M ？#PU
+Instance739.#NR
+甲#NN 数#NN 比#P 乙#NN 数#NN 少#AD 3.5#CD ，#PU 甲#CD 数#NN 是#VC 2.8#CD ，#PU 乙#NN 数#NN =#PU ？#PU
+Instance740.#NR
+水果店#NN 运进#VV 318#CD 千克#M 荔枝#NN ，#PU 上午#NT 卖出#VV 276#CD 千克#M ，#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance741.#NR
+李老师#NR 给#P 学校#NN 买#VV 图书#NN 用#VV 了#AS 245#CD 元#M ，#PU 买#VV 体育用品#NN 用#VV 了#AS 184#CD 元#M ，#PU 他#PN 带#VV 了#AS 500#CD 元#M ，#PU 还#AD 剩#VV 多少#CD 元#M ？#PU
+Instance742.#NR
+汪洋#NR 的#DEG 身高#NN 是#VC 1.21#CD 米#M ，#PU 比#P 肖#NR 杰#NR 矮#JJ 0.19#CD 米#M ，#PU 肖#NR 杰#VV 的#DEC 身高#NN =#PU 多少#CD 米#M ．#PU
+Instance743.#NR
+某#DT 车间#NN 有#VE 50#CD 名#M 工人#NN ，#PU 车间#NN 组织#NN 活动#NN ，#PU 参加#VV 划船#NN 的#DEC 有#VE 34#CD 人#NN ，#PU 参加#VV 游泳#NN 的#DEC 有#VE 28#CD 人#NN ，#PU 车间#NN 有#VE 多少#CD 人#NN 两项#CD 活动#NN 都#AD 参加#VV ．#PU
+Instance744.#NR
+商店#NN 原有#JJ 365#CD 箱#M 牛奶#NN ，#PU 第一周#AD 卖出#VV 了#AS 218#CD 箱#M ，#PU 第#OD 二#CD 周#M 又#AD 运进#VV 了#AS 129#CD 箱#M ．#PU 现在#NT 商店#NN 里#LC 有#VE 牛奶#NN 多少#CD 箱#NN ？#PU
+Instance745.#NR
+5679#NT +#PU 9999#CD +#PU 8889#CD +#PU 4321#CD =#PU ．#PU
+Instance746.#NR
+一#CD 部#M 电话机#NN 210#CD 元#M ，#PU 一台#NN 录音机#NN 208#CD 元#M ，#PU 王#NR 叔叔#NN 用#P 500#CD 元#M 买#VV 这#PN 两样#VA 物品#NN ，#PU 还#AD 剩#VV 多少#CD 钱#NN ？#PU
+Instance747.#NR
+数学课#NN 上#LC ，#PU 李老师#NR 布置#VV 了#AS 两道#NN 题#NN ，#PU 结果#AD 有#VE 34#CD 人#NN 答对#VV 了#AS 第一#OD 题#NN ；#PU 有#VE 46#CD 人#NN 做#VV 对#VA 了#AS 第#OD 二#CD 题#NN ；#PU 没有#VE 人#NN 两道#NN 题#NN 全部#AD 做#VV 错#VA ．#PU 如果#CS 这个#DT 班#NN 共有#VV 52#CD 人#NN ，#PU 那么#AD 两道#NN 题#NN 都#AD 做#VV 对#VA 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance748.#NR
+手帕#NN 厂#NN 原#AD 计划#VV 8#CD 月份#NN 生产#NN 手帕#NN 3280#CD 打#VV ．#PU 采用#VV 新#VA 的#DEC 生产#NN 流水线#NN 后#LC ，#PU 生产#VV 的#DEC 手帕#NN 运走#VV 了#AS 2960#CD 打#VV ，#PU 还#AD 剩#VV 875#CD 打#VV ．#PU 比#P 原来#JJ 计划#NN 增产#VV 多少#CD 打#VV ？#PU
+Instance749.#NR
+甲#NN 数#NN 是#VC 10.78#NT ，#PU 乙#NN 数#NN 比#P 甲#NN 数多#VV 3.88#CD ，#PU 乙#NN 数#NN =#PU ？#PU
+Instance750.#NR
+姐姐#NN 今年#NT 15#CD 岁#M ，#PU 我#PN 今年#NT 12#CD 岁#M ．#PU 5#CD 年#M 后#LC ，#PU 姐姐#NN 比#P 我#PN 大#JJ 多少岁#NN ．#PU
+Instance751.#NR
+鸵鸟#NN 每#DT 小时#NN 跑#VV 54.3#CD 千米#M ，#PU 卡车#NN 每#DT 小时#NN 行#VV 48.6#CD 千米#M ，#PU 鸵鸟#NN 每#DT 小时#NN 比#P 卡车#NN 多#AD 跑#VV 多少#CD 千米#M ？#PU
+Instance752.#NR
+修路#VV 队#NN 修#VV 了#AS 一条#JJ 路#NN ，#PU 已修#VV 了#AS 596#CD 米#M ，#PU 还#AD 剩#VV 256#CD 米#M 没有#AD 修#VV ，#PU 这#DT 条#M 路#NN 长#VV 多少#CD 米#M ？#PU
+Instance753.#NR
+饲养场#NN 养鸭#VV 120#CD 只#M ，#PU 比#P 鸡#NN 多#VA 20#CD 只#M ，#PU 养#VV 的#DEC 鹅#NN 比#P 鸡#NN 多#VA 230#CD 只#M ，#PU 养#VV 鹅#NN 多少#CD 只#M ？#PU
+Instance754.#NR
+妈妈#NN 到#P 超市#NN 买#VV 苹果#NN 用#P 去#VV 21.86#CD 元#M ，#PU 买#VV 梨#NN 用#P 去#VV 19.38#CD 元#M ，#PU 一#CD 共用#JJ 去#VV 多少#CD 钱#NN ？#PU
+Instance755.#NR
+被减数#NR 是#VC 1000#CD ，#PU 差#VV 是#VC 668#CD ，#PU 减数#NN =#PU ？#PU
+Instance756.#NR
+两个#CD 加数#NN 的#DEG 和#CC 比#P 一个#CD 加数#NN 大#JJ 10#CD ，#PU 比#P 另#AD 一个#CD 加数#AD 大#JJ 30#CD ，#PU 这#DT 两个#CD 加数#NN 的#DEG 差#NN =#PU ．#PU
+Instance757.#NR
+一#CD 头#M 大象#NN 重#AD 4.8#CD 吨#M ，#PU 比#P 一头#AD 牛#VA 的#DEC 体重#NN 多#AD 4.3#CD 吨#M ，#PU 一头#AD 牛#NN 重#VV 多少#CD 吨#M ？#PU
+Instance758.#NR
+科技#NN 活动#NN 小组#NN 有#VE 55#CD 人#NN ．#PU 在#P 一次#AD 制作#VV 飞机#NN 模型#NN 和#CC 制作#NN 舰艇#NN 模型#NN 的#DEC 定时#JJ 科技#NN 活动#NN 比赛#NN 中#LC ，#PU 老师#NN 到#VV 时#LC 清点#VV 发现#VV ：#PU 制作#VV 好#JJ 一架#NN 飞机#NN 模型#NN 的#DEG 同学#NN 有#VE 40#CD 人#NN ，#PU 制作#VV 好#JJ 一艘#NN 舰艇#NN 的#DEG 同学#NN 有#VE 32#CD 人#NN ．#PU 每个#DT 同学#NN 都#AD 至少#AD 完成#VV 了#AS 一项#AD 制作#VV ．#PU 问#VV 两项#NN 制作#NN 都#AD 完成#VV 的#DEC 同学#NN 有#VE 多少#CD 人#NN ．#PU
+Instance759.#NR
+学校#NN 召开#VV 秋季#NT 田径运动#VV 会#VV ，#PU 五年级#NT 3#CD 位#M 班主任#NN 统计#VV 参加#VV 比赛项目#VV 的#DEC 人数#NN 如下#VV ：#PU 参加#VV 径赛#NN 的#DEC 有#VE 37#CD 人#NN ，#PU 参加#VV 田赛#NN 的#DEC 有#VE 25#CD 人#NN ，#PU 其中#NN 既#AD 参加#VV 田赛#NN 又#AD 参加#VV 径赛#NN 的#DEC 有#VE 10#CD 人#NN ，#PU 田赛#NN 径赛#NN 都#AD 没#AD 参加#VV 的#DEC 有#VE 113#CD 人#NN ．#PU 这#PN 可#AD 把#BA 余#NN 老师#NN 搞糊涂#VV 了#AS ！#PU 听说#VV 你#PN 挺#AD 会#VV 动脑筋#VV ，#PU 快#AD 告诉#VV 老师#NN 五年级#NT 有#VE 多少#CD 学生#NN ．#PU
+Instance760.#NR
+树上#NN 有#VE 20#CD 只#M 小鸟#NN ，#PU 第一次#AD 飞#VV 走#VV 3#CD 只#M ，#PU 第#OD 二#OD 次#M 又#CC 飞#VV 走#VV 了#AS 5#CD 只#M ，#PU 一共#AD 飞#VV 走#VV 了#AS 多少#CD 只#M 小鸟#NN ．#PU
+Instance761.#NR
+明明#AD 和#P 亮#VA 亮#VA 参加#VV 1000#CD 米#M 的#DEG 比赛#NN ．#PU 明明#AD 已经#AD 跑#VV 了#AS 750#CD 米#M ，#PU 亮#VA 亮#VA 离#P 终点#NN 还有#CC 180#CD 米#M ，#PU 明明#AD 离#P 终点#NN 还有#CC 多少#CD 米#M ？#PU 他们#PN 两#CD 人#NN 谁#PN 跑得快#VV 些#M ？#PU
+Instance762.#NR
+哥哥#NN 给#VV 了#AS 弟弟#NN 3#CD 个#M 苹果#NN 后#LC 还#AD 剩下#VV 8#CD 个#M ，#PU 这时#NT 两#CD 人#NN 苹果#NN 一样#VA 多#AD ，#PU 弟弟#NN 原来#AD 有#VE 苹果#NN 多少#CD 个#M ．#PU
+Instance763.#NR
+妈妈#NN 买来#VV 20#CD 个#M 苹果#NN ，#PU 全家#NN 第一次#AD 吃#VV 了#AS 7#CD 个#M ，#PU 第#NN 二#CD 次#M 吃#VV 了#AS 5#CD 个#M ．#PU 两次#NR 一共#AD 吃#VV 了#AS 多少#CD 个#M 苹果#NN ？#PU
+Instance764.#NR
+箱子#NN 里#LC 有#VE 红球#NN 13#CD 个#M ，#PU 黄#JJ 球#NN 10#CD 个#M ，#PU 蓝球#NN 15#CD 个#M ，#PU 从中#AD 摸#VV 出#VV 多少#CD 个#M 球#NN ，#PU 才能#NN 保证#VV 3#CD 种颜色#NN 的#DEG 球#NN 都#AD 至少#AD 有#VE 4#CD 个#M ．#PU
+Instance765.#NR
+仓库#NN 里#LC 存有#VV 一批#AD 面粉#NN ．#PU 第一次#AD 运走#VV 8.5#CD 吨#M ，#PU 第#OD 二#OD 次#M 运走#VV 12.6#CD 吨#M ，#PU 还#AD 剩#VV 4.3#CD 吨#M ，#PU 这#DT 批#M 面粉#NN 有#VE 多少#CD 吨#M ？#PU
+Instance766.#NR
+计算#VV ：#PU 500#CD +#PU 501#CD +#PU 502#CD +#PU 503#CD =#PU ．#PU
+Instance767.#NR
+小#JJ 玲#NR 家养#NN 了#AS 46#CD 只#M 鸭子#NN ，#PU 24#CD 只#M 鸡#NN ，#PU 养#VV 的#DEC 鸡#NN 和#CC 鹅#NN 的#DEG 总数#NN 比#P 鸭#NN 多#VA 5#CD 只#M ．#PU 小#JJ 玲#NR 家养#NN 了#AS 多少#CD 只#M 鹅#NN ．#PU
+Instance768.#NR
+一#CD 列#M 从#P 邯郸#NR 开往#VV 北京#NR 的#DEG 火车#NN ，#PU 在#P 到#P 石家庄#NR 站#VV 之前#LC ，#PU 车上#NN 有#VE 478#CD 人#NN ，#PU 在#P 石家庄#NR 站#VV 上车#VV 的#DEC 有#VE 328#CD 人#NN ，#PU 下车#VV 的#DEC 乘客#NN 有#VE 288#CD 人#NN ．#PU 火车#NN 从#P 石家庄#NR 站#VV 开出#VV 后#LC ，#PU 车上#NN 共有#VV 乘客#NN 多少#CD 人#NN ？#PU
+Instance769.#NR
+小兵#NN 买#VV 了#AS 一支#CD 钢笔#NN 和#CC 一支#NN 圆珠笔#NN ，#PU 钢笔#NN 的#DEG 单价#NN 是#VC 13.56#CD 元#M ，#PU 圆珠笔#NN 的#DEG 单价#NN 是#VC 3.79#CD 元#M ，#PU 小兵#NN 一共#AD 花#VV 了#AS 多少#CD 元#M ？#PU
+Instance770.#NR
+华华#NR 出生#VV 在#P 1998#NT 年#NN ，#PU 当#P 他#PN 过#VV 16#CD 岁#M 生日#NN 时#LC 应#VV =#VV 多少#CD 年#M ．#PU
+Instance771.#NR
+计算#VV ：#PU 1002#CD -#PU 992#CD +#PU 982#CD -#PU 972#CD +#PU 962#CD -#PU 952#CD +#PU 942#CD -#PU 932#CD +#PU 922#CD -#PU 912#CD =#PU ．#PU
+Instance772.#NR
+小#JJ 明#NN 原有#JJ 一些#CD 邮票#NN ，#PU 今年#NT 又#AD 收集#VV 了#AS 28#CD 张#M ，#PU 送给#VV 小#JJ 飞#VV 19#CD 张#M 后#LC ，#PU 还#AD 剩#VV 35#CD 张#M ．#PU 小#JJ 明#NN 原有#JJ 多少#CD 张#M 邮票#NN ．#PU
+Instance773.#NR
+班级#NN 图书#NN 柜#NN 有#VE 故事书#NN 118#CD 本#M ，#PU 今天#NT 借出#VV 53#CD 本#M ，#PU 还#AD 回#VV 33#CD 本#M ．#PU 现在#NT 图书#NN 柜#NN 里#LC 还有#CC 故事书#NN 多少#CD 本#M ．#PU
+Instance774.#NR
+1025#CD +#PU 6487#CD 多少#CD ．#PU
+Instance775.#NR
+李老师#NR 有#VE 415#CD 本#M 练习本#NN ，#PU 发给#VV 二年级#JJ 同学#NN 196#CD 本#M ，#PU 一年级#CD 同学#NN 208#CD 本#M ．#PU 李老师#NR 还#AD 剩#VV 多少#CD 本#M ？#PU
+Instance776.#NR
+树上#NN 原来#AD 有#VE 38#CD 只#M 鸟#NN ，#PU 飞#VV 走#VV 了#AS 12#CD 只#M ，#PU 树上#NN 还有#CC 多少#CD 只#M 鸟#NN ？#PU
+Instance777.#NR
+101#CD +#PU 103#CD +#PU 107#CD +#PU 109#CD +#PU 113#CD +#PU 127#CD +#PU 131#CD +#PU 137#CD +#PU 139#CD +#PU 149#OD +#PU 1030#CD =#PU ．#PU
+Instance778.#NR
+某班#VV 共有#VV 16#CD 人#NN ，#PU 人人#NN 参加#VV 竞赛#NN ，#PU 参加#VV 数学#NN 竞赛#NN 的#DEC 有#VE 8#CD 人#NN ，#PU 参加#VV 作文#NN 竞赛#NN 的#DEC 有#VE 11#CD 人#NN ，#PU 至少#AD 有#VE 多少#CD 人#NN 既#AD 参加#VV 数学#NN 竞赛#NN 又#AD 参加#VV 作文#NN 竞赛#NN ．#PU
+Instance779.#NR
+9#CD +#PU 99#CD +#PU 999#CD +#PU 9999#CD +#PU 99999#CD +#PU 999999#CD =#PU ．#PU
+Instance780.#NR
+小#JJ 华#NR 和#CC 小强#NR 的#DEG 体重#NN 是#VC 84#CD 千克#M ，#PU 小#JJ 华#NR 和#CC 小#JJ 玲#NN 的#DEG 体重#NN 是#VC 80#CD 千克#M ，#PU 小强#NN 和#CC 小#JJ 玲#NN 的#DEG 体重#NN 是#VC 82#CD 千克#M ，#PU 小#JJ 华#NR 比#P 小#JJ 玲#NN 重#VV 多少#CD 千克#NN ．#PU
+Instance781.#NR
+一#CD 根#M 木头#NN ，#PU 锯#VV 去#VV 12.5#CD 米#M ，#PU 还#AD 剩下#VV 3.8#CD 米#M ．#PU 这根#NR 木头#NN 原来#AD 长#VV 多少#CD 米#M ？#PU
+Instance782.#NR
+50#CD 个#M 学生#NN 解答#VV A#NN 、#PU B#NN 两#CD 题#NN ，#PU 其中#NN 没#VE 答对#VV A#NN 题#NN 的#DEC 有#VE 12#CD 人#NN ，#PU 答对#VV A#NN 题#NN 的#DEG 且#CC 没#VE 答对#VV B#NN 题#NN 的#DEC 有#VE 30#CD 人#NN ．#PU 那么#AD A#NN 、#PU B#NN 两#CD 题#NN 都#AD 答对#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance783.#NR
+一#CD 个#M 文具盒#NN 11.40#CD 元#M ，#PU 一枝#AD 钢笔#NN 6.80#CD 元#M ，#PU 小#JJ 华#NR 带#VV 了#AS 30#CD 元#M 钱#NN ，#PU 买#VV 了#AS 一个#CD 文具盒#NN 和#CC 一枝#NN 钢笔#NN ，#PU 还#AD 剩下#VV 多少#CD 钱#NN ？#PU
+Instance784.#NR
+52#CD +#PU 53#CD +#PU 54#CD +#PU 55#CD +#PU 56#CD +#PU 57#CD +#PU 58#CD =#PU ．#PU
+Instance785.#NR
+10#CD 月#NN 1#CD 日#M 上午#NT 西游#NN 洞#NN 有#VE 游客#NN 985#CD 人#NN ，#PU 中午#NT 有#VE 545#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 230#CD 人#NN ，#PU 此时#NT 西游#NR 洞#NN 还有#CC 多少#CD 游客#NN ？#PU
+Instance786.#NR
+阳光#NN 小学#NN 三年级#NN 有#VE 学生#NN 248#CD 人#NN ，#PU 比#P 四年级#JJ 学生#NN 少#AD 63#CD 人#NN ，#PU 四年级#NN 有#VE 多少#CD 人#NN ？#PU
+Instance787.#NR
+教室#NN 里#LC 8#CD 盏灯#NN ，#PU 全部#AD 亮#VV 着#AS ，#PU 现在#NT 关掉#VV 了#AS 6#CD 盏灯#NN ，#PU 教室#NN 里#LC 还有#CC 多少#CD 盏灯#NN ．#PU
+Instance788.#NR
+学校#NN 举办#VV 校庆#NN 活动#NN ，#PU 据统计#AD 上午#NT 来校#VV 参观#VV 的#DEC 人数#NN 是#VC 1089#CD 人#NN ，#PU 参观#VV 后#LC 有#VE 455#CD 人#NN 离开#VV ，#PU 下午#NT 又#AD 有#VE 267#CD 人#NN 到校#VV 参观#VV ，#PU 现在#NT 在校#NN 参观#VV 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance789.#NR
+滑冰场#NN 上午#NT 有#VE 72#CD 人#NN ，#PU 中午#NT 有#VE 44#CD 人#NN 离去#VV ，#PU 又#AD 有#VE 85#CD 人#NN 到来#VV ．#PU 现在#NT 有#VE 多少#CD 人#NN 滑冰#VV ？#PU
+Instance790.#NR
+期中考试#NN 时#LC ，#PU 聪聪#NN 班上#NN 语文#NN 及格#VV 的#DEC 有#VE 48#CD 人#NN ，#PU 数学#NN 及格#VV 的#DEC 有#VE 49#CD 人#NN ，#PU 两#CD 科#NN 都#AD 及格#VV 的#DEC 有#VE 41#CD 人#NN ，#PU 没有#VE 双#CD 科#NN 不及格#JJ 的#DEG ，#PU 聪聪#NN 班上#NN 共有#VV 多少#CD 人#NN ．#PU
+Instance791.#NR
+某班#VV 在#P 一次#AD 测验#NN 中#LC ，#PU 有#VE 26#CD 人#NN 语文#NN 获#VV 优#NN ，#PU 有#VE 30#CD 人#NN 数学#NN 获#VV 优#NN ，#PU 其中#NN 语#NN 数#NN 双优#VA 的#DEC 有#VE 12#CD 人#NN ，#PU 另外#AD 有#VE 4#CD 人#NN 语#NN 数#NN 成绩#NN 均#AD 未获#VV 优#NN ，#PU 这个#DT 班#NN 共有#VV 多少#CD 个#M 学生#NN ．#PU
+Instance792.#NR
+雄#NN 城#NN 商场#NN 1#CD -#PU 4#OD 季度#NN 分别#AD 售出#VV 冰箱#NN 269#CD 台#M 、#PU 67#CD 台#M 、#PU 331#CD 台#M 和#CC 233#CD 台#M ．#PU 雄#NN 城#NN 商场#NN 全年#AD 共#AD 售出#VV 冰箱#NN 多少#CD 台#M ？#PU
+Instance793.#NR
+小#JJ 亚#NR 体重#NN 40.5#CD 千克#M ，#PU 小#JJ 丁丁#NN 比#P 她#PN 轻#VA 2.8#CD 千克#M ，#PU 小胖#NN 比#P 小#JJ 丁丁#NN 重#AD 6.5#CD 千克#M ．#PU 小胖#NR 体重#NN 多少#CD 千克#M ？#PU
+Instance794.#NR
+57#CD 和#CC 36#CD 的#DEG 和#CC 比#P 24#CD 多#AD 多少#CD ．#PU
+Instance795.#NR
+超市#NN 原有#JJ 西瓜#NN 348#CD 千克#M ，#PU 上午#NT 卖出#VV 153#CD 千克#M ，#PU 下午#NT 又#AD 运#VV 来#VV 213#CD 千克#M ，#PU 这时#AD 超市#NN 有#VE 西瓜#NN 多少#CD 千克#M ？#PU
+Instance796.#NR
+水果店#NN 有#VE 水果#NN 750#CD 千克#M ，#PU 今天上午#AD 卖出#VV 284#CD 千克#M ，#PU 下午#NT 卖出#VV 325#CD 千克#M ．#PU 水果店#NN 还#AD 剩#VV 多少#CD 千克#M 水果#NN ？#PU
+Instance797.#NR
+小#JJ 红#JJ 参加#NN 唱歌#VV 比赛#NN ，#PU 她#PN 和#CC 参赛#VV 的#DEC 小#JJ 选手#NN 每个#DT 人#NN 握#VV 1#CD 次#M 手#NN ，#PU 一共#AD 握#VV 了#AS 6#CD 次#M ，#PU 参加#VV 唱歌#VV 比赛#NN 一共#AD 有#VE 多少#CD 人#NN ．#PU
+Instance798.#NR
+一#CD 根#M 绳#NN 长#VA 5.1#CD 米#M ，#PU 第一次#AD 剪#VV 去#VV 2.32#CD 米#M ，#PU 第#OD 二#OD 次#M 剪#VV 去#VV 1.78#CD 米#M ．#PU 两次#AD 共#AD 剪#VV 去#VV 多少#CD 米#M ？#PU
+Instance799.#NR
+展览馆#NN 原有#JJ 426#CD 人#NN 参观#VV ，#PU 走#VV 了#AS 121#CD 人#NN ，#PU 又#AD 来#VV 了#AS 98#CD 人#NN ，#PU 展览馆#NN 现有#JJ 多少#CD 人#NN 参观#VV ．#PU
+Instance800.#NR
+小#JJ 兰#NR 今年#NT 9#CD 岁#M ，#PU 妈妈#NN 今年#NT 36#CD 岁#M ，#PU 妈妈#NN 和#CC 小#JJ 兰#NR 相差#VV 多少岁#NN ？#PU
+Instance801.#NR
+一#CD 辆#M 汽车#NN 里#LC 有#VE 乘客#NN 32#CD 人#NN ，#PU 到#P 邮电#NN 大楼#NN 站#VV 下去#VV 9#CD 人#NN ．#PU 又#AD 上来#VV 13#CD 人#NN ，#PU 这时#AD 车上#NN 有#VE 乘客#NN 多少#CD 人#NN ？#PU
+Instance802.#NR
+7#CD -#PU 4.36#CD +#PU 5.378#CD =#PU ．#PU
+Instance803.#NR
+体育#NN 室#NN 有#VE 235#CD 根#M 跳绳#NN ．#PU 上午#NT 借出#VV 87#CD 根#M ，#PU 下午#NT 借出#VV 104#CD 根#M ．#PU 还#AD 剩#VV 多少#CD 根#M 跳绳#NN ？#PU
+Instance804.#NR
+比#P 0.9#CD 大#JJ 4.7#CD 的#DEG 数#NN =#PU ．#PU
+Instance805.#NR
+150#CD 千克#M 比#P 200#CD 千克#M 少#VV 多少#CD 千克#NN ．#PU
+Instance806.#NR
+6#CD （#PU 3#CD ）#PU 班#NN 某次#AD 数学考试#VV 平均分#NN 是#VC 86#CD 分#M ，#PU 高于#VV 平均分#NN 记#VV 作#VV 正数#NN ，#PU 低于#VV 平均分#NN 记#NN 作#VV 负数#NN ．#PU 小利#NN 的#DEG 成绩#NN 记#VV 作#VV -#PU 5#CD 分#M ，#PU 她#PN 实际#AD 得#VV 多少#CD 分#NN ．#PU
+Instance807.#NR
+计算#VV ：#PU 784070#CD +#PU 78407.1#CD +#PU 7840.72#CD +#PU 784.073#CD +#PU 78.4074#CD =#PU ．#PU
+Instance808.#NR
+小#JJ 刚#AD 带#VV 20#CD 元#M 去#VV 商店#NN 买#VV 了#AS 一个#CD 7.5#CD 元#M 的#DEG 铅笔盒#NN ，#PU 那么#AD 售货员#NN 阿姨#NN 应该#VV 找#VV 多少#CD 元#M 钱#NN 给#P 小#JJ 刚#NR ．#PU
+Instance809.#NR
+小#JJ 亮#VV 买#VV 了#AS 一本#NN 《#PU 童话故事#NN 》#PU ，#PU 花#VV 了#AS 4.6#CD 元#M ；#PU 又#AD 买#VV 了#AS 一本#NN 《#PU 宇宙#NN 探险#VV 》#PU ，#PU 花#VV 了#AS 10.5#CD 元#M ．#PU 小#JJ 亮#VA 买#VV 这#DT 两本书#NN 一共#AD 花#VV 了#AS 多少#CD 钱#NN ？#PU
+Instance810.#NR
+二年级#NT 3#CD 班#M 有#VE 34#CD 人#NN 会#VV 跳绳#VV ，#PU 有#VE 26#CD 人#NN 会#VV 踢毽子#NN ，#PU 其中#NN 有#VE 24#CD 人#NN 既#AD 会#VV 跳绳#NN 又#AD 会#VV 踢毽子#NN ，#PU 还有#CC 2#CD 人#NN 两样#VA 都#AD 不会#VV ．#PU 你#PN 算算看#VV ，#PU 全班#NN 有#VE 多少#CD 位#M 同学#NN ．#PU
+Instance811.#NR
+水果#NN 批发店#NN 运#NN 来#MSP 560#CD 箱#M 苹果#NN ，#PU 上午#NT 卖出#VV 235#CD 箱#M ，#PU 下午#NT 卖出#VV 198#CD 箱#M ，#PU 还#AD 剩#VV 多少#CD 箱#NN ？#PU
+Instance812.#NR
+一#CD 个#M 小数#NN 是#VC 2.4#CD ，#PU 另#AD 一个#CD 小数#NN 比#P 它#PN 大#JJ 0.4#CD ，#PU 另#AD 一个#CD 小数#NN =#PU ．#PU
+Instance813.#NR
+小#JJ 明#NN 买#VV 了#AS 一支#CD 钢笔#NN 和#CC 一支#NN 圆珠笔#NN ，#PU 钢笔#NN 的#DEG 单价#NN 是#VC 10.55#CD 元#M ，#PU 圆珠笔#NN 的#DEG 单价#NN 是#VC 2.78#CD 元#M ，#PU 小#JJ 明#NR 一共#AD 花#VV 了#AS 多少#CD 元#M ？#PU
+Instance814.#NR
+三年级#JJ 学生#NN 喜欢#VV 打乒乓球#VV 的#DEC 有#VE 75#CD 人#NN ，#PU 喜欢#VV 打篮球#VV 的#DEC 有#VE 53#CD 人#NN ，#PU 这#PN 两样#VA 都#AD 喜欢#VV 的#DEC 有#VE 23#CD 人#NN ，#PU 喜欢#VV 打乒乓球#VV 和#CC 篮球#NN 的#DEC 一共#AD 有#VE 多少#CD 人#NN ．#PU
+Instance815.#NR
+一#CD 辆#M 火车#NN 上#LC 原有#JJ 967#CD 人#NN ．#PU 先#AD 下去#VV 288#CD 人#NN ，#PU 后来#AD 又#AD 上来#VV 105#CD 人#NN ．#PU 火车#NN 上#LC 现在#NT 有#VE 多少#CD 人#NN ？#PU
+Instance816.#NR
+一#CD 个#M 修路#VV 队#NN 修#VV 一条#NN 公路#NN ，#PU 前#JJ 5#CD 天#M 修#VV 了#AS 660#CD 米#M ．#PU 按照#P 这样#PN 的#DEG 工作效率#NN ，#PU 又#AD 修#VV 了#AS 1688#CD 米#M 才#AD 把#BA 这#DT 条#M 公路#NN 修#VV 完#VV ．#PU 这#DT 条#M 公路#NN 全长#NN 多少#CD 米#M ？#PU
+Instance817.#NR
+商店#NN 有#VE 黄#JJ 气球#NN 65#CD 个#M ，#PU 红#JJ 气球#NN 56#CD 个#M ，#PU 花#VV 气球#NN 的#DEC 个数#NN 比#P 黄#JJ 气球#NN 和#CC 红#JJ 气球#NN 的#DEC 总数#NN 少#AD 25#CD 个#M ，#PU 花#NN 气球#NN 有#VE 多少#CD 个#M ？#PU
+Instance818.#NR
+黄河#NR 全长#NN 5464#CD 千米#M ，#PU 长江#NR 全长#NN 6300#CD 千米#M ，#PU 长江#NR 比#P 黄河#NR 长#VV 多少#CD 千米#M ？#PU
+Instance819.#NR
+小#JJ 刚#AD 在#P 计算#VV 小数#NN 加法#NN 时#LC ，#PU 把#BA 其中#NN 一个#CD 加数#NN 2.6#CD 当作#VV 26#CD 了#SP ，#PU 结果#AD 得#VV 38.5#CD ，#PU 那么#AD 你#PN 知道#VV 正确#JJ 的#DEG 结果#NN =#PU ？#PU
+Instance820.#NR
+计算#VV ：#PU 95#CD -#PU 130#CD +#PU 105#CD +#PU 530#CD =#PU ．#PU
+Instance821.#NR
+红红#AD 买#VV 了#AS 两本书#NN ，#PU 一本#AD 是#VC 18.6#CD 元#M ，#PU 另#AD 一本#AD 是#VC 26.9#CD 元#M ，#PU 口袋#NN 里#LC 还#AD 剩#VV 18.3#CD 元#M ，#PU 红红#NN 原来#AD 有#VE 多少#CD 元#M ？#PU
+Instance822.#NR
+小巧#AD 体重#NN 29#CD 千克#M ，#PU 比#P 小胖#NN 轻#AD 9#CD 千克#M ，#PU 小胖#NN 重#VV 多少#CD 千克#M ？#PU
+Instance823.#NR
+粮店#NN 运#VV 来#VV 大米#NN 865#CD 千克#M ，#PU 上午#NT 卖出#VV 278#CD 千克#M ，#PU 下午#NT 卖出#VV 388#CD 千克#M ，#PU 还#AD 剩下#VV 多少#CD 千克#M ？#PU
+Instance824.#NR
+大西洋#NR 平均#JJ 深度#NN 为#VC 3.627#CD 千米#M ，#PU 印度洋#NR 平均#JJ 深度#NN 比#P 它#PN 深#AD 0.27#CD 千米#M ，#PU 太平洋#NR 平均#JJ 深度#NN 比#P 印度洋#NR 深#AD 0.131#CD 千米#M ，#PU 太平洋#NR 平均#AD 深度#NN =#PU 多少#CD 千米#M ？#PU
+Instance825.#NR
+超市#NN 运#NN 来#MSP 300#CD 袋#M 大米#NN ，#PU 每#DT 袋#M 25#CD 千克#M ，#PU 卖#VV 了#AS 296#CD 袋#M 后#LC ，#PU 还#AD 剩下#VV 多少#CD 袋#NN ？#PU
+Instance826.#NR
+两个#CD 加数#NN 的#DEG 和#CC 是#VC 842#CD ，#PU 其中#NN 一个#CD 加数#NN 是#VC 408#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ．#PU
+Instance827.#NR
+3#CD 个#M 小朋友#NN 一起#VV 跳远#NN ，#PU 小强#NR 跳#VV 了#AS 3.26#CD 米#M ，#PU 比#P 小#JJ 星#NN 少#AD 跳#VV 0.16#CD 米#M ，#PU 小#JJ 宇#NN 比#P 小#JJ 星#NN 多#AD 跳#VV 了#AS 0.24#CD 米#M ．#PU 小#JJ 宇#NR 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance828.#NR
+明明#AD 买#VV 图画#NN 本#AD 用#VV 去#VV 了#AS 2.5#CD 元#M ，#PU 他#PN 现在#NT 还#AD 剩#VV 3#CD 元#M 钱#NN ，#PU 他#PN 原来#AD 有#VE 多少#CD 钱#NN ？#PU
+Instance829.#NR
+动物园#NN 上午#NT 有#VE 游客#NN 534#CD 人#NN ，#PU 中午#NT 有#VE 236#CD 人#NN 离去#VV ．#PU 下午#NT 又#AD 来#VV 了#AS 307#CD 人#NN ，#PU 这时#AD 园内#NN 有#VE 多少#CD 游客#NN ？#PU
+Instance830.#NR
+比#P 596#CD 多#AD 431#CD 的#DEG 数#NN =#PU ．#PU
+Instance831.#NR
+水果店#NN 有#VE 96#CD 筐#M 苹果#NN ，#PU 上午#NT 卖出#VV 28#CD 筐#M 后#LC ，#PU 下午#NT 又#AD 运进#VV 30#CD 筐#NN ．#PU 现在#NT 水果店#NN 有#VE 多少#CD 筐#NN 苹果#NN ？#PU
+Instance832.#NR
+公共汽车#NN 上#LC 原来#AD 有#VE 65#CD 人#NN ，#PU 在#P 区政府#NN 下去#VV 24#CD 人#NN 后#LC 又#AD 上#VV 了#AS 28#CD 人#NN ，#PU 现在#NT 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance833.#NR
+4#CD （#PU 1#CD ）#PU 班#NN 有#VE 40#CD 人#NN ，#PU 其中#NN 15#CD 人#NN 会#VV 下#VV 国际象棋#NN ，#PU 23#CD 人#NN 会#VV 下#VV 中国象棋#NN ，#PU 两种#NN 象棋#NN 都#AD 不会#VV 下#LC 的#DEG 有#VE 10#CD 人#NN ．#PU 两种#NN 象棋#NN 都#AD 会#VV 下#VV 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance834.#NR
+甲队#NN 运货#VV 40#CD 吨#M ，#PU 比#P 乙#NN 队#NN 少#VV 4.2#CD 吨#M ，#PU 丙#NN 队#NN 比#P 乙#NN 队#NN 多#AD 运#VV 3.82#CD 吨#M ，#PU 丙#NN 队#NN 运货#VV 多少#CD 吨#M ？#PU
+Instance835.#NR
+一#CD 台#M VCD#NN 现价#NN 200#CD 元#M ，#PU 原价#NN 489#CD 元#M ，#PU 现价#NN 比#P 原来#JJ 的#DEG 价格便宜#NN 多少#CD 元#M ．#PU
+Instance836.#NR
+2.85#NT 要#VV 加上#VV 多少#CD 才能#NN 等于#VV 3#CD ．#PU
+Instance837.#NR
+同学#NN 们#NN 做习题#VV ，#PU 小#JJ 华#NR 做#VV 了#AS 75#CD 道#M ，#PU 小#JJ 明#NN 做#VV 了#AS 85#CD 道#M ，#PU 小#JJ 青#NR 比#P 小#JJ 华#NR 和#CC 小#JJ 明#NN 的#DEG 总数#NN 少#AD 30#CD 道#M ，#PU 小#JJ 青#NR 做#VV 了#AS 多少#CD 道#M ？#PU
+Instance838.#NR
+希望#VV 号#NN 客轮#NN 原有#JJ 乘客#NN 618#CD 人#NN ，#PU 到达某#NR 港#NR 后#LC ，#PU 有#VE 157#CD 人#NN 离#P 船#NN ，#PU 另#AD 有#VE 248#CD 人#NN 上船#VV ，#PU 现在#NT 客轮#NN 上#LC 有#VE 多少#CD 乘客#NN ？#PU
+Instance839.#NR
+某#DT 天#M 早上#NT 的#DEG 气温#NN 是#VC 15.2#CD 摄氏度#M ，#PU 中午#NT 升高#VV 了#AS 7.4#CD 摄氏度#M ，#PU 晚上#NT 又#AD 比#P 中午#NT 降低#VV 了#AS 6.8#CD 摄氏度#M ．#PU 这天#AD 晚上#NT 的#DEG 气温#NN =#PU 多少#CD 摄氏度#M ？#PU
+Instance840.#NR
+学校#NN 航模#NN 小组#NN 有#VE 男生#NN 48#CD 人#NN ，#PU 比#P 女生#NN 多#VA 17#CD 人#NN ．#PU 女生#NN 有#VE 多少#CD 人#NN ？#PU
+Instance841.#NR
+第一次#AD 游走#VV 6#CD 只#M 小鸭#NN ，#PU 第#OD 二#OD 次#M 游走#VV 8#CD 只#M 小鸭#NN ，#PU 两次#AD 游走#VV 多少#CD 只#M 小鸭#NN ．#PU
+Instance842.#NR
+从#P 一个#CD 数里#NN 减去#VV 54#CD 还#AD 剩#VV 28#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance843.#NR
+全校#NN 有#VE 517#CD 名#M 学生#NN ，#PU 其中#NN 男生#NN 268#CD 人#NN ，#PU 女生#NN 有#VE 多少#CD 人#NN ？#PU
+Instance844.#NR
+一#CD 本#M 软#JJ 面#NN 抄#VV 1.20#CD 元#M ，#PU 一根#AD 钢笔#NN 5.60#CD 元#M ．#PU 买#VV 一本#VA 软#JJ 面#NN 抄#VV 和#CC 一枝#VV 钢笔#NN 一共#AD 要#VV 付#VV 多少#CD 元#M ？#PU
+Instance845.#NR
+大客车#NN 到#P 站#NN 后#LC 下车#VV 15#CD 人#NN ，#PU 上车#VV 3#CD 人#NN ，#PU 这时#AD 车上#NN 有#VE 30#CD 人#NN ，#PU 原来#AD 大客车#NN 上#LC 有#VE 多少#CD 人#NN ．#PU
+Instance846.#NR
+某班#VV 有#VE 学生#NN 48#CD 人#NN ，#PU 参加#VV 音乐#NN 兴趣小组#NN 的#DEC 有#VE 20#CD 人#NN ，#PU 参加#VV 美术#NN 兴趣小组#NN 的#DEC 有#VE 27#CD 人#NN ，#PU 两种#NN 小组#NN 都#AD 参加#VV 的#DEC 有#VE 18#CD 人#NN ，#PU 参加#VV 兴趣小组#NN 的#DEC 学生#NN 有#VE 多少#CD 人#NN ？#PU
+Instance847.#NR
+一#CD 辆#M 公交车#NN 从#P 翠#NN 峦#NN 开往#VV 伊春#NR ，#PU 车上#NN 原来#AD 有#VE 67#CD 人#NN ，#PU 到#P 乌马#NR 河#NN 有#VE 25#CD 人#NN 下车#VV ，#PU 又#AD 上来#VV 28#CD 人#NN ，#PU 现在#NT 车上#NN 有#VE 多少#CD 人#NN ？#PU
+Instance848.#NR
+2#CD 位#M 教师#NN 带#VV 58#CD 名#M 学生#NN 游园#VV ，#PU 他们#PN 每人#PN 想#VV 喝#VV 一瓶#JJ 汽水#NN ，#PU 至少#AD 要#VV 买#VV 多少#CD 瓶#M 汽水#NN ．#PU
+Instance849.#NR
+食堂#NN 里#LC 有#VE 大米#NN 4500#CD 千克#M ，#PU 吃#VV 了#AS 1860#CD 千克#M 后#LC 又#AD 买#VV 了#AS 2680#CD 千克#M ，#PU 现在#NT 食堂#NN 里#LC 有#VE 大米#NN 多少#CD 千克#M ？#PU
+Instance850.#NR
+一#CD 个数#NN 加#VV 234#CD 等于#VV 800#CD ，#PU 这个#DT 数#NN =#PU ．#PU
+Instance851.#NR
+某班#VV 有#VE 20#CD 人#NN 参加#VV 语文#NN 竞赛#NN ，#PU 18#CD 人#NN 参加#VV 数学#NN 竞赛#NN ，#PU 同时#AD 参加#VV 语#NN 数#NN 竞赛#NN 的#DEC 有#VE 6#CD 人#NN ，#PU 这个#DT 班#NN 参加#VV 语#NN 、#PU 数#NN 竞赛#NN 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance852.#NR
+新#JJ 建成#NN 的#DEG 广州#NR 塔#NR 是#VC 目前#NT 世界#NN 最高#JJ 的#DEG 电视塔#NN ，#PU 它#PN 高#AD 610#CD 米#M ，#PU 比#P 北京#NR 的#DEG 中央#NN 广播#NN 电视塔#NN 还要#AD 高出#VV 205#CD 米#M ，#PU 北京#NR 中央#NN 广播#NN 电视塔#NN 高#VA 多少#CD 米#M ？#PU
+Instance853.#NR
+简#NN 算#VV ：#PU 9999#CD +#PU 999#CD +#PU 99#CD +#PU 9#CD =#PU ．#PU
+Instance854.#NR
+小#JJ 冬#NN 的#DEG 体重#NN 是#VC 33.12#CD 千克#M ，#PU 小民#NN 比#P 小#JJ 冬#NN 轻#AD 2.15#CD 千克#M ，#PU 盼#VV 盼#VV 比#P 小民#NN 重#VA 3.8#CD 千克#M ．#PU 盼#VV 盼#VV 的#DEC 体重#NN =#PU 多少#CD 千克#M ？#PU
+Instance855.#NR
+用#P 800#CD 个#M 鸡蛋#NN 孵小鸡#NN ，#PU 上午#NT 孵#VV 了#AS 329#CD 只#M 小鸡#NN ，#PU 下午#NT 比#P 上午#NT 多#AD 孵#VV 了#AS 106#CD 只#M ，#PU 下午#NT 孵#VV 了#AS 多少#CD 只#M 小鸡#NN ？#PU
+Instance856.#NR
+妈妈#NN 带#VV 600#CD 元#M 钱#NN 去#VV 商场#NN ，#PU 买#VV 了#AS 一件#NN 羊毛衫#NN 用#P 去#VV 248#CD 元#M ，#PU 又#AD 买#VV 了#AS 一个#CD 皮包#NN 用#P 去#VV 252#CD 元#M ，#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance857.#NR
+一#AD 捆#VV 电线#NN 上午#NT 用#P 去#VV 368#CD 米#M ，#PU 下午#NT 用#P 去#VV 232#CD 米#M ，#PU 还#AD 剩#VV 400#CD 米#M ．#PU 这#PN 捆#VV 电线#NN 原有#JJ 多少#CD 米#M ？#PU
+Instance858.#NR
+妈妈#NN 今年#NT 34#CD 岁#M ，#PU 小#JJ 明#NN 今年#NT 8#CD 岁#M ，#PU 10#CD 年#M 后#LC ，#PU 妈妈#NN 与#CC 小#JJ 明#NN 的#DEG 年龄#NN 相差#VV 多少岁#NN ．#PU
+Instance859.#NR
+红旗#NN 连锁店#NN 原有#JJ 饼干#NN 632#CD 袋#M ，#PU 卖出#VV 385#CD 袋#M ，#PU 又#AD 运#VV 来#VV 200#CD 袋#M ，#PU 这时#AD 店里#NN 有#VE 多少#CD 袋#M 瓶#NN 干#VV ？#PU
+Instance860.#NR
+一#CD 根#M 6#CD 米#M 长#VA 的#DEC 铁丝#NN ，#PU 第一次#AD 用#P 去#VV 2.4#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 1.5#CD 米#M ．#PU 剩下#VV 的#DEC 比#P 原来#AD 短#VA 了#AS 多少#CD 米#M ？#PU
+Instance861.#NR
+已知#VV 甲#NN 、#PU 乙#NN 两#CD 数#NN 的#DEG 和#CC 是#VC 20.58#NT ，#PU 甲#VV 数#NN 是#VC 7.86#NT ，#PU 乙#NN 数#NN =#PU ？#PU
+Instance862.#NR
+一#CD 辆#M 大客车#NN 上午#NT 8#CD 时#LC 从#P 广州#NR 出发#VV ，#PU 上午#NT 11#CD 时#LC 到达#VV 珠海市#NR ，#PU 这辆#NR 车#NN 共#AD 行驶#VV 了#AS 多少#CD 小时#NN ．#PU
+Instance863.#NR
+军#NN 军#NN 有#VE 309#CD 张#M 画#NN ，#PU 方方#M 有#VE 196#CD 张#M 画#NN ．#PU 小#JJ 红#NN 比#P 军#NN 军#NN 和#CC 方方#M 的#DEG 总#JJ 张#NN 数#NN 少#AD 254#CD 张#M ．#PU 小#JJ 红#NN 有#VE 多少#CD 张#M ？#PU
+Instance864.#NR
+食堂#NN 买来#VV 一些#CD 大米#NN ，#PU 吃#VV 去#VV 16#CD 袋#M ，#PU 还#AD 剩#VV 28#CD 袋#M ．#PU 食堂#NN 买来#VV 大米#NN 多少#CD 袋#NN ？#PU
+Instance865.#NR
+一#CD 卷#M 600#CD 米#M 长#VA 的#DEC 电线#NN ，#PU 第一次#AD 用#P 去#VV 128#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 178#CD 米#M ，#PU 这#DT 卷#M 电线#NN 还#AD 剩#VV 多少#CD 米#M ？#PU
+Instance866.#NR
+一#CD 个数#NN 减去#VV 24.8#CD 与#CC 18.6#CD 的#DEG 和#CC 得#VV 65.9#CD ，#PU 求#VV 这个#DT 数#NN ．#PU
+Instance867.#NR
+被减数#NR 是#VC 78#CD ，#PU 减数#NN 是#VC 40#CD ，#PU 差#NN =#PU ．#PU
+Instance868.#NR
+科技园#NN 上午#NT 有#VE 游客#NN 952#CD 人#NN ，#PU 中午#NT 有#VE 373#CD 人#NN 离开#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 403#CD 位#M 游客#NN ，#PU 这时#AD 园内#NN 有#VE 多少#CD 游客#NN ？#PU
+Instance869.#NR
+“#PU 海西#NR 号#NN ”#PU 列车#NN 从#P 龙岩#NR 站#NN 出发#VV 时#LC 载有#VV 乘客#NN 813#CD 人#NN ，#PU 到#P 长汀#NR 站#VV 下车#VV 了#AS 89#CD 人#NN ，#PU 又#AD 上车#VV 237#CD 人#NN ．#PU 这时#AD 火车#NN 上#LC 有#VE 乘客#NN 多少#CD 人#NN ？#PU
+Instance870.#NR
+甲#NN 数#NN 比#P 乙#NN 数#NN 大#JJ 5.5#CD ，#PU 甲#CD 数#NN 是#VC 13.6#CD ，#PU 乙#NN 数#NN =#PU ．#PU
+Instance871.#NR
+停车场#NN 有#VE 大客车#NN 32#CD 辆#M ，#PU 比#P 小轿车#NN 多#VA 20#CD 辆#M ，#PU 小轿车#NN 有#VE 多少#CD 辆#M ？#PU
+Instance872.#NR
+小#JJ 明#NN 读#VV 一本#NR 科技#NN 书#NN ，#PU 已经#AD 读#VV 了#AS 86#CD 页#M ，#PU 还有#CC 74#CD 页#M 没有#AD 读#VV ，#PU 这本#AD 科技#NN 书#NN 有#VE 多少#CD 页#M ？#PU
+Instance873.#NR
+朝#P 春#NT 小学#NN 评#VV “#PU 朝#P 春#NN 之#DEG 星#NN “#PU ，#PU 三年级#NT 有#VE 25#CD 名#M ，#PU 比#P 四年级#NN 少#VA 8#CD 名#M ，#PU 四年级#NT 共有#VV 几名#NN ？#PU
+Instance874.#NR
+一#CD 个#M 机关#NN 精简#VV 后#LC 有#VE 工作人员#NN 120#CD 人#NN ，#PU 比#P 原来#AD 少#VV 了#AS 40#CD 人#NN ，#PU 原来#AD 有#VE 工作人员#NN 多少#CD 人#NN ？#PU
+Instance875.#NR
+某#DT 山区#NN 的#DEG 村落#NN 有#VE 人口#NN 2476#CD 人#NN ，#PU 全#DT 村落#NN 的#DEC 人#NN 都#AD 会#VV 说#VV 普通话#NN 或#CC 广东话#NN ．#PU 调查#VV 所得#NN ，#PU 会#VV 说#VV 普通话#NN 的#DEC 有#VE 1765#CD 人#NN ，#PU 会#VV 说#VV 广东话#NN 的#DEC 有#VE 987#CD 人#NN ．#PU 问#VV 会#VV 说#VV 普通话#NN 和#CC 广东话#NN 两种#NN 语言#NN 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance876.#NR
+某班#VV 学生#NN 共#AD 50#CD 人#NN ，#PU 其中#NN 27#CD 人#NN 会#VV 游泳#VV ，#PU 会#VV 体操#NN 的#DEC 有#VE 18#CD 人#NN ，#PU 游泳#NN 、#PU 体操#NN 都#AD 不会#VV 的#DEC 有#VE 15#CD 人#NN ．#PU 既#AD 会#VV 体操#NN 又#AD 会#VV 游泳#VV 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance877.#NR
+小#JJ 红#NN 买#VV 笔记本#NN 用#VV 了#AS 3.7#CD 元#M ，#PU 还#AD 剩#VV 6.3#CD 元#M ，#PU 小#JJ 红#NN 原来#AD 有#VE 多少#CD 元#M ．#PU
+Instance878.#NR
+已知#VV 两个#CD 数#CD 的#DEG 和#CC 是#VC 85.7#NN ，#PU 其中#NN 一个#CD 加数#NN 是#VC 15.7#CD ，#PU 求#VV 另#AD 一个#CD 加数#NN =#PU ？#PU
+Instance879.#NR
+12345#CD +#PU 23451#CD +#PU 34512#CD +#PU 45123#CD +#PU 51234#CD =#PU ．#PU
+Instance880.#NR
+超市#NN 原有#JJ 一些#CD 大米#NN ，#PU 卖出#VV 28#CD 袋#M ，#PU 又#AD 运进#VV 25#CD 袋#M ，#PU 现在#NT 还有#CC 51#CD 袋#M ，#PU 超市#NN 原有#JJ 大米#NN 多少#CD 袋#NN ？#PU
+Instance881.#NR
+啄木鸟#NN 每天#AD 吃#VV 害虫#NN 632#CD 只#M ，#PU 青蛙#NN 每天#AD 吃#VV 害虫#NN 78#CD 只#M ，#PU 那么#AD 啄木鸟#NN 每天#AD 吃#VV 害虫#NN 比#P 青蛙#NN 多#VA 多少#CD 只#M ．#PU
+Instance882.#NR
+7443#CD +#PU 2485#CD +#PU 567#CD +#PU 245#CD =#PU ．#PU
+Instance883.#NR
+有#VE 两根#CD 铁管#NN 绑#VV 在#P 一起#AD 长#VV 380#CD 厘米#M ，#PU 其中#NN 一根#AD 长#VA 190#CD 厘米#M ，#PU 重叠#JJ 部分#NN 长#VV 65#CD 厘米#M ，#PU 另#AD 一根#VV 铁管#NN 长#VV 多少#CD 厘米#M ．#PU
+Instance884.#NR
+37#CD +#PU 1008#CD +#PU 963#CD =#PU ．#PU
+Instance885.#NR
+教室#NN 里#LC 走#VV 了#AS 37#CD 人#NN ，#PU 又#AD 进来#VV 9#CD 人#NN ，#PU 这时#AD 教室#NN 里#LC 有#VE 20#CD 人#NN ，#PU 教室#NN 里#LC 原来#AD 有#VE 多少#CD 人#NN ？#PU
+Instance886.#NR
+小#JJ 丁#NN 看#VV 故事书#NN ，#PU 第一#OD 星期#NN 看#VV 了#AS 183#CD 页#M ，#PU 第#OD 二#CD 星期#NN 看#VV 了#AS 258#CD 页#M 就#AD 把#BA 书#NN 看#VV 完#VV 了#AS ，#PU 那么#AD 这本#AD 故事书#NN 一共#AD 多少#CD 页#M ？#PU
+Instance887.#NR
+水泥厂#NN 今年#NT 拨#VV 出#VV 332.4#CD 万元#M 用于#VV 治污#NN ，#PU 改建#VV 污水池#NN 用#P 去#VV 234.7#VV 万元#NR ，#PU 又#AD 拨款#VV 85.5#CD 万元#M ，#PU 现在#NT 厂里#NN 治污#NN 款#NN 还有#CC 多少#CD 万元#NN ？#PU
+Instance888.#NR
+自行车#NN 超市#NN 37#CD 天#M 前#LC 共有#VV 927#CD 辆#M 自行车#NN ，#PU 卖出#VV 了#AS 435#CD 辆#M 后#LC ，#PU 又#AD 从#P 自行车厂#NN 购买#VV 回#VV 287#CD 辆#M ．#PU 这个#DT 自行车#NN 超市#NN 现在#NT 共有#VV 多少#CD 辆#M 自行车#NN ？#PU
+Instance889.#NR
+书店#NN 原有#JJ 10#CD 个人#NN ，#PU 刚#AD 进来#VV 了#AS 7#CD 个人#NN ，#PU 又#AD 走#VV 出去#VV 9#CD 个人#NN ，#PU 现在#NT 有#VE 多少#CD 人#NN ？#PU
+Instance890.#NR
+一#CD 个#M 班#NN 有#VE 学生#NN 48#CD 人#NN ，#PU 每人#PN 至少#AD 参加#VV 跑步#VV 、#PU 跳高#NN 两项#NN 比赛#NN 中#LC 的#DEG 一项#NN ，#PU 已知#VV 参加#VV 跑步#VV 的#DEC 有#VE 37#CD 人#NN ，#PU 参加#VV 跳高#NN 的#DEC 有#VE 40#CD 人#NN ，#PU 那么#AD 这两项#NR 比赛#NN 都#AD 参加#VV 的#DEC 学生#NN 有#VE 多少#CD 人#NN ？#PU
+Instance891.#NR
+修路#VV 队#NN 要#VV 修#VV 3000#CD 千米#M 的#DEG 路#NN ，#PU 第一天#AD 修#VV 了#AS 639#CD 千米#M ，#PU 第#OD 二#CD 天#M 修#VV 了#AS 865#CD 千米#M ，#PU 两天#NN 共#AD 修#VV 了#AS 多少#CD 千米#M ？#PU
+Instance892.#NR
+晨光#NR 小学#NN 一年级#AD 有#VE 男生#NN 548#CD 人#NN ，#PU 女生#NN 456#CD 人#NN ．#PU 已经#AD 检查#VV 身体#NN 的#DEC 有#VE 398#CD 人#NN ，#PU 没#AD 检查#VV 身体#NN 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance893.#NR
+妈妈#NN 身高#NN 162#CD 厘米#M ，#PU 小#JJ 亮#VA 的#DEC 身高#NN 比#P 妈妈#NN 矮#VA 25#CD 厘米#M ，#PU 爸爸#NN 的#DEG 身高#NN 比#P 小#JJ 亮#VA 高#VA 38#CD 厘米#M ．#PU 爸爸#NN 身高#NN 多少#CD 厘米#M ？#PU
+Instance894.#NR
+三年级#NT 图书#NN 角#LC 原有#JJ 图书#NN 218#CD 本#M ，#PU 借出#VV 89#CD 本#M ，#PU 还#AD 回#VV 67#CD 本#M ．#PU 现有#JJ 图书#NN 多少#CD 本#M ？#PU
+Instance895.#NR
+小#JJ 丽#NN 和#CC 爸爸#NN 相差#VV 25#CD 岁#M ，#PU 爸爸#NN 今年#NT 40#CD 岁#M ．#PU 小#JJ 丽#NN 今年#NT 多少岁#VV ？#PU
+Instance896.#NR
+一年级#AD 一班#AD 有#VE 37#CD 位#M 同学#NN 在校#NN 吃#VV 中餐#NN ，#PU 二#CD 班#M 有#VE 25#CD 位#M 学生#NN 在校#NN 吃#VV 中餐#NN ，#PU 3#CD 班#M 有#VE 38#CD 位#M 学生#NN 在校#NN 吃#VV 中餐#NN ，#PU 一年级#AD 共有#VV 多少#CD 学生#NN 在校#NN 吃#VV 中餐#NN ？#PU
+Instance897.#NR
+学校#NN 共有#VV 图书#NN 0.385#CD 万册#M ，#PU 其中#NN 文艺#NN 书#NN 0.12#CD 万册#M ，#PU 科技#NN 书#NN 0.06#NT 万册#VV ，#PU 其余#PN 是#VC 故事书#NN ，#PU 故事书#NN 有#VE 多少#CD 万册#NN ？#PU
+Instance898.#NR
+东升#NR 钢铁厂#NN 原#JJ 计划#NN 全年#AD 产#VV 钢#NN 135.8#CD 万吨#NN ，#PU 结果#AD 上半年#NT 生产#VV 79.6#CD 万吨#M ，#PU 下半年#NT 生产#VV 82.4#CD 万吨#M ，#PU 今年#NT 超过#AD 计划#VV 多少#CD 万吨#NN ？#PU
+Instance899.#NR
+甲#NN 数#NN 是#VC 320#CD ，#PU 比#P 乙#NN 数多#VV 76#CD ，#PU 乙#NN 数#NN =#PU ．#PU
+Instance900.#NR
+小#JJ 明#NN 看#VV 一本#NN 故事书#NN ，#PU 第一天#AD 看#VV 了#AS 12#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 13#CD 页#M ，#PU 还#AD 剩下#VV 8#CD 页#M 没有#AD 看#VV ．#PU 这本#AD 故事书#NN 有#VE 多少#CD 页#NN ．#PU
+Instance901.#NR
+食品店#NN 运#VV 来#VV 奶油#JJ 饼干#NN 10#CD 千克#M ，#PU 比#P 巧克力#NN 饼干#NN 少#AD 42#CD 千克#M ，#PU 运#NN 来#VV 巧克力#NR 饼干#NN 多少#CD 千克#NN ．#PU
+Instance902.#NR
+352.46#CD -#PU 35.58#CD -#PU 65.93#CD -#PU 76.07#CD -#PU 24.42#CD =#PU ．#PU
+Instance903.#NR
+一#CD 根#M 绳子#NN 长#VA 175#CD 米#M ，#PU 第一次#AD 用#P 去#VV 38#CD 米#M ，#PU 第#OD 二#OD 次#M 用#P 去#VV 62#CD 米#M ，#PU 还#AD 剩#VV 多少#CD 米#M ？#PU
+Instance904.#NR
+一#CD 个数#NN 减去#VV 0.2#CD 与#P 这个#DT 数#NN 减去#VV 0.02#CD ，#PU 结果#AD 相差#VV 多少#CD ．#PU
+Instance905.#NR
+比#P 25#CD 多#AD 9#CD 的#DEG 数#NN =#PU ．#PU
+Instance906.#NR
+96587#CD +#PU 79658#CD +#PU 87965#CD +#PU 58796#CD +#PU 65879#CD =#PU ．#PU
+Instance907.#NR
+3#CD 名#M 同学#NN 进行#VV 100#CD 米#M 跑步#VV 比赛#NN ，#PU 甲#NN 比#P 乙#NN 少#AD 用#VV 0.75#CD 秒#M ，#PU 乙#NN 比#P 丙#NN 少#AD 用#VV 0.37#CD 秒#M ，#PU 丙#NN 的#DEG 成绩#NN 是#VC 14.1#CD 秒#M ，#PU 甲#NN 的#DEG 成绩#NN =#PU ？#PU
+Instance908.#NR
+一#CD 根#M 4.8#CD 米#M 长#VA 的#DEC 竹竿#NN 直#AD 插入#VV 水池#NN 中#LC ，#PU 竹竿#NN 的#DEG 入#VV 泥#NN 部分#NN 是#VC 0.4#CD 米#M ，#PU 露出#VV 水面#NN 的#DEC 部分#NN 是#VC 0.8#CD 米#M ，#PU 池#NN 水深#NN 多少#CD ？#PU
+Instance909.#NR
+甲#NN 数#NN 是#VC 1200#CD ，#PU 比#P 乙#NN 数多#CD 278#CD ，#PU 乙#NN 数#NN =#PU ？#PU
+Instance910.#NR
+科技园#NN 上午#NT 有#VE 游客#NN 658#CD 人#NN ，#PU 中午#NT 有#VE 239#CD 人#NN 离去#VV ．#PU 下午#NT 又#AD 来#VV 了#AS 315#CD 人#NN ，#PU 这时#AD 园里#NN 有#VE 游客#NN 多少#CD 人#NN ？#PU
+Instance911.#NR
+好又多#NR 超市#NN 大#JJ 促销#NN ，#PU 王#NN 强#AD 带#VV 着#AS 妹妹#NN 一起#AD 去#VV 淘宝#VV ，#PU 王#NR 强#NN 原来#AD 有#VE 20#CD 元#M ，#PU 给#P 妹妹#NN 6.5#CD 元#M 后#LC ，#PU 妹妹#NN 还#AD 比#P 他#PN 少#VV 1.3#CD 元#M ，#PU 现在#NT 妹妹#NN 有#VE 多少#CD 元#M ？#PU
+Instance912.#NR
+计算#VV ：#PU 1.996#NT +#PU 19.97#NT +#PU 199.8#NT =#PU ．#PU
+Instance913.#NR
+丫丫#NR 身高#NN 1.35#CD 米#M ，#PU 站#VV 在#P 0.5#CD 米#M 高#VA 的#DEC 床上#NN 比#P 丫丫#NR 的#DEG 爸爸#NN 高出#VV 0.15#CD 米#M ，#PU 爸爸#NN 身高#NN 多少#CD 米#M ？#PU
+Instance914.#NR
+张家村#NR 今年#NT 春季#NT 植树#VV 1480#CD 棵#M ，#PU 比#P 李家#NR 村#NN 植树#NN 的#DEG 棵#M 数#NN 少#AD 245#CD 棵#M ，#PU 李家#NR 村#NN 今年#NT 植树#VV 多少#CD 棵#M ？#PU
+Instance915.#NR
+一#CD 根#M 长#JJ 12#CD 米#M 的#DEG 绳子#NN ，#PU 第一次#AD 剪#VV 去#VV 3.9#CD 米#M ，#PU 第#OD 二#OD 次#M 剪#VV 去#VV 2.2#CD 米#M ．#PU 现在#NT 这根#AD 绳子#NN 比#P 原来#AD 短#VA 了#AS 多少#CD 米#M ？#PU
+Instance916.#NR
+小#JJ 杨#NR 在#P 计算#VV 一道#AD 小数#VV 加法#NN 题#NN 时#LC ，#PU 把#BA 6.2#CD 错#NN 看作#VV 62#CD 来#MSP 算了#VV ，#PU 得数#VV 为#VC 66.5#CD ，#PU 那么#AD 正确#VA 的#DEC 答案#NN 应该#VV =#PU ．#PU
+Instance917.#NR
+水果店#NN 卖出#VV 梨#NN 756#CD 千克#M ，#PU 卖出#VV 的#DEC 橘子#NN 比#P 梨#NN 多#VA 127#CD 千克#M ，#PU 卖出#VV 橘子#NN 多少#CD 千克#M ？#PU
+Instance918.#NR
+一#CD 头#M 海象#NN 体重#NN 大约#AD 是#VC 1.13#CD 吨#M ，#PU 北极熊#NN 的#DEG 体重#NN 比#P 海象#NN 轻#AD 0.48#CD 吨#M ，#PU 白鲸#NN 比#P 一只#JJ 北极熊#NN 重#AD 0.5#CD 吨#M ，#PU 一头#AD 白鲸#NN 重#VV 多少#CD 吨#M ？#PU
+Instance919.#NR
+同学#NN 们#NN 参加#VV 语文#NN 与#CC 数学#NN 课外活动#VV 的#DEC 一共#AD 有#VE 30#CD 人#NN ．#PU 参加#VV 语文#NN 课外活动#VV 的#DEC 有#VE 24#CD 人#NN ，#PU 参加#VV 数学#NN 课外活动#VV 的#DEC 有#VE 26#CD 人#NN ，#PU 则#AD 两种#NN 活动#NN 都#AD 参加#VV 的#DEC 有#VE 多少#CD 人#NN ？#PU
+Instance920.#NR
+99#CD +#PU 9#CD +#PU 9999#CD +#PU 999#CD +#PU 99999#CD =#PU ．#PU
+Instance921.#NR
+学校#NN 开展#VV 植树#NN 活动#NN ，#PU 一共#AD 植#VV 了#AS 526#CD 棵#M ，#PU 其中#NN 5#CD 、#PU 六年级#NN 植#VV 了#AS 378#CD 棵#M ，#PU 其他#DT 年级#NN 植树#VV 多少#CD 棵#M ？#PU
+Instance922.#NR
+在#P 跳远#NN 比赛#NN 中#LC ，#PU 小#JJ 华#NR 跳出#VV 了#AS 3.26#CD 米#M ，#PU 小#JJ 东#NN 比#P 小#JJ 华#NR 多#AD 跳#VV 0.4#CD 米#M ，#PU 小强#NN 比#P 小#JJ 东#NN 少#AD 跳#VV 0.25#CD 米#M ，#PU 小强#NN 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance923.#NR
+一#CD 种#M 零件#NN 的#DEG 标准#NN 质量#NN 是#VC 25#CD 克#M ，#PU 如果#CS 质量#NN 是#VC 26#CD 克#M 的#DEG 零件#NN 记#NN 作#VV +#PU 1#CD ，#PU 那么#AD 23#CD 克#M 的#DEG 零件#NN 应该#VV 记#VV 作#VV 多少#CD ．#PU
+Instance924.#NR
+小#JJ 红#JJ 拿#VV 着#AS 20#CD 元#M 去#VV 买#VV 书#NN ，#PU 《#PU 故事#NN 大王#NN 》#PU 单价#NN 5.50#CD 元#M ，#PU 《#PU 神秘#JJ 侦探#NN 》#PU 单价#NN 12.45#CD 元#M ．#PU 小#JJ 红#JJ 各#DT 买#VV 一本#NN ，#PU 还#AD 剩#VV 多少#CD 钱#NN ？#PU
+Instance925.#NR
+在#P 跳高#NN 比赛#NN 中#LC ，#PU 张#NR 颖#NN 跳#VV 了#AS 1.1#CD 米#M ，#PU 张#NR 华#NR 比#P 张#NR 颖#VV 跳#VV 的#DEC 高#JJ 0.12#CD 米#M ．#PU 销量#NN 比#P 张#NR 华#NR 跳#VV 的#DEC 低#JJ 0.08#CD 米#M 小#JJ 亮#VA 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance926.#NR
+比#P 65#CD 多#AD 35#CD 的#DEG 数#NN =#PU ．#PU
+Instance927.#NR
+爸爸#NN 重#AD 75#CD 千克#M ，#PU 小#JJ 明#NN 重#VV 30#CD 千克#M ，#PU 两#CD 人#NN 一共#AD 重#VV 多少#CD 千克#M ？#PU
+Instance928.#NR
+甲#NN 数#NN 是#VC 5.08#NT ，#PU 比#P 乙#NN 数#NN 大#JJ 0.99#CD ，#PU 乙#NN 数#NN =#PU ．#PU
+Instance929.#NR
+两个#CD 数#NN 的#DEG 差#NN 是#VC 15.4#CD ，#PU 如果#CS 被减数#NR 减少#VV 2#CD ，#PU 减数#VV 不变#VV ，#PU 那么#AD 差#NN =#PU ．#PU
+Instance930.#NR
+比#P 9#CD 多#AD 81#CD 的#DEG 数#NN =#PU ．#PU
+Instance931.#NR
+弟弟#NN 今年#NT 4#CD 岁#M ，#PU 哥哥#NN 今年#NT 12#CD 岁#M ，#PU 10#CD 年#M 后#LC ，#PU 哥哥#NN 比#P 弟弟#NN 大#VA 几岁#NN ？#PU
+Instance932.#NR
+小张#NN 是#VC 1989#NT 年#NN 6#CD 月#NN 25#CD 日#M 出生#VV 的#DEC ，#PU 到#P 2006#NT 年#NN 生日#NN 时#LC ，#PU 他#PN 满#VV 多少#CD 周岁#NN ．#PU
+Instance933.#NR
+708#CD 减去#VV 一个#CD 数#NN 是#VC 263#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance934.#NR
+5#CD （#PU 3#CD ）#PU 班#NN 有#VE 28#CD 人#NN 订立#VV 《#PU 小学生#NN 天地#NN 》#PU ，#PU 20#CD 人#NN 订#VV 了#AS 《#PU 中国#NR 少年报#NN 》#PU ，#PU 班上#NN 共有#VV 42#CD 名#M 学生#NN ，#PU 每人#PN 至少#AD 订立#VV 了#AS 两种#NN 刊物#NN 中#LC 的#DEG 一种#NN ，#PU 那么#AD ，#PU 两种#NR 书#NN 都#AD 订#VV 了#AS 的#DEC 有#VE 多少#CD 人#NN ．#PU
+Instance935.#NR
+一#CD 台#M V#NN CD机#NN 630#CD 元#M ，#PU 比#P 一台#NN 电视机#NN 便宜#AD 305#CD 元#M ，#PU 电视机#NN 的#DEG 价钱#NN =#PU 多少#CD 元#M ．#PU
+Instance936.#NR
+小#JJ 明#NN 看#VV 一本#NR 86#CD 页#M 的#DEG 《#PU 海洋#NN 世界#NN 》#PU ．#PU 第一天#AD 看#VV 了#AS 21#CD 页#M ，#PU 第#OD 二#CD 天#M 看#VV 了#AS 24#CD 页#M ，#PU 还#AD 剩#VV 多少#CD 页#M ？#PU
+Instance937.#NR
+甲#NN 、#PU 乙#NN 两#CD 数#NN 的#DEG 和#CC 是#VC 48.7#NN ，#PU 乙#NN 数#NN 是#VC 27.98#CD ，#PU 甲#CD 数#NN =#PU ？#PU
+Instance938.#NR
+一#CD 辆#M 客车#NN 以#P 每#DT 小时#NN 行#VV 85#CD 千米#M 的#DEC 速度#NN 从#P 甲地#NN 开往#VV 乙地#NN ，#PU 另#AD 一列#VV 货车#NN 同时#AD 以#P 每#DT 小时#NN 行#VV 60#CD 千米#M 的#DEG 速度#NN 从#P 乙地#NN 开往#VV 甲地#NN ．#PU 在#P 两辆车#NN 相遇#VV 前#LC 的#DEG 1#CD 小时#NN ，#PU 它们#PN 相距#VV 多少#CD 千米#NN ．#PU
+Instance939.#NR
+学校#NN 有#VE 故事书#NN 684#CD 本#M ，#PU 科技#NN 书#NN 247#CD 本#M ，#PU 两种#NR 书#NN 学生#NN 共#AD 借#VV 走#VV 了#AS 344#CD 本#M ，#PU 还#AD 剩下#VV 多少#CD 本#M ？#PU
+Instance940.#NR
+小#JJ 明#NN 买#VV 了#AS 一本#AD 15.3#CD 元#M 的#DEG 辅导书#NN ，#PU 付出#VV 50#CD 元#M 钱#NN ，#PU 售货员#NN 应#VV 找回#VV 多少#CD 钱#NN ？#PU
+Instance941.#NR
+一#CD 本#M 《#PU 快乐#NN 学#VV 数学#NN 》#PU 定价#NN 4.5#CD 元#M ，#PU 一本#AD 《#PU 数学#NN 小灵通#NN 》#PU 定价#NN 2.8#CD 元#M ．#PU 王#NR 鹏#NN 有#VE 10#CD 元#M 钱#NN ，#PU 他#PN 各#AD 买#VV 了#AS 一本#NN ，#PU 还#AD 剩下#VV 多少#CD 钱#NN ？#PU
+Instance942.#NR
+把#BA 5#CD 米#M 长#VA 的#DEC 竹竿#NN 竖直#AD 插入#VV 水中#NN ，#PU 竹竿#NN 入#VV 泥#NN 部分#NN 是#VC 0.35#CD 米#M ，#PU 露出#VV 水面#NN 部分#NN 1.08#CD 米#M ，#PU 水池#NN 中#LC 的#DEG 水深#NN =#PU 多少#CD 米#M ？#PU
+Instance943.#NR
+丁#NN 老师#NN 出#VV 了#AS 两道#NN 数学题#NN 给#P 数学#NN 兴趣小组#VV 的#DEC 18#CD 名#M 同学#NN 做#VV ，#PU 做#VV 对#P 第一道#NN 题#NN 的#DEC 有#VE 10#CD 名#M 同学#NN ，#PU 做#VV 对#P 第#NN 二#CD 道#M 题#NN 的#DEC 有#VE 12#CD 名#M 同学#NN ，#PU 没有#AD 一道#AD 也#AD 没有#AD 做#VV 对#VA 的#DEC 同学#NN ．#PU 两道#NN 题#NN 都#AD 做#VV 对#VA 了#AS 的#DEC 同学#NN 有#VE 几名#NN ？#PU
+Instance944.#NR
+小巧#AD 买#VV 一本#NN 故事书#NN 用#P 去#VV 13.68#CD 元#M ，#PU 买#VV 一本#NN 画报#NN 用#P 去#VV 15.82#CD 元#M ．#PU 她#PN 一共#AD 花#VV 去#VV 多少#CD 元#M ？#PU
+Instance945.#NR
+一#CD 根#M 电线#NN 长#VV 30#CD 米#M ，#PU 第一次#AD 剪#VV 去#VV 4.8#CD 米#M ，#PU 第#OD 二#OD 次#M 剪#VV 去#VV 15.2#CD 米#M ，#PU 这样#AD 和#P 原来#AD 相比#VV ，#PU 短#VA 了#AS 多少#CD 米#M ？#PU
+Instance946.#NR
+学校#NN 图书室#NN 原有#JJ 故事书#NN 2350#CD 本#M ，#PU 现在#NT 又#AD 买来#VV 了#AS 280#CD 本#M ，#PU 并#CC 借出#VV 了#AS 1348#CD 本#M ．#PU 现在#NT 图书室#NN 有#VE 故事书#NN 多少#CD 本#M ？#PU
+Instance947.#NR
+一#CD 袋#M 薯片#NN 包装#NN 上#LC 标明#VV 净重#VV 250#CD （#PU ±#VV 5#CD ）#PU 克#M ，#PU 那么#AD 这#DT 袋#M 薯片#NN 实际上#AD 质量#NN 最#AD 多#VA =#PU ．#PU
+Instance948.#NR
+一#CD 个#M 加数#NN 是#VC 279#CD ，#PU 另#AD 一个#CD 加数#NN 是#VC 146#CD ，#PU 和#CC =#PU ．#PU
+Instance949.#NR
+一#CD 块#M 三角形#NN 菜地#NN 3#CD 边#NN 分别#AD 长#VA 24#CD 米#M 、#PU 17#CD 米#M 、#PU 16#CD 米#M ，#PU 这块#AD 三角形#NN 菜地#NN 的#DEG 周长#NN =#PU ．#PU
+Instance950.#NR
+学校#NN 买来#VV 268#CD 本#M 练习本#NN ，#PU 原来#AD 还有#CC 384#CD 本#M ，#PU 现在#NT 一共#AD 有#VE 多少#CD 本#M 练习本#NN ？#PU
+Instance951.#NR
+某班#VV 有#VE 50#CD 名#M 同学#NN ，#PU 在#P 一次#AD 测验#NN 中#LC 答对#VV 第一#OD 题#NN 的#DEG 有#VE 25#CD 人#NN ，#PU 答对#VV 第#OD 二#CD 题#NN 的#DEC 有#VE 20#CD 人#NN ，#PU 两#CD 题#NN 都#AD 答对#VV 的#DEC 有#VE 10#CD 人#NN ，#PU 则#AD 有#VE 几名#NR 同学#NN 两#CD 题#NN 都#AD 不#AD 对#VA ？#PU
+Instance952.#NR
+小聪明#NR 的#DEG 身高#NN 是#VC 13.5#CD 分#M 米#NN ，#PU 小淘气#NN 比#P 小聪明#NN 高#VA 0.7#CD 分#M 米#NN ，#PU 比#P 小可爱#NN 矮#VA 1#CD 分#M 米#NN ．#PU 小可爱#NR 的#DEG 身高#NN =#PU ？#PU
+Instance953.#NR
+同学#NN 们#NN 上山#VV 走#VV 了#AS 885#CD 米#M ，#PU 下山#VV 的#DEC 路#NN 比#P 上山#VV 的#DEC 路#NN 多#AD 180#CD 米#M ．#PU 下山#VV 要#VV 走#VV 多少#CD 米#M ？#PU
+Instance954.#NR
+小#JJ 明#NN 和#CC 小#JJ 立#NN 背对背#NN 站立#VV ，#PU 小#JJ 明#NN 向北走#NR 150#CD 米#M ，#PU 小#JJ 立#VV 向南走#NR 120#CD 米#M ，#PU 两#CD 人#NN 相距#VV 多#AD 远#VA ？#PU
+Instance955.#NR
+王奶奶#NR 家养#NN 有#VE 公鸡#NN 59#CD 只#M ，#PU 母鸡#NN 77#CD 只#M ，#PU 小鸡#NN 85#CD 只#M ，#PU 王奶奶#NR 家养#NN 的#DEG 公鸡#NN 和#CC 母鸡#NN 一共#AD 多少#CD 只#M ？#PU
+Instance956.#NR
+文具店#NN 里#LC 钢笔#NN 原来#AD 每枝#VV 的#DEC 售价#NN 是#VC 7.50#CD 元#M ，#PU 庆#VV “#PU 6#CD 一#CD ”#PU 活动#NN 中#LC ，#PU 钢笔#NN 的#DEG 售价#NN 是#VC 7.00#CD 元#M ，#PU 便宜#VA 了#AS 多少#CD 元#M ？#PU
+Instance957.#NR
+奶奶#NN 养#VV 了#AS 24#CD 只#M 鸡#NN ，#PU 养鸭#VV 的#DEC 只#AD 数#CD 比#CC 鸡#NN 多#VA 16#CD 只#M ．#PU 养#VV 鹅#NN 的#DEC 只#AD 数#CD 比#CC 鸭#NN 少#VA 8#CD 只#M ．#PU 奶奶#NN 养#VV 了#AS 几只#VV 鹅#NN ？#PU
+Instance958.#NR
+小#JJ 明#NN 买#VV 一本#NN 单价#NN 0.9#CD 元#M 的#DEG 练习本#NN ，#PU 付#VV 1#CD 元#M 钱#NN ，#PU 应#VV 找回#VV 多少#CD 元#M ．#PU
+Instance959.#NR
+班级#NN 进行#VV 跳高#NN 测验#NN ，#PU 小#JJ 红#NN 跳#VV 了#AS 1.33#CD 米#M ，#PU 小#JJ 明#NN 跳#VV 得#DER 比#P 小#NN 红#VA 高#VA 0.15#CD 米#M ，#PU 小#JJ 方#NN 跳#VV 得#DER 比#P 小#JJ 明#NN 低#VA 0.05#CD 米#M ，#PU 小#JJ 方#NN 跳#VV 了#AS 多少#CD 米#M ？#PU
+Instance960.#NR
+25#CD -#PU 4.9#CD -#PU 6.1#CD ．#PU
+Instance961.#NR
+计算#VV ：#PU 76#CD -#PU 23#CD -#PU 17#CD ．#PU
+Instance962.#NR
+被减数#NR 是#VC 713#CD ，#PU 差#VV 是#VC 524#OD ，#PU 减数#NN =#PU ．#PU
+Instance963.#NR
+广州#NR 恒#AD 大#JJ 足球#NN 俱乐部#NN 星期#NN 二#CD 上午#NT 售出#VV 344#CD 张#M 亚#NR 冠#NN 联赛#NN 决赛#NN （#PU 次#M 回合#NN ）#PU 的#DEG 门票#NN ，#PU 下午#NT 售出#VV 187#CD 张#M ；#PU 星期#NN 3#CD 售出#VV 413#CD 张#M ．#PU 这#DT 两天#NT 广州#NR 恒#AD 大#JJ 足球#NN 俱乐部#NN 一共#AD 售出#VV 多少#CD 张#M 门票#NN ？#PU
+Instance964.#NR
+养鸡场#NN 今年#NT 养鸡#VV 2.3#CD 万#CD 只#M ，#PU 卖掉#VV 0.7#CD 万#CD 只#M 后#LC ，#PU 还#AD 比#P 去年#NT 多#AD 0.3#CD 万#CD 只#M ，#PU 养鸡场#NN 去年#NT 养鸡#VV 多少#CD 只#M ？#PU
+Instance965.#NR
+妈妈#NN 原来#JJ 的#DEG 体重#NN 是#VC 58#CD 千克#M ，#PU 经过#P 一个月#CD 的#DEG 锻炼#NN ，#PU 减轻#VV 了#AS 3#CD 千克#M ．#PU 妈妈#NN 现在#NT 的#DEG 体重#NN =#PU 多少#CD 千克#M ？#PU
+Instance966.#NR
+找#VV 规律#NN 填#VV 数#CD ：#PU 1#CD 、#PU 2#CD 、#PU 4#CD 、#PU 7#CD 、#PU 11#CD 、#PU 16#CD 、#PU 22#CD 、#PU 多少#CD ．#PU
+Instance967.#NR
+王大妈#NN 用#VV 50#CD 元#M 买#VV 了#AS 5#CD 千克#M 大米#NN ，#PU 共用#JJ 去#VV 21.5#CD 元#M ，#PU 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance968.#NR
+小#JJ 荣#NR 今年#NT 9#CD 岁#M ，#PU 妈妈#NN 今年#NT 37#CD 岁#M ，#PU 10#CD 年#M 之后#LC ，#PU 妈妈#NN 比#P 小#JJ 荣#NR 大#JJ 多少岁#NN ．#PU
+Instance969.#NR
+水果店#NN 批发#NN 站#VV 共#AD 进货#VV 451#CD 筐#M 水果#NN ，#PU 其中#NN 苹果#NN 236#CD 筐#M ，#PU 梨#NN 185#CD 筐#NN ．#PU 余下#JJ 的#DEG 都#AD 是#VC 香蕉#NN ，#PU 香蕉#NN 共有#VV 多少#CD 筐#NN ？#PU
+Instance970.#NR
+小#JJ 华#NR 买#VV 了#AS 61#CD 张#M 贺卡#NN ，#PU 在#P 2013#CD 年#M 元旦#NT 前#LC 寄出#VV 了#AS 35#CD 张#M ．#PU 寒假#NN 前#LC 他#PN 又#AD 买#VV 了#AS 28#CD 张#M 贺卡#NN ，#PU 准备#VV 连同#P 剩下#VV 的#DEC 一起#AD 在#P 春节#NN 前#LC 寄给#VV 他#PN 的#DEG 好#JJ 朋友#NN 们#NN ，#PU 这次#AD 他#PN 要#VV 寄出#VV 多少#CD 张#M 贺卡#NN ？#PU
+Instance971.#NR
+一#CD 个数#NN 减去#VV 7.31#CD 等于#VV 14.29#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance972.#NR
+一#CD 瓶#M 油#NN 连#AD 瓶#NN 重#AD 3.4#CD 千克#M ，#PU 瓶#NN 重#AD 0.5#CD 千克#M ，#PU 用#P 去#VV 1.52#CD 千克#M 油#NN 后#LC ，#PU 还#AD 剩下#VV 多少#CD 千克#M 油#NN ？#PU
+Instance973.#NR
+学校#NN 买#VV 粉笔#NN ，#PU 白粉笔#NN 比#P 彩色#JJ 粉笔#NN 多#AD 42#CD 盒#M ，#PU 彩色#JJ 粉笔#NN 39#CD 盒#M ，#PU 买#VV 了#AS 多少#CD 盒#M 白粉笔#NN ？#PU
+Instance974.#NR
+电视机#NN 原价#NN 990#CD 元#M ，#PU 现价#NN 880#CD 元#M ，#PU 现在#NT 买#VV 电视机#NN 比#P 原来#JJ 便宜#NN 多少#CD 钱#NN ？#PU
+Instance975.#NR
+妈妈#NN 身高#NN 1.64#CD 米#M ，#PU 李#NR 芳#NN 比#P 爸爸#NN 矮#VA 0.29#CD 米#M ，#PU 妈妈#NN 比#P 李#NR 芳#NN 高#VA 0.15#CD 米#M ，#PU 爸爸#NN 身高#NN =#PU 多少#CD 米#M ？#PU
+Instance976.#NR
+一#AD 捆#VV 电线#NN ，#PU 用#P 去#VV 28.3#CD 米#M 后#LC ，#PU 还#AD 剩#VV 37.7#CD 米#M ，#PU 这#PN 捆#VV 电线#NN 原来#AD 有#VE 多少#CD 米#M ？#PU
+Instance977.#NR
+一#CD 个数#NN 减去#VV 327#CD 得#VV 185#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance978.#NR
+有#VE 水果篮#NN 50#CD 个#M ，#PU 盛#VV 有#VE 橘子#NN 的#DEC 有#VE 25#CD 个#M ，#PU 当中#NN 16#CD 个#M 还#AD 放#VV 有#VE 苹果#NN ；#PU 8#CD 个#M 水果篮#NN 是#VC 空#JJ 的#DEG ，#PU 余下#JJ 的#DEG 只#AD 放#VV 有#VE 香蕉#NN ？#PU 问#VV 只#AD 放#VV 有#VE 一种#CD 水果#NN 的#DEG 水果篮#NN 有#VE 多少#CD 个#M ﹖#NN
+Instance979.#NR
+12.8#CD -#PU 4.6#CD ，#PU 再#AD 加上#VV 25.18#CD ，#PU 结果#NN =#PU ？#PU
+Instance980.#NR
+123#CD +#PU 456#CD +#PU 877#CD +#PU 544#CD =#PU ．#PU
+Instance981.#NR
+科技#NN 展览馆#NN 每天#AD 上午#NT 展出#VV 的#DEC 时间#NN 是#VC 8#CD 时#LC -#PU 11#CD 时#LC ，#PU 上午#NT 展出#VV 的#DEC 时间#NN =#PU ．#PU
+Instance982.#NR
+某#DT 蔬菜#NN 店#NN 运#VV 来#MSP 410#CD 千克#M 白菜#NN ，#PU 第一天#AD 卖出#VV 152#CD 千克#M ，#PU 第#OD 二#CD 天#M 卖出#VV 174#CD 千克#M ，#PU 一共#AD 卖出#VV 多少#CD 千克#M ？#PU
+Instance983.#NR
+一#CD 个#M 班#NN 有#VE 学生#NN 42#CD 人#NN ，#PU 参加#VV 体育#NN 代表队#NN 的#DEC 有#VE 30#CD 人#NN ，#PU 参加#VV 文艺#NN 代表队#NN 的#DEC 有#VE 25#CD 人#NN ，#PU 并且#AD 每个#DT 人#NN 至少#AD 参加#VV 了#AS 一个#CD 队#NN ，#PU 这个#DT 班#NN 两个#CD 队#NN 都#AD 参加#VV 的#DEC 有#VE 几个#CD 人#NN ？#PU
+Instance984.#NR
+儿童公园#NN 上午#NT 入#VV 园#NN 人数#NN 是#VC 950#CD 人#NN ，#PU 到#P 中午#NT 12#CD 时#LC 有#VE 276#CD 人#NN 出#VV 园#NN ，#PU 这时#AD 公园#NN 内#LC 还#AD 剩#VV 多少#CD 位#M 游客#NN ？#PU
+Instance985.#NR
+一#CD 支#M 钢笔#NN 8.3#CD 元#M ，#PU 一支#AD 圆珠笔#NN 2.5#CD 元#M ．#PU 一支#NN 钢笔#NN 比#P 一支#NR 圆珠笔#NN 贵#VV 几元#NN ？#PU
+Instance986.#NR
+果园#NN 里#LC 有#VE 荔枝树#NN 458#CD 棵#M ，#PU 龙眼树#NN 比#P 荔枝树#NN 多#VA 69#CD 棵#M ，#PU 龙眼树#NR 有#VE 多少#CD 棵#M ？#PU
+Instance987.#NR
+动物园#NN 上午#NT 有#VE 游客#NN 652#CD 人#NN ，#PU 中午#NT 有#VE 183#CD 人#NN 离去#VV ．#PU 下午#NT 又#AD 来#VV 了#AS 204#CD 人#NN ，#PU 这时#AD 园内#NN 有#VE 多少#CD 游客#NN ？#PU
+Instance988.#NR
+小#JJ 马虎#NN 在#P 做#VV 一道#AD 加法#VV 题#NN 时#LC ，#PU 把#BA 第#OD 二#CD 个#M 加数#NN 135#CD 看成#VV 531#CD ，#PU 结果#AD 算#VV 出来#VV 的#DEC 和#CC 是#VC 716#CD ，#PU 你#PN 知道#VV 正确#VA 的#DEC 得数#NN =#PU ？#PU
+Instance989.#NR
+被减数#NN 比#P 差#VV 大#JJ 3.6#CD ，#PU 减数#NN 比#P 被减数#NN 小#JJ 4.5#CD ，#PU 被减数#NN =#PU ．#PU
+Instance990.#NR
+4#CD 一班#NN 的#DEG 张#NR 军#NN 和#CC 刘#NR 伟#NR 两个#CD 同学#NN 要#VV 合#VV 买#VV 一个#CD 足球#NN ．#PU 张#NR 军#NN 有#VE 13.2#CD 元#M ，#PU 刘#NR 伟#NR 有#VE 16.8#CD 元#M ，#PU 一个#CD 足球#NN 的#DEG 价钱#NN 是#VC 两#CD 人#NN 钱#NN 数#CD 总和#NN 的#DEG 2#CD 倍#M ，#PU 他们#PN 要#VV 买#VV 一个#CD 足球#NN 还#AD 差#VV 多少#CD 元#M ？#PU
+Instance991.#NR
+小#JJ 晴#NN 在#P 做#VV 小数#NN 减法#NN 时#LC ，#PU 把#BA 减数#NN 4.8#CD 看成#VV 了#AS 48#CD ，#PU 结果#AD 得#VV 2.2#CD ．#PU 正确#VA 的#DEC 得数#NN 应该#VV =#PU ？#PU
+Instance992.#NR
+一#CD 个#M 加数#NN 是#VC 739#CD ，#PU 和#CC 是#VC 1729#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ？#PU
+Instance993.#NR
+食品店#NN 运进#VV 一批#NR 白糖#NN 和#CC 200#CD 千克#M 红糖#NN ，#PU 卖出#VV 50#CD 千克#M 白糖#NN 和#CC 80#CD 千克#M 红糖#NN 后#LC ，#PU 剩下#VV 的#DEC 红糖#NN 和#CC 白糖#NN 的#DEG 千克#NN 数#NN 同样#AD 多#VA ．#PU 食品店#NN 原有#JJ 白糖#NN 多少#CD 千克#NN ．#PU
+Instance994.#NR
+计算#VV ：#PU 1348#CD -#PU 234#CD -#PU 76#CD +#PU 2234#CD -#PU 48#CD -#PU 24#CD =#PU ．#PU
+Instance995.#NR
+18#CD 厘米#M +#PU 25#CD 厘米#M =#PU 多少#CD 厘米#M ．#PU
+Instance996.#NR
+减数#NN 是#VC 180#CD ，#PU 差#VV 是#VC 120#CD ，#PU 被减数#NN =#PU ．#PU
+Instance997.#NR
+34.16#CD +#PU 47.82#CD +#PU 53.84#CD +#PU 64.18#CD =#PU ．#PU
+Instance998.#NR
+6#CD （#PU 1#CD ）#PU 班#NN 有#VE 26#CD 人#NN 订阅#VV 了#AS 《#PU 小学生#NN 语文报#NN 》#PU ，#PU 有#VE 30#CD 人#NN 订阅#VV 了#AS 《#PU 小学生#NN 数学#NN 报#NN 》#PU ，#PU 其中#NN 有#VE 11#CD 人#NN 两种#CD 报纸#NN 都#AD 订#VV 了#AS ，#PU 还有#CC 3#CD 人#NN 两种#CD 报纸#NN 都#AD 没#AD 订#VV ．#PU 这个#DT 班#NN 一共#AD 有#VE 多少#CD 人#NN ．#PU
+Instance999.#NR
+比#P 78#CD 吨#M 多#AD 135#CD 吨#M 的#DEG =#PU 多少#CD 吨#M ．#PU
+Instance1000.#NR
+妈妈#NN 带#VV 了#AS 170#CD 元#M 钱#NN 去#VV 超市#NN 买#VV 东西#NN ．#PU 买#VV 食品#NN 用#P 去#VV 35.20#CD 元#M ，#PU 买#VV 日用品#NN 用#P 去#VV 11.30#CD 元#M ，#PU 妈妈#NN 还#AD 剩下#VV 多少#CD 钱#NN ？#PU
+Instance1001.#NR
+小#JJ 华#NR 的#DEG 零用钱#NN 比#P 小#NN 红#VA 多#AD 5.6#CD 元#M ，#PU 小#JJ 红#NN 比#P 小#JJ 明#NN 少#AD 1.2#CD 元#M ．#PU 小#JJ 华#NR 比#P 小#JJ 明#NN 多#AD 多少#CD 元#M ？#PU
+Instance1002.#NR
+某校#NR 原有#JJ 学生#NN 896#CD 人#NN ，#PU 毕业#VV 157#CD 人#NN ，#PU 又#AD 招#VV 新生#NN 204#CD 人#NN ，#PU 学校#NN 现有#JJ 学生#NN 多少#CD 人#NN ？#PU
+Instance1003.#NR
+书架上#NN 有#VE 10#CD 本#M 故事书#NN ，#PU 3#CD 本#M 历史#NN 书#NN ，#PU 12#CD 本#M 科普读物#NN ，#PU 小#JJ 王#NN 任意#AD 从#P 书架上#NN 取#VV 一#CD 本书#NN ，#PU 有#VE 多少#CD 种#M 不同#JJ 的#DEG 取法#NN ．#PU
+Instance1004.#NR
+已知#VV 两个#CD 数#CD 的#DEG 和#CC 是#VC 325#CD ，#PU 其中#NN 一个#CD 加数#NN 是#VC 146#CD ，#PU 另#AD 一个#CD 加数#NN =#PU ．#PU
+Instance1005.#NR
+食堂#NN 买来#VV 大米#NN 280#CD 袋#M ，#PU 吃#VV 了#AS 235#CD 袋#M ，#PU 又#AD 买来#VV 218#CD 袋#M ．#PU 现在#NT 食堂#NN 有#VE 大米#NN 多少#CD 袋#NN ？#PU
+Instance1006.#NR
+同学#NN 们#NN 做#VV 红花#NN 208#CD 朵#M ，#PU 黄花#NN 167#CD 朵#M ．#PU 做#VV 绿#JJ 花#NN 的#DEG 朵#M 数#NN 比#P 红花#NN 和#CC 黄花#NR 的#DEG 总数#NN 少#AD 59#CD 朵#M ．#PU 做#VV 绿#JJ 花#NN 多少#CD 朵#M ？#PU
+Instance1007.#NR
+农场#NN 有#VE 公鸡#NN 286#CD 只#M ，#PU 母鸡#NN 357#CD 只#M ．#PU 养#VV 的#DEC 鸭#NN 比#P 鸡#NN 的#DEG 只#AD 数#CD 少#AD 194#CD 只#M ．#PU 农场#NN 养鸭#VV 多少#CD 只#M ？#PU
+Instance1008.#NR
+饲养#VV 小组#NN 养#VV 32#CD 只#M 白兔#NN ，#PU 26#CD 只#M 黑#JJ 兔#NN ，#PU 养#VV 的#DEC 灰#JJ 兔#NN 比#P 白兔#NN 的#DEG 只#AD 数#VV 少#VV 18#CD 只#M ，#PU 养#VV 灰#NN 兔#VV 多少#CD 只#M ？#PU
+Instance1009.#NR
+123456#CD +#PU 234567#CD +#PU 345678#CD +#PU 456789#CD +#PU 567901#CD +#PU 679012#CD +#PU 790123#CD +#PU 901234#CD =#PU ．#PU
+Instance1010.#NR
+黄#JJ 老师#NN 身高#NN 160#CD 厘米#M ，#PU 他#PN 比#P 张#NR 明#AD 高#AD 15#CD 厘米#M ，#PU 张#NR 明#AD 高#JJ 多少#CD 厘米#M ？#PU
+Instance1011.#NR
+某班#VV 有#VE 37#CD 人#NN 去#VV 旅行#VV ，#PU 戴帽子#NR 的#DEG 有#VE 20#CD 人#NN ，#PU 穿#VV 短裤#NN 的#DEC 有#VE 28#CD 人#NN ，#PU 问#VV 其中#NN 最#AD 多#AD 有#VE 几#CD 人#NN 同时#AD 戴帽子#NR 及#CC 穿#VV 短裤#NN 的#DEC ？#PU
+Instance1012.#NR
+下面#NN 小#JJ 明#NN 运动#NN 前后#LC 心跳#NN 的#DEG 测试#NN 情况#NN ：#PU 运动#NN 后#LC 每分钟#AD 跳#VV 140#CD 下#M ，#PU 比#P 运动#NN 前#LC 多#AD 65#CD 下#M ．#PU 小#JJ 明#NN 运动#NN 前#LC 每分钟#NN 心跳#NN 多少#AD 下#VV ？#PU
+Instance1013.#NR
+李老师#NR 买#VV 书#NN 用#P 去#VV 76.8#CD 元#M ，#PU 买#VV 5#CD 千克#M 苹果#NN 共用#JJ 去#NN 12#CD 元#M ，#PU 她#PN 带#VV 了#AS 100#CD 元#M ，#PU 还#AD 剩下#VV 多少#CD 元#M ？#PU
+Instance1014.#NR
+植物园#NN 上午#NT 有#VE 游客#NN 935#CD 人#NN ，#PU 中午#NT 有#VE 357#CD 人#NN 离去#VV ，#PU 下午#NT 又#AD 来#VV 了#AS 397#CD 人#NN ，#PU 这时#AD 园内#NN 有#VE 游客#NN 多少#CD 人#NN ？#PU
+Instance1015.#NR
+学校#NN 买来#VV 2500#CD 张#M 白纸#NN ，#PU 3#CD 月份#NN 用#P 去#VV 435#CD 张#M ，#PU 4#CD 月份#NN 用#P 去#VV 565#CD 张#M ，#PU 还#AD 剩下#VV 多少#CD 张#M ？#PU
+Instance1016.#NR
+小胖#NN 带#VV 了#AS 50#CD 元#M 钱#NN 去#VV 联华#NR 超市#NN ，#PU 买#VV 学习用品#NN 用#VV 去#VV 了#AS 19.37#CD 元#M ，#PU 零食#NN 用#VV 去#VV 了#AS 15.63#CD 元#M ，#PU 还#AD 剩下#VV 多少#CD 元#M ？#PU
+Instance1017.#NR
+一#CD 件#M 儿童#NN 上衣#NN 50#CD 元#M ，#PU 一条#NN 长裤#NN 比#P 上衣#NN 便宜#VA 13#CD 元#M ，#PU 一条#AD 裙子#NN 又#AD 比#P 长裤#NN 贵#VV 8#CD 元#M ．#PU 这#DT 条#M 裙子#NN 多少#CD 钱#NN ？#PU
+Instance1018.#NR
+计算#VV ：#PU 62#CD +#PU 59#CD +#PU 70#CD +#PU 53#CD +#PU 55#CD +#PU 58#CD +#PU 63#CD +#PU 60#CD +#PU 64#CD +#PU 56#CD =#PU ．#PU
+Instance1019.#NR
+比#P 42#CD 多#AD 30#CD 的#DEG 数#NN =#PU ．#PU
+Instance1020.#NR
+460#CD 减去#VV 一个#CD 数#VV 得#DER 241#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance1021.#NR
+数学#NN 书#NN 封面#NN 长#VV 24#CD 厘米#M ，#PU 比#P 它#PN 的#DEG 宽#NN 多#AD 7.2#CD 厘米#M ．#PU 数学#NN 书#NN 封面#NN 的#DEG 宽#NN =#PU 多少#CD 厘米#M ？#PU
+Instance1022.#NR
+小#JJ 亮#VV 买#VV 了#AS 一个#CD 文具盒#NN 用#P 去#VV 11#CD 元#M ，#PU 买#VV 了#AS 一个#CD 小#JJ 皮球#NN 用#P 去#VV 5.3#CD 元#M ，#PU 又#AD 买#VV 了#AS 一枝#CD 钢笔#NN 用#P 去#VV 6.6#CD 元#M ，#PU 小#JJ 亮#VA 一#CD 共用#JJ 去#VV 多少#CD 元#M ？#PU
+Instance1023.#NR
+商店#NN 里#LC 原有#JJ 蓝#NN 书包#NN 41#CD 个#M ，#PU 又#AD 购进#VV 绿#JJ 书包#NN 30#CD 个#M ．#PU 今天#NT 共#AD 卖出#VV 书包#NN 39#CD 个#M ，#PU 现在#NT 商店#NN 还#AD 剩#VV 多少#CD 个#M 书包#NN ？#PU
+Instance1024.#NR
+1.1#CD +#PU 2.2#CD +#PU 3.3#CD +#PU 4.4#CD +#PU 5.5#CD +#PU 6.6#CD +#PU 7.7#CD +#PU 8.8#CD +#PU 9.9#CD =#PU ．#PU
+Instance1025.#NR
+小男孩#NR 喜欢#VV 看#VV 《#PU 格林童话#NR 》#PU ，#PU 这个#DT 星期#NN 的#DEG 前#JJ 3#CD 天#M 看#VV 了#AS 178#CD 页#M ，#PU 后#DT 4#CD 天#M 看#VV 了#AS 余下#JJ 的#DEG 125#CD 页#M ．#PU 这#DT 本书#NN 共有#VV 多少#CD 页#M ？#PU
+Instance1026.#NR
+一#CD 名#M 打字员#NN 要#VV 打#VV 一篇#NN 1500#CD 字#NN 的#DEG 文稿#NN ，#PU 先#AD 打#VV 了#AS 1000#CD 字#NN 又#AD 打#VV 了#AS 300#CD 字#NN ，#PU 还#AD 剩#VV 多少#CD 字#NN 没有#AD 打#VV ？#PU
+Instance1027.#NR
+张#NR 大伯#NN 用#VV 5#CD 米#M 长#VA 的#DEC 竹竿#NN 测量#VV 自家#NN 鱼塘#NN 水#NN 的#DEG 深度#NN ，#PU 竹竿#NN 插入#VV 水中#NN 后#LC ，#PU 进入#VV 泥土#NN 部分#NN 是#VC 0.8#CD 米#M ，#PU 露出#VV 水面#NN 是#VC 1.36#CD 米#M ，#PU 鱼塘#NN 水深#NN 多少#CD ？#PU
+Instance1028.#NR
+小#JJ 军#NN 有#VE 13.5#CD 元#M ，#PU 小#JJ 丽#NN 有#VE 28.6#CD 元#M ，#PU 两#CD 人#NN 准备#VV 买#VV 一副#CD 羽毛球拍#NN ，#PU 还#AD 剩#VV 3.2#CD 元#M ，#PU 这#DT 副#M 球拍#NN 多少#CD 元#M ．#PU
+Instance1029.#NR
+小#JJ 明#NN 身高#NN 1.54#CD 米#M ，#PU 比#P 小#JJ 华#NR 矮#VA 0.09#CD 米#M ．#PU 小#JJ 华#NR 身高#NN 多少#CD 米#M ？#PU
+Instance1030.#NR
+小#JJ 亮#VV 在#P 计算#VV 小数#NN 减法#NN 时#LC ，#PU 把#BA 减数#NN 3.8#CD 看成#VV 了#AS 38#CD ，#PU 结果#AD 是#VC 52.8#NT ，#PU 正确#JJ 得数#NN 应#VV =#VV ．#PU
+Instance1031.#NR
+两个#CD 加数#NN 的#DEG 和#CC 是#VC 98#CD ，#PU 一个#CD 加数#NN 增加#VV 7.36#CD ，#PU 另#AD 一个#CD 加数#NN 减少#VV 5.5#CD ，#PU 改变#VV 后#LC 的#DEG 和#CC =#PU ？#PU
+Instance1032.#NR
+同学#NN 们#NN 去#VV 参观#VV 展览#NN ．#PU 一年级#AD 有#VE 48#CD 人#NN ，#PU 二年级#NT 比#P 一年级#CD 多#AD 16#CD 人#NN ，#PU 比#P 三年级#NT 少#VV 20#CD 人#NN ．#PU 三年级#NR 有#VE 多少#CD 人#NN ？#PU
+Instance1033.#NR
+粮店#NN 运#VV 来#VV 大米#NN 250#CD 吨#M ，#PU 卖出#VV 一些#CD 后#LC ，#PU 还#AD 剩下#VV 90#CD 吨#M ．#PU 一共#AD 卖出#VV 多少#CD 吨#M ？#PU
+Instance1034.#NR
+一#CD 个数#NN 减去#VV 385#CD ，#PU 差#VV 是#VC 273#CD ，#PU 这个#DT 数#NN =#PU ？#PU
+Instance1035.#NR
+妈妈#NN 今年#NT 38#CD 岁#M ，#PU 比#P 小#JJ 芳#NN 大#JJ 29#CD 岁#M ，#PU 小#JJ 芳#NN 今年#NT 多少岁#VV ．#PU
+Instance1036.#NR
+同学#NN 们#NN 做#VV 40#CD 朵花#NN ，#PU 其中#NN 红花#NN 22#CD 朵#M ，#PU 其余#DT 的#DEG 是#VC 黄花#NR ．#PU 黄花#NR 有#VE 多少#CD 朵#M ．#PU
+Instance1037.#NR
+学校#NN 图书室#NN 原有#JJ 藏书#NN 4580#CD 册#M ，#PU 有#VE 209#CD 册#M 破损#VV 清除#VV 了#AS ，#PU 6#CD 一#CD 儿童节#NN 时#LC 同学#NN 们#NN 又#AD 补#VV 捐#VV 了#AS 1049#CD 册#M ，#PU 学校#NN 现有#JJ 图书#NN 多少#CD 册#NN ？#PU
+Instance1038.#NR
+比#P 387#CD 少#VV 96#CD 的#DEG 数#NN =#PU ．#PU
+Instance1039.#NR
+教室#NN 里#LC 有#VE 一些#CD 女同学#NN 和#CC 25#CD 个#M 男同学#NN ，#PU 走出#VV 3#CD 个#M 男同学#NN 和#CC 15#CD 个#M 女同学#NN 后#LC ，#PU 剩下#VV 的#DEC 男同学#NN 和#CC 女同学#NN 一样#VA 多#AD ．#PU 原来#AD 有#VE 女同学#NN 多少#CD 个#M ．#PU
+Instance1040.#NR
+某#DT 蔬菜#NN 商店#NN 上午#NT 卖出#VV 蔬菜#NN 128#CD 千克#M ，#PU 下午#NT 卖出#VV 215#CD 千克#M ，#PU 还#AD 剩#VV 67#CD 千克#M ，#PU 这个#DT 商店#NN 原来#AD 有#VE 蔬菜#NN 多少#CD 千克#M ？#PU
+Instance1041.#NR
+学校#NN 有#VE 100#CD 张#M 彩色纸#NN ，#PU 其中#NN 用#P 25#CD 张#M 做#VV 小花#NN ，#PU 用#P 32#CD 张#M 做#VV 小旗#NN ，#PU 其余#DT 的#DEG 用来#VV 扎#VV 彩球#NN ，#PU 扎#VV 彩球#NN 要#VV 用#VV 多少#CD 张#M 彩色纸#NN ？#PU
+Instance1042.#NR
+妈妈#NN 买#VV 了#AS 一套#NN 运动服#NN 164#CD 元#M ，#PU 一双#AD 运动鞋#NN 59#CD 元#M ，#PU 一共#AD 应付#VV 多少#CD 元#M ．#PU
+Instance1043.#NR
+差#VA 是#VC 590#CD ，#PU 减数#NN 是#VC 380#CD ，#PU 被减数#NN =#PU ．#PU
+Instance1044.#NR
+一#CD 次#M 歌咏#NN 比赛#NN ，#PU 冠军#NN 得#VV 9.89#CD 分#M ，#PU 亚军#NN 得分#NN 比#P 冠军#NN 少#VA 0.26#CD 分#M ．#PU 亚军#NN 的#DEG 成绩#NN =#PU 多少#CD 分#M ？#PU
+Instance1045.#NR
+暑假#NN 快#AD 到#VV 了#AS ，#PU 爸爸#NN 打算#VV 给#P 小#JJ 红#NN 买#VV 双#CD 运动鞋#NN 和#CC 一根#NR 跳绳#NN 锻炼身体#VV ．#PU 一双#AD 运动鞋#NN 38.5#CD 元#M ，#PU 一根#AD 跳绳#VV 4.8#CD 元#M ，#PU 付给#VV 售货员#NN 50#CD 元#M 钱#NN ，#PU 还#AD 应#VV 找回#VV 多少#CD 元#M ？#PU
+Instance1046.#NR
+999#CD +#PU 998#CD +#PU 997#CD +#PU 1000#CD +#PU 1003#CD +#PU 1002#CD +#PU 1001#CD =#PU ．#PU
+Instance1047.#NR
+商场#NN 运#NN 来#MSP 610#CD 千克#M 苹果#NN ，#PU 上午#NT 卖出#VV 152#CD 千克#M ，#PU 还#AD 剩#VV 多少#CD 千克#M ？#PU
+Instance1048.#NR
+体育#NN 室#NN 有#VE 45#CD 只#M 球#NN ，#PU 第一次#AD 借#VV 走#VV 9#CD 只#M ，#PU 第#OD 二#OD 次#M 借#VV 走#VV 10#CD 只#M ，#PU 体育#NN 室#NN 的#DEG 球#NN 缺少#VV 了#AS 多少#CD 只#M ．#PU
+Instance1049.#NR
+一年级#CD 和#CC 二年级#CD 学生#NN 到#VV 小精灵#NR 剧场#NN 看#VV 木偶戏#NN ，#PU 一年级#AD 有#VE 186#CD 人#NN ，#PU 二年级#NT 有#VE 235#CD 人#NN ．#PU 剧院#NN 共有#VV 500#CD 个#M 座位#NN ，#PU 还有#CC 多少#CD 个#M 空座位#NN ？#PU

@@ -1,0 +1,1532 @@
+Instance1_CD ._.
+Joan_NNP found_VBD 70_CD seashells_NNS on_IN the_DT beach_NN ._.
+she_PRP gave_VBD Sam_NNP some_DT of_IN her_PRP$ seashells_NNS ._.
+She_PRP has_VBZ 27_CD seashell_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD she_PRP give_VB to_TO Sam_NNP ?_.
+Instance2_JJ ._.
+There_EX were_VBD 28_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN ._.
+Tim_NNP stacked_VBD bales_NNS in_IN the_DT barn_NN today_NN ._.
+There_EX are_VBP now_RB 54_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN ._.
+How_WRB many_JJ bales_NNS did_VBD he_PRP store_VB in_IN the_DT barn_NN ?_.
+Instance3_JJ ._.
+Mary_NNP is_VBZ baking_VBG a_DT cake_NN ._.
+The_DT recipe_NN wants_VBZ 8_CD cups_NNS of_IN flour_NN ._.
+She_PRP already_RB put_VBD in_IN 2_CD cups_NNS ._.
+How_WRB many_JJ cups_NNS does_VBZ she_PRP need_VB to_TO add_VB ?_.
+Instance4_NNP ._.
+Sara_NNP 's_POS high_JJ school_NN played_VBD 12_CD basketball_NN games_NNS this_DT year_NN ._.
+The_DT team_NN won_VBD most_JJS of_IN their_PRP$ games_NNS ._.
+They_PRP were_VBD defeated_VBN during_IN 4_CD games_NNS ._.
+How_WRB many_JJ games_NNS did_VBD they_PRP win_VB ?_.
+Instance5_NNS ._.
+There_EX are_VBP 22_CD walnut_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB walnut_NN trees_NNS today_NN ._.
+When_WRB the_DT workers_NNS are_VBP finished_VBN there_EX will_MD be_VB 55_CD walnut_NN trees_NNS in_IN the_DT park_NN ._.
+How_WRB many_JJ walnut_NN trees_NNS did_VBD the_DT workers_NNS plant_NN today_NN ?_.
+Instance6_NNP ._.
+Mike_NNP had_VBD 34_CD peaches_NNS at_IN his_PRP$ roadside_NN fruit_NN dish_NN ._.
+He_PRP went_VBD to_TO the_DT orchard_NN and_CC picked_VBD peaches_NNS to_TO stock_VB up_RP ._.
+There_EX are_VBP now_RB 86_CD peaches_NNS ._.
+how_WRB many_JJ did_VBD he_PRP pick_VB ?_.
+Instance7_NNP ._.
+There_EX were_VBD 6_CD roses_NNS in_IN the_DT vase_NN ._.
+Mary_NNP cut_VBD some_DT roses_NNS from_IN her_PRP$ flower_NN garden_NN ._.
+There_EX are_VBP now_RB 16_CD roses_NNS in_IN the_DT vase_NN ._.
+How_WRB many_JJ roses_NNS did_VBD she_PRP cut_VB ?_.
+Instance8_CD ._.
+Joan_NNP went_VBD to_TO 4_CD football_NN games_NNS this_DT year_NN ._.
+She_PRP went_VBD to_TO 9_CD games_NNS last_JJ year_NN ._.
+How_WRB many_JJ football_NN games_NNS did_VBD Joan_NNP go_VB to_TO in_IN all_DT ?_.
+Instance9_CD ._.
+Tom_NNP has_VBZ 9_CD yellow_JJ balloons_NNS Sara_NNP has_VBZ 8_CD yellow_JJ balloons_NNS ._.
+How_WRB many_JJ yellow_JJ balloons_NNS do_VBP they_PRP have_VB in_IN total_NN ?_.
+Instance10_NNP ._.
+There_EX are_VBP 4_CD walnut_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 6_CD walnut_NN trees_NNS today_NN ._.
+How_WRB many_JJ walnut_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance11_NNP ._.
+Sam_NNP had_VBD 9_CD dimes_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ dad_NN gave_VBD him_PRP 7_CD dimes_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ Sam_NNP have_VB now_RB ?_.
+Instance12_JJ ._.
+Alyssa_NNP 's_POS dog_NN had_VBD puppies_NNS ._.
+She_PRP gave_VBD 7_CD to_TO her_PRP$ friends_NNS ._.
+She_PRP now_RB has_VBZ 5_CD puppies_NNS ._.
+How_WRB many_JJ puppies_NNS did_VBD she_PRP have_VB to_TO start_VB with_IN ?_.
+Instance13_JJ ._.
+A_DT restaurant_NN served_VBD 9_CD pizzas_NNS during_IN lunch_NN and_CC 6_CD during_IN dinner_NN today_NN ._.
+How_WRB many_JJ pizzas_NNS were_VBD served_VBN today_NN ?_.
+Instance14_NNP ._.
+There_EX are_VBP 2_CD pencils_NNS in_IN the_DT drawer_NN ._.
+Tim_NNP placed_VBD 3_CD pencils_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance15_NNS ._.
+Joan_NNP found_VBD 6_CD seashells_NNS and_CC Jessica_NNP found_VBD 8_CD seashells_NNS on_IN the_DT beach_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance16_NNP ._.
+Sandy_NNP grew_VBD 6_CD carrots_NNS ._.
+Sam_NNP grew_VBD 3_CD carrots_NNS ._.
+How_WRB many_JJ carrots_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance17_NNP ._.
+Benny_NNP picked_VBD 2_CD apples_NNS and_CC Dan_NNP picked_VBD 9_CD apples_NNS from_IN the_DT apple_NN tree_NN ._.
+How_WRB many_JJ apples_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance18_JJ ._.
+Sally_NNP found_VBD 9_CD seashells_NNS ,_, Tom_NNP found_VBD 7_CD seashells_NNS ,_, and_CC Jessica_NNP found_VBD 5_CD seashells_NNS on_IN the_DT beach_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance19_NNP ._.
+Tim_NNP 's_POS cat_NN had_VBD kittens_NNS ._.
+He_PRP gave_VBD 3_CD to_TO Jessica_NNP and_CC 6_CD to_TO Sara_NNP ._.
+He_PRP now_RB has_VBZ 9_CD kittens_NNS ._.
+How_WRB many_JJ kittens_NNS did_VBD he_PRP have_VB to_TO start_VB with_IN ?_.
+Instance20_NNP ._.
+Joan_NNP has_VBZ 9_CD blue_JJ balloons_NNS ,_, Sally_NNP has_VBZ 5_CD blue_JJ balloons_NNS ,_, and_CC Jessica_NNP has_VBZ 2_CD blue_JJ balloons_NNS ._.
+How_WRB many_JJ blue_JJ balloons_NNS do_VBP they_PRP have_VB in_IN total_NN ?_.
+Instance21_JJ ._.
+Melanie_NNP had_VBD 7_CD dimes_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN gave_VBD her_PRP 8_CD dimes_NNS and_CC her_PRP$ mother_NN gave_VBD her_PRP 4_CD dimes_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ Melanie_NNP have_VB now_RB ?_.
+Instance22_JJ ._.
+A_DT restaurant_NN served_VBD 5_CD cakes_NNS during_IN lunch_NN and_CC 6_CD during_IN dinner_NN today_NN ._.
+The_DT restaurant_NN served_VBD 3_CD cakes_NNS yesterday_NN ._.
+How_WRB many_JJ cakes_NNS were_VBD served_VBN in_IN total_NN ?_.
+Instance23_JJ ._.
+Melanie_NNP picked_VBD 4_CD plums_NNS ,_, Dan_NNP picked_VBD 9_CD plums_NNS ,_, and_CC Sally_NNP picked_VBD 3_CD plums_NNS from_IN the_DT plum_NN tree_NN ._.
+How_WRB many_JJ plums_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance24_NNP ._.
+There_EX are_VBP 7_CD dogwood_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 3_CD dogwood_NN trees_NNS today_NN and_CC 2_CD dogwood_NN trees_NNS tomorrow_NN ._.
+How_WRB many_JJ dogwood_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance25_NNS ._.
+Sara_NNP grew_VBD 4_CD onions_NNS ,_, Sally_NNP grew_VBD 5_CD onions_NNS ,_, and_CC Fred_NNP grew_VBD 9_CD onions_NNS ._.
+How_WRB many_JJ onions_NNS did_VBD they_PRP grow_VB in_IN all_DT ?_.
+Instance26_NNP ._.
+Jason_NNP has_VBZ 43_CD blue_NN and_CC 16_CD red_JJ marbles_NNS ._.
+Tom_NNP has_VBZ 24_CD blue_JJ marbles_NNS ._.
+How_WRB many_JJ blue_JJ marbles_NNS do_VBP they_PRP have_VB in_IN all_DT ?_.
+Instance27_NNP ._.
+Sam_NNP found_VBD 18_CD seashells_NNS and_CC Mary_NNP found_VBD 47_CD seashells_NNS on_IN the_DT beach_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance28_JJ ._.
+Jason_NNP grew_VBD 23_CD watermelons_NNS and_CC 18_CD turnips_NNS ._.
+Nancy_NNP grew_VBD 28_CD watermelons_NNS ._.
+How_WRB many_JJ watermelons_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance29_NNP ._.
+There_EX are_VBP 11_CD rulers_NNS and_CC 34_CD crayons_NNS in_IN the_DT drawer_NN ._.
+Tim_NNP placed_VBD 14_CD rulers_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ rulers_NNS are_VBP now_RB there_RB in_IN all_DT ?_.
+Instance30_JJ ._.
+Sara_NNP picked_VBD 45_CD pears_NNS and_CC Sally_NNP picked_VBD 11_CD pears_NNS from_IN the_DT pear_NN tree_NN ._.
+How_WRB many_JJ pears_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance31_NNP ._.
+Keith_NNP has_VBZ 20_CD books_NNS ._.
+Jason_NNP has_VBZ 21_CD books_NNS ._.
+How_WRB many_JJ books_NNS do_VBP they_PRP have_VB together_RB ?_.
+Instance32_JJ ._.
+Jason_NNP had_VBD 49_CD quarters_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ dad_NN gave_VBD him_PRP 25_CD quarters_NNS ._.
+How_WRB many_JJ quarters_NNS does_VBZ he_PRP have_VB now_RB ?_.
+Instance33_JJ ._.
+Tom_NNP found_VBD 15_CD seashells_NNS and_CC Fred_NNP found_VBD 43_CD seashells_NNS on_IN the_DT beach_NN ._.
+When_WRB they_PRP cleaned_VBD them_PRP ,_, they_PRP discovered_VBD that_IN 29_CD were_VBD cracked_VBN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance34_NNP ._.
+Sara_NNP has_VBZ 31_CD red_JJ and_CC 15_CD green_JJ balloons_NNS ._.
+Sandy_NNP has_VBZ 24_CD red_JJ balloons_NNS ._.
+How_WRB many_JJ red_JJ balloons_NNS do_VBP they_PRP have_VB in_IN total_NN ?_.
+Instance35_NNS ._.
+Joan_NNP picked_VBD 37_CD oranges_NNS and_CC Sara_NNP picked_VBD 10_CD oranges_NNS ._.
+Alyssa_NNP picked_VBD 30_CD pears_NNS ._.
+How_WRB many_JJ oranges_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance36_NNP ._.
+Fred_NNP went_VBD to_TO 36_CD basketball_NN games_NNS this_DT year_NN ,_, but_CC missed_VBD 35_CD ._.
+He_PRP went_VBD to_TO 11_CD games_NNS last_JJ year_NN ._.
+How_WRB many_JJ basketball_NN games_NNS did_VBD Fred_NNP go_VB to_TO in_IN total_NN ?_.
+Instance37_NNP ._.
+There_EX are_VBP 33_CD pencils_NNS and_CC 44_CD crayons_NNS in_IN the_DT drawer_NN ._.
+Joan_NNP placed_VBD 27_CD pencils_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance38_JJ ._.
+Sam_NNP had_VBD 49_CD pennies_NNS and_CC 24_CD nickels_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ dad_NN gave_VBD him_PRP 39_CD nickels_NNS and_CC 31_CD quarters_NNS ._.
+How_WRB many_JJ nickels_NNS does_VBZ he_PRP have_VB now_RB ?_.
+Instance39_NNP ._.
+Dan_NNP grew_VBD 42_CD turnips_NNS and_CC 38_CD cantelopes_NNS ._.
+Jessica_NNP grew_VBD 47_CD turnips_NNS ._.
+How_WRB many_JJ turnips_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance40_JJ ._.
+There_EX are_VBP 33_CD walnut_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 44_CD walnut_NN trees_NNS today_NN ._.
+How_WRB many_JJ walnut_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance41_NNP ._.
+Sara_NNP had_VBD 21_CD quarters_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN gave_VBD her_PRP 49_CD quarters_NNS ._.
+How_WRB many_JJ quarters_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance42_JJ ._.
+There_EX are_VBP 41_CD pencils_NNS in_IN the_DT drawer_NN ._.
+Mike_NNP placed_VBD 30_CD pencils_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance43_JJ ._.
+Joan_NNP has_VBZ 10_CD books_NNS ._.
+Tom_NNP has_VBZ 38_CD books_NNS ._.
+How_WRB many_JJ books_NNS do_VBP they_PRP have_VB together_RB ?_.
+Instance44_NNP ._.
+Joan_NNP has_VBZ 40_CD blue_JJ balloons_NNS Melanie_NNP has_VBZ 41_CD blue_JJ balloons_NNS ._.
+How_WRB many_JJ blue_JJ balloons_NNS do_VBP they_PRP have_VB in_IN total_NN ?_.
+Instance45_NNS ._.
+Fred_NNP grew_VBD 38_CD cantelopes_NNS ._.
+Tim_NNP grew_VBD 44_CD cantelopes_NNS ._.
+How_WRB many_JJ cantelopes_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance46_NNP ._.
+Sam_NNP went_VBD to_TO 14_CD football_NN games_NNS this_DT year_NN ._.
+He_PRP went_VBD to_TO 29_CD games_NNS last_JJ year_NN ._.
+How_WRB many_JJ football_NN games_NNS did_VBD Sam_NNP go_VB to_TO in_IN all_DT ?_.
+Instance47_NNP ._.
+Mary_NNP found_VBD 18_CD seashells_NNS and_CC Jessica_NNP found_VBD 41_CD seashells_NNS on_IN the_DT beach_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance48_JJ ._.
+There_EX are_VBP 39_CD dogwood_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 41_CD dogwood_NN trees_NNS today_NN and_CC 20_CD dogwood_NN trees_NNS tomorrow_NN ._.
+How_WRB many_JJ dogwood_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance49_NNP ._.
+Sandy_NNP has_VBZ 10_CD books_NNS ,_, Benny_NNP has_VBZ 24_CD books_NNS ,_, and_CC Tim_NNP has_VBZ 33_CD books_NNS ._.
+How_WRB many_JJ books_NNS do_VBP they_PRP have_VB together_RB ?_.
+Instance50_NNP ._.
+Jason_NNP picked_VBD 46_CD pears_NNS ,_, Keith_NNP picked_VBD 47_CD pears_NNS ,_, and_CC Mike_NNP picked_VBD 12_CD pears_NNS from_IN the_DT pear_NN tree_NN ._.
+How_WRB many_JJ pears_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance51_NNP ._.
+Keith_NNP grew_VBD 29_CD cantelopes_NNS ,_, Fred_NNP grew_VBD 16_CD cantelopes_NNS ,_, and_CC Jason_NNP grew_VBD 20_CD cantelopes_NNS ._.
+How_WRB many_JJ cantelopes_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance52_JJ ._.
+Melanie_NNP had_VBD 19_CD dimes_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN gave_VBD her_PRP 39_CD dimes_NNS and_CC her_PRP$ mother_NN gave_VBD her_PRP 25_CD dimes_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ Melanie_NNP have_VB now_RB ?_.
+Instance53_JJ ._.
+Alyssa_NNP has_VBZ 37_CD blue_JJ balloons_NNS ,_, Sandy_NNP has_VBZ 28_CD blue_JJ balloons_NNS ,_, and_CC Sally_NNP has_VBZ 39_CD blue_JJ balloons_NNS ._.
+How_WRB many_JJ blue_JJ balloons_NNS do_VBP they_PRP have_VB in_IN all_DT ?_.
+Instance54_NNP ._.
+Sally_NNP had_VBD 27_CD Pokemon_NNP cards_NNS ._.
+Dan_NNP gave_VBD her_PRP 41_CD new_JJ Pokemon_NNP cards_NNS ._.
+Sally_NNP bought_VBD 20_CD Pokemon_NNP cards_NNS ._.
+How_WRB many_JJ Pokemon_NNP cards_NNS does_VBZ Sally_NNP have_VB now_RB ?_.
+Instance55_NNS ._.
+Jason_NNP went_VBD to_TO 11_CD football_NN games_NNS this_DT month_NN ._.
+He_PRP went_VBD to_TO 17_CD games_NNS last_JJ month_NN ,_, and_CC plans_VBZ to_TO go_VB to_TO 16_CD games_NNS next_IN month_NN ._.
+How_WRB many_JJ games_NNS will_MD he_PRP attend_VB in_IN all_DT ?_.
+Instance56_NNP ._.
+There_EX are_VBP 43_CD pencils_NNS in_IN the_DT drawer_NN and_CC 19_CD pencils_NNS on_IN the_DT desk_NN ._.
+Dan_NNP placed_VBD 16_CD pencils_NNS on_IN the_DT desk_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance57_NNP ._.
+Mike_NNP has_VBZ 35_CD books_NNS in_IN his_PRP$ library_NN ._.
+He_PRP bought_VBD several_JJ books_NNS at_IN a_DT yard_NN sale_NN over_IN the_DT weekend_NN ._.
+He_PRP now_RB has_VBZ 56_CD books_NNS in_IN his_PRP$ library_NN ._.
+How_WRB many_JJ books_NNS did_VBD he_PRP buy_VB at_IN the_DT yard_NN sale_NN ?_.
+Instance58_JJ ._.
+There_EX are_VBP 53_CD maple_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB maple_JJ trees_NNS today_NN ._.
+When_WRB the_DT workers_NNS are_VBP finished_VBN there_EX will_MD be_VB 64_CD maple_JJ trees_NNS in_IN the_DT park_NN ._.
+How_WRB many_JJ maple_JJ trees_NNS did_VBD the_DT workers_NNS plant_NN today_NN ?_.
+Instance59_NNP ._.
+Dan_NNP found_VBD 56_CD seashells_NNS on_IN the_DT beach_NN ,_, he_PRP gave_VBD Jessica_NNP some_DT of_IN his_PRP$ seashells_NNS ._.
+He_PRP has_VBZ 22_CD seashell_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD he_PRP give_VB to_TO Jessica_NNP ?_.
+Instance60_NNP ._.
+Sally_NNP had_VBD 13_CD peaches_NNS at_IN her_PRP$ roadside_NN fruit_NN dish_NN ._.
+She_PRP went_VBD to_TO the_DT orchard_NN and_CC picked_VBD peaches_NNS to_TO stock_VB up_RP ._.
+There_EX are_VBP now_RB 55_CD peaches_NNS ._.
+how_WRB many_JJ did_VBD she_PRP pick_VB ?_.
+Instance61_NNP ._.
+Benny_NNP received_VBD 67_CD dollars_NNS for_IN his_PRP$ birthday_NN ._.
+He_PRP went_VBD to_TO a_DT sporting_VBG goods_NNS store_NN and_CC bought_VBD a_DT baseball_NN glove_NN ,_, baseball_NN ,_, and_CC bat_NN ._.
+He_PRP had_VBD 33_CD dollars_NNS over_RB ,_, how_WRB much_RB did_VBD he_PRP spent_VBD on_IN the_DT baseball_NN gear_NN ?_.
+Instance62_JJ ._.
+There_EX were_VBD 3_CD roses_NNS in_IN the_DT vase_NN ._.
+Alyssa_NNP cut_VBD some_DT roses_NNS from_IN her_PRP$ flower_NN garden_NN ._.
+There_EX are_VBP now_RB 14_CD roses_NNS in_IN the_DT vase_NN ._.
+How_WRB many_JJ roses_NNS did_VBD she_PRP cut_VB ?_.
+Instance63_JJ ._.
+Last_JJ week_NN Tom_NNP had_VBD 74_CD dollars_NNS ._.
+He_PRP washed_VBD cars_NNS over_IN the_DT weekend_NN and_CC now_RB has_VBZ 86_CD dollars_NNS ._.
+How_WRB much_JJ money_NN did_VBD he_PRP make_VB washing_VBG cars_NNS ?_.
+Instance64_NNP ._.
+There_EX were_VBD 73_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN ._.
+Jason_NNP stacked_VBD bales_NNS in_IN the_DT barn_NN today_NN ._.
+There_EX are_VBP now_RB 96_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN ._.
+How_WRB many_JJ bales_NNS did_VBD he_PRP store_VB in_IN the_DT barn_NN ?_.
+Instance65_NNS ._.
+Nancy_NNP grew_VBD 6_CD potatoes_NNS ._.
+Sandy_NNP grew_VBD 7_CD potatoes_NNS ._.
+How_WRB many_JJ potatoes_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance66_NNP ._.
+There_EX are_VBP 9_CD crayons_NNS in_IN the_DT drawer_NN ._.
+Benny_NNP placed_VBD 3_CD crayons_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ crayons_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance67_NNP ._.
+There_EX are_VBP 5_CD oak_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 4_CD oak_NN trees_NNS today_NN ._.
+How_WRB many_JJ oak_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance68_JJ ._.
+Tom_NNP found_VBD 7_CD seashells_NNS but_CC 4_CD were_VBD broken_VBN ._.
+How_WRB many_JJ unbroken_JJ seashells_NNS did_VBD Tom_NNP find_VB ?_.
+Instance69_NNP ._.
+Sally_NNP picked_VBD 7_CD lemons_NNS and_CC Mary_NNP picked_VBD 9_CD lemons_NNS from_IN the_DT lemon_NN tree_NN ._.
+How_WRB many_JJ lemons_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance70_NNP ._.
+A_DT restaurant_NN served_VBD 6_CD cakes_NNS during_IN lunch_NN and_CC 9_CD during_IN dinner_NN today_NN ._.
+How_WRB many_JJ cakes_NNS were_VBD served_VBN today_NN ?_.
+Instance71_NNP ._.
+Joan_NNP has_VBZ 8_CD orange_NN balloons_NNS but_CC lost_VBD 2_CD of_IN them_PRP ._.
+How_WRB many_JJ orange_NN balloons_NNS does_VBZ Joan_NNP have_VB now_RB ?_.
+Instance72_JJ ._.
+Fred_NNP had_VBD 7_CD dimes_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ sister_NN borrowed_VBD 3_CD of_IN his_PRP$ dimes_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ Fred_NNP have_VB now_RB ?_.
+Instance73_JJ ._.
+Joan_NNP 's_POS cat_NN had_VBD 8_CD kittens_NNS ._.
+She_PRP gave_VBD 2_CD to_TO her_PRP$ friends_NNS ._.
+How_WRB many_JJ kittens_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance74_NNP ._.
+There_EX are_VBP 34_CD dogwood_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 49_CD dogwood_NN trees_NNS today_NN ._.
+How_WRB many_JJ dogwood_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance75_NNS ._.
+There_EX are_VBP 27_CD pencils_NNS in_IN the_DT drawer_NN ._.
+Nancy_NNP placed_VBD 45_CD pencils_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance76_NNP ._.
+Sam_NNP found_VBD 35_CD seashells_NNS on_IN the_DT beach_NN ,_, he_PRP gave_VBD Joan_NNP 18_CD of_IN the_DT seashells_NNS ._.
+How_WRB many_JJ seashells_NNS does_VBZ he_PRP now_RB have_VBP ?_.
+Instance77_NNP ._.
+Tim_NNP has_VBZ 22_CD books_NNS ._.
+Mike_NNP has_VBZ 20_CD books_NNS ._.
+How_WRB many_JJ books_NNS do_VBP they_PRP have_VB together_RB ?_.
+Instance78_JJ ._.
+Mike_NNP has_VBZ 87_CD baseball_NN cards_NNS ._.
+Sam_NNP bought_VBD 13_CD of_IN Mike_NNP 's_POS baseball_NN cards_NNS ._.
+How_WRB many_JJ baseball_NN cards_NNS does_VBZ Mike_NNP have_VB now_RB ?_.
+Instance79_NNP ._.
+Sandy_NNP grew_VBD 51_CD pumpkins_NNS ._.
+Mike_NNP grew_VBD 23_CD pumpkins_NNS ._.
+How_WRB many_JJ pumpkins_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance80_JJ ._.
+Tim_NNP has_VBZ 44_CD books_NNS ._.
+Sam_NNP has_VBZ 52_CD books_NNS ._.
+How_WRB many_JJ books_NNS do_VBP they_PRP have_VB together_RB ?_.
+Instance81_NNP ._.
+Dan_NNP has_VBZ 64_CD violet_NN marbles_NNS ,_, he_PRP gave_VBD Mary_NNP 14_CD of_IN the_DT marbles_NNS ._.
+How_WRB many_JJ violet_NN marbles_NNS does_VBZ he_PRP now_RB have_VBP ?_.
+Instance82_JJ ._.
+There_EX are_VBP 25_CD popular_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 73_CD popular_JJ trees_NNS today_NN ._.
+How_WRB many_JJ popular_JJ trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance83_JJ ._.
+There_EX are_VBP 54_CD scissors_NNS in_IN the_DT drawer_NN ._.
+Keith_NNP placed_VBD 22_CD scissors_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ scissors_NNS are_VBP now_RB there_RB in_IN all_DT ?_.
+Instance84_NNP ._.
+Alyssa_NNP picked_VBD 42_CD pears_NNS and_CC Nancy_NNP picked_VBD 17_CD pears_NNS from_IN the_DT pear_NN tree_NN ._.
+How_WRB many_JJ pears_NNS were_VBD picked_VBN in_IN all_DT ?_.
+Instance85_NNS ._.
+Sam_NNP had_VBD 98_CD pennies_NNS in_IN his_PRP$ bank_NN ._.
+He_PRP spent_VBD 93_CD of_IN his_PRP$ pennies_NNS ._.
+How_WRB many_JJ pennies_NNS does_VBZ he_PRP have_VB now_RB ?_.
+Instance86_NNP ._.
+Joan_NNP found_VBD 79_CD seashells_NNS on_IN the_DT beach_NN ,_, she_PRP gave_VBD Mike_NNP 63_CD of_IN the_DT seashells_NNS ._.
+How_WRB many_JJ seashells_NNS does_VBZ she_PRP now_RB have_VBP ?_.
+Instance87_NNP ._.
+Sam_NNP has_VBZ 110_CD books_NNS ._.
+Joan_NNP has_VBZ 102_CD books_NNS ._.
+How_WRB many_JJ books_NNS do_VBP they_PRP have_VB together_RB ?_.
+Instance88_JJ ._.
+Mary_NNP picked_VBD 122_CD oranges_NNS and_CC Jason_NNP picked_VBD 105_CD oranges_NNS from_IN the_DT orange_NN tree_NN ._.
+How_WRB many_JJ oranges_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance89_NNP ._.
+Sally_NNP had_VBD 760_CD quarters_NNS in_IN her_PRP$ bank_NN ._.
+She_PRP spent_VBD 418_CD of_IN her_PRP$ quarters_NNS ._.
+How_WRB many_JJ quarters_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance90_NNP ._.
+Melanie_NNP grew_VBD 139_CD turnips_NNS ._.
+Benny_NNP grew_VBD 113_CD turnips_NNS ._.
+How_WRB many_JJ turnips_NNS did_VBD they_PRP grow_VB in_IN all_DT ?_.
+Instance91_NNP ._.
+Jason_NNP has_VBZ 676_CD Pokemon_NNP cards_NNS ._.
+Alyssa_NNP bought_VBD 224_CD of_IN Jason_NNP 's_POS Pokemon_NNP cards_NNS ._.
+How_WRB many_JJ Pokemon_NNP cards_NNS does_VBZ Jason_NNP have_VB now_RB ?_.
+Instance92_JJ ._.
+There_EX are_VBP 107_CD walnut_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 104_CD walnut_NN trees_NNS today_NN ._.
+How_WRB many_JJ walnut_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance93_JJ ._.
+Fred_NNP has_VBZ 709_CD green_JJ balloons_NNS ,_, he_PRP gave_VBD Sandy_NNP 221_CD of_IN the_DT balloons_NNS ._.
+How_WRB many_JJ green_JJ balloons_NNS does_VBZ he_PRP now_RB have_VBP ?_.
+Instance94_NNP ._.
+There_EX are_VBP 115_CD pencils_NNS in_IN the_DT drawer_NN ._.
+Sara_NNP placed_VBD 100_CD pencils_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN all_DT ?_.
+Instance95_NNS ._.
+Jason_NNP has_VBZ 3_CD Pokemon_NNP cards_NNS ._.
+Benny_NNP bought_VBD 2_CD of_IN Jason_NNP 's_POS Pokemon_NNP cards_NNS ._.
+How_WRB many_JJ Pokemon_NNP cards_NNS does_VBZ Jason_NNP have_VB now_RB ?_.
+Instance96_NNP ._.
+Mike_NNP has_VBZ 8_CD orange_NN marbles_NNS ,_, he_PRP gave_VBD Sam_NNP 4_CD of_IN the_DT marbles_NNS ._.
+How_WRB many_JJ orange_NN marbles_NNS does_VBZ he_PRP now_RB have_VBP ?_.
+Instance97_NNP ._.
+Joan_NNP had_VBD 5_CD dimes_NNS in_IN her_PRP$ bank_NN ._.
+She_PRP spent_VBD 2_CD of_IN her_PRP$ dimes_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance98_JJ ._.
+There_EX are_VBP 2_CD orchid_JJ bushes_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 4_CD orchid_JJ bushes_NNS today_NN ._.
+How_WRB many_JJ orchid_JJ bushes_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance99_NNP ._.
+Sara_NNP picked_VBD 6_CD pears_NNS and_CC Tim_NNP picked_VBD 5_CD pears_NNS from_IN the_DT pear_NN tree_NN ._.
+How_WRB many_JJ pears_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance100_JJ ._.
+Sam_NNP grew_VBD 4_CD watermelons_NNS ,_, but_CC the_DT rabbits_NNS ate_VBD 3_CD watermelons_NNS ._.
+How_WRB many_JJ watermelons_NNS does_VBZ Sam_NNP have_VB ?_.
+Instance101_NNP ._.
+Jason_NNP had_VBD Pokemon_NNP cards_NNS ._.
+He_PRP gave_VBD 9_CD to_TO his_PRP$ friends_NNS ._.
+He_PRP now_RB has_VBZ 4_CD Pokemon_NNP cards_NNS ._.
+How_WRB many_JJ Pokemon_NNP cards_NNS did_VBD he_PRP have_VB to_TO start_VB with_IN ?_.
+Instance102_JJ ._.
+Mary_NNP had_VBD 7_CD nickels_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN gave_VBD her_PRP 5_CD nickels_NNS ._.
+How_WRB many_JJ nickels_NNS does_VBZ Mary_NNP have_VB now_RB ?_.
+Instance103_JJ ._.
+Keith_NNP grew_VBD 6_CD turnips_NNS ._.
+Alyssa_NNP grew_VBD 9_CD turnips_NNS ._.
+How_WRB many_JJ turnips_NNS did_VBD they_PRP grow_VB in_IN all_DT ?_.
+Instance104_NNP ._.
+Mary_NNP has_VBZ 9_CD yellow_JJ marbles_NNS Joan_NNP has_VBZ 3_CD yellow_JJ marbles_NNS ._.
+How_WRB many_JJ yellow_JJ marbles_NNS do_VBP they_PRP have_VB in_IN all_DT ?_.
+Instance105_NNS ._.
+Sally_NNP grew_VBD 6_CD carrots_NNS ._.
+Fred_NNP grew_VBD 4_CD carrots_NNS ._.
+How_WRB many_JJ carrots_NNS did_VBD they_PRP grow_VB in_IN all_DT ?_.
+Instance106_NNP ._.
+Tom_NNP found_VBD 5_CD seashells_NNS on_IN the_DT beach_NN ._.
+he_PRP gave_VBD Jessica_NNP 2_CD of_IN the_DT seashells_NNS ._.
+How_WRB many_JJ seashells_NNS does_VBZ he_PRP now_RB have_VBP ?_.
+Instance107_NNP ._.
+Fred_NNP has_VBZ 5_CD baseball_NN cards_NNS ._.
+Melanie_NNP bought_VBD 3_CD of_IN Fred_NNP 's_POS baseball_NN cards_NNS ._.
+How_WRB many_JJ baseball_NN cards_NNS does_VBZ Fred_NNP have_VB now_RB ?_.
+Instance108_JJ ._.
+Mary_NNP had_VBD 8_CD potatoes_NNS in_IN the_DT garden_NN ._.
+The_DT rabbits_NNS ate_VBD 3_CD of_IN the_DT potatoes_NNS ._.
+How_WRB many_JJ potatoes_NNS does_VBZ Mary_NNP now_RB have_VBP ?_.
+Instance109_NNP ._.
+There_EX are_VBP 9_CD oak_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS had_VBD to_TO cut_VB down_RP 2_CD oak_NN trees_NNS that_WDT were_VBD damaged_VBN ._.
+How_WRB many_JJ oak_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance110_NNP ._.
+Jessica_NNP had_VBD 8_CD quarters_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ sister_NN borrowed_VBD 3_CD of_IN her_PRP$ quarters_NNS ._.
+How_WRB many_JJ quarters_NNS does_VBZ Jessica_NNP have_VB now_RB ?_.
+Instance111_NNP ._.
+A_DT restaurant_NN made_VBD 9_CD hamburgers_NNS to_TO serve_VB during_IN lunch_NN ._.
+Only_RB 3_CD were_VBD actually_RB served_VBN ._.
+How_WRB many_JJ hamburgers_NNS were_VBD over_RB from_IN lunch_NN ?_.
+Instance112_JJ ._.
+There_EX are_VBP 7_CD crayons_NNS in_IN the_DT drawer_NN ._.
+Mary_NNP took_VBD 3_CD crayons_NNS out_IN of_IN the_DT drawer_NN ._.
+How_WRB many_JJ crayons_NNS are_VBP there_RB now_RB ?_.
+Instance113_JJ ._.
+Dan_NNP picked_VBD 9_CD limes_NNS and_CC gave_VBD Sara_NNP 4_CD of_IN the_DT limes_NNS ._.
+How_WRB many_JJ limes_NNS does_VBZ Dan_NNP have_VB now_RB ?_.
+Instance114_NNP ._.
+Joan_NNP has_VBZ 9_CD blue_JJ balloons_NNS but_CC lost_VBD 2_CD of_IN them_PRP ._.
+How_WRB many_JJ blue_JJ balloons_NNS does_VBZ Joan_NNP have_VB now_RB ?_.
+Instance115_NNS ._.
+Joan_NNP picked_VBD 43_CD apples_NNS from_IN the_DT orchard_NN ,_, and_CC gave_VBD 27_CD apples_NNS to_TO Melanie_NNP ._.
+How_WRB many_JJ apples_NNS does_VBZ Joan_NNP have_VB now_RB ?_.
+Instance116_NNP ._.
+Tom_NNP has_VBZ 30_CD violet_NN balloons_NNS ,_, he_PRP gave_VBD Fred_NNP 16_CD of_IN the_DT balloons_NNS ._.
+How_WRB many_JJ violet_NN balloons_NNS does_VBZ he_PRP now_RB have_VBP ?_.
+Instance117_NNP ._.
+Fred_NNP has_VBZ 40_CD baseball_NN cards_NNS ._.
+Keith_NNP bought_VBD 22_CD of_IN Fred_NNP 's_POS baseball_NN cards_NNS ._.
+How_WRB many_JJ baseball_NN cards_NNS does_VBZ Fred_NNP have_VB now_RB ?_.
+Instance118_JJ ._.
+Fred_NNP found_VBD 47_CD seashells_NNS on_IN the_DT beach_NN ,_, he_PRP gave_VBD Jessica_NNP 25_CD of_IN the_DT seashells_NNS ._.
+How_WRB many_JJ seashells_NNS does_VBZ he_PRP now_RB have_VBP ?_.
+Instance119_NNP ._.
+Sara_NNP grew_VBD 43_CD pumpkins_NNS ,_, but_CC the_DT rabbits_NNS ate_VBD 23_CD pumpkins_NNS ._.
+How_WRB many_JJ pumpkins_NNS does_VBZ Sara_NNP have_VB ?_.
+Instance120_NNP ._.
+Joan_NNP decided_VBD to_TO sell_VB all_DT of_IN her_PRP$ old_JJ books_NNS ._.
+She_PRP gathered_VBD up_RB 33_CD books_NNS to_TO sell_VB ._.
+She_PRP sold_VBD 26_CD books_NNS in_IN a_DT yard_NN sale_NN ._.
+How_WRB many_JJ books_NNS does_VBZ Joan_NNP now_RB have_VBP ?_.
+Instance121_JJ ._.
+There_EX are_VBP 46_CD rulers_NNS in_IN the_DT drawer_NN ._.
+Tim_NNP took_VBD 25_CD rulers_NNS from_IN the_DT drawer_NN ._.
+How_WRB many_JJ rulers_NNS are_VBP now_RB in_IN the_DT drawer_NN ?_.
+Instance122_JJ ._.
+There_EX are_VBP 33_CD oak_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS had_VBD to_TO cut_VB down_RP 18_CD oak_NN trees_NNS that_WDT were_VBD damaged_VBN ._.
+How_WRB many_JJ oak_NN trees_NNS will_MD be_VB in_IN the_DT park_NN when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance123_JJ ._.
+Joan_NNP purchased_VBD a_DT basketball_NN game_NN for_IN $_$ 5.20_CD ,_, and_CC a_DT racing_NN game_NN for_IN $_$ 4.23_CD ._.
+How_WRB much_RB did_VBD Joan_NNP spend_VB on_IN video_NN games_NNS ?_.
+Instance124_NNP ._.
+Mike_NNP joined_VBD his_PRP$ school_NN 's_POS band_NN ._.
+He_PRP bought_VBD a_DT trumpet_NN for_IN $_$ 145.16_CD ,_, and_CC a_DT song_NN book_NN which_WDT was_VBD $_$ 5.84_CD ._.
+How_WRB much_RB did_VBD Mike_NNP spend_VB at_IN the_DT music_NN store_NN ?_.
+Instance125_NNS ._.
+Alyssa_NNP bought_VBD some_DT toys_NNS ._.
+She_PRP bought_VBD a_DT football_NN for_IN $_$ 5.71_CD ,_, and_CC spent_VBD $_$ 6.59_CD on_IN marbles_NNS ._.
+In_IN total_NN ,_, how_WRB much_RB did_VBD Alyssa_NNP spend_VB on_IN toys_NNS ?_.
+Instance126_NNP ._.
+Jessica_NNP spent_VBD $_$ 10.22_CD on_IN a_DT cat_NN toy_NN ,_, and_CC a_DT cage_NN cost_NN her_PRP $_$ 11.73_CD ._.
+What_WP was_VBD the_DT total_JJ cost_NN of_IN Jessica_NNP 's_POS purchases_NNS ?_.
+Instance127_NNP ._.
+Sara_NNP got_VBD fast_JJ food_NN for_IN lunch_NN ._.
+Sara_NNP spent_VBD $_$ 5.36_CD on_IN a_DT hotdog_NN and_CC $_$ 5.10_CD on_IN a_DT salad_NN ._.
+What_WP was_VBD the_DT total_NN of_IN the_DT lunch_NN bill_NN ?_.
+Instance128_JJ ._.
+Jason_NNP went_VBD to_TO the_DT mall_NN on_IN Saturday_NNP to_TO buy_VB clothes_NNS ._.
+He_PRP spent_VBD $_$ 14.28_CD on_IN shorts_NNS and_CC $_$ 4.74_CD on_IN a_DT jacket_NN ._.
+In_IN total_NN ,_, how_WRB much_JJ money_NN did_VBD Jason_NNP spend_VB on_IN clothing_NN ?_.
+Instance129_NNP ._.
+Alyssa_NNP loves_VBZ eating_JJ fruits_NNS ._.
+Alyssa_NNP paid_VBD $_$ 12.08_CD for_IN grapes_NNS ,_, and_CC $_$ 9.85_CD for_IN cherries_NNS ._.
+In_IN total_NN ,_, how_WRB much_JJ money_NN did_VBD Alyssa_NNP spend_VB ?_.
+Instance130_JJ ._.
+Mary_NNP loves_VBZ eating_JJ fruits_NNS ._.
+Mary_NNP paid_VBD $_$ 11.08_CD for_IN berries_NNS ,_, $_$ 14.33_CD for_IN apples_NNS ,_, and_CC $_$ 9.31_CD for_IN peaches_NNS ._.
+In_IN total_NN ,_, how_WRB much_JJ money_NN did_VBD she_PRP spend_VB ?_.
+Instance131_NNP ._.
+Sandy_NNP went_VBD to_TO the_DT mall_NN to_TO buy_VB clothes_NNS ._.
+She_PRP spent_VBD $_$ 13.99_CD on_IN shorts_NNS ,_, $_$ 12.14_CD on_IN a_DT shirt_NN ,_, and_CC $_$ 7.43_CD on_IN a_DT jacket_NN ._.
+How_WRB much_JJ money_NN did_VBD Sandy_NNP spend_VB on_IN clothes_NNS ?_.
+Instance132_JJ ._.
+Jason_NNP joined_VBD his_PRP$ school_NN 's_POS band_NN ._.
+He_PRP bought_VBD a_DT flute_NN for_IN $_$ 142.46_CD ,_, a_DT music_NN tool_NN for_IN $_$ 8.89_CD ,_, and_CC a_DT song_NN book_NN for_IN $_$ 7_CD ._.
+How_WRB much_RB did_VBD Jason_NNP spend_VB at_IN the_DT music_NN store_NN ?_.
+Instance133_JJ ._.
+Tom_NNP purchased_VBD a_DT football_NN game_NN for_IN $_$ 14.02_CD ,_, a_DT strategy_NN game_NN for_IN $_$ 9.46_CD ,_, and_CC a_DT Batman_NNP game_NN for_IN $_$ 12.04_CD ._.
+How_WRB much_RB did_VBD Tom_NNP spend_VB on_IN video_NN games_NNS ?_.
+Instance134_NNP ._.
+Mike_NNP bought_VBD some_DT toys_NNS ._.
+He_PRP bought_VBD marbles_NNS for_IN $_$ 9.05_CD ,_, a_DT football_NN for_IN $_$ 4.95_CD ,_, and_CC spent_VBD $_$ 6.52_CD on_IN a_DT baseball_NN ._.
+In_IN total_NN ,_, how_WRB much_RB did_VBD Mike_NNP spend_VB on_IN toys_NNS ?_.
+Instance135_NNS ._.
+A_DT ship_NN is_VBZ filled_VBN with_IN 5973_CD tons_NNS of_IN cargo_NN ._.
+It_PRP stops_VBZ in_IN the_DT Bahamas_NNPS ,_, where_WRB sailors_NNS load_VBP 8723_CD tons_NNS of_IN cargo_NN onboard_NN ._.
+How_WRB many_JJ tons_NNS of_IN cargo_NN does_VBZ the_DT ship_NN hold_NN now_RB ?_.
+Instance136_NNP ._.
+Before_IN December_NNP ,_, customers_NNS buy_VBP 1346_CD ear_NN muffs_NNS from_IN the_DT mall_NN ._.
+During_IN December_NNP ,_, they_PRP buy_VBP 6444_CD ,_, and_CC there_EX are_VBP none_NN ._.
+In_IN all_DT ,_, how_WRB many_JJ ear_NN muffs_NNS do_VBP the_DT customers_NNS buy_VB ?_.
+Instance137_NNP ._.
+Diane_NNP is_VBZ a_DT beekeeper_NN ._.
+Last_JJ year_NN ,_, she_PRP harvested_VBD 2479_CD pounds_NNS of_IN honey_NN ._.
+This_DT year_NN ,_, she_PRP bought_VBD some_DT new_JJ hives_NNS and_CC increased_VBD her_PRP$ honey_NN harvest_NN by_IN 6085_CD pounds_NNS ._.
+How_WRB many_JJ pounds_NNS of_IN honey_NN did_VBD Diane_NNP harvest_NN this_DT year_NN ?_.
+Instance138_JJ ._.
+An_DT oil_NN pipe_NN in_IN the_DT sea_NN broke_VBD ._.
+Before_IN engineers_NNS started_VBD to_TO fix_VB the_DT pipe_NN ,_, 6522_CD liters_NNS of_IN oil_NN leaked_VBN into_IN the_DT water_NN ._.
+While_IN the_DT engineers_NNS worked_VBD ,_, the_DT pipe_NN leaked_VBD 5165_CD liters_NNS of_IN oil_NN ._.
+In_IN all_DT ,_, how_WRB many_JJ liters_NNS of_IN oil_NN leaked_VBN into_IN the_DT water_NN ?_.
+Instance139_NNP ._.
+A_DT car_NN company_NN produced_VBD 3884_CD cars_NNS in_IN North_NNP America_NNP and_CC 2871_CD cars_NNS in_IN Europe_NNP ._.
+How_WRB many_JJ cars_NNS is_VBZ that_IN in_IN all_DT ?_.
+Instance140_JJ ._.
+Abe_NNP 's_POS family_NN moved_VBD from_IN the_DT Bahamas_NNPS to_TO Japan_NNP ,_, so_IN they_PRP had_VBD convert_VB their_PRP$ money_NN into_IN Japanese_JJ yen_NNS ._.
+Their_PRP$ checking_NN account_NN now_RB has_VBZ 6359_CD yen_NNS and_CC their_PRP$ savings_NNS account_NN now_RB has_VBZ 3485_CD yen_NN ._.
+How_WRB many_JJ yen_NNS do_VBP they_PRP have_VB ?_.
+Instance141_NNP ._.
+There_EX are_VBP 1986_CD books_NNS in_IN Oak_NNP Grove_NNP 's_POS public_JJ library_NN ._.
+In_IN addition_NN ,_, there_EX are_VBP 5106_CD books_NNS in_IN its_PRP$ school_NN libraries_NNS ._.
+How_WRB many_JJ books_NNS do_VBP the_DT libraries_NNS in_IN Oak_NNP Grove_NNP have_VBP overall_JJ ?_.
+Instance142_JJ ._.
+There_EX were_VBD originally_RB 20817_CD houses_NNS in_IN Lincoln_NNP County_NNP ._.
+During_IN a_DT housing_NN boom_NN ,_, developers_NNS built_VBD 97741_CD ._.
+How_WRB many_JJ houses_NNS are_VBP there_RB now_RB in_IN Lincoln_NNP County_NNP ?_.
+Instance143_JJ ._.
+A_DT farmer_NN estimates_VBZ that_IN he_PRP will_MD harvest_VB 48097_CD bushels_NNS of_IN wheat_NN ._.
+The_DT weather_NN is_VBZ perfect_JJ during_IN the_DT growing_VBG season_NN ,_, so_IN he_PRP harvests_VBZ 684_CD bushels_NNS of_IN wheat_NN than_IN expected_VBN ._.
+How_WRB many_JJ bushels_NNS of_IN wheat_NN does_VBZ the_DT farmer_NN harvest_NN ?_.
+Instance144_NNP ._.
+Christina_NNP just_RB transferred_VBD $_$ 69_CD out_IN of_IN her_PRP$ bank_NN account_NN ._.
+As_IN a_DT result_NN ,_, the_DT account_NN now_RB has_VBZ $_$ 26935_CD in_IN it_PRP ._.
+How_WRB much_JJ money_NN was_VBD in_IN the_DT account_NN before_IN the_DT transfer_NN ?_.
+Instance145_NNS ._.
+Last_JJ year_NN at_IN Newberg_NNP 's_POS airport_NN ,_, 14507_CD passengers_NNS landed_VBN on_IN time_NN ._.
+Unfortunately_RB ,_, 213_CD passengers_NNS landed_VBD late_RB ._.
+In_IN all_DT ,_, how_WRB many_JJ passengers_NNS landed_VBN in_IN Newberg_NNP last_JJ year_NN ?_.
+Instance146_NNP ._.
+A_DT dust_NN storm_NN sweeps_VBZ across_IN the_DT prairie_NN ._.
+It_PRP covers_VBZ 64535_CD acres_NNS of_IN the_DT prairie_NN in_IN dust_NN ,_, but_CC leaves_VBZ 522_CD acres_NNS untouched_JJ ._.
+How_WRB many_JJ acres_NNS does_VBZ the_DT prairie_NN cover_NN ?_.
+Instance147_NNP ._.
+Some_DT insects_NNS called_VBN aphids_NNS attack_VBP a_DT large_JJ farm_NN ._.
+In_IN response_NN ,_, the_DT farmer_NN releases_VBZ ladybugs_NNS onto_IN the_DT fields_NNS ._.
+There_EX are_VBP 12170_CD ladybugs_NNS with_IN spots_NNS and_CC 54912_CD ladybugs_NNS without_IN spots_NNS ._.
+How_WRB many_JJ ladybugs_NNS are_VBP there_RB in_IN all_DT ?_.
+Instance148_JJ ._.
+Last_JJ year_NN ,_, 90171_CD people_NNS were_VBD born_VBN in_IN a_DT country_NN ,_, and_CC 16320_CD people_NNS immigrated_VBD to_TO it_PRP ._.
+How_WRB many_JJ new_JJ people_NNS began_VBD living_VBG in_IN the_DT country_NN last_JJ year_NN ?_.
+Instance149_NNP ._.
+A_DT ship_NN full_JJ of_IN grain_NN crashes_NNS into_IN a_DT coral_JJ reef_NN ._.
+By_IN the_DT time_NN the_DT ship_NN is_VBZ fixed_VBN ,_, 49952_CD tons_NNS of_IN grain_NN have_VBP spilled_VBN into_IN the_DT water_NN ._.
+Only_RB 918_CD tons_NNS of_IN grain_NN remain_VBP onboard_JJ ._.
+How_WRB many_JJ tons_NNS of_IN grain_NN did_VBD the_DT ship_NN originally_RB contain_VB ?_.
+Instance150_NNP ._.
+To_TO fill_VB an_DT order_NN ,_, the_DT factory_NN dyed_VBD 61921_CD yards_NNS of_IN silk_JJ green_NN and_CC 49500_CD yards_NNS pink_JJ ._.
+How_WRB many_JJ yards_NNS of_IN silk_NN did_VBD it_PRP dye_VB for_IN that_DT order_NN ?_.
+Instance151_NNP ._.
+A_DT multi-national_JJ corporation_NN has_VBZ 2041_CD part-time_JJ employees_NNS and_CC 63093_CD full-time_JJ employees_NNS ._.
+How_WRB many_JJ employees_NNS work_VBP for_IN the_DT corporation_NN ?_.
+Instance152_JJ ._.
+Each_DT year_NN ,_, salmon_NN travel_NN upstream_RB ,_, going_VBG from_IN the_DT ocean_NN to_TO the_DT rivers_NNS where_WRB they_PRP were_VBD born_VBN ._.
+This_DT year_NN ,_, 712261_CD male_NN and_CC 259378_CD female_JJ salmon_NN returned_VBD to_TO their_PRP$ rivers_NNS ._.
+How_WRB many_JJ salmon_NN made_VBD the_DT trip_NN ?_.
+Instance153_JJ ._.
+A_DT bathing_NN suit_NN manufacturer_NN has_VBZ a_DT supply_NN of_IN 14797_CD bathing_NN suits_NNS for_IN men_NNS ._.
+In_IN addition_NN ,_, it_PRP has_VBZ 4969_CD bathing_NN suits_NNS for_IN women_NNS ._.
+How_WRB many_JJ bathing_NN suits_NNS are_VBP available_JJ overall_NN ?_.
+Instance154_NNP ._.
+Before_IN the_DT recent_JJ housing_NN boom_NN ,_, there_EX were_VBD 1426_CD houses_NNS in_IN Lawrence_NNP County_NNP ._.
+Now_RB ,_, there_EX are_VBP 2000_CD houses_NNS ._.
+How_WRB many_JJ houses_NNS did_VBD developers_NNS build_VB during_IN the_DT housing_NN boom_NN ?_.
+Instance155_NNS ._.
+A_DT worker_NN at_IN a_DT medical_JJ lab_NN is_VBZ studying_VBG blood_NN samples_NNS ._.
+2_CD samples_NNS contained_VBD a_DT total_NN of_IN 7341_CD blood_NN cells_NNS ._.
+The_DT first_JJ sample_NN contained_VBD 4221_CD blood_NN cells_NNS ._.
+How_WRB many_JJ blood_NN cells_NNS were_VBD in_IN the_DT second_JJ sample_NN ?_.
+Instance156_NNP ._.
+So_RB far_RB ,_, an_DT orchard_NN has_VBZ sold_VBN a_DT combined_JJ total_NN of_IN 9792_CD pounds_NNS of_IN fresh_JJ and_CC frozen_JJ fruit_NN this_DT season_NN ._.
+If_IN they_PRP have_VBP sold_VBN 3513_CD pounds_NNS of_IN frozen_JJ fruit_NN ,_, how_WRB many_JJ pounds_NNS of_IN fresh_JJ fruit_NN have_VBP been_VBN sold_VBN so_RB far_RB ?_.
+Instance157_NNP ._.
+Recently_RB ,_, the_DT value_NN of_IN Kate_NNP 's_POS retirement_NN fund_NN decreased_VBN by_IN $_$ 12_CD ._.
+If_IN her_PRP$ fund_NN was_VBD worth_JJ $_$ 1472_CD before_RB ,_, how_WRB much_RB is_VBZ it_PRP worth_JJ now_RB ?_.
+Instance158_JJ ._.
+The_DT Richmond_NNP Tigers_NNP sold_VBD a_DT total_NN of_IN 9570_CD tickets_NNS last_JJ season_NN ._.
+If_IN they_PRP sold_VBD 3867_CD tickets_NNS in_IN the_DT first_JJ half_NN of_IN the_DT season_NN ,_, how_WRB many_JJ tickets_NNS did_VBD they_PRP sell_VBP in_IN the_DT second_JJ half_NN ?_.
+Instance159_NNP ._.
+A_DT petri_JJ dish_NN originally_RB contained_VBD 600_CD bacteria_NNS ._.
+A_DT scientist_NN let_VBD the_DT bacteria_NNS grow_VBP and_CC now_RB there_EX are_VBP 8917_CD of_IN them_PRP ._.
+How_WRB many_JJ more_JJR bacteria_NNS are_VBP there_RB now_RB ?_.
+Instance160_NNP ._.
+Tori_NNP is_VBZ a_DT school_NN janitor_NN ._.
+Last_JJ week_NN ,_, she_PRP picked_VBD up_RP a_DT total_NN of_IN 1576_CD pieces_NNS of_IN trash_NN ._.
+If_IN she_PRP picked_VBD up_RB 344_CD pieces_NNS of_IN trash_NN in_IN the_DT classrooms_NNS ,_, how_WRB many_JJ pieces_NNS of_IN trash_NN did_VBD Tori_NNP pick_VB up_RP outside_IN the_DT classrooms_NNS ?_.
+Instance161_NNP ._.
+Molly_NNP owns_VBZ the_DT Wafting_NNP Pie_NNP Company_NNP ._.
+This_DT morning_NN ,_, her_PRP$ employees_NNS used_VBD 816_CD eggs_NNS to_TO bake_VB pumpkin_NN pies_NNS ._.
+If_IN her_PRP$ employees_NNS used_VBD a_DT total_NN of_IN 1339_CD eggs_NNS today_NN ,_, how_WRB many_JJ eggs_NNS did_VBD they_PRP use_VBP in_IN the_DT afternoon_NN ?_.
+Instance162_JJ ._.
+Each_DT of_IN farmer_NN Cunningham_NNP 's_POS 6048_CD lambs_NNS is_VBZ either_DT black_JJ or_CC white_JJ ._.
+There_EX are_VBP 193_CD white_JJ ones_NNS ._.
+How_WRB many_JJ of_IN Farmer_NNP Cunningham_NNP 's_POS lambs_NNS are_VBP black_JJ ?_.
+Instance163_JJ ._.
+Students_NNS at_IN Arcadia_NNP schools_NNS are_VBP participating_VBG in_IN a_DT coat_NN drive_NN ._.
+9437_CD coats_NNS have_VBP been_VBN collected_VBN so_RB far_RB ._.
+6922_CD coats_NNS were_VBD collected_VBN from_IN the_DT high_JJ schools_NNS ,_, and_CC the_DT rest_NN from_IN the_DT elementary_JJ schools_NNS ._.
+How_WRB many_JJ coats_NNS were_VBD collected_VBN at_IN the_DT elementary_JJ schools_NNS ?_.
+Instance164_NNP ._.
+A_DT company_NN painted_VBD some_DT houses_NNS in_IN Hancock_NNP County_NNP white_JJ and_CC blue_JJ using_VBG a_DT total_NN of_IN 6689_CD gallons_NNS of_IN paint_NN ._.
+If_IN they_PRP used_VBD 660_CD gallons_NNS of_IN white_JJ paint_NN ,_, how_WRB many_JJ gallons_NNS of_IN blue_JJ paint_NN did_VBD the_DT company_NN use_NN ?_.
+Instance165_NNS ._.
+The_DT Silvergrove_NNP Public_NNP Library_NNP used_VBD a_DT grant_NN to_TO purchase_VB 2647_CD books_NNS ._.
+Now_RB the_DT library_NN has_VBZ a_DT total_NN of_IN 8582_CD books_NNS ._.
+How_WRB many_JJ books_NNS did_VBD the_DT library_NN have_VBP before_IN the_DT grant_NN ?_.
+Instance166_NNP ._.
+A_DT cell_NN phone_NN company_NN has_VBZ a_DT total_NN of_IN 7422_CD customers_NNS across_IN the_DT world_NN ._.
+If_IN 723_CD of_IN its_PRP$ customers_NNS live_VBP in_IN the_DT United_NNP States_NNPS ,_, how_WRB many_JJ of_IN its_PRP$ customers_NNS live_VBP in_IN other_JJ countries_NNS ?_.
+Instance167_NNP ._.
+Last_JJ year_NN ,_, egg_NN producers_NNS in_IN Douglas_NNP County_NNP produced_VBD 1416_CD eggs_NNS ._.
+This_DT year_NN ,_, those_DT same_JJ farms_NNS produced_VBD 4636_CD eggs_NNS ._.
+How_WRB many_JJ more_JJR eggs_NNS did_VBD the_DT farms_NNS produce_VBP this_DT year_NN ?_.
+Instance168_JJ ._.
+An_DT oil_NN pipe_NN in_IN the_DT sea_NN broke_VBD ._.
+Before_IN engineers_NNS started_VBD to_TO fix_VB the_DT pipe_NN ,_, 2475_CD gallons_NNS of_IN oil_NN leaked_VBN into_IN the_DT water_NN ._.
+A_DT total_NN of_IN 6206_CD gallons_NNS of_IN oil_NN leaked_VBN before_IN the_DT pipe_NN was_VBD fixed_VBN ._.
+How_WRB many_JJ gallons_NNS of_IN oil_NN leaked_VBN while_IN the_DT engineers_NNS were_VBD fixing_VBG the_DT pipe_NN ?_.
+Instance169_NNP ._.
+A_DT treasure_NN hunter_NN discovered_VBD a_DT buried_VBN treasure_NN chest_NN filled_VBN with_IN a_DT total_NN of_IN 5155_CD gems_NNS ._.
+45_CD of_IN the_DT gems_NNS were_VBD diamonds_NNS ,_, and_CC the_DT rest_NN were_VBD rubies_NNS ._.
+How_WRB many_JJ of_IN the_DT gems_NNS were_VBD rubies_NNS ?_.
+Instance170_NNP ._.
+Shannon_NNP and_CC her_PRP$ family_NN use_VB up_RP a_DT lot_NN of_IN strawberry_NN and_CC blueberry_NN jelly_RB ,_, since_IN they_PRP eat_VBP toast_NN every_DT morning_NN ._.
+At_IN the_DT moment_NN ,_, they_PRP have_VBP a_DT combined_VBN total_NN of_IN 6310_CD grams_NNS of_IN jelly_NN ._.
+If_IN they_PRP have_VBP 4518_CD grams_NNS of_IN blueberry_JJ jelly_NN ,_, how_WRB many_JJ grams_NNS of_IN strawberry_NN jelly_RB do_VBP they_PRP have_VB ?_.
+Instance171_NNP ._.
+While_IN playing_VBG a_DT video_NN game_NN ,_, Paul_NNP scored_VBD 3103_CD points_NNS ._.
+He_PRP and_CC his_PRP$ cousin_NN together_RB have_VBP a_DT total_NN of_IN 5816_CD points_NNS ._.
+How_WRB many_JJ points_NNS does_VBZ Paul_NNP 's_POS cousin_NN have_VB ?_.
+Instance172_JJ ._.
+A_DT construction_NN company_NN is_VBZ repaving_VBG a_DT damaged_VBN road_NN ._.
+So_RB far_RB ,_, they_PRP have_VBP repaved_VBN a_DT total_NN of_IN 4938_CD inches_NNS of_IN the_DT road_NN ._.
+Today_NN ,_, they_PRP repaved_VBD 805_CD inches_NNS of_IN the_DT road_NN ._.
+How_WRB many_JJ inches_NNS of_IN the_DT road_NN had_VBD they_PRP repaved_VBD before_IN today_NN ?_.
+Instance173_JJ ._.
+Milford_NNP Lake_NNP was_VBD originally_RB blue_JJ because_IN it_PRP only_RB had_VBD 809_CD algae_NN plants_NNS ._.
+Now_RB there_EX are_VBP 3263_CD algae_NN plants_NNS ,_, and_CC the_DT lake_NN has_VBZ turned_VBN green_JJ ._.
+How_WRB many_JJ more_JJR algae_NN plants_NNS are_VBP in_IN Milford_NNP Lake_NNP now_RB ?_.
+Instance174_NNP ._.
+Oscar_NNP 's_POS bus_NN ride_NN to_TO school_NN is_VBZ 0.75_CD mile_NN and_CC Charlie_NNP 's_POS bus_NN ride_NN is_VBZ 0.25_CD mile_NN ._.
+How_WRB much_RB longer_JJR is_VBZ Oscar_NNP 's_POS bus_NN ride_NN than_IN Charlie_NNP 's_POS ?_.
+Instance175_NNS ._.
+Karen_NNP added_VBD 0.25_CD cup_NN of_IN walnuts_NNS to_TO a_DT batch_NN of_IN trail_NN mix_NN ._.
+Later_RB ,_, she_PRP added_VBD 0.25_CD cup_NN of_IN almonds_NNS ._.
+How_WRB many_JJ cups_NNS of_IN nuts_NNS did_VBD Karen_NNP put_VBD in_IN the_DT trail_NN mix_NN in_IN all_DT ?_.
+Instance176_NNP ._.
+Kendall_NNP is_VBZ learning_VBG to_TO drive_VB ,_, so_IN this_DT weekend_NN she_PRP practiced_VBD driving_VBG 0.16666666666666666_CD mile_NN with_IN her_PRP$ mother_NN and_CC another_DT 0.5_CD mile_NN with_IN her_PRP$ father_NN ._.
+How_WRB far_RB did_VBD Kendall_NNP drive_NN in_IN all_DT ?_.
+Instance177_NNP ._.
+At_IN a_DT pie-eating_JJ contest_NN ,_, Erik_NNP got_VBD through_IN 0.6666666666666666_CD pie_NN before_IN time_NN was_VBD called_VBN ;_: Frank_NNP finished_VBD just_RB 0.3333333333333333_CD pie_NN ._.
+How_WRB much_RB more_JJR pie_NN did_VBD Erik_NNP eat_VB than_IN Frank_NNP ?_.
+Instance178_JJ ._.
+A_DT tailor_NN cut_VBD 0.75_CD inch_NN off_IN a_DT skirt_NN and_CC 0.5_CD inch_NN off_IN a_DT pair_NN of_IN pants_NNS ._.
+How_WRB much_RB more_RBR did_VBD the_DT tailor_NN cut_VBD off_RP the_DT skirt_NN than_IN the_DT pants_NNS ?_.
+Instance179_NNP ._.
+At_IN Lindsey_NNP 's_POS Vacation_NN Wear_VB ,_, 0.375_CD the_DT garments_NNS are_VBP bikinis_NNS and_CC 0.25_CD are_VBP trunks_NNS ._.
+What_WP fraction_NN of_IN the_DT garments_NNS are_VBP either_DT bikinis_NNS or_CC trunks_NNS ?_.
+Instance180_JJ ._.
+Darnel_NNP sprinted_VBD 0.875_CD lap_NN and_CC then_RB took_VBD a_DT break_NN by_IN jogging_NN 0.75_CD lap_NN ._.
+How_WRB much_RB farther_RB did_VBD Darnel_NNP sprint_NN than_IN jog_NN ?_.
+Instance181_NNP ._.
+A_DT marine_JJ biologist_NN measured_VBN 1_CD fish_NN that_WDT was_VBD 0.3_CD foot_NN long_RB and_CC a_DT second_JJ fish_NN that_WDT was_VBD 0.2_CD foot_NN long_RB ._.
+How_WRB much_RB longer_JJR was_VBD the_DT first_JJ fish_NN ?_.
+Instance182_JJ ._.
+Hannah_NNP 's_POS Vegetarian_NNP Restaurant_NNP bought_VBD 0.3333333333333333_CD pound_NN of_IN green_JJ peppers_NNS and_CC 0.3333333333333333_CD pound_NN of_IN red_JJ peppers_NNS ._.
+How_WRB many_JJ pounds_NNS of_IN peppers_NNS did_VBD Hannah_NNP 's_POS Vegetarian_NNP Restaurant_NNP buy_NN in_IN all_DT ?_.
+Instance183_JJ ._.
+Ella_NNP owns_VBZ 2_CD dogs_NNS ._.
+Each_DT day_NN ,_, 1_CD dog_NN eats_VBZ 0.125_CD scoop_NN of_IN dog_NN food_NN and_CC the_DT other_JJ dog_NN eats_VBZ 0.125_CD scoop_NN ._.
+Together_RB ,_, how_WRB much_JJ dog_NN food_NN do_VBP the_DT 2_CD dogs_NNS eat_VBP each_DT day_NN ?_.
+Instance184_NNP ._.
+Blake_NNP filled_VBD a_DT bucket_NN with_IN 0.8_CD gallon_NN of_IN water_NN ._.
+Later_RB ,_, he_PRP poured_VBD out_RP 0.2_CD gallon_NN of_IN the_DT water_NN ._.
+How_WRB much_JJ water_NN is_VBZ in_IN the_DT bucket_NN ?_.
+Instance185_NNS ._.
+Mandy_NNP made_VBD an_DT apple_NN pie_NN ._.
+She_PRP used_VBD 0.6666666666666666_CD tablespoon_NN of_IN cinnamon_NN and_CC 0.5_CD tablespoon_NN of_IN nutmeg_NN ._.
+How_WRB much_RB more_JJR cinnamon_NN than_IN nutmeg_NN did_VBD Mandy_NNP use_VB ?_.
+Instance186_NNP ._.
+The_DT Montoya_NNP family_NN spends_VBZ 0.6_CD their_PRP$ budget_NN on_IN groceries_NNS and_CC another_DT 0.2_CD going_VBG out_RP to_TO eat_VB ._.
+Altogether_RB ,_, what_WP fraction_NN of_IN their_PRP$ budget_NN does_VBZ the_DT Montoya_NNP family_NN spend_VBP on_IN food_NN ?_.
+Instance187_NNP ._.
+In_IN Mr._NNP Olsen_NNP 's_POS mathematics_NN class_NN ,_, 0.7_CD the_DT students_NNS received_VBD A_NNP 's_POS and_CC 0.2_CD received_VBD B_NNP 's_POS ._.
+What_WP fraction_NN of_IN the_DT students_NNS received_VBD either_DT A_NNP 's_POS or_CC B_NNP 's_POS ?_.
+Instance188_JJ ._.
+There_EX is_VBZ 0.16666666666666666_CD cup_NN of_IN oil_NN in_IN Scarlett_NNP 's_POS measuring_NN cup_NN ._.
+If_IN Scarlett_NNP adds_VBZ 0.6666666666666666_CD cup_NN more_JJR ,_, how_WRB much_JJ oil_NN will_MD be_VB in_IN the_DT measuring_NN cup_NN ?_.
+Instance189_NNP ._.
+1_CD evening_NN ,_, a_DT restaurant_NN served_VBD a_DT total_NN of_IN 0.2_CD loaf_NN of_IN wheat_NN bread_NN and_CC 0.4_CD loaf_NN of_IN white_JJ bread_NN ._.
+How_WRB many_JJ loaves_NNS were_VBD served_VBN in_IN all_DT ?_.
+Instance190_NNP ._.
+Stanley_NNP ran_VBD 0.4_CD mile_NN and_CC walked_VBD 0.2_CD mile_NN ._.
+How_WRB much_RB farther_RB did_VBD Stanley_NNP run_VB than_IN walk_NN ?_.
+Instance191_NNP ._.
+Dina_NNP made_VBD cookies_NNS ._.
+She_PRP used_VBD 0.625_CD cup_NN of_IN flour_NN and_CC 0.25_CD cup_NN of_IN sugar_NN ._.
+How_WRB much_RB more_JJR flour_NN than_IN sugar_NN did_VBD Dina_NNP use_NN ?_.
+Instance192_JJ ._.
+Each_DT day_NN ,_, the_DT polar_JJ bear_NN at_IN Richmond_NNP 's_POS zoo_NN eats_VBZ 0.2_CD bucket_NN of_IN trout_NNS and_CC 0.4_CD bucket_NN of_IN salmon_NN ._.
+How_WRB many_JJ buckets_NNS of_IN fish_NN does_VBZ the_DT polar_JJ bear_NN eat_VB daily_RB ?_.
+Instance193_JJ ._.
+Jenny_NNP ran_VBD 0.6_CD mile_NN and_CC walked_VBD 0.4_CD mile_NN ._.
+How_WRB much_RB farther_RB did_VBD Jenny_NNP run_VB than_IN walk_NN ?_.
+Instance194_NNP ._.
+0.5_CD the_DT students_NNS in_IN the_DT band_NN are_VBP in_IN the_DT trumpet_NN section_NN ._.
+0.125_CD the_DT students_NNS in_IN the_DT band_NN are_VBP in_IN the_DT trombone_NN section_NN ._.
+What_WP fraction_NN of_IN the_DT students_NNS in_IN the_DT band_NN are_VBP in_IN either_CC the_DT trumpet_NN section_NN or_CC the_DT trombone_NN section_NN ?_.
+Instance195_NNS ._.
+Suzie_NNP found_VBD 2_CD worms_NNS in_IN the_DT yard_NN and_CC measured_VBD them_PRP with_IN a_DT ruler_NN ._.
+1_CD worm_NN was_VBD 0.8_CD inch_NN long_RB ._.
+The_DT other_JJ worm_NN was_VBD 0.1_CD inch_NN long_RB ._.
+How_WRB much_RB longer_JJR was_VBD the_DT longer_JJR worm_NN ?_.
+Instance196_NNP ._.
+Scarlett_NNP made_VBD a_DT fruit_NN salad_NN with_IN 0.25_CD pound_NN of_IN melon_NN and_CC 0.375_CD pound_NN of_IN berries_NNS ._.
+How_WRB many_JJ pounds_NNS of_IN fruit_NN did_VBD Scarlett_NNP use_NN in_IN all_DT ?_.
+Instance197_NNP ._.
+Vince_NNP 's_POS bus_NN ride_NN to_TO school_NN is_VBZ 0.625_CD mile_NN and_CC Zachary_NNP 's_POS bus_NN ride_NN is_VBZ 0.5_CD mile_NN ._.
+How_WRB much_RB longer_JJR is_VBZ Vince_NNP 's_POS bus_NN ride_NN than_IN Zachary_NNP 's_POS ?_.
+Instance198_JJ ._.
+In_IN 1_CD week_NN ,_, Mitch_NNP 's_POS family_NN drank_VBD 0.5_CD carton_NN of_IN regular_JJ milk_NN and_CC 0.1_CD carton_NN of_IN soy_NN milk_NN ._.
+How_WRB much_JJ milk_NN did_VBD they_PRP drink_VB in_IN all_DT ?_.
+Instance199_NNP ._.
+Elizabeth_NNP went_VBD to_TO the_DT salon_NN and_CC had_VBD 0.375_CD inch_NN of_IN hair_NN cut_VBN off_RP ._.
+The_DT next_JJ day_NN she_PRP went_VBD back_RB and_CC asked_VBD for_IN another_DT 0.5_CD inch_NN to_TO be_VB cut_VBN off_RP ._.
+How_WRB much_JJ hair_NN did_VBD she_PRP have_VB cut_VBN off_RP in_IN all_DT ?_.
+Instance200_JJ ._.
+In_IN Shannon_NNP 's_POS apartment_NN complex_NN ,_, 0.16666666666666666_CD the_DT apartments_NNS are_VBP one-bedroom_JJ apartments_NNS and_CC 0.3333333333333333_CD are_VBP two-bedroom_JJ apartments_NNS ._.
+What_WP fraction_NN of_IN the_DT apartments_NNS are_VBP either_RB 1_CD -_: or_CC two-bedroom_JJ apartments_NNS ?_.
+Instance201_NNP ._.
+At_IN the_DT beach_NN ,_, Miki_NNP and_CC her_PRP$ sister_NN both_DT built_VBN sandcastles_NNS and_CC then_RB measured_VBD their_PRP$ heights_NNS ._.
+Miki_NNP 's_POS sandcastle_NN was_VBD 0.8333333333333334_CD foot_NN tall_JJ and_CC her_PRP$ sister_NN 's_POS was_VBD 0.5_CD foot_NN tall_JJ ._.
+How_WRB much_RB taller_JJR was_VBD Miki_NNP 's_POS sandcastle_NN than_IN her_PRP$ sister_NN 's_POS ?_.
+Instance202_JJ ._.
+Michelle_NNP began_VBD her_PRP$ pizza_NN delivery_NN route_NN with_IN 0.5_CD tank_NN of_IN gas_NN in_IN her_PRP$ car_NN ._.
+When_WRB she_PRP made_VBD it_PRP back_RB to_TO the_DT pizzeria_NN ,_, 0.16666666666666666_CD tank_NN of_IN gas_NN was_VBD ._.
+How_WRB much_JJ gas_NN did_VBD Michelle_NNP use_NN ?_.
+Instance203_JJ ._.
+While_IN taking_VBG inventory_NN at_IN her_PRP$ pastry_NN shop_NN ,_, Kelly_NNP realizes_VBZ that_IN she_PRP had_VBD 0.4_CD box_NN of_IN baking_VBG powder_NN yesterday_NN ,_, but_CC the_DT supply_NN is_VBZ now_RB down_RB to_TO 0.3_CD box_NN ._.
+How_WRB much_RB more_JJR baking_NN powder_NN did_VBD Kelly_NNP have_VB yesterday_NN ?_.
+Instance204_NNP ._.
+Craig_NNP walked_VBD 0.2_CD mile_NN from_IN school_NN to_TO David_NNP 's_POS house_NN and_CC 0.7_CD mile_NN from_IN David_NNP 's_POS house_NN to_TO his_PRP$ own_JJ house_NN ._.
+How_WRB many_JJ miles_NNS did_VBD Craig_NNP walk_NN in_IN all_DT ?_.
+Instance205_NNS ._.
+Greg_NNP and_CC Sharon_NNP own_JJ neighboring_JJ cornfields_NNS ._.
+Greg_NNP harvested_VBD 0.4_CD acre_NN of_IN corn_NN on_IN Monday_NNP and_CC Sharon_NNP harvested_VBD 0.1_CD acre_NN ._.
+How_WRB many_JJ more_JJR acres_NNS did_VBD Greg_NNP harvest_NN than_IN Sharon_NNP ?_.
+Instance206_NNP ._.
+At_IN the_DT hardware_NN store_NN ,_, 0.25_CD the_DT nails_NNS are_VBP size_NN 2d_CD and_CC 0.5_CD the_DT nails_NNS are_VBP size_NN 4d_JJ ._.
+What_WP fraction_NN of_IN the_DT nails_NNS are_VBP either_DT size_NN 2d_CD or_CC 4d_CD ?_.
+Instance207_NNP ._.
+While_IN making_VBG desserts_NNS for_IN a_DT bake_NN sale_NN ,_, Victor_NNP used_VBD 0.625_CD scoop_NN of_IN brown_JJ sugar_NN as_RB well_RB as_IN 0.25_CD scoop_NN of_IN white_JJ sugar_NN ._.
+How_WRB much_RB more_RBR brown_JJ sugar_NN did_VBD Victor_NNP use_NN ?_.
+Instance208_JJ ._.
+Eve_NNP ran_VBD 0.7_CD mile_NN and_CC walked_VBD 0.6_CD mile_NN ._.
+How_WRB much_RB farther_RB did_VBD Eve_NNP run_VB than_IN walk_NN ?_.
+Instance209_NNP ._.
+Jonah_NNP added_VBD 0.3_CD cup_NN of_IN yellow_JJ raisins_NNS and_CC 0.4_CD cup_NN of_IN black_JJ raisins_NNS to_TO a_DT batch_NN of_IN trail_NN mix_NN ._.
+How_WRB many_JJ cups_NNS of_IN raisins_NNS did_VBD Jonah_NNP add_VB in_IN all_DT ?_.
+Instance210_NNP ._.
+When_WRB Jake_NNP had_VBD 1_CD cat_NN ,_, he_PRP needed_VBD to_TO serve_VB 0.5_CD can_NN of_IN cat_NN food_NN each_DT day_NN ._.
+Now_RB that_DT Jake_NN has_VBZ adopted_VBN a_DT second_JJ cat_NN ,_, he_PRP needs_VBZ to_TO serve_VB a_DT total_NN of_IN 0.9_CD can_MD each_DT day_NN ._.
+How_WRB much_JJ extra_JJ food_NN is_VBZ needed_VBN to_TO feed_VB the_DT second_JJ cat_NN ?_.
+Instance211_NNP ._.
+In_IN Yardley_NNP it_PRP snowed_VBD 0.125_CD inch_NN in_IN the_DT morning_NN and_CC 0.5_CD inch_NN in_IN the_DT afternoon_NN ._.
+What_WP was_VBD the_DT total_JJ amount_NN of_IN snowfall_NN ?_.
+Instance212_JJ ._.
+While_IN making_VBG pastries_NNS ,_, a_DT bakery_NN used_VBD 0.2_CD bag_NN of_IN wheat_NN flour_NN and_CC 0.1_CD bag_NN of_IN white_JJ flour_NN ._.
+How_WRB many_JJ bags_NNS of_IN flour_NN did_VBD the_DT bakery_NN use_NN in_IN all_DT ?_.
+Instance213_JJ ._.
+Kaleen_NNP filled_VBD a_DT bucket_NN with_IN 0.75_CD gallon_NN of_IN water_NN ._.
+A_DT few_JJ minutes_NNS later_RB ,_, she_PRP realized_VBD only_RB 0.5_CD gallon_NN of_IN water_NN remained_VBD ._.
+How_WRB much_JJ water_NN had_VBD leaked_VBN out_IN of_IN the_DT bucket_NN ?_.
+Instance214_NNP ._.
+Irwin_NNP 's_POS family_NN went_VBD on_IN a_DT camping_NN trip_NN in_IN the_DT mountains_NNS ._.
+On_IN the_DT first_JJ day_NN ,_, they_PRP hiked_VBD from_IN their_PRP$ car_NN to_TO the_DT campsite_NN ._.
+First_RB ,_, they_PRP hiked_VBD 0.2_CD mile_NN from_IN the_DT car_NN to_TO a_DT stream_NN ,_, and_CC 0.4_CD mile_NN from_IN the_DT stream_NN to_TO a_DT meadow_NN ._.
+Then_RB they_PRP hiked_VBD 0.1_CD mile_NN from_IN the_DT meadow_NN to_TO the_DT campsite_NN ._.
+How_WRB many_JJ miles_NNS did_VBD Irwin_NNP 's_POS family_NN hike_NN in_IN all_DT ?_.
+Instance215_NNS ._.
+During_IN a_DT visit_NN to_TO an_DT orchard_NN ,_, Charlie_NNP picked_VBD 0.16666666666666666_CD bag_NN of_IN Golden_NNP Delicious_NNP apples_NNS ,_, 0.16666666666666666_CD bag_NN of_IN Macintosh_NNP apples_NNS ,_, and_CC 0.3333333333333333_CD bag_NN of_IN Cortland_NNP apples_NNS ._.
+How_WRB many_JJ bags_NNS of_IN fruit_NN did_VBD Charlie_NNP pick_NN in_IN total_NN ?_.
+Instance216_NNP ._.
+Before_IN starting_VBG her_PRP$ shift_NN ,_, a_DT waitress_NN checks_NNS to_TO make_VB sure_JJ there_EX is_VBZ enough_JJ mustard_NN for_IN her_PRP$ customers_NNS ._.
+She_PRP finds_VBZ 0.25_CD bottle_NN at_IN the_DT first_JJ table_NN ,_, 0.25_CD bottle_NN at_IN the_DT second_JJ table_NN ,_, and_CC 0.375_CD bottle_NN at_IN the_DT third_JJ table_NN ._.
+Altogether_RB ,_, how_WRB many_JJ bottles_NNS of_IN mustard_NN does_VBZ the_DT waitress_NN find_VB ?_.
+Instance217_NNP ._.
+A_DT waitress_NN put_VBD leftover_JJR tarts_NNS into_IN the_DT fridge_NN on_IN Thursday_NNP night_NN ._.
+She_PRP noticed_VBD that_IN the_DT restaurant_NN had_VBD 0.08333333333333333_CD tart_JJ filled_VBN with_IN cherries_NNS ,_, 0.75_CD tart_JJ filled_VBN with_IN blueberries_NNS ,_, and_CC 0.08333333333333333_CD tart_JJ filled_VBN with_IN peaches_NNS ._.
+How_WRB many_JJ leftover_JJ tarts_NNS did_VBD the_DT restaurant_NN have_VBP in_IN all_DT ?_.
+Instance218_JJ ._.
+On_IN her_PRP$ vacation_NN last_JJ summer_NN ,_, Trisha_NNP walked_VBD all_DT over_IN New_NNP York_NNP City_NNP to_TO buy_VB souvenirs_NNS ._.
+First_RB ,_, she_PRP walked_VBD 0.1111111111111111_CD mile_NN from_IN her_PRP$ hotel_NN to_TO a_DT postcard_NN shop_NN ._.
+Then_RB she_PRP walked_VBD 0.1111111111111111_CD mile_NN from_IN the_DT postcard_NN shop_NN to_TO a_DT T-shirt_NNS shop_NN and_CC 0.6666666666666666_CD mile_NN from_IN the_DT T-shirt_NNS shop_VBP back_RB to_TO the_DT hotel_NN ._.
+How_WRB many_JJ miles_NNS did_VBD Trisha_NNP walk_NN in_IN all_DT ?_.
+Instance219_NNP ._.
+Brandy_NNP made_VBD trail_NN mix_NN for_IN a_DT backpacking_NN trip_NN ._.
+She_PRP used_VBD 0.16666666666666666_CD pound_NN of_IN peanuts_NNS ,_, 0.16666666666666666_CD pound_NN of_IN chocolate_JJ chips_NNS ,_, and_CC 0.08333333333333333_CD pound_NN of_IN raisins_NNS ._.
+How_WRB many_JJ pounds_NNS of_IN trail_NN mix_NN did_VBD Brandy_NNP make_VB ?_.
+Instance220_NNP ._.
+Allie_NNP counted_VBD the_DT leftover_JJ ice_NN cream_NN after_IN a_DT sundae_NN party_NN ._.
+She_PRP had_VBD 0.3333333333333333_CD carton_NN of_IN rocky_JJ road_NN ice_NN cream_NN ,_, 0.3333333333333333_CD carton_NN of_IN cookie_NN dough_NN ice_NN cream_NN ,_, and_CC 0.16666666666666666_CD carton_NN of_IN strawberry_JJ cheesecake_NN ice_NN cream_NN ._.
+How_WRB many_JJ cartons_NNS of_IN ice_NN cream_NN did_VBD Allie_NNP have_VB in_IN all_DT ?_.
+Instance221_JJ ._.
+During_IN a_DT canned_VBN food_NN drive_NN ,_, items_NNS were_VBD sorted_VBN into_IN bins_NNS ._.
+The_DT drive_NN resulted_VBD in_IN 0.125_CD bin_NN of_IN soup_NN ,_, 0.125_CD bin_NN of_IN vegetables_NNS ,_, and_CC 0.5_CD bin_NN of_IN pasta_NN ._.
+Altogether_RB ,_, how_WRB many_JJ bins_NNS would_MD the_DT canned_VBN food_NN take_VB up_RP ?_.
+Instance222_JJ ._.
+Paco_NNP 's_POS Countertop_NNP Company_NNP purchased_VBD pieces_NNS of_IN marble_NN from_IN a_DT quarry_NN ._.
+The_DT weights_NNS of_IN the_DT pieces_NNS they_PRP purchased_VBD were_VBD 0.3333333333333333_CD ton_NN ,_, 0.3333333333333333_CD ton_NN ,_, and_CC 0.08333333333333333_CD ton_NN ._.
+How_WRB many_JJ tons_NNS of_IN marble_NN did_VBD Paco_NNP 's_POS Countertop_NNP Company_NNP purchase_NN in_IN all_DT ?_.
+Instance223_JJ ._.
+Nina_NNP did_VBD a_DT running_VBG drill_NN to_TO get_VB in_IN shape_NN for_IN soccer_NN season_NN ._.
+First_RB ,_, Nina_NNP ran_VBD 0.08333333333333333_CD mile_NN ._.
+Then_RB she_PRP ran_VBD 0.08333333333333333_CD mile_NN and_CC 0.6666666666666666_CD mile_NN ._.
+How_WRB many_JJ miles_NNS did_VBD Nina_NNP run_VB in_IN total_NN ?_.
+Instance224_NNP ._.
+Bonnie_NNP 's_POS science_NN class_NN recorded_VBD the_DT rainfall_NN each_DT day_NN ._.
+They_PRP recorded_VBD 0.16666666666666666_CD centimeter_NN of_IN rain_NN on_IN Monday_NNP ,_, 0.4166666666666667_CD centimeter_NN of_IN rain_NN on_IN Tuesday_NNP ,_, and_CC 0.08333333333333333_CD centimeter_NN of_IN rain_NN on_IN Wednesday_NNP ._.
+How_WRB many_JJ centimeters_NNS of_IN rain_NN did_VBD the_DT class_NN record_NN in_IN all_DT ?_.
+Instance225_NNS ._.
+Last_JJ Saturday_NNP ,_, Spencer_NNP walked_VBD all_DT over_IN town_NN running_VBG errands_NNS ._.
+First_RB ,_, he_PRP walked_VBD 0.3_CD mile_NN from_IN his_PRP$ house_NN to_TO the_DT library_NN and_CC 0.1_CD mile_NN from_IN the_DT library_NN to_TO the_DT post_NN office_NN ._.
+Then_RB he_PRP walked_VBD 0.4_CD mile_NN from_IN the_DT post_NN office_NN back_RB home_NN ._.
+How_WRB many_JJ miles_NNS did_VBD Spencer_NNP walk_NN in_IN all_DT ?_.
+Instance226_NNP ._.
+A_DT construction_NN company_NN ordered_VBD 0.16666666666666666_CD ton_NN of_IN concrete_NN ,_, 0.16666666666666666_CD ton_NN of_IN bricks_NNS ,_, and_CC 0.5_CD ton_NN of_IN stone_NN ._.
+How_WRB many_JJ tons_NNS of_IN material_NN did_VBD the_DT company_NN order_NN in_IN all_DT ?_.
+Instance227_NNP ._.
+Kendra_NNP made_VBD punch_NN for_IN her_PRP$ friend_NN 's_POS birthday_NN party_NN ._.
+She_PRP used_VBD 0.25_CD gallon_NN of_IN grape_NN juice_NN ,_, 0.375_CD gallon_NN of_IN cranberry_NN juice_NN ,_, and_CC 0.125_CD gallon_NN of_IN club_NN soda_NN ._.
+How_WRB many_JJ gallons_NNS of_IN punch_NN did_VBD Kendra_NNP make_VB ?_.
+Instance228_JJ ._.
+A_DT spaceship_NN traveled_VBD 0.5_CD light-year_NN from_IN Earth_NNP to_TO Planet_NNP X_NNP and_CC 0.1_CD light-year_NN from_IN Planet_NNP X_NNP to_TO Planet_NNP Y_NNP ._.
+Then_RB it_PRP traveled_VBD 0.1_CD light-year_NN from_IN Planet_NNP Y_NNP back_RB to_TO Earth_NNP ._.
+How_WRB many_JJ light-years_NNS did_VBD the_DT spaceship_NN travel_NN in_IN all_DT ?_.
+Instance229_NNP ._.
+Logan_NNP recorded_VBD the_DT snowfall_NN every_DT day_NN during_IN a_DT snowstorm_NN ._.
+He_PRP recorded_VBD 0.3333333333333333_CD centimeter_NN on_IN Wednesday_NNP ,_, 0.3333333333333333_CD centimeter_NN on_IN Thursday_NNP ,_, and_CC 0.2222222222222222_CD centimeter_NN on_IN Friday_NNP ._.
+How_WRB many_JJ total_JJ centimeters_NNS of_IN snow_NN did_VBD Logan_NNP record_NN ?_.
+Instance230_JJ ._.
+Ellen_NNP made_VBD smoothies_NNS in_IN the_DT blender_NN ._.
+She_PRP used_VBD 0.2_CD cup_NN of_IN strawberries_NNS ,_, 0.1_CD cup_NN of_IN yogurt_NN ,_, and_CC 0.2_CD cup_NN of_IN orange_NN juice_NN ._.
+How_WRB many_JJ cups_NNS of_IN ingredients_NNS did_VBD Ellen_NNP use_NN for_IN the_DT smoothies_NNS ?_.
+Instance231_NNP ._.
+During_IN a_DT school_NN play_NN ,_, Jonah_NNP staffed_VBD the_DT snack_NN bar_NN ._.
+He_PRP served_VBD 0.25_CD pitcher_NN of_IN lemonade_NN during_IN the_DT first_JJ intermission_NN ,_, 0.4166666666666667_CD pitcher_NN during_IN the_DT second_JJ ,_, and_CC 0.25_CD pitcher_NN during_IN the_DT third_JJ ._.
+How_WRB many_JJ pitchers_NNS of_IN lemonade_NN did_VBD Jonah_NNP pour_VB in_IN all_DT ?_.
+Instance232_JJ ._.
+Heather_NNP went_VBD to_TO the_DT county_NN fair_NN last_JJ weekend_NN ._.
+When_WRB she_PRP got_VBD there_RB ,_, she_PRP had_VBD to_TO walk_VB 0.3333333333333333_CD mile_NN from_IN the_DT car_NN to_TO the_DT entrance_NN ._.
+Then_RB she_PRP walked_VBD 0.3333333333333333_CD mile_NN to_TO the_DT carnival_NN rides_NNS and_CC 0.08333333333333333_CD mile_NN from_IN the_DT carnival_NN rides_NNS back_RB to_TO the_DT car_NN ._.
+How_WRB many_JJ miles_NNS did_VBD Heather_NNP walk_NN in_IN all_DT ?_.
+Instance233_JJ ._.
+A_DT renovation_NN project_NN required_VBN 0.16666666666666666_CD truck-load_NN of_IN sand_NN ,_, 0.3333333333333333_CD truck-load_NN of_IN dirt_NN ,_, and_CC 0.16666666666666666_CD truck-load_NN of_IN cement_NN ._.
+How_WRB many_JJ truck-loads_NNS of_IN material_NN were_VBD needed_VBN in_IN all_DT ?_.
+Instance234_NNP ._.
+Karin_NNP 's_POS science_NN class_NN weighed_VBD plastic_NN rings_NNS for_IN an_DT experiment_NN ._.
+They_PRP found_VBD that_IN the_DT orange_NN ring_NN weighed_VBD 0.08333333333333333_CD ounce_NN ,_, the_DT purple_JJ ring_NN weighed_VBD 0.3333333333333333_CD ounce_NN ,_, and_CC the_DT white_JJ ring_NN weighed_VBD 0.4166666666666667_CD ounce_NN ._.
+What_WP was_VBD the_DT total_JJ weight_NN of_IN the_DT plastic_NN rings_NNS ?_.
+Instance235_NNS ._.
+Carefully_RB following_VBG a_DT recipe_NN ,_, Kenny_NNP used_VBD exactly_RB 0.16666666666666666_CD cup_NN of_IN oil_NN and_CC 1.1666666666666667_CD cups_NNS of_IN water_NN ._.
+How_WRB many_JJ cups_NNS of_IN liquid_NN did_VBD Kenny_NNP use_NN in_IN all_DT ?_.
+Instance236_NNP ._.
+Dale_NNP 's_POS Vegetarian_NNP Restaurant_NNP bought_VBD 2.8333333333333335_CD pounds_NNS of_IN green_JJ peppers_NNS and_CC 2.8333333333333335_CD pounds_NNS of_IN red_JJ peppers_NNS ._.
+How_WRB many_JJ pounds_NNS of_IN peppers_NNS did_VBD Dale_NNP 's_POS Vegetarian_NNP Restaurant_NNP buy_NN in_IN all_DT ?_.
+Instance237_NNP ._.
+This_DT afternoon_NN Craig_NNP left_VBD school_NN ,_, rode_VBD the_DT bus_NN 3.8333333333333335_CD miles_NNS ,_, and_CC then_RB walked_VBD 0.16666666666666666_CD mile_NN to_TO get_VB home_NN ._.
+How_WRB much_RB farther_RB did_VBD Craig_NNP ride_NN than_IN walk_NN ?_.
+Instance238_JJ ._.
+Kelly_NNP 's_POS chemistry_NN textbook_NN weighs_VBZ 7.125_CD pounds_NNS and_CC her_PRP$ geometry_NN textbook_NN weighs_VBZ 0.625_CD pound_NN ._.
+How_WRB much_RB more_RBR does_VBZ the_DT chemistry_NN textbook_NN weigh_VBP than_IN the_DT geometry_NN textbook_NN ?_.
+Instance239_NNP ._.
+Roadster_NNP 's_POS Paving_NNP Company_NNP used_VBD 10_CD tons_NNS of_IN cement_NN to_TO pave_VB Lexi_NNP 's_POS street_NN and_CC 5.1_CD tons_NNS of_IN cement_NN to_TO pave_VB Tess_NNP 's_POS street_NN ._.
+How_WRB much_JJ cement_NN did_VBD Roadster_NNP 's_POS Paving_NNP Company_NNP use_NN in_IN all_DT ?_.
+Instance240_JJ ._.
+On_IN a_DT hot_JJ day_NN ,_, Sam_NNP poured_VBD 1_CD bucket_NN of_IN water_NN into_IN a_DT plastic_JJ wading_NN pool_NN ._.
+A_DT few_JJ minutes_NNS later_RB he_PRP added_VBD another_DT 8.8_CD buckets_NNS ._.
+How_WRB much_JJ water_NN did_VBD Sam_NNP pour_VB into_IN the_DT pool_NN ?_.
+Instance241_NNP ._.
+Kyle_NNP jogged_VBD 1.125_CD laps_NNS in_IN P.E._NNP class_NN and_CC 2.125_CD laps_NNS during_IN track_NN practice_NN ._.
+How_WRB many_JJ laps_NNS did_VBD Kyle_NNP jog_NN in_IN all_DT ?_.
+Instance242_JJ ._.
+A_DT bucket_NN contains_VBZ 3_CD gallons_NNS of_IN water_NN ._.
+If_IN Derek_NNP adds_VBZ 6.8_CD gallons_NNS more_RBR ,_, how_WRB many_JJ gallons_NNS will_MD there_RB be_VB in_IN all_DT ?_.
+Instance243_JJ ._.
+At_IN a_DT pizza_NN party_NN ,_, Mason_NNP and_CC his_PRP$ friends_NNS drank_VBD 2.6666666666666665_CD bottles_NNS of_IN lemon-lime_JJ soda_NN and_CC 2.6666666666666665_CD bottles_NNS of_IN cola_NN ._.
+How_WRB much_JJ soda_NN did_VBD they_PRP drink_VB in_IN all_DT ?_.
+Instance244_NNP ._.
+Professor_NNP Ellison_NNP weighed_VBD 2_CD pieces_NNS of_IN metal_NN for_IN an_DT experiment_NN ._.
+The_DT piece_NN of_IN iron_NN weighed_VBD 11.166666666666666_CD pounds_NNS and_CC the_DT piece_NN of_IN aluminum_NN weighed_VBD 0.8333333333333334_CD pound_NN ._.
+How_WRB much_RB more_RBR did_VBD the_DT piece_NN of_IN iron_NN weigh_VBP than_IN the_DT piece_NN of_IN aluminum_NN ?_.
+Instance245_NNS ._.
+As_IN part_NN of_IN a_DT lesson_NN on_IN earthquakes_NNS ,_, a_DT science_NN class_NN is_VBZ researching_VBG the_DT movement_NN of_IN a_DT nearby_JJ fault_NN line_NN ._.
+The_DT fault_NN line_NN moved_VBD 1.25_CD inches_NNS during_IN the_DT past_JJ year_NN and_CC 5.25_CD inches_NNS the_DT year_NN before_RB ._.
+How_WRB far_RB did_VBD the_DT fault_NN line_NN move_NN in_IN all_DT ?_.
+Instance246_NNP ._.
+Hoping_VBG to_TO be_VB named_VBN Salesperson_NNP of_IN the_DT Month_NNP ,_, Rosa_NNP called_VBD the_DT names_NNS from_IN 10.2_CD pages_NNS of_IN the_DT phone_NN book_NN last_JJ week_NN ._.
+This_DT week_NN ,_, she_PRP called_VBD the_DT people_NNS listed_VBN on_IN another_DT 8.6_CD pages_NNS of_IN the_DT same_JJ phone_NN book_NN ._.
+How_WRB many_JJ pages_NNS worth_JJ of_IN people_NNS did_VBD Rosa_NNP call_NN in_IN all_DT ?_.
+Instance247_NNP ._.
+At_IN the_DT beach_NN ,_, Janet_NNP and_CC her_PRP$ sister_NN both_DT built_VBN sandcastles_NNS and_CC then_RB measured_VBD their_PRP$ heights_NNS ._.
+Janet_NNP 's_POS sandcastle_NN was_VBD 3.6666666666666665_CD feet_NNS tall_JJ and_CC her_PRP$ sister_NN 's_POS was_VBD 2.3333333333333335_CD feet_NNS tall_JJ ._.
+How_WRB much_RB taller_JJR was_VBD Janet_NNP 's_POS sandcastle_NN than_IN her_PRP$ sister_NN 's_POS ?_.
+Instance248_JJ ._.
+Nicole_NNP found_VBD an_DT orange_NN caterpillar_NN and_CC a_DT green_JJ caterpillar_NN in_IN her_PRP$ backyard_NN ._.
+The_DT green_JJ caterpillar_NN was_VBD 3_CD inches_NNS long_RB and_CC the_DT orange_NN caterpillar_NN was_VBD 1.1666666666666667_CD inches_NNS long_RB ._.
+How_WRB much_RB longer_JJR was_VBD the_DT green_JJ caterpillar_NN than_IN the_DT orange_NN caterpillar_NN ?_.
+Instance249_NNP ._.
+Alec_NNP and_CC his_PRP$ roommates_NNS ate_VBD 3.25_CD pints_NNS of_IN ice_NN cream_NN on_IN Friday_NNP night_NN and_CC 0.25_CD pint_NN of_IN ice_NN cream_NN on_IN Saturday_NNP night_NN ._.
+How_WRB many_JJ pints_NNS did_VBD they_PRP eat_VB in_IN all_DT ?_.
+Instance250_NNP ._.
+A_DT farmer_NN started_VBD the_DT day_NN with_IN 8.75_CD buckets_NNS of_IN seeds_NNS ._.
+After_IN spending_VBG the_DT morning_NN sowing_NN seeds_NNS ,_, she_PRP now_RB has_VBZ 6_CD buckets_NNS ._.
+How_WRB many_JJ buckets_NNS of_IN seeds_NNS did_VBD the_DT farmer_NN sow_VB ?_.
+Instance251_NNP ._.
+Irene_NNP just_RB bought_VBD a_DT new_JJ lamp_NN for_IN her_PRP$ bedside_NN table_NN ._.
+The_DT old_JJ lamp_NN was_VBD 1_CD foot_NN tall_JJ and_CC the_DT new_JJ lamp_NN is_VBZ 2.3333333333333335_CD feet_NNS tall_JJ ._.
+How_WRB much_RB taller_JJR is_VBZ the_DT new_JJ lamp_NN than_IN the_DT old_JJ lamp_NN ?_.
+Instance252_JJ ._.
+Ezra_NNP drew_VBD a_DT white_JJ line_NN that_WDT was_VBD 7.666666666666667_CD inches_NNS long_RB ._.
+Then_RB he_PRP drew_VBD a_DT blue_JJ line_NN that_WDT was_VBD 3.3333333333333335_CD inches_NNS long_RB ._.
+How_WRB much_RB longer_JJR was_VBD the_DT white_JJ line_NN than_IN the_DT blue_JJ line_NN ?_.
+Instance253_JJ ._.
+There_EX are_VBP 7.75_CD gallons_NNS of_IN water_NN in_IN Becky_NNP 's_POS fish_NN tank_NN ._.
+If_IN Becky_NNP adds_VBZ 7_CD gallons_NNS more_RBR ,_, how_WRB many_JJ gallons_NNS will_MD there_RB be_VB in_IN all_DT ?_.
+Instance254_NNP ._.
+Wendy_NNP ran_VBD 19.833333333333332_CD miles_NNS and_CC walked_VBD 9.166666666666666_CD miles_NNS ._.
+How_WRB much_RB farther_RB did_VBD Wendy_NN run_NN than_IN walk_NN ?_.
+Instance255_NNS ._.
+Kenji_NNP and_CC his_PRP$ classmates_NNS placed_VBD colored_VBN blocks_NNS on_IN a_DT scale_NN during_IN a_DT science_NN lab_NN ._.
+The_DT yellow_JJ block_NN weighed_VBD 0.6_CD pounds_NNS and_CC the_DT green_JJ block_NN weighed_VBD 0.4_CD pounds_NNS ._.
+How_WRB much_RB more_RBR did_VBD the_DT yellow_NN block_NN weigh_VBP than_IN the_DT green_JJ block_NN ?_.
+Instance256_NNP ._.
+Terrell_NNP hiked_VBD 8.2_CD miles_NNS on_IN Saturday_NNP ._.
+Then_RB ,_, on_IN Sunday_NNP ,_, he_PRP hiked_VBD another_DT 1.6_CD miles_NNS ._.
+How_WRB far_RB did_VBD Terrell_NNP hike_VB all_DT together_RB ?_.
+Instance257_NNP ._.
+A_DT carpenter_NN bought_VBD a_DT piece_NN of_IN wood_NN that_WDT was_VBD 0.41_CD meters_NNS long_RB ._.
+Then_RB she_PRP sawed_VBD 0.33_CD meters_NNS off_IN the_DT end_NN ._.
+How_WRB long_RB is_VBZ the_DT piece_NN of_IN wood_NN now_RB ?_.
+Instance258_JJ ._.
+Kelly_NNP bought_VBD 0.1_CD pounds_NNS of_IN peanuts_NNS and_CC 0.4_CD pounds_NNS of_IN raisins_NNS ._.
+How_WRB many_JJ pounds_NNS of_IN snacks_NNS did_VBD she_PRP buy_VB in_IN all_DT ?_.
+Instance259_NNP ._.
+Kevin_NNP bought_VBD 2_CD watermelons_NNS ._.
+The_DT first_JJ watermelon_NN was_VBD 9.91_CD pounds_NNS ,_, and_CC the_DT second_JJ watermelon_NN was_VBD 4.11_CD pounds_NNS ._.
+How_WRB many_JJ pounds_NNS of_IN watermelon_NN did_VBD Kevin_NNP buy_VB ?_.
+Instance260_NNP ._.
+In_IN March_NNP it_PRP rained_VBD 0.81_CD inches_NNS ._.
+It_PRP rained_VBD 0.35_CD inches_NNS less_RBR in_IN April_NNP than_IN in_IN March_NNP ._.
+How_WRB much_RB did_VBD it_PRP rain_VB in_IN April_NNP ?_.
+Instance261_NNP ._.
+Ron_NNP weighed_VBD 2_CD colored_VBN metal_NN balls_NNS during_IN a_DT science_NN class_NN ._.
+The_DT blue_JJ ball_NN weighed_VBD 6_CD pounds_NNS and_CC the_DT brown_JJ ball_NN weighed_VBD 3.12_CD pounds_NNS ._.
+If_IN Ron_NNP places_VBZ both_DT balls_NNS on_IN the_DT scale_NN at_IN the_DT same_JJ time_NN ,_, what_WP will_MD the_DT scale_NN read_NN ?_.
+Instance262_JJ ._.
+A_DT bee_NN colony_NN produced_VBD 0.36_CD pounds_NNS of_IN honey_NN ,_, but_CC bears_NNS ate_VBD 0.05_CD pounds_NNS of_IN it_PRP ._.
+How_WRB much_JJ honey_NN remains_VBZ ?_.
+Instance263_JJ ._.
+It_PRP rained_VBD 0.9_CD inches_NNS on_IN Monday_NNP ._.
+On_IN Tuesday_NNP ,_, it_PRP rained_VBD 0.7_CD inches_NNS less_JJR than_IN on_IN Monday_NNP ._.
+How_WRB much_RB did_VBD it_PRP rain_VB on_IN Tuesday_NNP ?_.
+Instance264_NNP ._.
+It_PRP snowed_VBD 0.32_CD inches_NNS on_IN Monday_NNP and_CC 0.21_CD inches_NNS on_IN Tuesday_NNP ._.
+How_WRB much_RB did_VBD it_PRP snow_NN on_IN Monday_NNP and_CC Tuesday_NNP combined_VBN ?_.
+Instance265_NNS ._.
+Brennan_NNP had_VBD 0.25_CD grams_NNS of_IN pepper_NN ._.
+Then_RB he_PRP used_VBD 0.16_CD grams_NNS of_IN the_DT pepper_NN to_TO make_VB some_DT scrambled_VBN eggs_NNS ._.
+How_WRB much_JJ pepper_NN does_VBZ Brennan_NNP have_VB ?_.
+Instance266_NNP ._.
+A_DT construction_NN company_NN bought_VBD 5.91_CD tons_NNS of_IN gravel_NN and_CC 8.11_CD tons_NNS of_IN sand_NN ._.
+How_WRB many_JJ tons_NNS of_IN material_NN did_VBD the_DT company_NN buy_VB in_IN all_DT ?_.
+Instance267_NNP ._.
+It_PRP rained_VBD 0.2_CD inches_NNS on_IN Saturday_NNP and_CC 0.4_CD inches_NNS on_IN Sunday_NNP ._.
+How_WRB much_RB did_VBD it_PRP rain_VB on_IN Saturday_NNP and_CC Sunday_NNP combined_VBN ?_.
+Instance268_JJ ._.
+Pamela_NNP bought_VBD 9.8_CD ounces_NNS of_IN sugar_NN ,_, and_CC she_PRP spilled_VBD 5.2_CD ounces_NNS of_IN it_PRP on_IN the_DT floor_NN ._.
+How_WRB much_JJ is_VBZ ?_.
+Instance269_NNP ._.
+Gordon_NNP bought_VBD 3.42_CD pounds_NNS of_IN fruit_NN for_IN a_DT class_NN party_NN ._.
+The_DT class_NN ate_VBD 2.2_CD pounds_NNS of_IN the_DT fruit_NN ._.
+How_WRB much_JJ fruit_NN is_VBZ ?_.
+Instance270_NNP ._.
+A_DT chef_NN bought_VBD 0.14_CD kilograms_NNS of_IN almonds_NNS and_CC 0.38_CD kilograms_NNS of_IN pecans_NNS ._.
+How_WRB many_JJ kilograms_NNS of_IN nuts_NNS did_VBD the_DT chef_NN buy_NN in_IN all_DT ?_.
+Instance271_NNP ._.
+Marta_NNP picked_VBD 2_CD pumpkins_NNS ._.
+The_DT first_JJ pumpkin_NN weighed_VBD 4_CD pounds_NNS ,_, and_CC the_DT second_JJ pumpkin_NN weighed_VBD 8.7_CD pounds_NNS ._.
+How_WRB much_RB did_VBD the_DT 2_CD pumpkins_NNS weigh_VBP all_DT together_RB ?_.
+Instance272_JJ ._.
+A_DT truck_NN carrying_VBG 4.1_CD pounds_NNS of_IN sand_NN travels_NNS to_TO a_DT construction_NN yard_NN and_CC loses_VBZ 2.4_CD pounds_NNS of_IN sand_NN along_IN the_DT way_NN ._.
+How_WRB much_JJ sand_NN does_VBZ the_DT truck_NN have_VBP when_WRB it_PRP arrives_VBZ at_IN the_DT yard_NN ?_.
+Instance273_JJ ._.
+Tori_NNP was_VBD 4.4_CD feet_NNS tall_JJ ._.
+Then_RB she_PRP grew_VBD 2.86_CD feet_NNS taller_JJR ._.
+How_WRB tall_JJ is_VBZ Tori_NNP now_RB ?_.
+Instance274_NNP ._.
+A_DT carpenter_NN bought_VBD a_DT piece_NN of_IN wood_NN that_WDT was_VBD 8.9_CD centimeters_NNS long_RB ._.
+Then_RB he_PRP sawed_VBD 2.3_CD centimeters_NNS off_IN the_DT end_NN ._.
+How_WRB long_RB is_VBZ the_DT piece_NN of_IN wood_NN now_RB ?_.
+Instance275_NNS ._.
+Jason_NNP found_VBD 49_CD seashells_NNS and_CC 48_CD starfish_NN on_IN the_DT beach_NN ._.
+He_PRP gave_VBD 13_CD of_IN the_DT seashells_NNS to_TO Tim_NNP ._.
+How_WRB many_JJ seashells_NNS does_VBZ Jason_NNP now_RB have_VBP ?_.
+Instance276_NNP ._.
+Joan_NNP grew_VBD 29_CD carrots_NNS and_CC 14_CD watermelons_NNS ._.
+Jessica_NNP grew_VBD 11_CD carrots_NNS ._.
+How_WRB many_JJ carrots_NNS did_VBD they_PRP grow_VB in_IN all_DT ?_.
+Instance277_NNP ._.
+Sally_NNP had_VBD 39_CD baseball_NN cards_NNS ,_, and_CC 9_CD were_VBD torn_VBN ._.
+Sara_NNP bought_VBD 24_CD of_IN Sally_NNP 's_POS baseball_NN cards_NNS ._.
+How_WRB many_JJ baseball_NN cards_NNS does_VBZ Sally_NNP have_VB now_RB ?_.
+Instance278_JJ ._.
+Dan_NNP has_VBZ 32_CD green_NN and_CC 38_CD violet_NN marbles_NNS ._.
+Mike_NNP took_VBD 23_CD of_IN Dan_NNP 's_POS green_JJ marbles_NNS ._.
+How_WRB many_JJ green_JJ marbles_NNS does_VBZ Dan_NNP now_RB have_VBP ?_.
+Instance279_NNP ._.
+Jason_NNP has_VBZ 18_CD books_NNS and_CC he_PRP has_VBZ read_VBN 9_CD of_IN them_PRP ._.
+Mary_NNP has_VBZ 42_CD books_NNS ._.
+How_WRB many_JJ books_NNS do_VBP they_PRP have_VB together_RB ?_.
+Instance280_JJ ._.
+Jason_NNP grew_VBD 32_CD watermelons_NNS and_CC 22_CD cantelopes_NNS ._.
+Dan_NNP grew_VBD 31_CD watermelons_NNS ._.
+How_WRB many_JJ watermelons_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance281_NNP ._.
+Benny_NNP found_VBD 66_CD seashells_NNS and_CC 49_CD starfish_NN on_IN the_DT beach_NN ._.
+He_PRP gave_VBD 52_CD of_IN the_DT seashells_NNS to_TO Jason_NNP ._.
+How_WRB many_JJ seashells_NNS does_VBZ Benny_NNP now_RB have_VBP ?_.
+Instance282_JJ ._.
+There_EX are_VBP 41_CD crayons_NNS and_CC 26_CD pencils_NNS in_IN the_DT drawer_NN ._.
+Sam_NNP placed_VBD 12_CD crayons_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ crayons_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance283_JJ ._.
+Mike_NNP had_VBD 33_CD quarters_NNS and_CC 87_CD nickels_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ dad_NN borrowed_VBD 75_CD nickels_NNS from_IN Mike_NNP ._.
+How_WRB many_JJ nickels_NNS does_VBZ he_PRP have_VB now_RB ?_.
+Instance284_NNP ._.
+Sam_NNP has_VBZ 86_CD yellow_NN and_CC 20_CD green_JJ marbles_NNS ._.
+Joan_NNP took_VBD 25_CD of_IN Sam_NNP 's_POS yellow_JJ marbles_NNS ._.
+How_WRB many_JJ yellow_JJ marbles_NNS does_VBZ Sam_NNP now_RB have_VBP ?_.
+Instance285_NNS ._.
+Dan_NNP had_VBD 97_CD baseball_NN cards_NNS ,_, and_CC 8_CD were_VBD torn_VBN ._.
+Sam_NNP bought_VBD 15_CD of_IN Dan_NNP 's_POS baseball_NN cards_NNS ._.
+How_WRB many_JJ baseball_NN cards_NNS does_VBZ Dan_NNP have_VB now_RB ?_.
+Instance286_NNP ._.
+There_EX are_VBP 41_CD short_JJ trees_NNS and_CC 44_CD tall_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 57_CD short_JJ trees_NNS today_NN ._.
+How_WRB many_JJ short_JJ trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance287_NNP ._.
+Alyssa_NNP picked_VBD 25_CD limes_NNS and_CC Mike_NNP picked_VBD 32_CD limes_NNS ._.
+Tom_NNP picked_VBD 12_CD plums_NNS ._.
+How_WRB many_JJ limes_NNS were_VBD picked_VBN in_IN all_DT ?_.
+Instance288_JJ ._.
+Tim_NNP found_VBD 679_CD seashells_NNS and_CC 110_CD starfish_NN on_IN the_DT beach_NN ._.
+He_PRP gave_VBD 172_CD of_IN the_DT seashells_NNS to_TO Sara_NNP ._.
+How_WRB many_JJ seashells_NNS does_VBZ Tim_NNP now_RB have_VBP ?_.
+Instance289_NNP ._.
+There_EX are_VBP 139_CD erasers_NNS and_CC 118_CD scissors_NNS in_IN the_DT drawer_NN ._.
+Jason_NNP placed_VBD 131_CD erasers_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ erasers_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance290_NNP ._.
+Mike_NNP picked_VBD 123_CD oranges_NNS and_CC Melanie_NNP picked_VBD 104_CD oranges_NNS ._.
+Fred_NNP picked_VBD 130_CD apples_NNS ._.
+How_WRB many_JJ oranges_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance291_NNP ._.
+Joan_NNP had_VBD 695_CD Pokemon_NNP cards_NNS ,_, and_CC 6_CD were_VBD torn_VBN ._.
+Sara_NNP bought_VBD 133_CD of_IN Joan_NNP 's_POS Pokemon_NNP cards_NNS ._.
+How_WRB many_JJ Pokemon_NNP cards_NNS does_VBZ Joan_NNP have_VB now_RB ?_.
+Instance292_JJ ._.
+Sally_NNP grew_VBD 113_CD turnips_NNS and_CC 118_CD pumpkins_NNS ._.
+Mary_NNP grew_VBD 129_CD turnips_NNS ._.
+How_WRB many_JJ turnips_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance293_JJ ._.
+Sara_NNP has_VBZ 792_CD black_JJ and_CC 122_CD red_JJ marbles_NNS ._.
+Fred_NNP took_VBD 233_CD of_IN Sara_NNP 's_POS black_JJ marbles_NNS ._.
+How_WRB many_JJ black_JJ marbles_NNS does_VBZ Sara_NNP now_RB have_VBP ?_.
+Instance294_NNP ._.
+Joan_NNP 's_POS high_JJ school_NN played_VBD 864_CD baseball_NN games_NNS this_DT year_NN ,_, 128_CD of_IN the_DT games_NNS were_VBD played_VBN at_IN night_NN ._.
+She_PRP attended_VBD 395_CD games_NNS ._.
+How_WRB many_JJ baseball_NN games_NNS did_VBD Joan_NNP miss_VB ?_.
+Instance295_NNS ._.
+There_EX are_VBP 112_CD short_JJ trees_NNS and_CC 119_CD tall_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 105_CD short_JJ trees_NNS today_NN ._.
+How_WRB many_JJ short_JJ trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance296_NNP ._.
+Sara_NNP had_VBD 100_CD pennies_NNS and_CC 783_CD quarters_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN borrowed_VBD 271_CD quarters_NNS from_IN Sara_NNP ._.
+How_WRB many_JJ quarters_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance297_NNP ._.
+A_DT restaurant_NN made_VBD 9_CD hamburgers_NNS and_CC 4_CD hot_JJ dogs_NNS to_TO serve_VB during_IN lunch_NN ._.
+Only_RB 3_CD hamburgers_NNS were_VBD actually_RB served_VBN ._.
+How_WRB many_JJ hamburgers_NNS were_VBD over_IN ?_.
+Instance298_JJ ._.
+Melanie_NNP picked_VBD 7_CD plums_NNS and_CC 4_CD oranges_NNS from_IN the_DT orchard_NN ._.
+She_PRP gave_VBD 3_CD plums_NNS to_TO Sam_NNP ._.
+How_WRB many_JJ plums_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance299_NNP ._.
+There_EX are_VBP 6_CD short_JJ bushes_NNS and_CC 4_CD tall_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS had_VBD to_TO cut_VB down_RP 2_CD short_JJ bushes_NNS that_WDT were_VBD damaged_VBN ._.
+How_WRB many_JJ short_JJ bushes_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance300_JJ ._.
+There_EX were_VBD a_DT total_NN of_IN 8_CD football_NN games_NNS this_DT year_NN ,_, 4_CD are_VBP played_VBN at_IN night_NN ._.
+Keith_NNP missed_VBD 4_CD of_IN the_DT games_NNS ._.
+How_WRB many_JJ football_NN games_NNS did_VBD Keith_NNP go_VB to_TO in_IN total_NN ?_.
+Instance301_NNP ._.
+There_EX are_VBP 9_CD pencils_NNS and_CC 4_CD rulers_NNS in_IN the_DT drawer_NN ._.
+Sally_NNP took_VBD 4_CD pencils_NNS out_IN of_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP there_RB now_RB ?_.
+Instance302_JJ ._.
+Jason_NNP has_VBZ 7_CD violet_NN balloons_NNS and_CC 4_CD red_JJ balloons_NNS ._.
+He_PRP lost_VBD 3_CD of_IN the_DT violet_NN balloons_NNS ._.
+How_WRB many_JJ violet_NN balloons_NNS does_VBZ Jason_NNP have_VB now_RB ?_.
+Instance303_JJ ._.
+Dan_NNP had_VBD 7_CD potatoes_NNS and_CC 4_CD cantelopes_NNS in_IN the_DT garden_NN ._.
+The_DT rabbits_NNS ate_VBD 4_CD of_IN the_DT potatoes_NNS ._.
+How_WRB many_JJ potatoes_NNS does_VBZ Dan_NNP now_RB have_VBP ?_.
+Instance304_NNP ._.
+Sara_NNP had_VBD 4_CD quarters_NNS and_CC 8_CD dimes_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ sister_NN borrowed_VBD 4_CD dimes_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ Sara_NNP have_VB now_RB ?_.
+Instance305_NNS ._.
+Sandy_NNP 's_POS dog_NN had_VBD 8_CD puppies_NNS and_CC 4_CD had_VBD spots_NNS ._.
+She_PRP gave_VBD 4_CD to_TO her_PRP$ friends_NNS ._.
+How_WRB many_JJ puppies_NNS does_VBZ she_PRP now_RB have_VBP ?_.
+Instance306_NNP ._.
+Mike_NNP found_VBD 6_CD seashells_NNS and_CC 4_CD starfish_NN ,_, but_CC 4_CD of_IN the_DT seashells_NNS were_VBD broken_VBN ._.
+How_WRB many_JJ unbroken_JJ seashells_NNS did_VBD Mike_NNP find_VB ?_.
+Instance307_NNP ._.
+Melanie_NNP had_VBD 30_CD baseball_NN cards_NNS ,_, and_CC 9_CD were_VBD torn_VBN ._.
+Sara_NNP bought_VBD 18_CD of_IN Melanie_NNP 's_POS baseball_NN cards_NNS ._.
+How_WRB many_JJ baseball_NN cards_NNS does_VBZ Melanie_NNP have_VB now_RB ?_.
+Instance308_JJ ._.
+Sara_NNP picked_VBD 35_CD pears_NNS and_CC 27_CD apples_NNS from_IN the_DT orchard_NN ._.
+She_PRP gave_VBD 28_CD pears_NNS to_TO Dan_NNP ._.
+How_WRB many_JJ pears_NNS does_VBZ Sara_NNP have_VB ?_.
+Instance309_NNP ._.
+Jessica_NNP grew_VBD 35_CD watermelons_NNS and_CC 30_CD carrots_NNS ,_, but_CC the_DT rabbits_NNS ate_VBD 27_CD watermelons_NNS ._.
+How_WRB many_JJ watermelons_NNS does_VBZ Jessica_NNP have_VB ?_.
+Instance310_NNP ._.
+Nancy_NNP found_VBD 35_CD seashells_NNS and_CC 25_CD starfish_NN on_IN the_DT beach_NN ._.
+She_PRP gave_VBD 17_CD of_IN the_DT seashells_NNS to_TO Jason_NNP ._.
+How_WRB many_JJ seashells_NNS does_VBZ Nancy_NNP now_RB have_VBP ?_.
+Instance311_NNP ._.
+Joan_NNP has_VBZ 47_CD green_JJ and_CC 48_CD red_JJ marbles_NNS ._.
+Fred_NNP took_VBD 24_CD of_IN Joan_NNP 's_POS green_JJ marbles_NNS ._.
+How_WRB many_JJ green_JJ marbles_NNS does_VBZ Joan_NNP now_RB have_VBP ?_.
+Instance312_JJ ._.
+There_EX are_VBP 42_CD walnut_NN trees_NNS and_CC 12_CD orange_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS had_VBD to_TO cut_VB down_RP 13_CD walnut_NN trees_NNS that_WDT were_VBD damaged_VBN ._.
+How_WRB many_JJ walnut_NN trees_NNS will_MD be_VB in_IN the_DT park_NN when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance313_JJ ._.
+Sandy_NNP had_VBD 36_CD pennies_NNS and_CC 31_CD nickels_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN borrowed_VBD 20_CD nickels_NNS from_IN Sandy_NNP ._.
+How_WRB many_JJ nickels_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance314_NNP ._.
+There_EX are_VBP 34_CD pencils_NNS and_CC 49_CD crayons_NNS in_IN the_DT drawer_NN ._.
+Dan_NNP took_VBD 22_CD pencils_NNS from_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB in_IN the_DT drawer_NN ?_.
+Instance315_NNS ._.
+Sally_NNP paid_VBD $_$ 12.32_CD total_NN for_IN peaches_NNS ,_, after_IN a_DT 3_CD dollar_NN coupon_NN ,_, and_CC $_$ 11.54_CD for_IN cherries_NNS ._.
+In_IN total_NN ,_, how_WRB much_JJ money_NN did_VBD Sally_NNP spend_VB ?_.
+Instance316_NNP ._.
+Dan_NNP spent_VBD $_$ 11.76_CD on_IN a_DT snake_NN toy_NN ,_, and_CC a_DT cage_NN cost_NN him_PRP $_$ 14.54_CD ._.
+Dan_NNP also_RB found_VBD a_DT dollar_NN bill_NN on_IN the_DT ground_NN ._.
+What_WP was_VBD the_DT total_JJ cost_NN of_IN Dan_NNP 's_POS purchases_NNS ?_.
+Instance317_NNP ._.
+Mary_NNP went_VBD to_TO the_DT mall_NN ._.
+She_PRP spent_VBD $_$ 13.04_CD on_IN a_DT shirt_NN and_CC $_$ 12.27_CD on_IN a_DT jacket_NN ._.
+She_PRP went_VBD to_TO 2_CD shops_NNS ._.
+In_IN total_NN ,_, how_WRB much_JJ money_NN did_VBD Mary_NNP spend_VB on_IN clothing_NN ?_.
+Instance318_JJ ._.
+Dan_NNP joined_VBD his_PRP$ school_NN 's_POS band_NN ._.
+He_PRP bought_VBD a_DT clarinet_NN for_IN $_$ 130.30_CD ,_, and_CC a_DT song_NN book_NN which_WDT was_VBD $_$ 11.24_CD ._.
+Dan_NNP found_VBD $_$ 12.32_CD in_IN his_PRP$ pocket_NN ._.
+How_WRB much_RB did_VBD Dan_NNP spend_VB at_IN the_DT music_NN store_NN ?_.
+Instance319_NNP ._.
+Tom_NNP bought_VBD a_DT skateboard_NN for_IN $_$ 9.46_CD ,_, and_CC spent_VBD $_$ 9.56_CD on_IN marbles_NNS ._.
+Tom_NNP also_RB spent_VBD $_$ 14.50_CD on_IN shorts_NNS ._.
+In_IN total_NN ,_, how_WRB much_RB did_VBD Tom_NNP spend_VB on_IN toys_NNS ?_.
+Instance320_NNP ._.
+Mary_NNP got_VBD fast_JJ food_NN for_IN lunch_NN ._.
+Mary_NNP spent_VBD $_$ 1.08_CD on_IN soup_NN and_CC $_$ 4.80_CD on_IN a_DT salad_NN ._.
+Mary_NNP paid_VBD with_IN a_DT 20_CD dollar_NN bill_NN ._.
+What_WP was_VBD the_DT total_NN of_IN the_DT lunch_NN bill_NN ?_.
+Instance321_JJ ._.
+For_IN his_PRP$ car_NN ,_, Mike_NNP spent_VBD $_$ 118.54_CD on_IN speakers_NNS and_CC $_$ 106.33_CD on_IN new_JJ tires_NNS ._.
+Mike_NNP wanted_VBD 3_NNP CD_NNP 's_POS for_IN $_$ 4.58_CD but_CC decided_VBD not_RB to_TO ._.
+In_IN total_NN ,_, how_WRB much_RB did_VBD Mike_NNP spend_VB on_IN car_NN parts_NNS ?_.
+Instance322_JJ ._.
+Tom_NNP purchased_VBD a_DT Batman_NNP game_NN for_IN $_$ 13.60_CD ,_, and_CC a_DT Superman_NNP game_NN for_IN $_$ 5.06_CD ._.
+Tom_NNP already_RB owns_VBZ 2_CD games_NNS ._.
+How_WRB much_RB did_VBD Tom_NNP spend_VB on_IN video_NN games_NNS ?_.
+Instance323_JJ ._.
+Joan_NNP spent_VBD $_$ 15_CD on_IN shorts_NNS and_CC $_$ 14.82_CD on_IN a_DT jacket_NN ,_, and_CC $_$ 12.51_CD on_IN a_DT shirt_NN ._.
+She_PRP went_VBD to_TO 3_CD shops_NNS ._.
+In_IN total_NN ,_, how_WRB much_JJ money_NN did_VBD Joan_NNP spend_VB on_IN clothing_NN ?_.
+Instance324_NNP ._.
+Joan_NNP joined_VBD her_PRP$ school_NN 's_POS band_NN ._.
+She_PRP bought_VBD a_DT trumpet_NN for_IN $_$ 149.16_CD ,_, a_DT music_NN tool_NN for_IN $_$ 9.98_CD ,_, and_CC a_DT song_NN book_NN which_WDT was_VBD $_$ 4.14_CD ._.
+Joan_NNP found_VBD $_$ 8.65_CD in_IN her_PRP$ pocket_NN ._.
+How_WRB much_RB did_VBD Joan_NNP spend_VB at_IN the_DT music_NN store_NN ?_.
+Instance325_NNS ._.
+Melanie_NNP bought_VBD a_DT Batman_NNP game_NN for_IN $_$ 6.95_CD ,_, a_DT strategy_NN game_NN for_IN $_$ 7.90_CD ,_, and_CC a_DT Superman_NNP game_NN for_IN $_$ 7.73_CD ._.
+Melanie_NNP already_RB owns_VBZ 4_CD games_NNS ._.
+How_WRB much_RB did_VBD Melanie_NNP spend_VB on_IN video_NN games_NNS ?_.
+Instance326_NNP ._.
+Keith_NNP spent_VBD $_$ 6.51_CD on_IN a_DT rabbit_NN toy_NN ,_, $_$ 5.79_CD on_IN pet_NN food_NN ,_, and_CC a_DT cage_NN cost_NN him_PRP $_$ 12.51_CD ._.
+He_PRP found_VBD a_DT dollar_NN bill_NN on_IN the_DT ground_NN ._.
+What_WP was_VBD the_DT total_JJ cost_NN of_IN Keith_NNP 's_POS purchases_NNS ?_.
+Instance327_NNP ._.
+Keith_NNP spent_VBD $_$ 136.01_CD on_IN speakers_NNS ,_, $_$ 139.38_CD on_IN a_DT CD_NNP player_NN ,_, and_CC $_$ 112.46_CD on_IN new_JJ tires_NNS ._.
+He_PRP wanted_VBD 3_NNP CD_NNP 's_POS for_IN $_$ 6.16_CD ,_, but_CC did_VBD n't_RB buy_VB them_PRP ._.
+In_IN total_NN ,_, how_WRB much_RB did_VBD he_PRP spend_VB ?_.
+Instance328_JJ ._.
+Joan_NNP bought_VBD toy_NN cars_NNS for_IN $_$ 14.88_CD ,_, a_DT skateboard_NN for_IN $_$ 4.88_CD ,_, and_CC got_VBD toy_NN trucks_NNS for_IN $_$ 5.86_CD ._.
+She_PRP spent_VBD $_$ 14.55_CD on_IN pants_NNS ._.
+In_IN total_NN ,_, how_WRB much_RB did_VBD Joan_NNP spend_VB on_IN toys_NNS ?_.
+Instance329_NNP ._.
+After_IN paying_VBG 6_CD dollars_NNS for_IN the_DT pie_NN ,_, Mary_NNP has_VBZ 52_CD dollars_NNS ,_, her_PRP$ friend_NN has_VBZ 43_CD dollars_NNS ._.
+How_WRB much_JJ money_NN did_VBD she_PRP have_VB before_IN buying_VBG the_DT pie_NN ?_.
+Instance330_JJ ._.
+There_EX were_VBD 46_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN and_CC 32_CD bales_NNS in_IN the_DT shed_VBN ._.
+Tom_NNP stacked_VBD bales_NNS in_IN the_DT barn_NN today_NN ._.
+There_EX are_VBP now_RB 60_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN ._.
+How_WRB many_JJ bales_NNS did_VBD he_PRP store_VB in_IN the_DT barn_NN ?_.
+Instance331_NNP ._.
+Mary_NNP is_VBZ baking_VBG a_DT cake_NN ._.
+The_DT recipe_NN calls_VBZ for_IN 7_CD cups_NNS of_IN flour_NN and_CC 3_CD cups_NNS of_IN sugar_NN ._.
+She_PRP already_RB put_VBD in_IN 2_CD cups_NNS of_IN flour_NN ._.
+How_WRB many_JJ cups_NNS of_IN flour_NN does_VBZ she_PRP need_VB to_TO add_VB ?_.
+Instance332_JJ ._.
+Last_JJ week_NN Fred_NNP had_VBD 23_CD dollars_NNS and_CC Jason_NNP had_VBD 46_CD dollars_NNS ._.
+Fred_NNP washed_VBD cars_NNS over_IN the_DT weekend_NN and_CC now_RB has_VBZ 86_CD dollars_NNS ._.
+How_WRB much_JJ money_NN did_VBD Fred_NNP make_VB washing_VBG cars_NNS ?_.
+Instance333_JJ ._.
+There_EX are_VBP 31_CD short_JJ trees_NNS and_CC 32_CD tall_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB short_JJ trees_NNS today_NN ._.
+When_WRB the_DT workers_NNS are_VBP finished_VBN there_EX will_MD be_VB 95_CD short_JJ trees_NNS in_IN the_DT park_NN ._.
+How_WRB many_JJ short_JJ trees_NNS did_VBD the_DT workers_NNS plant_NN today_NN ?_.
+Instance334_NNP ._.
+There_EX were_VBD 9_CD red_JJ orchids_NNS and_CC 3_CD white_JJ orchids_NNS in_IN the_DT vase_NN ._.
+Sally_NNP cut_VBD some_DT red_JJ orchids_NNS from_IN her_PRP$ flower_NN garden_NN ._.
+There_EX are_VBP now_RB 15_CD red_JJ orchids_NNS in_IN the_DT vase_NN ._.
+How_WRB many_JJ red_JJ orchids_NNS did_VBD she_PRP cut_VB ?_.
+Instance335_NNS ._.
+Sara_NNP had_VBD 24_CD peaches_NNS and_CC 37_CD pears_NNS at_IN her_PRP$ fruit_NN dish_NN ._.
+She_PRP went_VBD to_TO the_DT orchard_NN and_CC picked_VBD peaches_NNS ._.
+There_EX are_VBP now_RB 61_CD peaches_NNS ._.
+how_WRB many_JJ did_VBD she_PRP pick_VB ?_.
+Instance336_NNP ._.
+Joan_NNP found_VBD 72_CD seashells_NNS and_CC 12_CD starfishes_NNS on_IN the_DT beach_NN ._.
+She_PRP gave_VBD Alyssa_NNP some_DT of_IN her_PRP$ seashells_NNS ._.
+She_PRP has_VBZ 28_CD seashell_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD she_PRP give_VB to_TO Alyssa_NNP ?_.
+Instance337_NNP ._.
+There_EX are_VBP 6_CD pencils_NNS and_CC 7_CD rulers_NNS in_IN the_DT drawer_NN ._.
+Benny_NNP placed_VBD 3_CD pencils_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance338_JJ ._.
+Sara_NNP has_VBZ 3_CD green_JJ and_CC 5_CD red_JJ marbles_NNS ._.
+Tom_NNP has_VBZ 4_CD green_JJ marbles_NNS ._.
+How_WRB many_JJ green_JJ marbles_NNS do_VBP they_PRP have_VB in_IN total_NN ?_.
+Instance339_NNP ._.
+Joan_NNP grew_VBD 8_CD watermelons_NNS and_CC 4_CD turnips_NNS ._.
+Tom_NNP grew_VBD 9_CD watermelons_NNS ._.
+How_WRB many_JJ watermelons_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance340_JJ ._.
+There_EX are_VBP 2_CD maple_JJ trees_NNS and_CC 5_CD popular_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 9_CD maple_JJ trees_NNS today_NN ._.
+How_WRB many_JJ maple_JJ trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance341_NNP ._.
+Mary_NNP found_VBD 2_CD seashells_NNS and_CC Keith_NNP found_VBD 5_CD seashells_NNS on_IN the_DT beach_NN ._.
+When_WRB they_PRP cleaned_VBD them_PRP ,_, they_PRP discovered_VBD that_IN 9_CD were_VBD cracked_VBN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance342_JJ ._.
+Mike_NNP picked_VBD 8_CD pears_NNS and_CC Jason_NNP picked_VBD 7_CD pears_NNS from_IN the_DT pear_NN tree_NN ._.
+Fred_NNP picked_VBD 6_CD apples_NNS from_IN the_DT apple_NN tree_NN ._.
+How_WRB many_JJ pears_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance343_JJ ._.
+Tim_NNP had_VBD 7_CD quarters_NNS and_CC 9_CD nickels_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ dad_NN gave_VBD him_PRP 3_CD nickels_NNS and_CC 5_CD pennies_NNS ._.
+How_WRB many_JJ nickels_NNS does_VBZ Tim_NNP have_VB now_RB ?_.
+Instance344_NNP ._.
+A_DT restaurant_NN served_VBD 7_CD slices_NNS of_IN pie_NN during_IN lunch_NN and_CC 5_CD during_IN dinner_NN today_NN ._.
+It_PRP served_VBD 8_CD of_IN them_PRP yesterday_NN ._.
+How_WRB many_JJ slices_NNS of_IN pie_NN were_VBD served_VBN today_NN ?_.
+Instance345_NNS ._.
+Tom_NNP went_VBD to_TO 4_CD hockey_NN games_NNS this_DT year_NN ,_, but_CC missed_VBD 7_CD ._.
+He_PRP went_VBD to_TO 9_CD games_NNS last_JJ year_NN ._.
+How_WRB many_JJ hockey_NN games_NNS did_VBD Tom_NNP go_VB to_TO in_IN all_DT ?_.
+Instance346_NNP ._.
+Sam_NNP 's_POS dog_NN had_VBD puppies_NNS and_CC 8_CD had_VBD spots_NNS ._.
+He_PRP gave_VBD 2_CD to_TO his_PRP$ friends_NNS ._.
+He_PRP now_RB has_VBZ 6_CD puppies_NNS ._.
+How_WRB many_JJ puppies_NNS did_VBD he_PRP have_VB to_TO start_VB with_IN ?_.
+Instance347_NNP ._.
+Mike_NNP picked_VBD 7_CD apples_NNS ,_, Nancy_NNP picked_VBD 3_CD apples_NNS ,_, and_CC Keith_NNP picked_VBD 6_CD apples_NNS and_CC 4_CD pears_NNS ,_, at_IN the_DT farm_NN ._.
+How_WRB many_JJ apples_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance348_JJ ._.
+There_EX are_VBP 7_CD dogwood_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 5_CD dogwood_NN trees_NNS today_NN and_CC 4_CD dogwood_NN trees_NNS tomorrow_NN ._.
+It_PRP took_VBD 8_CD workers_NNS to_TO finish_VB the_DT work_NN ._.
+How_WRB many_JJ dogwood_NN trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance349_NNP ._.
+Dan_NNP 's_POS cat_NN had_VBD kittens_NNS and_CC 5_CD had_VBD spots_NNS ._.
+He_PRP gave_VBD 7_CD to_TO Tim_NNP and_CC 4_CD to_TO Jason_NNP ._.
+He_PRP now_RB has_VBZ 5_CD kittens_NNS ._.
+How_WRB many_JJ kittens_NNS did_VBD he_PRP have_VB to_TO start_VB with_IN ?_.
+Instance350_NNP ._.
+There_EX are_VBP 7_CD crayons_NNS in_IN the_DT drawer_NN and_CC 6_CD crayons_NNS on_IN the_DT desk_NN ._.
+Sam_NNP placed_VBD 4_CD crayons_NNS and_CC 8_CD scissors_NNS on_IN the_DT desk_NN ._.
+How_WRB many_JJ crayons_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance351_NNP ._.
+Sally_NNP had_VBD 8_CD pennies_NNS and_CC 7_CD nickels_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN gave_VBD her_PRP 9_CD nickels_NNS and_CC her_PRP$ mother_NN gave_VBD her_PRP 2_CD nickels_NNS ._.
+How_WRB many_JJ nickels_NNS does_VBZ Sally_NNP have_VB now_RB ?_.
+Instance352_JJ ._.
+Nancy_NNP went_VBD to_TO 9_CD football_NN games_NNS this_DT month_NN ._.
+She_PRP went_VBD to_TO 8_CD games_NNS last_JJ month_NN ,_, and_CC plans_VBZ to_TO go_VB to_TO 7_CD games_NNS next_IN month_NN ._.
+She_PRP paid_VBD 3_CD dollars_NNS for_IN the_DT tickets_NNS ._.
+How_WRB many_JJ games_NNS will_MD she_PRP attend_VB in_IN all_DT ?_.
+Instance353_JJ ._.
+Keith_NNP found_VBD 6_CD seashells_NNS ,_, Jessica_NNP found_VBD 8_CD seashells_NNS ,_, and_CC Tim_NNP found_VBD 7_CD seashells_NNS on_IN the_DT beach_NN ._.
+When_WRB they_PRP cleaned_VBD them_PRP ,_, they_PRP discovered_VBD that_IN 3_CD were_VBD cracked_VBN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance354_NNP ._.
+Nancy_NNP grew_VBD 2_CD onions_NNS ,_, Dan_NNP grew_VBD 9_CD onions_NNS ,_, and_CC Mike_NNP grew_VBD 4_CD onions_NNS ._.
+They_PRP worked_VBD for_IN 6_CD days_NNS on_IN the_DT farm_NN ._.
+How_WRB many_JJ onions_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance355_NNS ._.
+Fred_NNP has_VBZ 5_CD yellow_JJ balloons_NNS ,_, Sam_NNP has_VBZ 6_CD yellow_JJ balloons_NNS ,_, and_CC Mary_NNP has_VBZ 7_CD yellow_JJ balloons_NNS ._.
+The_DT balloons_NNS cost_VBD 5_CD dollars_NNS ._.
+How_WRB many_JJ yellow_JJ balloons_NNS do_VBP they_PRP have_VB in_IN total_NN ?_.
+Instance356_NNP ._.
+A_DT restaurant_NN served_VBD 4_CD pies_NNS during_IN lunch_NN and_CC 9_CD during_IN dinner_NN today_NN ._.
+The_DT restaurant_NN served_VBD 7_CD pies_NNS and_CC 2_CD pizzas_NNS yesterday_NN ._.
+How_WRB many_JJ pies_NNS were_VBD served_VBN in_IN total_NN ?_.
+Instance357_NNP ._.
+Tim_NNP found_VBD 37_CD seashells_NNS and_CC Sally_NNP found_VBD 13_CD seashells_NNS on_IN the_DT beach_NN ._.
+When_WRB they_PRP cleaned_VBD them_PRP ,_, they_PRP discovered_VBD that_IN 25_CD were_VBD cracked_VBN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance358_JJ ._.
+Tom_NNP had_VBD 27_CD pennies_NNS and_CC 15_CD dimes_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ dad_NN gave_VBD him_PRP 33_CD dimes_NNS and_CC 49_CD nickels_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ he_PRP have_VB now_RB ?_.
+Instance359_NNP ._.
+There_EX are_VBP 39_CD scissors_NNS and_CC 22_CD pencils_NNS in_IN the_DT drawer_NN ._.
+Dan_NNP placed_VBD 13_CD scissors_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ scissors_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance360_NNP ._.
+Sam_NNP has_VBZ 16_CD blue_JJ and_CC 25_CD green_JJ balloons_NNS ._.
+Alyssa_NNP has_VBZ 21_CD blue_JJ balloons_NNS ._.
+How_WRB many_JJ blue_JJ balloons_NNS do_VBP they_PRP have_VB in_IN all_DT ?_.
+Instance361_NNP ._.
+There_EX are_VBP 22_CD orchid_JJ bushes_NNS and_CC 40_CD orange_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 13_CD orchid_JJ bushes_NNS today_NN ._.
+How_WRB many_JJ orchid_JJ bushes_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance362_JJ ._.
+Mary_NNP had_VBD 33_CD Pokemon_NNP cards_NNS ,_, and_CC 6_CD were_VBD torn_VBN ._.
+Sam_NNP gave_VBD Mary_NNP 23_CD new_JJ Pokemon_NNP cards_NNS ._.
+How_WRB many_JJ Pokemon_NNP cards_NNS does_VBZ Mary_NNP have_VB now_RB ?_.
+Instance363_JJ ._.
+Mary_NNP picked_VBD 14_CD oranges_NNS and_CC Jason_NNP picked_VBD 41_CD oranges_NNS ._.
+Keith_NNP picked_VBD 38_CD apples_NNS ._.
+How_WRB many_JJ oranges_NNS were_VBD picked_VBN in_IN all_DT ?_.
+Instance364_NNP ._.
+Jason_NNP grew_VBD 37_CD watermelons_NNS and_CC 30_CD pumpkins_NNS ._.
+Sandy_NNP grew_VBD 11_CD watermelons_NNS ._.
+How_WRB many_JJ watermelons_NNS did_VBD they_PRP grow_VB in_IN total_NN ?_.
+Instance365_NNS ._.
+Mike_NNP went_VBD to_TO 15_CD basketball_NN games_NNS this_DT year_NN ,_, but_CC missed_VBD 41_CD ._.
+He_PRP went_VBD to_TO 39_CD games_NNS last_JJ year_NN ._.
+How_WRB many_JJ basketball_NN games_NNS did_VBD Mike_NNP go_VB to_TO in_IN total_NN ?_.
+Instance366_NNP ._.
+Melanie_NNP had_VBD 10_CD quarters_NNS and_CC 17_CD pennies_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN gave_VBD her_PRP 27_CD pennies_NNS and_CC her_PRP$ mother_NN gave_VBD her_PRP 19_CD pennies_NNS ._.
+How_WRB many_JJ pennies_NNS does_VBZ Melanie_NNP have_VB now_RB ?_.
+Instance367_NNP ._.
+Joan_NNP grew_VBD 24_CD pumpkins_NNS ,_, Keith_NNP grew_VBD 42_CD pumpkins_NNS ,_, and_CC Alyssa_NNP grew_VBD 13_CD pumpkins_NNS ._.
+They_PRP worked_VBD for_IN 34_CD days_NNS on_IN the_DT farm_NN ._.
+How_WRB many_JJ pumpkins_NNS did_VBD they_PRP grow_VB in_IN all_DT ?_.
+Instance368_JJ ._.
+Mary_NNP had_VBD 18_CD baseball_NN cards_NNS ,_, and_CC 8_CD were_VBD torn_VBN ._.
+Fred_NNP gave_VBD Mary_NNP 26_CD new_JJ baseball_NN cards_NNS ._.
+Mary_NNP bought_VBD 40_CD baseball_NN cards_NNS ._.
+How_WRB many_JJ baseball_NN cards_NNS does_VBZ Mary_NNP have_VB now_RB ?_.
+Instance369_NNP ._.
+Alyssa_NNP went_VBD to_TO 11_CD soccer_NN games_NNS this_DT year_NN ,_, but_CC missed_VBD 12_CD ._.
+She_PRP went_VBD to_TO 13_CD games_NNS last_JJ year_NN and_CC plans_VBZ to_TO go_VB to_TO 15_CD games_NNS next_IN year_NN ._.
+How_WRB many_JJ soccer_NN games_NNS will_MD Alyssa_NNP go_VB to_TO in_IN all_DT ?_.
+Instance370_NNP ._.
+There_EX are_VBP 48_CD erasers_NNS in_IN the_DT drawer_NN and_CC 30_CD erasers_NNS on_IN the_DT desk_NN ._.
+Alyssa_NNP placed_VBD 39_CD erasers_NNS and_CC 45_CD rulers_NNS on_IN the_DT desk_NN ._.
+How_WRB many_JJ erasers_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance371_NNP ._.
+There_EX are_VBP 47_CD orchid_JJ bushes_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 37_CD orchid_JJ bushes_NNS today_NN and_CC 25_CD orchid_JJ bushes_NNS tomorrow_NN ._.
+It_PRP took_VBD 35_CD workers_NNS to_TO finish_VB the_DT work_NN ._.
+How_WRB many_JJ orchid_JJ bushes_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance372_JJ ._.
+Fred_NNP has_VBZ 10_CD red_JJ balloons_NNS ,_, Sam_NNP has_VBZ 46_CD red_JJ balloons_NNS ,_, and_CC Dan_NNP has_VBZ 16_CD red_JJ balloons_NNS ._.
+The_DT balloons_NNS cost_VBD 10_CD dollars_NNS ._.
+How_WRB many_JJ red_JJ balloons_NNS do_VBP they_PRP have_VB in_IN all_DT ?_.
+Instance373_JJ ._.
+Mary_NNP found_VBD 45_CD seashells_NNS ,_, Melanie_NNP found_VBD 23_CD seashells_NNS ,_, and_CC Jason_NNP found_VBD 32_CD seashells_NNS on_IN the_DT beach_NN ._.
+When_WRB they_PRP cleaned_VBD them_PRP ,_, they_PRP discovered_VBD that_IN 31_CD were_VBD cracked_VBN ._.
+How_WRB many_JJ seashells_NNS did_VBD they_PRP find_VB together_RB ?_.
+Instance374_NNP ._.
+Fred_NNP picked_VBD 36_CD limes_NNS ,_, Alyssa_NNP picked_VBD 32_CD limes_NNS ,_, and_CC Nancy_NNP picked_VBD 35_CD limes_NNS and_CC 18_CD pears_NNS ,_, at_IN the_DT farm_NN ._.
+How_WRB many_JJ limes_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance375_NNS ._.
+Benny_NNP received_VBD 79_CD dollars_NNS and_CC 9_CD movie_NN tickets_NNS for_IN his_PRP$ birthday_NN ._.
+He_PRP went_VBD to_TO a_DT sporting_VBG goods_NNS store_NN and_CC bought_VBD a_DT baseball_NN glove_NN ,_, baseball_NN ,_, and_CC bat_NN ._.
+He_PRP had_VBD 32_CD dollars_NNS over_RB ,_, how_WRB much_RB did_VBD he_PRP spent_VBD on_IN the_DT baseball_NN gear_NN ?_.
+Instance376_NNP ._.
+There_EX are_VBP 43_CD maple_JJ trees_NNS and_CC 22_CD orange_NN trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB maple_JJ trees_NNS today_NN ._.
+When_WRB the_DT workers_NNS are_VBP finished_VBN there_EX will_MD be_VB 54_CD maple_JJ trees_NNS in_IN the_DT park_NN ._.
+How_WRB many_JJ maple_JJ trees_NNS did_VBD the_DT workers_NNS plant_NN today_NN ?_.
+Instance377_NNP ._.
+Dan_NNP had_VBD 14_CD peaches_NNS and_CC 10_CD pears_NNS at_IN his_PRP$ roadside_NN fruit_NN dish_NN ._.
+He_PRP went_VBD to_TO the_DT orchard_NN and_CC picked_VBD peaches_NNS to_TO stock_VB up_RP ._.
+There_EX are_VBP now_RB 85_CD peaches_NNS ._.
+how_WRB many_JJ did_VBD he_PRP pick_VB ?_.
+Instance378_JJ ._.
+Melanie_NNP has_VBZ 41_CD books_NNS and_CC 31_CD magazines_NNS in_IN her_PRP$ library_NN ._.
+She_PRP bought_VBD several_JJ books_NNS at_IN a_DT yard_NN sale_NN over_IN the_DT weekend_NN ._.
+She_PRP now_RB has_VBZ 87_CD books_NNS in_IN her_PRP$ library_NN ._.
+How_WRB many_JJ books_NNS did_VBD she_PRP buy_VB at_IN the_DT yard_NN sale_NN ?_.
+Instance379_NNP ._.
+There_EX were_VBD 2_CD red_JJ orchids_NNS and_CC 4_CD white_JJ orchids_NNS in_IN the_DT vase_NN ._.
+Jessica_NNP cut_VBD some_DT red_JJ orchids_NNS from_IN her_PRP$ flower_NN garden_NN ._.
+There_EX are_VBP now_RB 18_CD red_JJ orchids_NNS in_IN the_DT vase_NN ._.
+How_WRB many_JJ red_JJ orchids_NNS did_VBD she_PRP cut_VB ?_.
+Instance380_JJ ._.
+Last_JJ week_NN Tim_NNP had_VBD 12_CD dollars_NNS and_CC Keith_NNP had_VBD 36_CD dollars_NNS ._.
+Tim_NNP washed_VBD cars_NNS over_IN the_DT weekend_NN and_CC now_RB has_VBZ 75_CD dollars_NNS ._.
+How_WRB much_JJ money_NN did_VBD Tim_NNP make_VB washing_VBG cars_NNS ?_.
+Instance381_NNP ._.
+Joan_NNP found_VBD 75_CD seashells_NNS and_CC 14_CD starfishes_NNS on_IN the_DT beach_NN ._.
+She_PRP gave_VBD Tim_NNP some_DT of_IN her_PRP$ seashells_NNS ._.
+She_PRP has_VBZ 62_CD seashell_NN ._.
+How_WRB many_JJ seashells_NNS did_VBD she_PRP give_VB to_TO Tim_NNP ?_.
+Instance382_JJ ._.
+There_EX were_VBD 32_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN and_CC 26_CD bales_NNS in_IN the_DT shed_VBN ._.
+Jason_NNP stacked_VBD bales_NNS in_IN the_DT barn_NN today_NN ._.
+There_EX are_VBP now_RB 98_CD bales_NNS of_IN hay_NN in_IN the_DT barn_NN ._.
+How_WRB many_JJ bales_NNS did_VBD he_PRP store_VB in_IN the_DT barn_NN ?_.
+Instance383_JJ ._.
+Jessica_NNP is_VBZ baking_VBG a_DT cake_NN ._.
+The_DT recipe_NN calls_VBZ for_IN 8_CD cups_NNS of_IN flour_NN and_CC 2_CD cups_NNS of_IN sugar_NN ._.
+She_PRP already_RB put_VBD in_IN 4_CD cups_NNS of_IN flour_NN ._.
+How_WRB many_JJ cups_NNS of_IN flour_NN does_VBZ she_PRP need_VB to_TO add_VB ?_.
+Instance384_NNP ._.
+Keith_NNP picked_VBD 3_CD pears_NNS and_CC Jason_NNP picked_VBD 2_CD pears_NNS from_IN the_DT pear_NN tree_NN ._.
+Joan_NNP picked_VBD 5_CD apples_NNS from_IN the_DT apple_NN tree_NN ._.
+How_WRB many_JJ pears_NNS were_VBD picked_VBN in_IN total_NN ?_.
+Instance385_NNS ._.
+Sally_NNP has_VBZ 9_CD orange_NN balloons_NNS and_CC 4_CD blue_JJ balloons_NNS ._.
+She_PRP lost_VBD 2_CD of_IN the_DT orange_NN balloons_NNS ._.
+How_WRB many_JJ orange_NN balloons_NNS does_VBZ Sally_NNP have_VB now_RB ?_.
+Instance386_NNP ._.
+Sandy_NNP grew_VBD 8_CD carrots_NNS and_CC 7_CD turnips_NNS ._.
+Mary_NNP grew_VBD 6_CD carrots_NNS ._.
+How_WRB many_JJ carrots_NNS did_VBD they_PRP grow_VB in_IN all_DT ?_.
+Instance387_NNP ._.
+There_EX are_VBP 5_CD scissors_NNS and_CC 3_CD pencils_NNS in_IN the_DT drawer_NN ._.
+Jason_NNP placed_VBD 4_CD scissors_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ scissors_NNS are_VBP now_RB there_RB in_IN total_NN ?_.
+Instance388_JJ ._.
+Alyssa_NNP 's_POS cat_NN had_VBD 8_CD kittens_NNS and_CC 8_CD had_VBD spots_NNS ._.
+She_PRP gave_VBD 4_CD to_TO her_PRP$ friends_NNS ._.
+How_WRB many_JJ kittens_NNS does_VBZ she_PRP now_RB have_VBP ?_.
+Instance389_NNP ._.
+Sam_NNP had_VBD 7_CD pennies_NNS and_CC 8_CD dimes_NNS in_IN his_PRP$ bank_NN ._.
+His_PRP$ sister_NN borrowed_VBD 4_CD dimes_NNS ._.
+How_WRB many_JJ dimes_NNS does_VBZ Sam_NNP have_VB now_RB ?_.
+Instance390_NNP ._.
+A_DT restaurant_NN served_VBD 9_CD hot_JJ dogs_NNS during_IN lunch_NN and_CC 2_CD during_IN dinner_NN today_NN ._.
+It_PRP served_VBD 5_CD of_IN them_PRP yesterday_NN ._.
+How_WRB many_JJ hot_JJ dogs_NNS were_VBD served_VBN today_NN ?_.
+Instance391_NNP ._.
+There_EX are_VBP 3_CD short_JJ trees_NNS and_CC 6_CD tall_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 9_CD short_JJ trees_NNS today_NN ._.
+How_WRB many_JJ short_JJ trees_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
+Instance392_JJ ._.
+Mary_NNP had_VBD 21_CD dimes_NNS and_CC 38_CD pennies_NNS in_IN her_PRP$ bank_NN ._.
+Her_PRP$ dad_NN borrowed_VBD 18_CD pennies_NNS from_IN Mary_NNP ._.
+How_WRB many_JJ pennies_NNS does_VBZ she_PRP have_VB now_RB ?_.
+Instance393_JJ ._.
+Alyssa_NNP picked_VBD 17_CD plums_NNS and_CC Jason_NNP picked_VBD 10_CD plums_NNS ._.
+Melanie_NNP picked_VBD 35_CD pears_NNS ._.
+How_WRB many_JJ plums_NNS were_VBD picked_VBN in_IN all_DT ?_.
+Instance394_NNP ._.
+There_EX are_VBP 48_CD pencils_NNS and_CC 40_CD scissors_NNS in_IN the_DT drawer_NN ._.
+Joan_NNP placed_VBD 29_CD pencils_NNS in_IN the_DT drawer_NN ._.
+How_WRB many_JJ pencils_NNS are_VBP now_RB there_RB in_IN all_DT ?_.
+Instance395_NNS ._.
+There_EX are_VBP 37_CD short_JJ bushes_NNS and_CC 30_CD tall_JJ trees_NNS currently_RB in_IN the_DT park_NN ._.
+Park_NNP workers_NNS will_MD plant_VB 20_CD short_JJ bushes_NNS today_NN ._.
+How_WRB many_JJ short_JJ bushes_NNS will_MD the_DT park_NN have_VBP when_WRB the_DT workers_NNS are_VBP finished_VBN ?_.
